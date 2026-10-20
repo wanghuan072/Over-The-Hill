@@ -1,0 +1,64 @@
+[
+  {
+    "file": "/images/guides/emerald-trails.svg",
+    "description": "Three trails. Two vehicle unlocks.",
+    "inputs": [
+      "/images/maps/atlas/emerald-lake-satellite.webp",
+      "src/data/maps/atlas.json"
+    ],
+    "sha256": "cce0f3ce55e7e31e1d7e5394cc85a89bc2e18fad10e865a288e76989b67b92dd"
+  },
+  {
+    "file": "/images/guides/windy-joe-checkpoints.svg",
+    "description": "Windy Joe Trail / checkpoint order",
+    "inputs": [
+      "/images/maps/atlas/emerald-lake-satellite.webp",
+      "src/data/maps/atlas.json"
+    ],
+    "sha256": "83ff7f87df6a3c76e9e01dd91126fa0d2a47b1451202a895f38d444aa37e4691"
+  },
+  {
+    "file": "/images/guides/hermit-checkpoints.svg",
+    "description": "Hermit Trail / checkpoint order",
+    "inputs": [
+      "/images/maps/atlas/emerald-lake-satellite.webp",
+      "src/data/maps/atlas.json"
+    ],
+    "sha256": "dd289730d1555975d266ecbe82e90e9d020134d8c9bf5c2dab4f5d2395feab52"
+  },
+  {
+    "file": "/images/guides/sasquatch-search-area.svg",
+    "description": "Sasquatch / the northern forest",
+    "inputs": [
+      "/images/maps/atlas/emerald-lake-satellite.webp",
+      "src/data/maps/atlas.json"
+    ],
+    "sha256": "fddf9c8359c4b0552c994e8a18e7a133666b7d4b8e254fb2b7dd0b150dc798e4"
+  },
+  {
+    "file": "/images/guides/upgrade-budget.svg",
+    "description": "Original budget diagram with game upgrade icons",
+    "inputs": [
+      "src/data/wiki/entries.json"
+    ],
+    "sha256": "49b9bcd43bdb45a89b47b2adae8f976bd05c85cbaf4cc340cf2fbcd2b48085d6"
+  },
+  {
+    "file": "/images/guides/meteorite-loadout.svg",
+    "description": "Find it. Set up the pull. Recover it.",
+    "inputs": [
+      "/images/wiki/release/radar.webp",
+      "/images/wiki/release/repair_kit.webp"
+    ],
+    "sha256": "8322a3e57ccf21fd81db71e5d4c6faf6cffd2b6fc85ab82171fca435af5a5795"
+  },
+  {
+    "file": "/images/guides/sasquatch-preparation.svg",
+    "description": "Get the conditions right before searching.",
+    "inputs": [
+      "/images/wiki/release/camping.webp",
+      "/images/wiki/release/bell.webp"
+    ],
+    "sha256": "64751fdcba3128b2141ea89e28d51390c9f99ea09d7cec68e51204b23b932337"
+  }
+]

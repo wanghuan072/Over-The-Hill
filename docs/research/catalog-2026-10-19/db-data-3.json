@@ -1,0 +1,534 @@
+[
+  {
+    "id": "CarCategory_02_Wagon",
+    "category": "Wagon",
+    "mass": 2000.0,
+    "inertiaTensor": {
+      "x": 2000.0,
+      "y": 2200.0,
+      "z": 400.0
+    },
+    "highLowGearsDifferential": {
+      "highGearsGearRatio": 8.0,
+      "lowGearsGearRatio": 20.0,
+      "type": 1
+    },
+    "centerDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "interAxleDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "torqueSplitter": {
+      "preload": 0.0,
+      "stiffness": 0.5
+    },
+    "steering": {
+      "maxSteerAngle": 33.0,
+      "toeAngle": 0.0,
+      "ackerman": 1,
+      "ackermanReference": null,
+      "ratioReference": null,
+      "steeringWheelRange": 900.0
+    },
+    "brakes": {
+      "maxBrakeTorque": 4000.0,
+      "brakeBias": 0.699999988079071,
+      "handbrakeTorque": 4500.0,
+      "handbrakeAxle": 0.0,
+      "combinedRetarderBrake": 0,
+      "fullBrakeThreshold": 0.800000011920929
+    },
+    "clutch": {
+      "type": 2,
+      "maxTorqueTransfer": 300.0,
+      "unlockRpm": 1000.0,
+      "lockRpm": 2000.0,
+      "lockRatioBias": 0.10000000149011612
+    },
+    "gearbox": {
+      "type": 0,
+      "forwardGearRatios": [
+        4.699999809265137,
+        2.5999999046325684
+      ],
+      "reverseGearRatios": [
+        -4.5
+      ],
+      "auto2ndGearMinSpeed": 4.0,
+      "parkRequiresStopAndBrakes": 0,
+      "allowParkInManual": 0,
+      "manualShiftTime": 0.6499999761581421,
+      "autoShift": 1,
+      "autoShiftNeutralRpm": 500.0,
+      "autoShiftFirstGearRpm": 1500.0,
+      "autoShiftDownRevs": 2000.0,
+      "autoShiftUpRevs": 4000.0,
+      "autoShiftThrottleSens": 0,
+      "autoShiftThrottleSensMin": 0.6000000238418579,
+      "autoShiftFullThrottleDownRevs": 3000.0,
+      "autoShiftFullThrottleUpRevs": 4500.0,
+      "autoShiftUpInterval": 1.2999999523162842,
+      "autoShiftDownInterval": 0.4000000059604645,
+      "automaticTransitionTime": 1.0,
+      "automaticShiftInterval": 1.0,
+      "automaticGearDownRevs": 1900.0,
+      "automaticGearUpRevs": 3500.0,
+      "automaticMaxRpm": 5500.0,
+      "automaticThrottleSens": 0,
+      "automaticThrottleSensMin": 0.6000000238418579,
+      "automaticFullThrottleGearDownRevs": 3000.0,
+      "automaticFullThrottleGearUpRevs": 4500.0,
+      "automaticShiftReverseGears": 0,
+      "automaticGearUpRequiresThrottle": 1,
+      "automaticGearUpAboveMaxRpm": 0,
+      "automaticInitialGearForward": 1,
+      "automaticInitialGearReverse": -1
+    },
+    "tireAndSuspensionSetup": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.5,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 34000.0,
+      "damperRate": 4000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 340000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "engineTiers": [
+      "FullSize_EngineTier_1",
+      "FullSize_EngineTier_2",
+      "FullSize_EngineTier_3"
+    ]
+  },
+  {
+    "id": "CarCategory_04_Expedition",
+    "category": "Expedition",
+    "mass": 3200.0,
+    "inertiaTensor": {
+      "x": 2000.0,
+      "y": 2200.0,
+      "z": 400.0
+    },
+    "highLowGearsDifferential": {
+      "highGearsGearRatio": 8.0,
+      "lowGearsGearRatio": 20.0,
+      "type": 1
+    },
+    "centerDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "interAxleDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "torqueSplitter": {
+      "preload": 0.0,
+      "stiffness": 0.5
+    },
+    "steering": {
+      "maxSteerAngle": 28.0,
+      "toeAngle": 0.0,
+      "ackerman": 1,
+      "ackermanReference": null,
+      "ratioReference": null,
+      "steeringWheelRange": 900.0
+    },
+    "brakes": {
+      "maxBrakeTorque": 4000.0,
+      "brakeBias": 0.699999988079071,
+      "handbrakeTorque": 4500.0,
+      "handbrakeAxle": 0.0,
+      "combinedRetarderBrake": 0,
+      "fullBrakeThreshold": 0.800000011920929
+    },
+    "clutch": {
+      "type": 2,
+      "maxTorqueTransfer": 300.0,
+      "unlockRpm": 1000.0,
+      "lockRpm": 2000.0,
+      "lockRatioBias": 0.10000000149011612
+    },
+    "gearbox": {
+      "type": 0,
+      "forwardGearRatios": [
+        5.5,
+        3.5
+      ],
+      "reverseGearRatios": [
+        -4.5
+      ],
+      "auto2ndGearMinSpeed": 4.5,
+      "parkRequiresStopAndBrakes": 0,
+      "allowParkInManual": 0,
+      "manualShiftTime": 0.6499999761581421,
+      "autoShift": 1,
+      "autoShiftNeutralRpm": 500.0,
+      "autoShiftFirstGearRpm": 1500.0,
+      "autoShiftDownRevs": 2000.0,
+      "autoShiftUpRevs": 3900.0,
+      "autoShiftThrottleSens": 0,
+      "autoShiftThrottleSensMin": 0.6000000238418579,
+      "autoShiftFullThrottleDownRevs": 3000.0,
+      "autoShiftFullThrottleUpRevs": 4500.0,
+      "autoShiftUpInterval": 1.2999999523162842,
+      "autoShiftDownInterval": 0.4000000059604645,
+      "automaticTransitionTime": 1.2999999523162842,
+      "automaticShiftInterval": 1.2999999523162842,
+      "automaticGearDownRevs": 1900.0,
+      "automaticGearUpRevs": 3500.0,
+      "automaticMaxRpm": 5500.0,
+      "automaticThrottleSens": 0,
+      "automaticThrottleSensMin": 0.6000000238418579,
+      "automaticFullThrottleGearDownRevs": 3000.0,
+      "automaticFullThrottleGearUpRevs": 4500.0,
+      "automaticShiftReverseGears": 0,
+      "automaticGearUpRequiresThrottle": 1,
+      "automaticGearUpAboveMaxRpm": 0,
+      "automaticInitialGearForward": 1,
+      "automaticInitialGearReverse": -1
+    },
+    "tireAndSuspensionSetup": {
+      "radius": 0.5199999809265137,
+      "inertia": 3.125,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.699999988079071,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 40000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 55.0,
+      "bumpStopRate": 400000.0,
+      "bumpTravelOffset": 0.1599999964237213,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03999999910593033
+    },
+    "engineTiers": [
+      "Mammoth_EngineTier_1",
+      "Mammoth_EngineTier_2",
+      "Mammoth_EngineTier_3"
+    ]
+  },
+  {
+    "id": "CarCategory_03_Workhorse",
+    "category": "Workhorse",
+    "mass": 2800.0,
+    "inertiaTensor": {
+      "x": 2000.0,
+      "y": 2200.0,
+      "z": 400.0
+    },
+    "highLowGearsDifferential": {
+      "highGearsGearRatio": 8.0,
+      "lowGearsGearRatio": 20.0,
+      "type": 1
+    },
+    "centerDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "interAxleDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "torqueSplitter": {
+      "preload": 0.0,
+      "stiffness": 0.5
+    },
+    "steering": {
+      "maxSteerAngle": 28.0,
+      "toeAngle": 0.0,
+      "ackerman": 1,
+      "ackermanReference": null,
+      "ratioReference": null,
+      "steeringWheelRange": 900.0
+    },
+    "brakes": {
+      "maxBrakeTorque": 4000.0,
+      "brakeBias": 0.699999988079071,
+      "handbrakeTorque": 4500.0,
+      "handbrakeAxle": 0.0,
+      "combinedRetarderBrake": 0,
+      "fullBrakeThreshold": 0.800000011920929
+    },
+    "clutch": {
+      "type": 2,
+      "maxTorqueTransfer": 300.0,
+      "unlockRpm": 1000.0,
+      "lockRpm": 2000.0,
+      "lockRatioBias": 0.10000000149011612
+    },
+    "gearbox": {
+      "type": 0,
+      "forwardGearRatios": [
+        4.699999809265137,
+        3.5
+      ],
+      "reverseGearRatios": [
+        -4.5
+      ],
+      "auto2ndGearMinSpeed": 4.5,
+      "parkRequiresStopAndBrakes": 0,
+      "allowParkInManual": 0,
+      "manualShiftTime": 0.6499999761581421,
+      "autoShift": 1,
+      "autoShiftNeutralRpm": 500.0,
+      "autoShiftFirstGearRpm": 1500.0,
+      "autoShiftDownRevs": 2000.0,
+      "autoShiftUpRevs": 4000.0,
+      "autoShiftThrottleSens": 0,
+      "autoShiftThrottleSensMin": 0.6000000238418579,
+      "autoShiftFullThrottleDownRevs": 3000.0,
+      "autoShiftFullThrottleUpRevs": 4500.0,
+      "autoShiftUpInterval": 1.2999999523162842,
+      "autoShiftDownInterval": 0.4000000059604645,
+      "automaticTransitionTime": 1.100000023841858,
+      "automaticShiftInterval": 1.100000023841858,
+      "automaticGearDownRevs": 1900.0,
+      "automaticGearUpRevs": 3500.0,
+      "automaticMaxRpm": 5500.0,
+      "automaticThrottleSens": 0,
+      "automaticThrottleSensMin": 0.6000000238418579,
+      "automaticFullThrottleGearDownRevs": 3000.0,
+      "automaticFullThrottleGearUpRevs": 4500.0,
+      "automaticShiftReverseGears": 0,
+      "automaticGearUpRequiresThrottle": 1,
+      "automaticGearUpAboveMaxRpm": 0,
+      "automaticInitialGearForward": 1,
+      "automaticInitialGearReverse": -1
+    },
+    "tireAndSuspensionSetup": {
+      "radius": 0.47999998927116394,
+      "inertia": 2.700000047683716,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.44999998807907104,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 42000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 47.0,
+      "bumpStopRate": 420000.0,
+      "bumpTravelOffset": 0.15000000596046448,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03500000014901161
+    },
+    "engineTiers": [
+      "WorkTruck_EngineTier_1",
+      "WorkTruck_EngineTier_2",
+      "WorkTruck_EngineTier_3"
+    ]
+  },
+  {
+    "id": "CarCategory_01_Trail",
+    "category": "Trail",
+    "mass": 1600.0,
+    "inertiaTensor": {
+      "x": 2000.0,
+      "y": 2200.0,
+      "z": 400.0
+    },
+    "highLowGearsDifferential": {
+      "highGearsGearRatio": 8.0,
+      "lowGearsGearRatio": 20.0,
+      "type": 1
+    },
+    "centerDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "interAxleDifferential": {
+      "type": 1,
+      "gearRatio": 1.0,
+      "preload": 0.0,
+      "powerStiffness": 0.20000000298023224,
+      "coastStiffness": 0.20000000298023224,
+      "clutchPreload": 50.0,
+      "clutchPackFriction": 0.4000000059604645,
+      "powerAngle": 45.0,
+      "coastAngle": 80.0,
+      "torquePreload": 0.0,
+      "powerRatio": 5.0,
+      "coastRatio": 5.0
+    },
+    "torqueSplitter": {
+      "preload": 0.0,
+      "stiffness": 0.5
+    },
+    "steering": {
+      "maxSteerAngle": 38.0,
+      "toeAngle": 0.0,
+      "ackerman": 1,
+      "ackermanReference": null,
+      "ratioReference": null,
+      "steeringWheelRange": 900.0
+    },
+    "brakes": {
+      "maxBrakeTorque": 4000.0,
+      "brakeBias": 0.699999988079071,
+      "handbrakeTorque": 4500.0,
+      "handbrakeAxle": 0.0,
+      "combinedRetarderBrake": 0,
+      "fullBrakeThreshold": 0.800000011920929
+    },
+    "clutch": {
+      "type": 2,
+      "maxTorqueTransfer": 300.0,
+      "unlockRpm": 1000.0,
+      "lockRpm": 2000.0,
+      "lockRatioBias": 0.10000000149011612
+    },
+    "gearbox": {
+      "type": 0,
+      "forwardGearRatios": [
+        4.199999809265137,
+        2.5
+      ],
+      "reverseGearRatios": [
+        -4.199999809265137
+      ],
+      "auto2ndGearMinSpeed": 4.0,
+      "parkRequiresStopAndBrakes": 0,
+      "allowParkInManual": 0,
+      "manualShiftTime": 0.6000000238418579,
+      "autoShift": 1,
+      "autoShiftNeutralRpm": 500.0,
+      "autoShiftFirstGearRpm": 1500.0,
+      "autoShiftDownRevs": 2000.0,
+      "autoShiftUpRevs": 4000.0,
+      "autoShiftThrottleSens": 0,
+      "autoShiftThrottleSensMin": 0.6000000238418579,
+      "autoShiftFullThrottleDownRevs": 3000.0,
+      "autoShiftFullThrottleUpRevs": 4500.0,
+      "autoShiftUpInterval": 1.2999999523162842,
+      "autoShiftDownInterval": 0.4000000059604645,
+      "automaticTransitionTime": 0.699999988079071,
+      "automaticShiftInterval": 0.699999988079071,
+      "automaticGearDownRevs": 1900.0,
+      "automaticGearUpRevs": 3700.0,
+      "automaticMaxRpm": 5500.0,
+      "automaticThrottleSens": 0,
+      "automaticThrottleSensMin": 0.6000000238418579,
+      "automaticFullThrottleGearDownRevs": 3000.0,
+      "automaticFullThrottleGearUpRevs": 4500.0,
+      "automaticShiftReverseGears": 0,
+      "automaticGearUpRequiresThrottle": 1,
+      "automaticGearUpAboveMaxRpm": 0,
+      "automaticInitialGearForward": 1,
+      "automaticInitialGearReverse": -1
+    },
+    "tireAndSuspensionSetup": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.550000011920929,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "engineTiers": [
+      "SWB_EngineTier_1",
+      "SWB_EngineTier_2",
+      "SWB_EngineTier_3"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "over-the-hill",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "check": "tsc --noEmit && eslint && tsx scripts/audit/content.ts",
+    "test": "tsx --test src/lib/data/catalog.test.ts src/seo/metadata.test.ts src/lib/search/search-content.test.ts scripts/content-dates.test.ts src/seo/tdk.test.ts src/lib/maps/viewport.test.ts src/lib/maps/atlas.test.ts && npm run test:indexnow",
+    "test:e2e": "playwright test",
+    "format": "prettier --write src tests scripts/audit *.ts *.mjs",
+    "content:dates": "tsx scripts/content-dates.ts",
+    "prebuild": "npm run content:dates && npm run indexnow:build",
+    "indexnow:build": "tsx scripts/indexnow/build.ts",
+    "indexnow:check": "node scripts/indexnow/ci.mjs dry-run",
+    "test:indexnow": "node --test scripts/indexnow/core.test.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@tailwindcss/turbopack": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "esbuild": "^0.28.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.0",
+    "prettier": "^3.9.9",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,3102 @@
+[
+  {
+    "id": "achievement-WelcomeToTheWild",
+    "slug": "welcome-to-the-wild",
+    "title": "Welcome to the Wild",
+    "description": "Finish the opening tutorial.",
+    "category": "achievements",
+    "listGroup": "First steps",
+    "hidden": false,
+    "image": "/images/wiki/achievements/WelcomeToTheWild.webp",
+    "imageAlt": "Welcome to the Wild achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Welcome to the Wild",
+        "paragraphs": [
+          "Finish the opening tutorial."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Welcome to the Wild - Over the Hill Achievement",
+      "description": "Finish the opening tutorial."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "First steps"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-FirstAid",
+    "slug": "first-aid",
+    "title": "First Aid",
+    "description": "Finish recovering one vehicle.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": false,
+    "image": "/images/wiki/achievements/FirstAid.webp",
+    "imageAlt": "First Aid achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "First Aid",
+        "paragraphs": [
+          "Finish recovering one vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "First Aid - Over the Hill Achievement",
+      "description": "Finish recovering one vehicle."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-UnderTheStars",
+    "slug": "under-the-stars",
+    "title": "Under the Stars",
+    "description": "Make camp for the first time.",
+    "category": "achievements",
+    "listGroup": "First steps",
+    "hidden": true,
+    "image": "/images/wiki/achievements/UnderTheStars.webp",
+    "imageAlt": "Under the Stars achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Under the Stars",
+        "paragraphs": [
+          "Make camp for the first time."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Under the Stars - Over the Hill Achievement",
+      "description": "Make camp for the first time."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "First steps"
+      },
+      {
+        "label": "Visibility",
+        "value": "Hidden achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-DirtBaptism",
+    "slug": "dirt-baptism",
+    "title": "Dirt Baptism",
+    "description": "Finish one challenge trail.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/DirtBaptism.webp",
+    "imageAlt": "Dirt Baptism achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Dirt Baptism",
+        "paragraphs": [
+          "Finish one challenge trail."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Dirt Baptism - Over the Hill Achievement",
+      "description": "Finish one challenge trail."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-SayCheese",
+    "slug": "say-cheese",
+    "title": "Say Cheese!",
+    "description": "Register your first animal photograph.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/SayCheese.webp",
+    "imageAlt": "Say Cheese! achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Say Cheese!",
+        "paragraphs": [
+          "Register your first animal photograph."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Say Cheese! - Over the Hill Achievement",
+      "description": "Register your first animal photograph."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-NewHorizons",
+    "slug": "new-horizons",
+    "title": "New Horizons",
+    "description": "Discover an exit leading out of an area.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/NewHorizons.webp",
+    "imageAlt": "New Horizons achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "New Horizons",
+        "paragraphs": [
+          "Discover an exit leading out of an area."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "New Horizons - Over the Hill Achievement",
+      "description": "Discover an exit leading out of an area."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-GettingBetter",
+    "slug": "getting-better",
+    "title": "Getting Better",
+    "description": "Buy one vehicle upgrade.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": false,
+    "image": "/images/wiki/achievements/GettingBetter.webp",
+    "imageAlt": "Getting Better achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Getting Better",
+        "paragraphs": [
+          "Buy one vehicle upgrade."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Getting Better - Over the Hill Achievement",
+      "description": "Buy one vehicle upgrade."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-ShinyRock",
+    "slug": "shiny-rock",
+    "title": "Shiny Rock",
+    "description": "Extract a meteorite for the first time.",
+    "category": "achievements",
+    "listGroup": "Pebbles & meteorites",
+    "hidden": false,
+    "image": "/images/wiki/achievements/ShinyRock.webp",
+    "imageAlt": "Shiny Rock achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Shiny Rock",
+        "paragraphs": [
+          "Extract a meteorite for the first time."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles"
+    ],
+    "seo": {
+      "title": "Shiny Rock - Over the Hill Achievement",
+      "description": "Extract a meteorite for the first time."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Pebbles & meteorites"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-Explorer",
+    "slug": "explorer",
+    "title": "Explorer",
+    "description": "Reach 20 points of interest.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/Explorer.webp",
+    "imageAlt": "Explorer achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Explorer",
+        "paragraphs": [
+          "Reach 20 points of interest."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Explorer - Over the Hill Achievement",
+      "description": "Reach 20 points of interest."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-ScenicRoute",
+    "slug": "scenic-route",
+    "title": "Scenic Route",
+    "description": "Visit one scenic lookout.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/ScenicRoute.webp",
+    "imageAlt": "Scenic Route achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Scenic Route",
+        "paragraphs": [
+          "Visit one scenic lookout."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Scenic Route - Over the Hill Achievement",
+      "description": "Visit one scenic lookout."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-OffTheBeatenPath",
+    "slug": "off-the-beaten-path",
+    "title": "Off the Beaten Path",
+    "description": "Cover 50 km away from the road.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/OffTheBeatenPath.webp",
+    "imageAlt": "Off the Beaten Path achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Off the Beaten Path",
+        "paragraphs": [
+          "Cover 50 km away from the road."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Off the Beaten Path - Over the Hill Achievement",
+      "description": "Cover 50 km away from the road."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-ManySmallSteps",
+    "slug": "many-small-steps",
+    "title": "Many Small Steps...",
+    "description": "Reach a total driving distance of 100 km.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/ManySmallSteps.webp",
+    "imageAlt": "Many Small Steps... achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Many Small Steps...",
+        "paragraphs": [
+          "Reach a total driving distance of 100 km."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Many Small Steps... - Over the Hill Achievement",
+      "description": "Reach a total driving distance of 100 km."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-MakeALongJourney",
+    "slug": "make-a-long-journey",
+    "title": "...Make a Long Journey",
+    "description": "Reach a total driving distance of 1,000 km.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/MakeALongJourney.webp",
+    "imageAlt": "...Make a Long Journey achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "...Make a Long Journey",
+        "paragraphs": [
+          "Reach a total driving distance of 1,000 km."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "...Make a Long Journey - Over the Hill Achievement",
+      "description": "Reach a total driving distance of 1,000 km."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-Collector",
+    "slug": "collector",
+    "title": "Collector",
+    "description": "Bring your unlocked vehicle count to six.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": false,
+    "image": "/images/wiki/achievements/Collector.webp",
+    "imageAlt": "Collector achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Collector",
+        "paragraphs": [
+          "Bring your unlocked vehicle count to six."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Collector - Over the Hill Achievement",
+      "description": "Bring your unlocked vehicle count to six."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-FleetOwner",
+    "slug": "fleet-owner",
+    "title": "Fleet Owner",
+    "description": "Bring your unlocked vehicle count to 18.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": false,
+    "image": "/images/wiki/achievements/FleetOwner.webp",
+    "imageAlt": "Fleet Owner achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Fleet Owner",
+        "paragraphs": [
+          "Bring your unlocked vehicle count to 18."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Fleet Owner - Over the Hill Achievement",
+      "description": "Bring your unlocked vehicle count to 18."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-NobodyLeftBehind",
+    "slug": "nobody-left-behind",
+    "title": "Nobody Left Behind",
+    "description": "Tow another vehicle over a distance of 1 km.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": false,
+    "image": "/images/wiki/achievements/NobodyLeftBehind.webp",
+    "imageAlt": "Nobody Left Behind achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Nobody Left Behind",
+        "paragraphs": [
+          "Tow another vehicle over a distance of 1 km."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Nobody Left Behind - Over the Hill Achievement",
+      "description": "Tow another vehicle over a distance of 1 km."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-CloseEncounter",
+    "slug": "close-encounter",
+    "title": "Close Encounter",
+    "description": "Photograph a mammal while less than 10 m from it.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/CloseEncounter.webp",
+    "imageAlt": "Close Encounter achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Close Encounter",
+        "paragraphs": [
+          "Photograph a mammal while less than 10 m from it."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Close Encounter - Over the Hill Achievement",
+      "description": "Photograph a mammal while less than 10 m from it."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-Birdwatcher",
+    "slug": "birdwatcher",
+    "title": "Birdwatcher",
+    "description": "Photograph five or more different bird species.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/Birdwatcher.webp",
+    "imageAlt": "Birdwatcher achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Birdwatcher",
+        "paragraphs": [
+          "Photograph five or more different bird species."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Birdwatcher - Over the Hill Achievement",
+      "description": "Photograph five or more different bird species."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-AHandfulOfPebbles",
+    "slug": "a-handful-of-pebbles",
+    "title": "A Handful of Pebbles",
+    "description": "Reach 100 Pebbles collected.",
+    "category": "achievements",
+    "listGroup": "Pebbles & meteorites",
+    "hidden": false,
+    "image": "/images/wiki/achievements/AHandfulOfPebbles.webp",
+    "imageAlt": "A Handful of Pebbles achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "A Handful of Pebbles",
+        "paragraphs": [
+          "Reach 100 Pebbles collected."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles"
+    ],
+    "seo": {
+      "title": "A Handful of Pebbles - Over the Hill Achievement",
+      "description": "Reach 100 Pebbles collected."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Pebbles & meteorites"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-ASackOfPebbles",
+    "slug": "a-sack-of-pebbles",
+    "title": "A Sack of Pebbles",
+    "description": "Reach 1,000 Pebbles collected.",
+    "category": "achievements",
+    "listGroup": "Pebbles & meteorites",
+    "hidden": false,
+    "image": "/images/wiki/achievements/ASackOfPebbles.webp",
+    "imageAlt": "A Sack of Pebbles achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "A Sack of Pebbles",
+        "paragraphs": [
+          "Reach 1,000 Pebbles collected."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles"
+    ],
+    "seo": {
+      "title": "A Sack of Pebbles - Over the Hill Achievement",
+      "description": "Reach 1,000 Pebbles collected."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Pebbles & meteorites"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-MasterMechanic",
+    "slug": "master-mechanic",
+    "title": "Master Mechanic",
+    "description": "Finish every mechanical upgrade on one vehicle.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": false,
+    "image": "/images/wiki/achievements/MasterMechanic.webp",
+    "imageAlt": "Master Mechanic achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Master Mechanic",
+        "paragraphs": [
+          "Finish every mechanical upgrade on one vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Master Mechanic - Over the Hill Achievement",
+      "description": "Finish every mechanical upgrade on one vehicle."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-AllDressedUp",
+    "slug": "all-dressed-up",
+    "title": "All Dressed Up",
+    "description": "Fit five or more cosmetic items at once.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": false,
+    "image": "/images/wiki/achievements/AllDressedUp.webp",
+    "imageAlt": "All Dressed Up achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "All Dressed Up",
+        "paragraphs": [
+          "Fit five or more cosmetic items at once."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "All Dressed Up - Over the Hill Achievement",
+      "description": "Fit five or more cosmetic items at once."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-BackToTheCabin",
+    "slug": "back-to-the-cabin",
+    "title": "Back to the Cabin",
+    "description": "Fast-travel to a cabin you have already unlocked.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/BackToTheCabin.webp",
+    "imageAlt": "Back to the Cabin achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Back to the Cabin",
+        "paragraphs": [
+          "Fast-travel to a cabin you have already unlocked."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Back to the Cabin - Over the Hill Achievement",
+      "description": "Fast-travel to a cabin you have already unlocked."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-ProblemSolver",
+    "slug": "problem-solver",
+    "title": "Problem Solver",
+    "description": "Complete ten vehicle recoveries.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": false,
+    "image": "/images/wiki/achievements/ProblemSolver.webp",
+    "imageAlt": "Problem Solver achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Problem Solver",
+        "paragraphs": [
+          "Complete ten vehicle recoveries."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Problem Solver - Over the Hill Achievement",
+      "description": "Complete ten vehicle recoveries."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-HandyHelper",
+    "slug": "handy-helper",
+    "title": "Handy Helper",
+    "description": "Use a tool for the first time.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": false,
+    "image": "/images/wiki/achievements/HandyHelper.webp",
+    "imageAlt": "Handy Helper achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Handy Helper",
+        "paragraphs": [
+          "Use a tool for the first time."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Handy Helper - Over the Hill Achievement",
+      "description": "Use a tool for the first time."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-HeldByAThread",
+    "slug": "held-by-a-thread",
+    "title": "Held by a Thread",
+    "description": "Keep the entire vehicle hanging off the ground on its winch for ten seconds.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": true,
+    "image": "/images/wiki/achievements/HeldByAThread.webp",
+    "imageAlt": "Held by a Thread achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Held by a Thread",
+        "paragraphs": [
+          "Keep the entire vehicle hanging off the ground on its winch for ten seconds."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Held by a Thread - Over the Hill Achievement",
+      "description": "Keep the entire vehicle hanging off the ground on its winch for ten seconds."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Hidden achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-GetOutOfMySwamp",
+    "slug": "get-out-of-my-swamp",
+    "title": "Get Out of My Swamp",
+    "description": "Accumulate 20 km of driving on mud.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/GetOutOfMySwamp.webp",
+    "imageAlt": "Get Out of My Swamp achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Get Out of My Swamp",
+        "paragraphs": [
+          "Accumulate 20 km of driving on mud."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Get Out of My Swamp - Over the Hill Achievement",
+      "description": "Accumulate 20 km of driving on mud."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-WetSocks",
+    "slug": "wet-socks",
+    "title": "Wet Socks",
+    "description": "Accumulate 5 km of driving through water.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/WetSocks.webp",
+    "imageAlt": "Wet Socks achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Wet Socks",
+        "paragraphs": [
+          "Accumulate 5 km of driving through water."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Wet Socks - Over the Hill Achievement",
+      "description": "Accumulate 5 km of driving through water."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-Snowcat",
+    "slug": "snowcat",
+    "title": "Snowcat",
+    "description": "Accumulate 20 km of driving on snow.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/Snowcat.webp",
+    "imageAlt": "Snowcat achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Snowcat",
+        "paragraphs": [
+          "Accumulate 20 km of driving on snow."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Snowcat - Over the Hill Achievement",
+      "description": "Accumulate 20 km of driving on snow."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-SandSurfer",
+    "slug": "sand-surfer",
+    "title": "Sand Surfer",
+    "description": "Accumulate 20 km of driving on sand.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/SandSurfer.webp",
+    "imageAlt": "Sand Surfer achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Sand Surfer",
+        "paragraphs": [
+          "Accumulate 20 km of driving on sand."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Sand Surfer - Over the Hill Achievement",
+      "description": "Accumulate 20 km of driving on sand."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-EnjoyTheJourney",
+    "slug": "enjoy-the-journey",
+    "title": "Enjoy the Journey",
+    "description": "Accumulate 20 km with Low Range engaged.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/EnjoyTheJourney.webp",
+    "imageAlt": "Enjoy the Journey achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Enjoy the Journey",
+        "paragraphs": [
+          "Accumulate 20 km with Low Range engaged."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Enjoy the Journey - Over the Hill Achievement",
+      "description": "Accumulate 20 km with Low Range engaged."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-CloseCall",
+    "slug": "close-call",
+    "title": "Close Call",
+    "description": "Use the winch to bring a completely submerged vehicle back out of the water.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": false,
+    "image": "/images/wiki/achievements/CloseCall.webp",
+    "imageAlt": "Close Call achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Close Call",
+        "paragraphs": [
+          "Use the winch to bring a completely submerged vehicle back out of the water."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Close Call - Over the Hill Achievement",
+      "description": "Use the winch to bring a completely submerged vehicle back out of the water."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-ProfessionalDriver",
+    "slug": "professional-driver",
+    "title": "Professional Driver",
+    "description": "Roll your vehicle over.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": true,
+    "image": "/images/wiki/achievements/ProfessionalDriver.webp",
+    "imageAlt": "Professional Driver achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Professional Driver",
+        "paragraphs": [
+          "Roll your vehicle over."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Professional Driver - Over the Hill Achievement",
+      "description": "Roll your vehicle over."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Hidden achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-BackOnTrack",
+    "slug": "back-on-track",
+    "title": "Back on Track",
+    "description": "Get the vehicle back from a rollover.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": false,
+    "image": "/images/wiki/achievements/BackOnTrack.webp",
+    "imageAlt": "Back on Track achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Back on Track",
+        "paragraphs": [
+          "Get the vehicle back from a rollover."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Back on Track - Over the Hill Achievement",
+      "description": "Get the vehicle back from a rollover."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-StarCollector",
+    "slug": "star-collector",
+    "title": "Star Collector",
+    "description": "Recover 20 meteorites.",
+    "category": "achievements",
+    "listGroup": "Pebbles & meteorites",
+    "hidden": false,
+    "image": "/images/wiki/achievements/StarCollector.webp",
+    "imageAlt": "Star Collector achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Star Collector",
+        "paragraphs": [
+          "Recover 20 meteorites."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles"
+    ],
+    "seo": {
+      "title": "Star Collector - Over the Hill Achievement",
+      "description": "Recover 20 meteorites."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Pebbles & meteorites"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-AGiftFromTheStars",
+    "slug": "a-gift-from-the-stars",
+    "title": "A Gift from the Stars",
+    "description": "Collect a meteorite less than five minutes after it lands.",
+    "category": "achievements",
+    "listGroup": "Pebbles & meteorites",
+    "hidden": false,
+    "image": "/images/wiki/achievements/AGiftFromTheStars.webp",
+    "imageAlt": "A Gift from the Stars achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "A Gift from the Stars",
+        "paragraphs": [
+          "Collect a meteorite less than five minutes after it lands."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles"
+    ],
+    "seo": {
+      "title": "A Gift from the Stars - Over the Hill Achievement",
+      "description": "Collect a meteorite less than five minutes after it lands."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Pebbles & meteorites"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-MorningDrive",
+    "slug": "morning-drive",
+    "title": "Morning Drive",
+    "description": "Be there for a sunrise.",
+    "category": "achievements",
+    "listGroup": "World & moments",
+    "hidden": false,
+    "image": "/images/wiki/achievements/MorningDrive.webp",
+    "imageAlt": "Morning Drive achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Morning Drive",
+        "paragraphs": [
+          "Be there for a sunrise."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Morning Drive - Over the Hill Achievement",
+      "description": "Be there for a sunrise."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "World & moments"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-WishUponAStar",
+    "slug": "wish-upon-a-star",
+    "title": "Wish Upon a Star",
+    "description": "See a meteorite falling from the sky.",
+    "category": "achievements",
+    "listGroup": "World & moments",
+    "hidden": false,
+    "image": "/images/wiki/achievements/WishUponAStar.webp",
+    "imageAlt": "Wish Upon a Star achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Wish Upon a Star",
+        "paragraphs": [
+          "See a meteorite falling from the sky."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Wish Upon a Star - Over the Hill Achievement",
+      "description": "See a meteorite falling from the sky."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "World & moments"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-UnderTheWater",
+    "slug": "under-the-water",
+    "title": "Under the Water",
+    "description": "Let the water-resistance gauge fill completely and shut the engine down.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": true,
+    "image": "/images/wiki/achievements/UnderTheWater.webp",
+    "imageAlt": "Under the Water achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Under the Water",
+        "paragraphs": [
+          "Let the water-resistance gauge fill completely and shut the engine down."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Under the Water - Over the Hill Achievement",
+      "description": "Let the water-resistance gauge fill completely and shut the engine down."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Hidden achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-NightWalker",
+    "slug": "night-walker",
+    "title": "Night Walker",
+    "description": "Accumulate 20 km of night driving.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/NightWalker.webp",
+    "imageAlt": "Night Walker achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Night Walker",
+        "paragraphs": [
+          "Accumulate 20 km of night driving."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Night Walker - Over the Hill Achievement",
+      "description": "Accumulate 20 km of night driving."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-Totaled",
+    "slug": "jalopy",
+    "title": "Jalopy",
+    "description": "Damage your vehicle until it is destroyed.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": false,
+    "image": "/images/wiki/achievements/Totaled.webp",
+    "imageAlt": "Jalopy achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Jalopy",
+        "paragraphs": [
+          "Damage your vehicle until it is destroyed."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Jalopy - Over the Hill Achievement",
+      "description": "Damage your vehicle until it is destroyed."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-Odysseus",
+    "slug": "odysseus",
+    "title": "Odysseus",
+    "description": "Drive for one hour while staying away from cabins.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/Odysseus.webp",
+    "imageAlt": "Odysseus achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Odysseus",
+        "paragraphs": [
+          "Drive for one hour while staying away from cabins."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Odysseus - Over the Hill Achievement",
+      "description": "Drive for one hour while staying away from cabins."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-RareEncounter",
+    "slug": "rare-encounter",
+    "title": "Rare Encounter",
+    "description": "Register a photograph of a rare animal.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/RareEncounter.webp",
+    "imageAlt": "Rare Encounter achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Rare Encounter",
+        "paragraphs": [
+          "Register a photograph of a rare animal."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Rare Encounter - Over the Hill Achievement",
+      "description": "Register a photograph of a rare animal."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-TreasureHunter",
+    "slug": "treasure-hunter",
+    "title": "Treasure Hunter",
+    "description": "Open 50 loot crates.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/TreasureHunter.webp",
+    "imageAlt": "Treasure Hunter achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Treasure Hunter",
+        "paragraphs": [
+          "Open 50 loot crates."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Treasure Hunter - Over the Hill Achievement",
+      "description": "Open 50 loot crates."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-NewStyle",
+    "slug": "new-style",
+    "title": "New Style",
+    "description": "Fit a cosmetic item for the first time.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": false,
+    "image": "/images/wiki/achievements/NewStyle.webp",
+    "imageAlt": "New Style achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "New Style",
+        "paragraphs": [
+          "Fit a cosmetic item for the first time."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "New Style - Over the Hill Achievement",
+      "description": "Fit a cosmetic item for the first time."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-StormChaser",
+    "slug": "storm-chaser",
+    "title": "Storm Chaser",
+    "description": "Accumulate 20 km of driving in rain.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/StormChaser.webp",
+    "imageAlt": "Storm Chaser achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Storm Chaser",
+        "paragraphs": [
+          "Accumulate 20 km of driving in rain."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Storm Chaser - Over the Hill Achievement",
+      "description": "Accumulate 20 km of driving in rain."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-Naturalist",
+    "slug": "naturalist",
+    "title": "Naturalist",
+    "description": "Finish the animal Compendium for one region.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/Naturalist.webp",
+    "imageAlt": "Naturalist achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Naturalist",
+        "paragraphs": [
+          "Finish the animal Compendium for one region."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Naturalist - Over the Hill Achievement",
+      "description": "Finish the animal Compendium for one region."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-WildlifeEnthusiast",
+    "slug": "wildlife-enthusiast",
+    "title": "Wildlife Enthusiast",
+    "description": "Register photographs of 20 animals.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/WildlifeEnthusiast.webp",
+    "imageAlt": "Wildlife Enthusiast achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Wildlife Enthusiast",
+        "paragraphs": [
+          "Register photographs of 20 animals."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Wildlife Enthusiast - Over the Hill Achievement",
+      "description": "Register photographs of 20 animals."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-ATaleComeTrue",
+    "slug": "a-tale-come-true",
+    "title": "A Tale Come True",
+    "description": "Register a photograph of a legendary animal.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/ATaleComeTrue.webp",
+    "imageAlt": "A Tale Come True achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "A Tale Come True",
+        "paragraphs": [
+          "Register a photograph of a legendary animal."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "A Tale Come True - Over the Hill Achievement",
+      "description": "Register a photograph of a legendary animal."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-NightWatcher",
+    "slug": "night-watcher",
+    "title": "Night Watcher",
+    "description": "Photograph an animal classified as nocturnal.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/NightWatcher.webp",
+    "imageAlt": "Night Watcher achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Night Watcher",
+        "paragraphs": [
+          "Photograph an animal classified as nocturnal."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Night Watcher - Over the Hill Achievement",
+      "description": "Photograph an animal classified as nocturnal."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-NoisyNeighbor",
+    "slug": "noisy-neighbor",
+    "title": "Noisy Neighbor",
+    "description": "Scare 20 different animals.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/NoisyNeighbor.webp",
+    "imageAlt": "Noisy Neighbor achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Noisy Neighbor",
+        "paragraphs": [
+          "Scare 20 different animals."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Noisy Neighbor - Over the Hill Achievement",
+      "description": "Scare 20 different animals."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-GoldenHour",
+    "slug": "golden-hour",
+    "title": "Golden Hour",
+    "description": "Be there for a sunset.",
+    "category": "achievements",
+    "listGroup": "World & moments",
+    "hidden": false,
+    "image": "/images/wiki/achievements/GoldenHour.webp",
+    "imageAlt": "Golden Hour achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Golden Hour",
+        "paragraphs": [
+          "Be there for a sunset."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Golden Hour - Over the Hill Achievement",
+      "description": "Be there for a sunset."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "World & moments"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-CanadianPassport",
+    "slug": "canadian-passport",
+    "title": "Canadian Passport",
+    "description": "Finish the activities required for Canada’s regional completion.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/CanadianPassport.webp",
+    "imageAlt": "Canadian Passport achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Canadian Passport",
+        "paragraphs": [
+          "Finish the activities required for Canada’s regional completion."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Canadian Passport - Over the Hill Achievement",
+      "description": "Finish the activities required for Canada’s regional completion."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-AlgerianPassport",
+    "slug": "algerian-passport",
+    "title": "Algerian Passport",
+    "description": "Finish the activities required for Algeria’s regional completion.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/AlgerianPassport.webp",
+    "imageAlt": "Algerian Passport achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Algerian Passport",
+        "paragraphs": [
+          "Finish the activities required for Algeria’s regional completion."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Algerian Passport - Over the Hill Achievement",
+      "description": "Finish the activities required for Algeria’s regional completion."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-MakingMemories",
+    "slug": "making-memories",
+    "title": "Making Memories",
+    "description": "Take 20 photographs.",
+    "category": "achievements",
+    "listGroup": "Wildlife & photography",
+    "hidden": false,
+    "image": "/images/wiki/achievements/MakingMemories.webp",
+    "imageAlt": "Making Memories achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Making Memories",
+        "paragraphs": [
+          "Take 20 photographs."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Making Memories - Over the Hill Achievement",
+      "description": "Take 20 photographs."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Wildlife & photography"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-SoundtrackToTheJourney",
+    "slug": "soundtrack-to-the-journey",
+    "title": "Soundtrack to the Journey",
+    "description": "Drive 10 km with the music playing continuously.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/SoundtrackToTheJourney.webp",
+    "imageAlt": "Soundtrack to the Journey achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Soundtrack to the Journey",
+        "paragraphs": [
+          "Drive 10 km with the music playing continuously."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Soundtrack to the Journey - Over the Hill Achievement",
+      "description": "Drive 10 km with the music playing continuously."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-TheTwelveLabours",
+    "slug": "the-twelve-labours",
+    "title": "The Twelve Labours",
+    "description": "Finish 12 challenge trails.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/TheTwelveLabours.webp",
+    "imageAlt": "The Twelve Labours achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Twelve Labours",
+        "paragraphs": [
+          "Finish 12 challenge trails."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "The Twelve Labours - Over the Hill Achievement",
+      "description": "Finish 12 challenge trails."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-TakingFlight",
+    "slug": "taking-flight",
+    "title": "Taking Flight",
+    "description": "Get your vehicle airborne in a jump.",
+    "category": "achievements",
+    "listGroup": "Recovery & driving",
+    "hidden": true,
+    "image": "/images/wiki/achievements/TakingFlight.webp",
+    "imageAlt": "Taking Flight achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Taking Flight",
+        "paragraphs": [
+          "Get your vehicle airborne in a jump."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Taking Flight - Over the Hill Achievement",
+      "description": "Get your vehicle airborne in a jump."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Recovery & driving"
+      },
+      {
+        "label": "Visibility",
+        "value": "Hidden achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-SmoothRide",
+    "slug": "smooth-ride",
+    "title": "Smooth Ride",
+    "description": "Finish a challenge trail without damaging the vehicle.",
+    "category": "achievements",
+    "listGroup": "Trails & exploration",
+    "hidden": false,
+    "image": "/images/wiki/achievements/SmoothRide.webp",
+    "imageAlt": "Smooth Ride achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Smooth Ride",
+        "paragraphs": [
+          "Finish a challenge trail without damaging the vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Smooth Ride - Over the Hill Achievement",
+      "description": "Finish a challenge trail without damaging the vehicle."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Trails & exploration"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-LawOfTheLand",
+    "slug": "law-of-the-land",
+    "title": "Law of the Land",
+    "description": "Use blue paint together with either Red & Blue Beacons or a Red & Blue Beacon Bar.",
+    "category": "achievements",
+    "listGroup": "Garage & equipment",
+    "hidden": true,
+    "image": "/images/wiki/achievements/LawOfTheLand.webp",
+    "imageAlt": "Law of the Land achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Law of the Land",
+        "paragraphs": [
+          "Use blue paint together with either Red & Blue Beacons or a Red & Blue Beacon Bar."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Law of the Land - Over the Hill Achievement",
+      "description": "Use blue paint together with either Red & Blue Beacons or a Red & Blue Beacon Bar."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Garage & equipment"
+      },
+      {
+        "label": "Visibility",
+        "value": "Hidden achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-AMountainOfPebbles",
+    "slug": "a-mountain-of-pebbles",
+    "title": "A Mountain of Pebbles",
+    "description": "Reach 2,000 Pebbles collected.",
+    "category": "achievements",
+    "listGroup": "Pebbles & meteorites",
+    "hidden": false,
+    "image": "/images/wiki/achievements/AMountainOfPebbles.webp",
+    "imageAlt": "A Mountain of Pebbles achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "A Mountain of Pebbles",
+        "paragraphs": [
+          "Reach 2,000 Pebbles collected."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles"
+    ],
+    "seo": {
+      "title": "A Mountain of Pebbles - Over the Hill Achievement",
+      "description": "Reach 2,000 Pebbles collected."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Pebbles & meteorites"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  },
+  {
+    "id": "achievement-SoundOfTheNature",
+    "slug": "sound-of-nature",
+    "title": "Sound of Nature",
+    "description": "Drive 10 km with no music playing.",
+    "category": "achievements",
+    "listGroup": "Distance & conditions",
+    "hidden": false,
+    "image": "/images/wiki/achievements/SoundOfTheNature.webp",
+    "imageAlt": "Sound of Nature achievement artwork",
+    "imageKind": "game-icon",
+    "imageLabel": "Achievement artwork",
+    "sourceUrl": "https://www.maprunner.info/overthehill/achievements",
+    "sourceIds": [
+      "maprunner-achievements",
+      "steam"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Sound of Nature",
+        "paragraphs": [
+          "Drive 10 km with no music playing."
+        ]
+      }
+    ],
+    "related": [
+      "/maps"
+    ],
+    "seo": {
+      "title": "Sound of Nature - Over the Hill Achievement",
+      "description": "Drive 10 km with no music playing."
+    },
+    "displayFacts": [
+      {
+        "label": "Category",
+        "value": "Distance & conditions"
+      },
+      {
+        "label": "Visibility",
+        "value": "Standard achievement"
+      }
+    ],
+    "playerNotes": []
+  }
+]

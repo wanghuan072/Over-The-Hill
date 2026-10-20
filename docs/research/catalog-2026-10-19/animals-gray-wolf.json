@@ -1,0 +1,1045 @@
+{
+  "oth-levels-en": [
+    {
+      "key": "R1A1_Valley",
+      "route": "overthehill-levels-R1A1_Valley",
+      "label": "Emerald Lake",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a1_valley.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A1_Valley/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A1_Valley/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 282
+    },
+    {
+      "key": "R1A2_Wetlands",
+      "route": "overthehill-levels-R1A2_Wetlands",
+      "label": "Gimli Ridge",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a2_wetlands.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A2_Wetlands/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A2_Wetlands/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 314
+    },
+    {
+      "key": "R1A3_Ridge",
+      "route": "overthehill-levels-R1A3_Ridge",
+      "label": "Asgard Mountain",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a3_ridge.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A3_Ridge/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A3_Ridge/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 320
+    },
+    {
+      "key": "R2A1_Desert",
+      "route": "overthehill-levels-R2A1_Desert",
+      "label": "Tassili n'Ajjer Desert",
+      "region": "Algeria",
+      "regionKey": "oth/regions/algeria/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r2a1_desert.webp",
+      "regionPoster": "posters/r2_algeria.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R2A1_Desert/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R2A1_Desert/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 259
+    },
+    {
+      "key": "R2A2_Canyon",
+      "route": "overthehill-levels-R2A2_Canyon",
+      "label": "Aurès Mountains",
+      "region": "Algeria",
+      "regionKey": "oth/regions/algeria/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r2a2_canyon.webp",
+      "regionPoster": "posters/r2_algeria.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R2A2_Canyon/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R2A2_Canyon/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 361
+    }
+  ],
+  "$f4GGu1Nvjh7Rgc44HOQt21U5GkQP7JeajEx2GjRUFJpg": {
+    "key": "GrayWolf",
+    "itemId": 3000190931,
+    "name": "Gray Wolf",
+    "description": "",
+    "image": "animals/GrayWolf.webp",
+    "icon": "icons/animals/GrayWolf.webp",
+    "areas": [
+      "R1A1_Valley",
+      "R1A3_Ridge"
+    ],
+    "sightings": {
+      "R1A1_Valley": 6,
+      "R1A3_Ridge": 7
+    },
+    "class": {
+      "value": 0,
+      "key": "mammal",
+      "label": "Mammal"
+    },
+    "rarity": {
+      "value": 1,
+      "key": "uncommon",
+      "label": "Uncommon"
+    },
+    "habitat": [
+      {
+        "value": 1,
+        "key": "forest",
+        "label": "Forest"
+      }
+    ],
+    "weather": [
+      {
+        "value": 1,
+        "key": "dry",
+        "label": "Dry"
+      },
+      {
+        "value": 2,
+        "key": "wet",
+        "label": "Wet"
+      }
+    ],
+    "weatherFinds": [
+      {
+        "label": "Dry",
+        "items": [
+          "Clear",
+          "Mostly Clear",
+          "Cirrus Clouds",
+          "Contrails",
+          "Particle Based Clouds",
+          "Partly Cloudy",
+          "Mixed Clouds",
+          "Mostly Cloudy",
+          "Overcast",
+          "Dense Clouds",
+          "Distant Storm",
+          "Approaching Storm",
+          "Imminent Storm",
+          "Storm Eye"
+        ]
+      },
+      {
+        "label": "Wet",
+        "items": [
+          "Dense Fog",
+          "Light Precipitation",
+          "Heavy Precipitation",
+          "Receding Storm"
+        ]
+      }
+    ],
+    "timeOfDay": [
+      {
+        "value": 2,
+        "key": "night",
+        "label": "Night"
+      }
+    ],
+    "rewards": [
+      {
+        "key": "Money",
+        "name": "Pebbles",
+        "count": 20,
+        "hidden": false,
+        "progress": null,
+        "icon": "icons/tools/Pebble.webp",
+        "image": null,
+        "type": "Money",
+        "description": ""
+      }
+    ],
+    "slug": "gray-wolf",
+    "stats": [
+      {
+        "field": "AlertStateTrigger",
+        "value": 15
+      },
+      {
+        "field": "HonkAlertStateTrigger",
+        "value": 30
+      },
+      {
+        "field": "AlertDuration",
+        "value": 0.5
+      },
+      {
+        "field": "EscapeStateRange",
+        "value": 40
+      },
+      {
+        "field": "EscapeStateDeactivationTrigger",
+        "value": 30
+      },
+      {
+        "field": "UnawareRoamingRange",
+        "value": 20
+      },
+      {
+        "field": "WaitTimeRange",
+        "value": {
+          "x": 2,
+          "y": 5
+        }
+      }
+    ]
+  },
+  "oth-animals-en": [
+    {
+      "key": "BaldEagle",
+      "itemId": 2330246028,
+      "slug": "bald-eagle",
+      "name": "Bald Eagle",
+      "image": "animals/BaldEagle.webp",
+      "icon": "icons/animals/BaldEagle.webp",
+      "areas": [
+        "R1A2_Wetlands",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A2_Wetlands": 7,
+        "R1A3_Ridge": 8
+      },
+      "class": {
+        "key": "bird",
+        "label": "Bird"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "lake",
+        "cliff"
+      ]
+    },
+    {
+      "key": "BarbarySheepAoudad",
+      "itemId": 3021150937,
+      "slug": "barbary-sheep-aoudad",
+      "name": "Barbary Sheep (Aoudad)",
+      "image": "animals/BarbarySheepAoudad.webp",
+      "icon": "icons/animals/BarbarySheepAoudad.webp",
+      "areas": [
+        "R2A1_Desert",
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A1_Desert": 35,
+        "R2A2_Canyon": 24
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "mountain",
+        "rocks"
+      ]
+    },
+    {
+      "key": "Beaver",
+      "itemId": 2419144249,
+      "slug": "beaver",
+      "name": "Beaver",
+      "image": "animals/Beaver.webp",
+      "icon": "icons/animals/Beaver.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A2_Wetlands",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A1_Valley": 11,
+        "R1A2_Wetlands": 14,
+        "R1A3_Ridge": 12
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "river"
+      ]
+    },
+    {
+      "key": "BighornSheepMale",
+      "itemId": 1725686174,
+      "slug": "bighorn-sheep",
+      "name": "Bighorn Sheep",
+      "image": "animals/BighornSheepMale.webp",
+      "icon": "icons/animals/BighornSheepMale.webp",
+      "areas": [
+        "R1A2_Wetlands",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A2_Wetlands": 14,
+        "R1A3_Ridge": 29
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "forest",
+        "mountain"
+      ]
+    },
+    {
+      "key": "BlackBear",
+      "itemId": 2542451225,
+      "slug": "black-bear",
+      "name": "Black Bear",
+      "image": "animals/BlackBear.webp",
+      "icon": "icons/animals/BlackBear.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A2_Wetlands"
+      ],
+      "sightings": {
+        "R1A1_Valley": 3,
+        "R1A2_Wetlands": 3
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "rare",
+        "label": "Rare"
+      },
+      "habitat": [
+        "forest"
+      ]
+    },
+    {
+      "key": "CanadaGoose",
+      "itemId": 2415360431,
+      "slug": "canada-goose",
+      "name": "Canada Goose",
+      "image": "animals/CanadaGoose.webp",
+      "icon": "icons/animals/CanadaGoose.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A2_Wetlands"
+      ],
+      "sightings": {
+        "R1A1_Valley": 14,
+        "R1A2_Wetlands": 16
+      },
+      "class": {
+        "key": "bird",
+        "label": "Bird"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "wetlands",
+        "lake"
+      ]
+    },
+    {
+      "key": "CommonRaven",
+      "itemId": 2225123386,
+      "slug": "common-raven",
+      "name": "Common Raven",
+      "image": "animals/CommonRaven.webp",
+      "icon": "icons/animals/CommonRaven.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A2_Wetlands",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A1_Valley": 21,
+        "R1A2_Wetlands": 30,
+        "R1A3_Ridge": 29
+      },
+      "class": {
+        "key": "bird",
+        "label": "Bird"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "forest",
+        "mountain"
+      ]
+    },
+    {
+      "key": "Coyote",
+      "itemId": 2048460572,
+      "slug": "coyote",
+      "name": "Coyote",
+      "image": "animals/Coyote.webp",
+      "icon": "icons/animals/Coyote.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A2_Wetlands"
+      ],
+      "sightings": {
+        "R1A1_Valley": 4,
+        "R1A2_Wetlands": 6
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "forest",
+        "clearing"
+      ]
+    },
+    {
+      "key": "Desert SparrowInfo",
+      "itemId": 1925770050,
+      "slug": "desert-sparrow",
+      "name": "Desert Sparrow",
+      "image": "animals/Desert SparrowInfo.webp",
+      "icon": "icons/animals/Desert SparrowInfo.webp",
+      "areas": [
+        "R2A1_Desert",
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A1_Desert": 33,
+        "R2A2_Canyon": 40
+      },
+      "class": {
+        "key": "bird",
+        "label": "Bird"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "oasis",
+        "sand"
+      ]
+    },
+    {
+      "key": "DorcasGazelle",
+      "itemId": 2477274988,
+      "slug": "dorcas-gazelle",
+      "name": "Dorcas Gazelle",
+      "image": "animals/DorcasGazelle.webp",
+      "icon": "icons/animals/DorcasGazelle.webp",
+      "areas": [
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A2_Canyon": 24
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "river",
+        "oasis",
+        "sand"
+      ]
+    },
+    {
+      "key": "DromedaryCamel",
+      "itemId": 2361259004,
+      "slug": "dromedary-camel",
+      "name": "Dromedary Camel",
+      "image": "animals/DromedaryCamel.webp",
+      "icon": "icons/animals/DromedaryCamel.webp",
+      "areas": [
+        "R2A1_Desert"
+      ],
+      "sightings": {
+        "R2A1_Desert": 9
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "oasis",
+        "sand"
+      ]
+    },
+    {
+      "key": "EgyptianVulture",
+      "itemId": 2014276128,
+      "slug": "egyptian-vulture",
+      "name": "Egyptian Vulture",
+      "image": "animals/EgyptianVulture.webp",
+      "icon": "icons/animals/EgyptianVulture.webp",
+      "areas": [
+        "R2A1_Desert",
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A1_Desert": 3,
+        "R2A2_Canyon": 3
+      },
+      "class": {
+        "key": "bird",
+        "label": "Bird"
+      },
+      "rarity": {
+        "key": "rare",
+        "label": "Rare"
+      },
+      "habitat": [
+        "cliff",
+        "sand"
+      ]
+    },
+    {
+      "key": "Elk",
+      "itemId": 2572388347,
+      "slug": "elk",
+      "name": "Elk",
+      "image": "animals/Elk.webp",
+      "icon": "icons/animals/Elk.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A1_Valley": 17,
+        "R1A3_Ridge": 15
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "forest",
+        "mountain"
+      ]
+    },
+    {
+      "key": "Fennec FoxI",
+      "itemId": 1850872898,
+      "slug": "fennec-fox",
+      "name": "Fennec Fox",
+      "image": "animals/Fennec FoxI.webp",
+      "icon": "icons/animals/Fennec FoxI.webp",
+      "areas": [
+        "R2A1_Desert"
+      ],
+      "sightings": {
+        "R2A1_Desert": 7
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "river",
+        "sand"
+      ]
+    },
+    {
+      "key": "Flamingo",
+      "itemId": 2152802977,
+      "slug": "flamingo",
+      "name": "Flamingo",
+      "image": "animals/Flamingo.webp",
+      "icon": "icons/animals/Flamingo.webp",
+      "areas": [
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A2_Canyon": 16
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "oasis"
+      ]
+    },
+    {
+      "key": "GrayWolf",
+      "itemId": 3000190931,
+      "slug": "gray-wolf",
+      "name": "Gray Wolf",
+      "image": "animals/GrayWolf.webp",
+      "icon": "icons/animals/GrayWolf.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A1_Valley": 6,
+        "R1A3_Ridge": 7
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "forest"
+      ]
+    },
+    {
+      "key": "GrizzlyBear",
+      "itemId": 2229541244,
+      "slug": "grizzly-bear",
+      "name": "Grizzly Bear",
+      "image": "animals/GrizzlyBear.webp",
+      "icon": "icons/animals/GrizzlyBear.webp",
+      "areas": [
+        "R1A2_Wetlands",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A2_Wetlands": 3
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "rare",
+        "label": "Rare"
+      },
+      "habitat": [
+        "remote_forest",
+        "river",
+        "lake"
+      ]
+    },
+    {
+      "key": "Jackal",
+      "itemId": 2183602026,
+      "slug": "jackal",
+      "name": "Jackal",
+      "image": "animals/Jackal.webp",
+      "icon": "icons/animals/Jackal.webp",
+      "areas": [
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A2_Canyon": 10
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "clearing",
+        "sand"
+      ]
+    },
+    {
+      "key": "KokaneeSalmon",
+      "itemId": 2561404324,
+      "slug": "kokanee-salmon",
+      "name": "Kokanee Salmon",
+      "image": "animals/KokaneeSalmon.webp",
+      "icon": "icons/animals/KokaneeSalmon.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A1_Valley": 43,
+        "R1A3_Ridge": 25
+      },
+      "class": {
+        "key": "fish",
+        "label": "Fish"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "river",
+        "lake"
+      ]
+    },
+    {
+      "key": "LannerFalcon",
+      "itemId": 2341432011,
+      "slug": "lanner-falcon",
+      "name": "Lanner Falcon",
+      "image": "animals/LannerFalcon.webp",
+      "icon": "icons/animals/LannerFalcon.webp",
+      "areas": [
+        "R2A1_Desert",
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A1_Desert": 9,
+        "R2A2_Canyon": 10
+      },
+      "class": {
+        "key": "bird",
+        "label": "Bird"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "mountain",
+        "cliff"
+      ]
+    },
+    {
+      "key": "Moose",
+      "itemId": 2180040503,
+      "slug": "moose",
+      "name": "Moose",
+      "image": "animals/Moose.webp",
+      "icon": "icons/animals/Moose.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A2_Wetlands"
+      ],
+      "sightings": {
+        "R1A1_Valley": 4,
+        "R1A2_Wetlands": 6
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "uncommon",
+        "label": "Uncommon"
+      },
+      "habitat": [
+        "forest",
+        "wetlands"
+      ]
+    },
+    {
+      "key": "MountainGoat",
+      "itemId": 2624703975,
+      "slug": "mountain-goat",
+      "name": "Mountain Goat",
+      "image": "animals/MountainGoat.webp",
+      "icon": "icons/animals/MountainGoat.webp",
+      "areas": [
+        "R1A2_Wetlands",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A2_Wetlands": 35,
+        "R1A3_Ridge": 30
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "mountain"
+      ]
+    },
+    {
+      "key": "MuleDeerMale",
+      "itemId": 1951397390,
+      "slug": "mule-deer",
+      "name": "Mule Deer",
+      "image": "animals/MuleDeerMale.webp",
+      "icon": "icons/animals/MuleDeerMale.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A2_Wetlands"
+      ],
+      "sightings": {
+        "R1A1_Valley": 27,
+        "R1A2_Wetlands": 35
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "forest",
+        "clearing"
+      ]
+    },
+    {
+      "key": "RedFoxInfo",
+      "itemId": 2005722174,
+      "slug": "red-fox",
+      "name": "Red Fox",
+      "image": "animals/RedFoxInfo.webp",
+      "icon": "icons/animals/RedFoxInfo.webp",
+      "areas": [
+        "R1A1_Valley",
+        "R1A3_Ridge"
+      ],
+      "sightings": {
+        "R1A1_Valley": 15,
+        "R1A3_Ridge": 11
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "common",
+        "label": "Common"
+      },
+      "habitat": [
+        "forest",
+        "clearing"
+      ]
+    },
+    {
+      "key": "SaharanCheetah",
+      "itemId": 2783000462,
+      "slug": "saharan-cheetah",
+      "name": "Saharan Cheetah",
+      "image": "animals/SaharanCheetah.webp",
+      "icon": "icons/animals/SaharanCheetah.webp",
+      "areas": [
+        "R2A1_Desert"
+      ],
+      "sightings": {
+        "R2A1_Desert": 1
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "very_rare",
+        "label": "Legendary"
+      },
+      "habitat": [
+        "sand"
+      ]
+    },
+    {
+      "key": "Sasquatch",
+      "itemId": 2289752720,
+      "slug": "sasquatch",
+      "name": "Sasquatch",
+      "image": "animals/Sasquatch.webp",
+      "icon": "icons/animals/Sasquatch.webp",
+      "areas": [
+        "R1A1_Valley"
+      ],
+      "sightings": {
+        "R1A1_Valley": 1
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "very_rare",
+        "label": "Legendary"
+      },
+      "habitat": [
+        "remote_forest"
+      ]
+    },
+    {
+      "key": "StripedHyenaInfo",
+      "itemId": 2128302049,
+      "slug": "striped-hyena",
+      "name": "Striped Hyena",
+      "image": "animals/StripedHyenaInfo.webp",
+      "icon": "icons/animals/StripedHyenaInfo.webp",
+      "areas": [
+        "R2A1_Desert",
+        "R2A2_Canyon"
+      ],
+      "sightings": {
+        "R2A1_Desert": 3,
+        "R2A2_Canyon": 2
+      },
+      "class": {
+        "key": "mammal",
+        "label": "Mammal"
+      },
+      "rarity": {
+        "key": "rare",
+        "label": "Rare"
+      },
+      "habitat": [
+        "rocks",
+        "grassland"
+      ]
+    }
+  ]
+}

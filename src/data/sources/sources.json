@@ -1,0 +1,616 @@
+[
+  {
+    "id": "steam",
+    "title": "Steam game description and system requirements",
+    "url": "https://store.steampowered.com/app/2929250/over_the_hill/",
+    "publisher": "Funselektor / Steam",
+    "scope": "Live store listing",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "site",
+    "title": "Official Over the Hill overview",
+    "url": "https://www.funselektor.com/overthehill",
+    "publisher": "Funselektor",
+    "scope": "Public feature overview",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "faq",
+    "title": "Developer FAQ (updated September 17, 2026)",
+    "url": "https://steamcommunity.com/app/2929250/discussions/0/554627937323741779/",
+    "publisher": "Funselektor",
+    "scope": "Pre-release plans; not a release-build test",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "demo",
+    "title": "Next Fest announcement and developer recovery replies",
+    "url": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "publisher": "Funselektor community team",
+    "scope": "June 2026 Windows Demo",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "ama",
+    "title": "Developer AMA — June 18, 2026",
+    "url": "https://www.reddit.com/r/pcgaming/comments/1u9aa48/we_are_the_developers_of_over_the_hill_ask_us/",
+    "publisher": "Funselektor / Strelka developers",
+    "scope": "Demo mechanics and development intentions",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "meteor",
+    "title": "Developer instructions: meteorite extraction",
+    "url": "https://steamcommunity.com/app/2929250/discussions/1/573794228177520661/",
+    "publisher": "Funselektor community team",
+    "scope": "June 19, 2026 Demo reply",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "camp",
+    "title": "Developer reply: cabin travel and camp tool",
+    "url": "https://steamcommunity.com/app/2929250/discussions/1/573794228177518436/",
+    "publisher": "Funselektor community team",
+    "scope": "June 15, 2026 Demo reply",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "camp-cancel",
+    "title": "Developer reply: ending camping early",
+    "url": "https://steamcommunity.com/app/2929250/discussions/0/586182909485939759/",
+    "publisher": "Funselektor",
+    "scope": "August 11, 2026 development build",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "save",
+    "title": "Developer reply: autosave, logs and reset world progress",
+    "url": "https://steamcommunity.com/app/2929250/eventcomments/571540589652403065/?ctp=2",
+    "publisher": "Funselektor community team",
+    "scope": "June 13, 2026 Windows Demo",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "archive",
+    "title": "Official development news archive",
+    "url": "https://steamcommunity.com/app/2929250/allnews/?l=english",
+    "publisher": "Funselektor",
+    "scope": "June–August 2026; dated historical announcements",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "canada",
+    "title": "Dune Casu: the wilderness of Over the Hill",
+    "url": "https://news.xbox.com/en-us/2026/01/23/the-wilderness-of-over-the-hill-on-xbox-series-xs/",
+    "publisher": "Dune Casu / Xbox Wire",
+    "scope": "January 2026 preview; area names are working titles",
+    "checkedAt": "2026-10-10"
+  },
+  {
+    "id": "ign-demo",
+    "title": "Over the Hill — 18 Minutes of New Gameplay",
+    "url": "https://www.youtube.com/watch?v=YBfx4K1K3Zs",
+    "publisher": "IGN",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-06-18",
+    "durationSeconds": 1109
+  },
+  {
+    "id": "camodo-roster",
+    "title": "I Unlocked a NEW Truck By OFFROADING in Over The Hill!",
+    "url": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "publisher": "Camodo Gaming",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-06-13",
+    "durationSeconds": 1665
+  },
+  {
+    "id": "camodo-upgrades",
+    "title": "I Upgraded My NEW Truck for the Hardest Trails in Over The Hill!",
+    "url": "https://www.youtube.com/watch?v=DHBIHrgEC68",
+    "publisher": "Camodo Gaming",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-06-14",
+    "durationSeconds": 1655
+  },
+  {
+    "id": "overtake-demo",
+    "title": "Over the Hill Demo Hands-on",
+    "url": "https://www.youtube.com/watch?v=EgdNIgAEILo",
+    "publisher": "OverTake_gg",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-06-12",
+    "durationSeconds": 802
+  },
+  {
+    "id": "video-classes",
+    "title": "Four categories, each one with its purpose",
+    "url": "https://www.youtube.com/watch?v=VYUjy2dA66A",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-06-24",
+    "durationSeconds": 29
+  },
+  {
+    "id": "video-weather",
+    "title": "Camping and weather tools demonstration",
+    "url": "https://www.youtube.com/watch?v=Elj1Nv5WwaI",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-05-29",
+    "durationSeconds": 41
+  },
+  {
+    "id": "video-wildlife",
+    "title": "Wildlife and habitats — developer demonstration",
+    "url": "https://www.youtube.com/watch?v=Qsem4loPmmc",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-08-28",
+    "durationSeconds": 19
+  },
+  {
+    "id": "video-journal",
+    "title": "Unleash your inner wildlife photographer",
+    "url": "https://www.youtube.com/watch?v=paKmjdUXPds",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-07-16",
+    "durationSeconds": 29
+  },
+  {
+    "id": "video-winch",
+    "title": "Winch recovery — radial menu demonstration",
+    "url": "https://www.youtube.com/watch?v=HQjYj5-pyo4",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-07-14",
+    "durationSeconds": 25
+  },
+  {
+    "id": "video-gears",
+    "title": "Manual or automatic?",
+    "url": "https://www.youtube.com/watch?v=gTqafGoOFnk",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-05-28",
+    "durationSeconds": 27
+  },
+  {
+    "id": "video-discovery",
+    "title": "Exploration, automatic map markings and area tracker",
+    "url": "https://www.youtube.com/watch?v=fscuHfQpylE",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-05-26",
+    "durationSeconds": 20
+  },
+  {
+    "id": "video-algeria",
+    "title": "Welcome to Algeria Trailer",
+    "url": "https://www.youtube.com/watch?v=t580HOMQfIA",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-04-09",
+    "durationSeconds": 60
+  },
+  {
+    "id": "video-october",
+    "title": "More for you to enjoy — October preview",
+    "url": "https://www.youtube.com/watch?v=2-5TnGQnQXU",
+    "publisher": "Funselektor",
+    "scope": "Public pre-release video; recorded build is not the final release",
+    "checkedAt": "2026-10-12",
+    "kind": "official-video",
+    "publishedAt": "2026-10-08",
+    "durationSeconds": 37
+  },
+  {
+    "id": "cation-burro",
+    "title": "Emerald Lake eastern cabin and Burro route",
+    "url": "https://www.youtube.com/watch?v=HJtI4956QNE",
+    "publisher": "Cation 貓離子",
+    "scope": "June public Demo gameplay: Rocky Ascent reward, garage entries and Burro equipment",
+    "checkedAt": "2026-10-14",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-06-14",
+    "durationSeconds": 1165
+  },
+  {
+    "id": "press-launch-trailer",
+    "title": "Launch Trailer — publisher press-kit video",
+    "url": "https://www.youtube.com/watch?v=UmMtFaxbuiA",
+    "publisher": "Funselektor",
+    "scope": "Publisher promotional video linked from the public press kit; title is not independent release-status verification",
+    "checkedAt": "2026-10-14",
+    "kind": "official-video",
+    "publishedAt": "2026-10-01",
+    "durationSeconds": 75
+  },
+  {
+    "id": "release-modding",
+    "title": "Official release livery documentation",
+    "url": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "publisher": "Funselektor",
+    "scope": "Official car identifiers; public loadPageChunk response retained with evidence",
+    "checkedAt": "2026-10-16"
+  },
+  {
+    "id": "release-canada",
+    "title": "Canada release map and named rewards",
+    "url": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "publisher": "Gamer Guides",
+    "scope": "Updated public map records checked by item IDs and area layers; all five areas, 23 trails and named wildlife records reviewed",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "release-algeria",
+    "title": "Algeria release map and named rewards",
+    "url": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "publisher": "Gamer Guides",
+    "scope": "Updated public map records checked by item IDs and area layers; all five areas, 23 trails and named wildlife records reviewed",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "release-catalog",
+    "title": "Release car identifiers and game icons",
+    "url": "https://overthehilldb.com/cars",
+    "publisher": "Over the Hill DB",
+    "scope": "Secondary comparison only; official identifiers and independent map reward records take precedence",
+    "checkedAt": "2026-10-16"
+  },
+  {
+    "id": "release-upgrades",
+    "title": "Release upgrade catalog and game icons",
+    "url": "https://overthehilldb.com/upgrades",
+    "publisher": "Over the Hill DB",
+    "scope": "Secondary tier and icon index, compared against launch-day menu frames and transcript",
+    "checkedAt": "2026-10-16"
+  },
+  {
+    "id": "release-wildlife",
+    "title": "Named animal game models",
+    "url": "https://overthehilldb.com/animals",
+    "publisher": "Over the Hill DB",
+    "scope": "Secondary model images; only independently documented release animals published",
+    "checkedAt": "2026-10-16"
+  },
+  {
+    "id": "release-maps",
+    "title": "Five raw in-game map textures",
+    "url": "https://overthehilldb.com/regions",
+    "publisher": "Over the Hill DB",
+    "scope": "Game map images cross-checked against independent named area layers; not custom marker overlays",
+    "checkedAt": "2026-10-16"
+  },
+  {
+    "id": "release-raptor",
+    "title": "Release-day live gameplay",
+    "url": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "publisher": "Raptor",
+    "scope": "Menu frames at 625, 650, 3388, 3392, 3398, 3402; transcript 5538–5547; locked hover does not identify the preview model",
+    "checkedAt": "2026-10-16",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-10-14",
+    "durationSeconds": 12879
+  },
+  {
+    "id": "patch-2026-10-16",
+    "title": "First post-launch update, 26.10.16_57fb763",
+    "url": "https://steamcommunity.com/games/2929250/announcements/detail/713415392836453283",
+    "publisher": "Funselektor",
+    "scope": "Official changelog mirrored by SteamDB build 25992246: repeated rewards, meteorites, camping, Ding and multiplayer fixes",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "player-rust-ox",
+    "title": "Player-recorded Rust Ox unlock location",
+    "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821583393",
+    "publisher": "k34780722",
+    "scope": "Independent player observation of Waddington trail in Gimli Ridge; no database-derived performance statistics used",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "release-starters",
+    "title": "Release garage starter entries",
+    "url": "https://www.youtube.com/watch?v=Pd8I7RK_fjo",
+    "publisher": "Savvy Sasquatch and Budget Gamer",
+    "scope": "Starting-vehicle labels compared with release-day garage ownership; card statistics are excluded as unverified secondary data",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "release-items",
+    "title": "Game item icons",
+    "url": "https://overthehilldb.com/items",
+    "publisher": "Over the Hill DB",
+    "scope": "Named game item icons only; not used as sole evidence for quantities or effects",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "release-wildlife-index",
+    "title": "Release wildlife area index",
+    "url": "https://new.wikily.gg/over-the-hill/wildlife",
+    "publisher": "Wikily",
+    "scope": "Secondary identity and area cross-check against independent Gamer Guides marker records; no timing, rarity or reward table imported",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "release-tools-index",
+    "title": "Release equipment overview",
+    "url": "https://new.wikily.gg/over-the-hill/tools",
+    "publisher": "Wikily",
+    "scope": "Equipment purpose and cabin replenishment cross-check; initial quantities not published",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "release-tools-review",
+    "title": "Hands-on equipment and cabin replenishment",
+    "url": "https://www.techradar.com/gaming/over-the-hill-review",
+    "publisher": "TechRadar",
+    "scope": "Independent played review confirms consumable tools replenishing at camps; no vehicle ranking copied",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-ding",
+    "title": "Ding player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/us-forest-service-ding",
+    "publisher": "veixqq",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-bull",
+    "title": "Bull player screenshot",
+    "url": "https://www.igcd.net/vehicle.php?id=423124",
+    "publisher": "temerario",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-brick",
+    "title": "Brick player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/half-brick-racing",
+    "publisher": "ehdrien",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-lynx",
+    "title": "Lynx player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/lynx-zebra-stripes",
+    "publisher": "ehdrien",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-tinny",
+    "title": "Tinny player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/tinny-marine-blue",
+    "publisher": "landyjacque",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-polyana",
+    "title": "Polyana player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/polyana-vintage",
+    "publisher": "ortuod",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-trailrat",
+    "title": "Trailrat player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/friends",
+    "publisher": "LonelyHovering",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-wombat",
+    "title": "Wombat player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/wombat-german-flag-liveries",
+    "publisher": "ehdrien",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-roamer",
+    "title": "Roamer player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/jurassic-hill-visitor-roamer",
+    "publisher": "Hulso",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-woodman",
+    "title": "Woodman player screenshot",
+    "url": "https://www.igcd.net/vehicle.php?id=423128",
+    "publisher": "temerario",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-grand-woodman",
+    "title": "Grand Woodman player screenshot",
+    "url": "https://www.igcd.net/vehicle.php?id=423127",
+    "publisher": "temerario",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-cumbre",
+    "title": "Cumbre player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/cumbre-alternate-two-tone",
+    "publisher": "ehdrien",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-blast-wagon",
+    "title": "Blast Wagon player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/blast-wagon-military-pack",
+    "publisher": "ortuod",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-rust-ox",
+    "title": "Rust Ox player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/mystery-machine",
+    "publisher": "DreamtOG",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-boar",
+    "title": "Boar player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/boar-roamer",
+    "publisher": "Blaig",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-timberbox",
+    "title": "Timberbox player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/frostflame-timber-box",
+    "publisher": "ANTARTICAPENGUIN",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-mammoth",
+    "title": "Mammoth player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/mammoth-difrent-paint-jobs",
+    "publisher": "Dante_Wood",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "photo-marshal",
+    "title": "Marshal player screenshot",
+    "url": "https://mod.io/g/over-the-hill/m/marshal-survivor",
+    "publisher": "Blaig",
+    "scope": "Vehicle identity and screenshot provenance only. Custom paint and accessories do not establish standard equipment or performance.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "maprunner-animals",
+    "title": "MapRunner — Over the Hill animals",
+    "url": "https://www.maprunner.info/overthehill/animals",
+    "publisher": "MapRunner",
+    "scope": "Named release entries and game-owned images; scalar fields reconciled with independent game-data records where available.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "maprunner-vehicles",
+    "title": "MapRunner — Over the Hill vehicles",
+    "url": "https://www.maprunner.info/overthehill/vehicles",
+    "publisher": "MapRunner",
+    "scope": "Named release entries and game-owned images; scalar fields reconciled with independent game-data records where available.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "maprunner-upgrades",
+    "title": "MapRunner — Over the Hill upgrades",
+    "url": "https://www.maprunner.info/overthehill/collectibles/upgrades",
+    "publisher": "MapRunner",
+    "scope": "Named release entries and game-owned images; scalar fields reconciled with independent game-data records where available.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "maprunner-achievements",
+    "title": "MapRunner — Over the Hill achievements",
+    "url": "https://www.maprunner.info/overthehill/achievements",
+    "publisher": "MapRunner",
+    "scope": "Named release entries and game-owned images; scalar fields reconciled with independent game-data records where available.",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "id": "guide-forum-upgrades",
+    "title": "Upgrade or Wait",
+    "url": "https://www.reddit.com/r/overthehillgame/comments/1x73rly/upgrade_or_wait/",
+    "publisher": "Reddit players",
+    "scope": "Release upgrade priorities are player recommendations, not a universal best build. Exact prices checked against existing game records.",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "guide-forum-meteorites",
+    "title": "Meteorites missing?",
+    "url": "https://www.reddit.com/r/overthehillgame/comments/1x8tjhs/meteorites_missing/",
+    "publisher": "Reddit players",
+    "scope": "Spawn positions versus active rocks, night glow, radar compass. Unverified reset/fast-travel timing claims are not repeated.",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "guide-forum-exploration",
+    "title": "Off the dotted paths",
+    "url": "https://www.reddit.com/r/overthehillgame/comments/1x7r3no/is_there_anything_interesting_outside_of_the/",
+    "publisher": "Reddit players",
+    "scope": "Approaching a trail from the wrong end can miss its start. General exploration context only.",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "guide-forum-wildlife",
+    "title": "Red Fox and Sasquatch searching",
+    "url": "https://www.reddit.com/r/overthehillgame/comments/1x9nr80/does_it_need_to_snow_for_the_red_fox_to_appear/",
+    "publisher": "Reddit players",
+    "scope": "Animal visibility and searching concerns, not deterministic spawn timers or exact Sasquatch coordinates.",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "guide-forum-cryptid",
+    "title": "DLC Idea: Ufos and Cryptids",
+    "url": "https://www.reddit.com/r/overthehillgame/comments/1x95653/dlc_idea_ufos_and_cryptids/",
+    "publisher": "Reddit players",
+    "scope": "Players actively looking for Sasquatch in the release game; no mechanical claims inferred from jokes or suggested DLC.",
+    "checkedAt": "2026-10-20"
+  },
+  {
+    "id": "guide-video-meteorites",
+    "title": "Meteorite Guide - Over the Hill",
+    "url": "https://www.youtube.com/watch?v=RQ4WxU0A2D4",
+    "publisher": "MySpaceGuide",
+    "scope": "Public description/transcript inspected: orange glow, rear direct attachment, throttle+pull, direct multiplayer connections. Spawn timers and a guaranteed extraction duration are not adopted.",
+    "checkedAt": "2026-10-20",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-10-16",
+    "durationSeconds": 79
+  },
+  {
+    "id": "guide-video-emerald",
+    "title": "Emerald Lake 100% walkthrough",
+    "url": "https://www.youtube.com/watch?v=hl1WviWJgq4",
+    "publisher": "RinKa Plays",
+    "scope": "Release walkthrough dated October 18. Chapters: 12:38 Elizabeth Oath, 30:15 upgrades, 36:33 Windy Joe, 1:07:58 Hermit; point counts and reward records independently cross-checked.",
+    "checkedAt": "2026-10-20",
+    "kind": "gameplay-video",
+    "publishedAt": "2026-10-18",
+    "durationSeconds": 5614
+  }
+]

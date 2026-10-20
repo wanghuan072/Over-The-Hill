@@ -1,0 +1,1556 @@
+[
+  {
+    "id": "protector",
+    "slug": "protector",
+    "title": "Protector",
+    "description": "A British Trail-class 4x4. Its Demo garage offers engine, suspension, tyre and tool-slot upgrades; the upgrade list includes prices for this vehicle.",
+    "category": "Trail",
+    "image": "/images/game/screenshot-11.webp",
+    "imageAlt": "Protector climbing an Algerian rocky slope in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster",
+      "ign-demo",
+      "overtake-demo"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Protector, places it in Trail, and displays the United Kingdom flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is selected with an ownership check mark, and the recorded player drives it. That confirms use in this session without establishing its original unlock objective."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Protector upgrade observations",
+        "paragraphs": [
+          "IGN shows an Engine Stage 2 purchase for 25 Pebbles at 5:21 and the two-slot inventory option for 25 Pebbles at 5:25. OverTake shows Suspension Level 2 for 20 Pebbles at 1:10 and Tires Stage 2 for 20 Pebbles at 12:35. These prices are tied to different recorded sessions, not a universal launch price list."
+        ],
+        "sourceIds": [
+          "ign-demo",
+          "overtake-demo"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Trail",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 307
+      },
+      {
+        "label": "Country flag",
+        "value": "United Kingdom",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 307
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Owned and equipped in this session",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 307
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system",
+      "/wiki/upgrades#engine-stage-2",
+      "/wiki/upgrades#tool-slots",
+      "/wiki/upgrades#suspension-level-2",
+      "/wiki/upgrades#tyres-stage-2"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Protector | Over the Hill Wiki",
+      "description": "Protector is the owned Trail-class rig in this Demo session, with engine, suspension, tyre and equipment-slot upgrades in its garage menu."
+    },
+    "specifications": {
+      "Class": "Trail",
+      "Country": "United Kingdom",
+      "Demo garage": "Owned in session"
+    },
+    "upgrades": [
+      "Engine Stage 2 (25 Pebbles in IGN footage)",
+      "Tool Slot: two-slot option (25 Pebbles in IGN footage)",
+      "Suspension Level 2 (20 Pebbles in OverTake footage)",
+      "Tires Stage 2 (20 Pebbles in OverTake footage)"
+    ],
+    "playerNotes": [
+      "Protector Demo upgrade prices: Engine Stage 2 — 25 Pebbles; two tool slots — 25 Pebbles; Suspension Level 2 — 20 Pebbles; Tires Stage 2 — 20 Pebbles. These come from different Demo sessions, so check your current shop prices."
+    ],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "United Kingdom"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Owned in session"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "roamer",
+    "slug": "roamer",
+    "title": "Roamer",
+    "description": "A compact Japanese SUV in the Trail class, with a short nose, upright cabin and rounded front fenders.",
+    "category": "Trail",
+    "image": "/images/vehicles/garage/roamer.png",
+    "imageAlt": "Roamer vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Roamer, places it in Trail, and displays the Japan flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Roamer has an upright cabin, a short nose and rounded front fenders. Look for the compact SUV profile in the Japanese Trail lineup. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Trail",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 306.5
+      },
+      {
+        "label": "Country flag",
+        "value": "Japan",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 306.5
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 306.5
+      },
+      {
+        "label": "Body style",
+        "value": "Compact SUV",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 306.5
+      },
+      {
+        "label": "Garage profile",
+        "value": "Short nose, upright cabin",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 306.5
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Roamer | Over the Hill Wiki",
+      "description": "Roamer has an upright cabin, a short nose and rounded front fenders. Look for the compact SUV profile in the Japanese Trail lineup."
+    },
+    "specifications": {
+      "Class": "Trail",
+      "Country": "Japan",
+      "Demo garage": "Locked entry",
+      "Body style": "Compact SUV",
+      "Garage profile": "Short nose, upright cabin"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "Japan"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Compact SUV"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "bull",
+    "slug": "bull",
+    "title": "Bull",
+    "description": "An American Trail-class hardtop with a stepped hood and broad, squared-off body.",
+    "category": "Trail",
+    "image": "/images/vehicles/garage/bull.png",
+    "imageAlt": "Bull vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Bull, places it in Trail, and displays the United States flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Bull pairs a boxy hardtop with a clearly stepped hood. Its American Trail entry is easy to pick out by the broad, squared-off side profile. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Trail",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 305.5
+      },
+      {
+        "label": "Country flag",
+        "value": "United States",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 305.5
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 305.5
+      },
+      {
+        "label": "Garage profile",
+        "value": "Boxy hardtop, stepped hood",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 305.5
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Bull | Over the Hill Wiki",
+      "description": "Bull pairs a boxy hardtop with a clearly stepped hood. Its American Trail entry is easy to pick out by the broad, squared-off side profile."
+    },
+    "specifications": {
+      "Class": "Trail",
+      "Country": "United States",
+      "Demo garage": "Locked entry",
+      "Body style": "Hardtop SUV",
+      "Garage profile": "Boxy hardtop, stepped hood"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Hardtop SUV"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "trail-burner",
+    "slug": "trail-burner",
+    "title": "Trail Burner",
+    "description": "An American SUV in the Wagon class, available to equip in the Demo garage.",
+    "category": "Wagon",
+    "image": "/images/vehicles/trail-burner.webp",
+    "imageAlt": "Trail Burner in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster",
+      "cation-burro",
+      "press-launch-trailer"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Trail Burner, places it in Wagon, and displays the United States flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Demo ownership",
+        "paragraphs": [
+          "A second Demo recording shows Trail Burner with an ownership check mark and its selected 3D vehicle in the garage."
+        ],
+        "sourceIds": [
+          "cation-burro"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Wagon",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298
+      },
+      {
+        "label": "Country flag",
+        "value": "United States",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298
+      },
+      {
+        "label": "Body style",
+        "value": "American SUV",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298
+      },
+      {
+        "label": "Demo equipment",
+        "value": "Owned and equipped in the recorded Demo session",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1130
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Trail Burner | Over the Hill Wiki",
+      "description": "An American Wagon-class SUV, shown owned and equipped in the Demo garage."
+    },
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Demo garage": "Owned in Demo session",
+      "Body style": "American SUV"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Owned in Demo session"
+      },
+      {
+        "label": "Body style",
+        "value": "American SUV"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "woodman",
+    "slug": "woodman",
+    "title": "Woodman",
+    "description": "A long-roof American wagon with woodgrain trim and an extended rear body.",
+    "category": "Wagon",
+    "image": "/images/vehicles/garage/woodman.png",
+    "imageAlt": "Woodman vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Woodman, places it in Wagon, and displays the United States flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Woodman is the long-roof American wagon with woodgrain styling. The straight roofline and extended rear body give it a different look from the short-cabin trail rigs. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Wagon",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298.5
+      },
+      {
+        "label": "Country flag",
+        "value": "United States",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298.5
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298.5
+      },
+      {
+        "label": "Styling",
+        "value": "Woodgrain trim",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298.5
+      },
+      {
+        "label": "Garage profile",
+        "value": "Woodgrain styling",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 298.5
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Woodman | Over the Hill Wiki",
+      "description": "Woodman is the long-roof American wagon with woodgrain styling. The straight roofline and extended rear body give it a different look from the short-cabin trail rigs."
+    },
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Demo garage": "Locked entry",
+      "Styling": "Woodgrain trim",
+      "Body style": "Long-roof wagon",
+      "Garage profile": "Woodgrain styling"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Long-roof wagon"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "grand-woodman",
+    "slug": "grand-woodman",
+    "title": "Grand Woodman",
+    "description": "The upscale wagon variant alongside Woodman. Both sit in the American Wagon class and share a long-roof body style.",
+    "category": "Wagon",
+    "image": "/images/vehicles/garage/grand-woodman.png",
+    "imageAlt": "Grand Woodman vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Grand Woodman, places it in Wagon, and displays the United States flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Grand Woodman sits beside Woodman in the Wagon section. It keeps the long-roof silhouette, with the garage describing it as the more upscale take on the family. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Wagon",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 299
+      },
+      {
+        "label": "Country flag",
+        "value": "United States",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 299
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 299
+      },
+      {
+        "label": "Styling",
+        "value": "Upscale wagon",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 299
+      },
+      {
+        "label": "Garage profile",
+        "value": "Upscale wagon variant",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 299
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Grand Woodman | Over the Hill Wiki",
+      "description": "Grand Woodman sits beside Woodman in the Wagon section. It keeps the long-roof silhouette, with the garage describing it as the more upscale take on the family."
+    },
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Demo garage": "Locked entry",
+      "Styling": "Upscale wagon",
+      "Body style": "Long-roof wagon",
+      "Garage profile": "Upscale wagon variant"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Long-roof wagon"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "overlord",
+    "slug": "overlord",
+    "title": "Overlord",
+    "description": "A German Expedition-class utility 4x4 with a tall stance and pronounced wheel arches.",
+    "category": "Expedition",
+    "image": "/images/vehicles/garage/overlord.png",
+    "imageAlt": "Overlord vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Overlord, places it in Expedition, and displays the Germany flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Overlord has a tall utility profile and pronounced wheel arches. Find this German entry in Expedition; its higher stance is visible in the garage icon. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Expedition",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 309
+      },
+      {
+        "label": "Country flag",
+        "value": "Germany",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 309
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 309
+      },
+      {
+        "label": "Garage profile",
+        "value": "Tall stance, pronounced wheel arches",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 309
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Overlord | Over the Hill Wiki",
+      "description": "Overlord has a tall utility profile and pronounced wheel arches. Find this German entry in Expedition; its higher stance is visible in the garage icon."
+    },
+    "specifications": {
+      "Class": "Expedition",
+      "Country": "Germany",
+      "Demo garage": "Locked entry",
+      "Body style": "Utility 4x4",
+      "Garage profile": "Tall stance, pronounced wheel arches"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Expedition"
+      },
+      {
+        "label": "Country",
+        "value": "Germany"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Utility 4x4"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "burro",
+    "slug": "burro",
+    "title": "Burro",
+    "description": "A Japanese Workhorse pickup unlocked by completing Rocky Ascent in the Demo. Select it at the merchant after finishing the challenge.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/burro.webp",
+    "imageAlt": "Burro in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster",
+      "cation-burro",
+      "press-launch-trailer"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Burro, places it in Workhorse, and displays the Japan flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Demo unlock route",
+        "paragraphs": [
+          "Rocky Ascent trail completion produces the New Vehicle: Burro reward. The following merchant visit shows the pickup equipped."
+        ],
+        "sourceIds": [
+          "cation-burro"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Workhorse",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 310
+      },
+      {
+        "label": "Country flag",
+        "value": "Japan",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 310
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 310
+      },
+      {
+        "label": "Body style",
+        "value": "Pickup",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 310
+      },
+      {
+        "label": "Demo unlock",
+        "value": "Rocky Ascent trail completion awards Burro",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1042
+      },
+      {
+        "label": "Demo equipment",
+        "value": "Burro selected and equipped at the merchant",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1062
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Burro | Over the Hill Wiki",
+      "description": "A Japanese Workhorse pickup. Complete Rocky Ascent to unlock it in the Demo, then equip it at the merchant."
+    },
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "Japan",
+      "Body style": "Pickup",
+      "Demo unlock": "Rocky Ascent"
+    },
+    "unlock": "Complete Rocky Ascent in the June Demo",
+    "playerNotes": [
+      "Rocky Ascent completion awards Burro in the Demo. The merchant then lets you select and equip the pickup."
+    ],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "Japan"
+      },
+      {
+        "label": "Body style",
+        "value": "Pickup"
+      },
+      {
+        "label": "Demo unlock",
+        "value": "Rocky Ascent"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "rust-ox",
+    "slug": "rust-ox",
+    "title": "Rust Ox",
+    "description": "A German utility van in the Workhorse class. The enclosed, windowed body sets it apart from the open-bed pickups.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/garage/rust-ox.png",
+    "imageAlt": "Rust Ox vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Rust Ox, places it in Workhorse, and displays the Germany flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Rust Ox is the tall, enclosed German utility van. Its broad roof and long windowed body make the Workhorse icon particularly distinctive. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Workhorse",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311
+      },
+      {
+        "label": "Country flag",
+        "value": "Germany",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311
+      },
+      {
+        "label": "Body style",
+        "value": "Utility van",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311
+      },
+      {
+        "label": "Garage profile",
+        "value": "Tall enclosed body",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Rust Ox | Over the Hill Wiki",
+      "description": "Rust Ox is the tall, enclosed German utility van. Its broad roof and long windowed body make the Workhorse icon particularly distinctive."
+    },
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "Germany",
+      "Demo garage": "Locked entry",
+      "Body style": "Utility van",
+      "Garage profile": "Tall enclosed body"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "Germany"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Utility van"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "blast-wagon",
+    "slug": "blast-wagon",
+    "title": "Blast Wagon",
+    "description": "An American Workhorse pickup with a single cab and a separate open cargo bed.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/garage/blast-wagon.png",
+    "imageAlt": "Blast Wagon vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Blast Wagon, places it in Workhorse, and displays the United States flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Blast Wagon has a single cab, a separate open bed and a long, level side profile. This American Workhorse is the conventional pickup silhouette in its row. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Workhorse",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311.5
+      },
+      {
+        "label": "Country flag",
+        "value": "United States",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311.5
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311.5
+      },
+      {
+        "label": "Garage profile",
+        "value": "Separate cab and open bed",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 311.5
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Blast Wagon | Over the Hill Wiki",
+      "description": "Blast Wagon has a single cab, a separate open bed and a long, level side profile. This American Workhorse is the conventional pickup silhouette in its row."
+    },
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "United States",
+      "Demo garage": "Locked entry",
+      "Body style": "Single-cab pickup",
+      "Garage profile": "Separate cab and open bed"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Single-cab pickup"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "buzz-wagon",
+    "slug": "buzz-wagon",
+    "title": "Buzz Wagon",
+    "description": "A wood-trim American utility wagon in Workhorse, with an extended roof and a long row of side windows.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/garage/buzz-wagon.png",
+    "imageAlt": "Buzz Wagon vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded vehicle identity",
+        "paragraphs": [
+          "The June 13 gameplay menu labels this entry Buzz Wagon, places it in Workhorse, and displays the United States flag. The flag is a catalog attribute, not a claim that a real manufacturer licensed this vehicle."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "Availability in the recorded build",
+        "paragraphs": [
+          "The entry is shown locked with a discovery-and-merchant purchase hint. This establishes a visible catalog record, not proof that the vehicle was playable in the public Demo."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      },
+      {
+        "heading": "How to read this record",
+        "paragraphs": [
+          "Horsepower, weight, a model year and complete unlock conditions are not inferred from the body shape. Compare only the catalog fields evidenced here; specific upgrade observations have their own build and vehicle context."
+        ],
+        "sourceIds": []
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Buzz Wagon brings wood-trim styling to Workhorse. Look for the extended roof, long row of side windows and protruding hood when browsing the garage. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "camodo-roster"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Workhorse",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 313
+      },
+      {
+        "label": "Country flag",
+        "value": "United States",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 313
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked catalog entry",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 313
+      },
+      {
+        "label": "Styling",
+        "value": "Wood-trim utility",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 313
+      },
+      {
+        "label": "Garage profile",
+        "value": "Wood trim, extended roof",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 313
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Buzz Wagon | Over the Hill Wiki",
+      "description": "Buzz Wagon brings wood-trim styling to Workhorse. Look for the extended roof, long row of side windows and protruding hood when browsing the garage."
+    },
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "United States",
+      "Demo garage": "Locked entry",
+      "Styling": "Wood-trim utility",
+      "Body style": "Utility wagon",
+      "Garage profile": "Wood trim, extended roof"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Utility wagon"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "trailrat",
+    "slug": "trailrat",
+    "title": "Trailrat",
+    "description": "An American Trail-class hardtop with a flat roof, long hood and cabin set behind the front wheels.",
+    "category": "Trail",
+    "image": "/images/vehicles/garage/trailrat.png",
+    "imageAlt": "Trailrat vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=HJtI4956QNE",
+    "sourceIds": [
+      "cation-burro"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-14",
+    "sections": [
+      {
+        "heading": "Garage identity",
+        "paragraphs": [
+          "The Demo garage lists Trailrat under Trail with a United States flag. This entry is locked in the inspected session."
+        ],
+        "sourceIds": [
+          "cation-burro"
+        ]
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Trailrat has a flat hardtop and a long, level hood. Its American Trail icon shows a simple squared-off body, with the cabin set back from the front wheels. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "cation-burro"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Trail",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1061
+      },
+      {
+        "label": "Country flag",
+        "value": "United States",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1061
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked in this Demo session",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1061
+      },
+      {
+        "label": "Garage profile",
+        "value": "Flat roof, long hood",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1061
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Trailrat | Over the Hill Garage",
+      "description": "Trailrat has a flat hardtop and a long, level hood. Its American Trail icon shows a simple squared-off body, with the cabin set back from the front wheels."
+    },
+    "specifications": {
+      "Class": "Trail",
+      "Country": "United States",
+      "Demo garage": "Locked entry",
+      "Body style": "Hardtop 4x4",
+      "Garage profile": "Flat roof, long hood"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Hardtop 4x4"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  },
+  {
+    "id": "polyana",
+    "slug": "polyana",
+    "title": "Polyana",
+    "description": "A compact Russian SUV in the Trail class, with a short body and sloping rear.",
+    "category": "Trail",
+    "image": "/images/vehicles/garage/polyana.png",
+    "imageAlt": "Polyana vehicle silhouette captured from its named in-game garage entry",
+    "sourceUrl": "https://www.youtube.com/watch?v=HJtI4956QNE",
+    "sourceIds": [
+      "cation-burro"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-14",
+    "publishedAt": "2026-10-14",
+    "sections": [
+      {
+        "heading": "Garage identity",
+        "paragraphs": [
+          "The Demo garage lists Polyana under Trail with a Russia flag. This entry is locked in the inspected session."
+        ],
+        "sourceIds": [
+          "cation-burro"
+        ]
+      },
+      {
+        "heading": "Visible garage profile",
+        "paragraphs": [
+          "Polyana is the compact Russian Trail entry. Its short two-box profile and sloping rear are the easiest ways to distinguish its garage icon from the upright utility rigs. These are visible body/styling observations, not measured driving-performance claims."
+        ],
+        "sourceIds": [
+          "cation-burro"
+        ]
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu category",
+        "value": "Trail",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1064
+      },
+      {
+        "label": "Country flag",
+        "value": "Russia",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1064
+      },
+      {
+        "label": "Recorded availability",
+        "value": "Locked in this Demo session",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1064
+      },
+      {
+        "label": "Garage profile",
+        "value": "Sloping tail, two-box body",
+        "sourceId": "cation-burro",
+        "timestampSeconds": 1064
+      }
+    ],
+    "related": [
+      "/vehicles"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Polyana | Over the Hill Garage",
+      "description": "Polyana is the compact Russian Trail entry. Its short two-box profile and sloping rear are the easiest ways to distinguish its garage icon from the upright utility rigs."
+    },
+    "specifications": {
+      "Class": "Trail",
+      "Country": "Russia",
+      "Demo garage": "Locked entry",
+      "Body style": "Compact SUV",
+      "Garage profile": "Sloping tail, two-box body"
+    },
+    "unlock": "June Demo menu hint: discover while exploring, then purchase at a merchant. Exact objective and cost are not shown.",
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "Russia"
+      },
+      {
+        "label": "Demo garage",
+        "value": "Locked entry"
+      },
+      {
+        "label": "Body style",
+        "value": "Compact SUV"
+      }
+    ],
+    "imageLabel": "Garage icon",
+    "imageKind": "garage-icon"
+  }
+]

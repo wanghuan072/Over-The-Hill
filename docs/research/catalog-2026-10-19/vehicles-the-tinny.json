@@ -1,0 +1,4089 @@
+{
+  "oth-levels-en": [
+    {
+      "key": "R1A1_Valley",
+      "route": "overthehill-levels-R1A1_Valley",
+      "label": "Emerald Lake",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a1_valley.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A1_Valley/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A1_Valley/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 282
+    },
+    {
+      "key": "R1A2_Wetlands",
+      "route": "overthehill-levels-R1A2_Wetlands",
+      "label": "Gimli Ridge",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a2_wetlands.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A2_Wetlands/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A2_Wetlands/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 314
+    },
+    {
+      "key": "R1A3_Ridge",
+      "route": "overthehill-levels-R1A3_Ridge",
+      "label": "Asgard Mountain",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a3_ridge.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A3_Ridge/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A3_Ridge/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 320
+    },
+    {
+      "key": "R2A1_Desert",
+      "route": "overthehill-levels-R2A1_Desert",
+      "label": "Tassili n'Ajjer Desert",
+      "region": "Algeria",
+      "regionKey": "oth/regions/algeria/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r2a1_desert.webp",
+      "regionPoster": "posters/r2_algeria.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R2A1_Desert/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R2A1_Desert/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 259
+    },
+    {
+      "key": "R2A2_Canyon",
+      "route": "overthehill-levels-R2A2_Canyon",
+      "label": "Aurès Mountains",
+      "region": "Algeria",
+      "regionKey": "oth/regions/algeria/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r2a2_canyon.webp",
+      "regionPoster": "posters/r2_algeria.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R2A2_Canyon/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R2A2_Canyon/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 361
+    }
+  ],
+  "$fNUnIUCGPLOVzoCRNNvVp8Mkpi7TFNtG7d11zFOcjg8Q": {
+    "key": "Tinny",
+    "itemId": 2047734690,
+    "slug": "the-tinny",
+    "name": "The Tinny",
+    "description": "With steel difficult to obtain, The Tinny used lightweight aluminium for its early panels, which were kept so flat and simple they could largely be folded by hand. Interestingly, they were built in the same factory that also built garden sheds. This explains both its appearance and complete disregard for aerodynamics.",
+    "country": {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    "category": {
+      "name": "Trail",
+      "mass": 1600
+    },
+    "stats": {
+      "winch": 25000,
+      "forwardGears": 2,
+      "gearRatios": [
+        4.2,
+        2.5
+      ],
+      "gripForward": 1.1,
+      "gripCornering": 1.24,
+      "reverseGears": 1,
+      "steering": 38,
+      "brakeTorque": 4000,
+      "handbrakeTorque": 4500,
+      "brakeBias": 0.7,
+      "suspensionTravel": 0.55,
+      "springRate": 37000,
+      "damperRate": 4400,
+      "wheelRadius": 0.4,
+      "unsprungMass": 32
+    },
+    "size": {
+      "length": 3.656962,
+      "width": 1.670329,
+      "height": 1.48723
+    },
+    "engines": [
+      {
+        "topSpeed": 27,
+        "torque": 100,
+        "power": 50,
+        "rpm": [
+          750,
+          2750,
+          5000
+        ]
+      },
+      {
+        "topSpeed": 31,
+        "torque": 106,
+        "power": 55,
+        "rpm": [
+          750,
+          2750,
+          5000
+        ]
+      },
+      {
+        "topSpeed": 34,
+        "torque": 112,
+        "power": 60,
+        "rpm": [
+          750,
+          2750,
+          5000
+        ]
+      }
+    ],
+    "best": {
+      "topSpeed": 36,
+      "torque": 256,
+      "power": 74,
+      "mass": 3200
+    },
+    "grip": [
+      0,
+      0.08,
+      0.16
+    ],
+    "similar": [
+      {
+        "key": "Lynx",
+        "itemId": 3404874685,
+        "slug": "das-lynx",
+        "name": "Das Lynx",
+        "image": "vehicles/Lynx.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "DE",
+          "name": "Germany"
+        }
+      },
+      {
+        "key": "Wombat",
+        "itemId": 3658652804,
+        "slug": "das-wombat",
+        "name": "Das Wombat",
+        "image": "vehicles/Wombat.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "DE",
+          "name": "Germany"
+        }
+      },
+      {
+        "key": "Brick",
+        "itemId": 1691061460,
+        "slug": "the-brick",
+        "name": "The Brick",
+        "image": "vehicles/Brick.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "JP",
+          "name": "Japan"
+        }
+      },
+      {
+        "key": "Bull",
+        "itemId": 1236419262,
+        "slug": "the-bull-v1",
+        "name": "The Bull v1",
+        "image": "vehicles/Bull.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "US",
+          "name": "United States"
+        }
+      },
+      {
+        "key": "DingDing",
+        "itemId": 1461055881,
+        "slug": "the-ding",
+        "name": "The Ding",
+        "image": "vehicles/DingDing.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "JP",
+          "name": "Japan"
+        }
+      },
+      {
+        "key": "Polyana",
+        "itemId": 3098383629,
+        "slug": "the-polyana",
+        "name": "The Polyana",
+        "image": "vehicles/Polyana.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "RU",
+          "name": "Russia"
+        }
+      },
+      {
+        "key": "Protector",
+        "itemId": 1046421331,
+        "slug": "the-protector",
+        "name": "The Protector",
+        "image": "vehicles/Protector.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "GB",
+          "name": "United Kingdom"
+        }
+      },
+      {
+        "key": "Trailrat",
+        "itemId": 1043242486,
+        "slug": "the-trailrat",
+        "name": "The Trailrat",
+        "image": "vehicles/Trailrat.webp",
+        "category": {
+          "key": "CarCategory_01_Trail",
+          "name": "Trail"
+        },
+        "country": {
+          "code": "US",
+          "name": "United States"
+        }
+      }
+    ],
+    "icon": "ui/Tinny_Icon.webp",
+    "image": "vehicles/Tinny.webp",
+    "price": 0,
+    "starting": false,
+    "rewards": [
+      {
+        "key": "mission_trail_2633272869",
+        "name": "Ukhtayn Route",
+        "level": "R2A2_Canyon",
+        "levelName": "Aurès Mountains",
+        "pin": "pins/trail.webp",
+        "loc": "2633272869"
+      }
+    ],
+    "liveries": [
+      {
+        "key": "Tinny_livery_02",
+        "itemId": 2505731905,
+        "name": "Blue Livery",
+        "icon": "icons/liveries/Tinny_blue.webp",
+        "source": {
+          "default": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_03",
+        "itemId": 2899026130,
+        "name": "Cream Livery",
+        "icon": "icons/liveries/Tinny_cream.webp",
+        "source": {
+          "default": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_00",
+        "itemId": 1824000033,
+        "name": "Dark Green Livery",
+        "icon": "icons/liveries/Tinny_darkgreen.webp",
+        "source": {
+          "default": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_01",
+        "itemId": 4188801127,
+        "name": "Green Livery",
+        "icon": "icons/liveries/Tinny_green.webp",
+        "source": {
+          "default": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_04",
+        "itemId": 3417998908,
+        "name": "Grey Livery",
+        "icon": "icons/liveries/Tinny_grey.webp",
+        "source": {
+          "default": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_special_01",
+        "itemId": 3149012294,
+        "name": "Special Livery Type A",
+        "icon": "icons/liveries/Tinny_skin_special01.webp",
+        "source": {
+          "km": 50,
+          "kmText": "Drive 50 km with The Tinny to unlock this special livery."
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_special_02",
+        "itemId": 1991787712,
+        "name": "Special Livery Type B",
+        "icon": "icons/liveries/Tinny_skin_special02.webp",
+        "source": {
+          "km": 100,
+          "kmText": "Drive 100 km with The Tinny to unlock this special livery."
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_special_03",
+        "itemId": 2330051645,
+        "name": "Special Livery Type C",
+        "icon": "icons/liveries/Tinny_skin_special03.webp",
+        "source": {
+          "km": 150,
+          "kmText": "Drive 150 km with The Tinny to unlock this special livery."
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_special_04",
+        "itemId": 2554187733,
+        "name": "Special Livery Type D",
+        "icon": "icons/liveries/Tinny_skin_special04.webp",
+        "source": {
+          "km": 200,
+          "kmText": "Drive 200 km with The Tinny to unlock this special livery."
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_special_05",
+        "itemId": 1385817506,
+        "name": "Special Livery Type E",
+        "icon": "icons/liveries/Tinny_skin_special05.webp",
+        "source": {
+          "km": 250,
+          "kmText": "Drive 250 km with The Tinny to unlock this special livery."
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Tinny_livery_special_06",
+        "itemId": 3627697637,
+        "name": "Special Livery Type F",
+        "icon": "icons/liveries/Tinny_skin_special06.webp",
+        "source": {
+          "km": 300,
+          "kmText": "Drive 300 km with The Tinny to unlock this special livery."
+        },
+        "foundAt": []
+      }
+    ],
+    "cosmetics": [
+      {
+        "key": "PlushBear",
+        "itemId": 1934081439,
+        "name": "Bear Plushie",
+        "icon": "icons/cosmetics/Bear_Plushie.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2650745283",
+            "place": "Crate: Bear Plushie"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_00",
+        "itemId": 1802891673,
+        "name": "Bull Bar Type 1 - Black",
+        "icon": "icons/cosmetics/Bullbar_Type_1.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1573728421",
+            "place": "Crate: Bull Bar Type 1 - Black"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_00_LightsRound",
+        "itemId": 2771791156,
+        "name": "Bull Bar Type 2 - Black",
+        "icon": "icons/cosmetics/Bullbar_type_1_round_Lights.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1383306366",
+            "place": "Crate: Bull Bar Type 2 - Black"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_00_LightsSquare",
+        "itemId": 1496181415,
+        "name": "Bull Bar Type 3 - Black",
+        "icon": "icons/cosmetics/Bullbar_Type_1_Square_Lights.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Bullbar_01",
+        "itemId": 1932940717,
+        "name": "Bull Bar Type 4 - Black",
+        "icon": "icons/cosmetics/Bullbar_Type_2.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2157191347",
+            "place": "Crate: Bull Bar Type 4 - Black"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_02",
+        "itemId": 2740750955,
+        "name": "Bull Bar Type 4 - White",
+        "icon": "icons/cosmetics/Bullbar_Type_2.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1352081072",
+            "place": "Crate: Bull Bar Type 4 - White"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_01_LightsRound",
+        "itemId": 1613960288,
+        "name": "Bull Bar Type 5 - Black",
+        "icon": "icons/cosmetics/Bullbar_Type_2_Round_Lights.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2279434991",
+            "place": "Crate: Bull Bar Type 5 - Black"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_02_LightsRound",
+        "itemId": 2427782803,
+        "name": "Bull Bar Type 5 - White",
+        "icon": "icons/cosmetics/Bullbar_Type_2_Round_Lights.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2097458695",
+            "place": "Crate: Bull Bar Type 5 - White"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_01_LightsSquare",
+        "itemId": 2468692344,
+        "name": "Bull Bar Type 6 - Black",
+        "icon": "icons/cosmetics/Bullbar_type_2_Square_Lights.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2394188356",
+            "place": "Crate: Bull Bar Type 6 - Black"
+          }
+        ]
+      },
+      {
+        "key": "Bullbar_02_LightsSquare",
+        "itemId": 2263838515,
+        "name": "Bull Bar Type 6 - White",
+        "icon": "icons/cosmetics/Bullbar_type_2_Square_Lights.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2251053426",
+            "place": "Crate: Bull Bar Type 6 - White"
+          }
+        ]
+      },
+      {
+        "key": "PlushChipmunk",
+        "itemId": 3416375832,
+        "name": "Funselektor Plushie",
+        "icon": "icons/cosmetics/Funselektor_Plushie.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "PlushPuppy",
+        "itemId": 2751886749,
+        "name": "Star Puppy Plushie",
+        "icon": "icons/cosmetics/Puppy_Plushie.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2053288642",
+            "place": "Crate: Star Puppy Plushie"
+          }
+        ]
+      },
+      {
+        "key": "PlushStarPuppy",
+        "itemId": 1907278087,
+        "name": "Star Puppy Plushie",
+        "icon": "icons/cosmetics/Star_Puppy_Plushie.webp",
+        "type": {
+          "key": "front_section",
+          "label": "Front Section"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Bike",
+        "itemId": 2796380315,
+        "name": "Bike",
+        "icon": "icons/cosmetics/Rear_Bike.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1985160545",
+            "place": "Crate: Bike"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_Machette",
+        "itemId": 2919489103,
+        "name": "Bushcraft Spare Wheel",
+        "icon": "icons/cosmetics/Rear_Spare_Wheel_Machete.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "CampingLantern",
+        "itemId": 3098014576,
+        "name": "Camp Lantern",
+        "icon": "icons/cosmetics/CampLantern.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2081507819",
+            "place": "Crate: Camp Lantern"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_Wreath",
+        "itemId": 3160637481,
+        "name": "Festive Spare Wheel",
+        "icon": "icons/cosmetics/Rear_Spare_Wheel_wreath.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Pan",
+        "itemId": 4010936324,
+        "name": "Frying Pan",
+        "icon": "icons/cosmetics/Rear_Frying_Pan.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1758180816",
+            "place": "Crate: Frying Pan"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_cover_01",
+        "itemId": 3598237412,
+        "name": "Funselektor Spare Wheel",
+        "icon": "icons/cosmetics/Rear_Spare_Wheel_funselektor_Cover.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Guitar",
+        "itemId": 2150790501,
+        "name": "Guitar Case",
+        "icon": "icons/cosmetics/Guitar_Case.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1817523898",
+            "place": "Crate: Guitar Case"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_Rear",
+        "itemId": 2626633432,
+        "name": "Hood-Mounted Spare Wheel",
+        "icon": "icons/cosmetics/Rear_Spare_Wheel.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "2145727405",
+            "place": "Crate: Hood-Mounted Spare Wheel"
+          }
+        ]
+      },
+      {
+        "key": "Ladder",
+        "itemId": 2751510839,
+        "name": "Ladder",
+        "icon": "icons/cosmetics/Rear_Ladder.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1830311451",
+            "place": "Crate: Ladder"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_cover_00",
+        "itemId": 2564047870,
+        "name": "Over the Hill Spare Wheel",
+        "icon": "icons/cosmetics/Rear_Spare_Wheel_OTH_Cover.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "RearWing",
+        "itemId": 2249697169,
+        "name": "Rear Wing",
+        "icon": "icons/cosmetics/Rear_Wing.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2295750295",
+            "place": "Crate: Rear Wing"
+          }
+        ]
+      },
+      {
+        "key": "MountedGrill",
+        "itemId": 2666376772,
+        "name": "Rear-Mounted Grill",
+        "icon": "icons/cosmetics/Rear_Mount_Grill.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1711060605",
+            "place": "Crate: Rear-Mounted Grill"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_Axe_Shovel",
+        "itemId": 2258050032,
+        "name": "Trailblazer Spare Wheel",
+        "icon": "icons/cosmetics/Rear_Spare_Wheel_Axe_and_Shovel.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1408519785",
+            "place": "Crate: Trailblazer Spare Wheel"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_Trasheroo",
+        "itemId": 2771653254,
+        "name": "Traveler’s Spare Wheel",
+        "icon": "icons/cosmetics/Rear_Spare_Wheel_Storage_Bag.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1720953584",
+            "place": "Crate: Traveler’s Spare Wheel"
+          }
+        ]
+      },
+      {
+        "key": "WhipLights_01",
+        "itemId": 2883880182,
+        "name": "Whip Lights - Blue",
+        "icon": "icons/cosmetics/Whip_Lights_2.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "WhipLights_02",
+        "itemId": 1756279490,
+        "name": "Whip Lights - Green",
+        "icon": "icons/cosmetics/Whip_Lights_2.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1409767127",
+            "place": "Grand Oasis Recovery"
+          }
+        ]
+      },
+      {
+        "key": "WhipLights_03",
+        "itemId": 2706586623,
+        "name": "Whip Lights - Orange",
+        "icon": "icons/cosmetics/Whip_Lights_2.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "WhipLights_04",
+        "itemId": 1157697193,
+        "name": "Whip Lights - Pink",
+        "icon": "icons/cosmetics/Whip_Lights_2.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2728409084",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_1",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_2",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_3",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_4",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_5",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_6",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_7",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_8",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_9",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_10",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_11",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_12",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_13",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_14",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_15",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_16",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_17",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_18",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_19",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_20",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_21",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_22",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_23",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_24",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_25",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_26",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_27",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_28",
+            "place": "Djebel Rahmani Ascent"
+          },
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "checkpoint_R2A2_Canyon_2728409084_29",
+            "place": "Djebel Rahmani Ascent"
+          }
+        ]
+      },
+      {
+        "key": "WhipLights_05",
+        "itemId": 3314739926,
+        "name": "Whip Lights - Purple",
+        "icon": "icons/cosmetics/Whip_Lights_2.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "WhipLights_06",
+        "itemId": 2616701851,
+        "name": "Whip Lights - Red",
+        "icon": "icons/cosmetics/Whip_Lights_2.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1829510151",
+            "place": "Chebka Gateway Recovery"
+          }
+        ]
+      },
+      {
+        "key": "WhipLights_07",
+        "itemId": 1963166763,
+        "name": "Whip Lights - Teal",
+        "icon": "icons/cosmetics/Whip_Lights_2.webp",
+        "type": {
+          "key": "rear_section",
+          "label": "Rear Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Side_Tool_Axe",
+        "itemId": 2041092171,
+        "name": "Axe",
+        "icon": "icons/cosmetics/Side_Axe.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1719891549",
+            "place": "Crate: Axe"
+          }
+        ]
+      },
+      {
+        "key": "Side_Tool_BoltCutters",
+        "itemId": 3021895969,
+        "name": "Bolt Cutters",
+        "icon": "icons/cosmetics/Side_Bolt_Cutters.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Side_Medkit",
+        "itemId": 2995334329,
+        "name": "First Aid Kit",
+        "icon": "icons/cosmetics/Side_Medikit.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1983810433",
+            "place": "Crate: First Aid Kit"
+          }
+        ]
+      },
+      {
+        "key": "Side_Tool_IcePicks",
+        "itemId": 3025295683,
+        "name": "Ice Picks",
+        "icon": "icons/cosmetics/Side_Ice_Picks.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1880283210",
+            "place": "Crate: Ice Picks"
+          }
+        ]
+      },
+      {
+        "key": "Side_Jerrycan",
+        "itemId": 3837972046,
+        "name": "Jerry Cans",
+        "icon": "icons/cosmetics/Side_Jerry_Cans.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1777568085",
+            "place": "Crate: Jerry Cans"
+          }
+        ]
+      },
+      {
+        "key": "Side_Tool_Machette",
+        "itemId": 3217833354,
+        "name": "Machete",
+        "icon": "icons/cosmetics/Side_Machete.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2320323536",
+            "place": "Crate: Machete"
+          }
+        ]
+      },
+      {
+        "key": "Side_Tool_HiLiftJack",
+        "itemId": 1544363213,
+        "name": "Off-Road Jack",
+        "icon": "icons/cosmetics/Side_Offroad_Jack.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Side_Tool_PickAxe",
+        "itemId": 2383625136,
+        "name": "Pickaxe",
+        "icon": "icons/cosmetics/Side_Pickaxe.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Side_Tool_PipeWrench",
+        "itemId": 2405705410,
+        "name": "Pipe Wrench",
+        "icon": "icons/cosmetics/Side_Pipe_Wrench.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Side_Tool_Shovel",
+        "itemId": 1570524396,
+        "name": "Shovel",
+        "icon": "icons/cosmetics/Side_shovel.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1968295539",
+            "place": "Crate: Shovel"
+          }
+        ]
+      },
+      {
+        "key": "Side_Tool_Sledgehammer",
+        "itemId": 2452984801,
+        "name": "Sledgehammer",
+        "icon": "icons/cosmetics/Side_sledgehammer.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2084836648",
+            "place": "Lakebed Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Side_Tractionboard",
+        "itemId": 2234257000,
+        "name": "Traction Boards",
+        "icon": "icons/cosmetics/Side_Traction_Board.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1745653608",
+            "place": "Crate: Traction Boards"
+          }
+        ]
+      },
+      {
+        "key": "Side_Wreath",
+        "itemId": 3120886791,
+        "name": "Wreath",
+        "icon": "icons/cosmetics/Side_Wreath.webp",
+        "type": {
+          "key": "side_section",
+          "label": "Side Section"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1435340210",
+            "place": "Crate: Wreath"
+          }
+        ]
+      },
+      {
+        "key": "LicensePlate_ADRIFT_Front",
+        "itemId": 1409488183,
+        "name": "Absolute Drift Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Absolute_Drift.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_AOR_Front",
+        "itemId": 2327053616,
+        "name": "Art of Rally Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_AOR.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_Front",
+        "itemId": 3660352652,
+        "name": "Blank Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Simple.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Christmas_Front",
+        "itemId": 3524770717,
+        "name": "Festive Lights",
+        "icon": "icons/cosmetics/Front-Bumper_Fairy_Lights.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1877429540",
+            "place": "Crate: Festive Lights"
+          }
+        ]
+      },
+      {
+        "key": "LicensePlateFramed_ADRIFT_Front",
+        "itemId": 1469381514,
+        "name": "Framed Absolute Drift Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Framed_Absolute_Drift.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_AOR_Front",
+        "itemId": 2161328350,
+        "name": "Framed Art of Rally Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Framed_AOR.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_Front",
+        "itemId": 1746256877,
+        "name": "Framed Blank Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Framed_Simple.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_FNSLKTR_Front",
+        "itemId": 2016773008,
+        "name": "Framed Funselektor Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Framed_Funselektor.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_GLAP_Front",
+        "itemId": 2787926403,
+        "name": "Framed Golden Lap Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Framed_golden_Lap.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_VIP_Front",
+        "itemId": 3287975291,
+        "name": "Framed M.V.P. Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Framed_MVP.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_OTH_Front",
+        "itemId": 1828137349,
+        "name": "Framed Over the Hill Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Framed_OTH.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "BashBar_01",
+        "itemId": 3024677586,
+        "name": "Front Tube Bumper",
+        "icon": "icons/cosmetics/Front-Bumper_Bash_Bar_Type_1.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "1915386031",
+            "place": "Crate: Front Tube Bumper"
+          }
+        ]
+      },
+      {
+        "key": "LicensePlate_FNSLKTR_Front",
+        "itemId": 3756393217,
+        "name": "Funselektor Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_funselektor.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_GLAP_Front",
+        "itemId": 3480199623,
+        "name": "Golden Lap Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_Golden_Lap.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "BashBar_02",
+        "itemId": 1878157645,
+        "name": "Low Bull Bar",
+        "icon": "icons/cosmetics/Front-Bumper_Bash_Bar_Type_2.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2282187400",
+            "place": "Crate: Low Bull Bar"
+          }
+        ]
+      },
+      {
+        "key": "LicensePlate_VIP_Front",
+        "itemId": 1252399696,
+        "name": "M.V.P. Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_MVP.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_OTH_Front",
+        "itemId": 3830743480,
+        "name": "Over the Hill Plate",
+        "icon": "icons/cosmetics/Front-Bumper_LicensePlate_OTH.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Ropes_Front",
+        "itemId": 2504281102,
+        "name": "Ropes",
+        "icon": "icons/cosmetics/Front-Bumper_Ropes.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1788935779",
+            "place": "Crate: Ropes"
+          }
+        ]
+      },
+      {
+        "key": "Shackles_Front",
+        "itemId": 3343483591,
+        "name": "Shackles",
+        "icon": "icons/cosmetics/Front-Bumper_Shackles.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "SkidPlate_02",
+        "itemId": 3128141440,
+        "name": "Skid Plate - Black",
+        "icon": "icons/cosmetics/Front-Bumper_Skid_Plate.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1366530086",
+            "place": "Crate: Skid Plate - Black"
+          }
+        ]
+      },
+      {
+        "key": "SkidPlate_01",
+        "itemId": 2960871481,
+        "name": "Skid Plate - Silver",
+        "icon": "icons/cosmetics/Front-Bumper_Skid_Plate.webp",
+        "type": {
+          "key": "front_bumper",
+          "label": "Front Bumper"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_ADRIFT",
+        "itemId": 2323320406,
+        "name": "Absolute Drift Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Absolute_Drift.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_AOR",
+        "itemId": 2480133036,
+        "name": "Art of Rally Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_AOR.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate",
+        "itemId": 2404384675,
+        "name": "Blank Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Simple.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Christmas_Rear",
+        "itemId": 1845047666,
+        "name": "Festive Lights",
+        "icon": "icons/cosmetics/Rear-Bumper_Fairy_Lights.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1877429540",
+            "place": "Crate: Festive Lights"
+          }
+        ]
+      },
+      {
+        "key": "LicensePlateFramed_ADRIFT",
+        "itemId": 2283901947,
+        "name": "Framed Absolute Drift Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Framed_Absolute_Drift.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_AOR",
+        "itemId": 1718466044,
+        "name": "Framed Art of Rally Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Framed_AOR.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed",
+        "itemId": 2117412776,
+        "name": "Framed Blank Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Framed_Simple.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_FNSLKTR",
+        "itemId": 2086845792,
+        "name": "Framed Funselektor Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Framed_Funselektor.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_GLAP",
+        "itemId": 3158723573,
+        "name": "Framed Golden Lap Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Framed_Golden_Lap.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_VIP",
+        "itemId": 2133658827,
+        "name": "Framed M.V.P. Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Framed_MVP.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlateFramed_OTH",
+        "itemId": 3498387764,
+        "name": "Framed Over the Hill Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Framed_OTH.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_FNSLKTR",
+        "itemId": 2912241403,
+        "name": "Funselektor Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Funselektor.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_GLAP",
+        "itemId": 1803242480,
+        "name": "Golden Lap Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_Golden_Lap.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_VIP",
+        "itemId": 1631042521,
+        "name": "M.V.P. Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_MVP.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "LicensePlate_OTH",
+        "itemId": 3207310395,
+        "name": "Over the Hill Plate",
+        "icon": "icons/cosmetics/Rear-Bumper_LicensePlate_OTH.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "BashBar_01_Rear",
+        "itemId": 2268347193,
+        "name": "Rear Tube Bumper",
+        "icon": "icons/cosmetics/Rear-Bumper_Bash_Bar_Type_1.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2184704383",
+            "place": "High Mahrouqa Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Ropes_Rear",
+        "itemId": 2375370513,
+        "name": "Ropes",
+        "icon": "icons/cosmetics/Rear-Bumper_Ropes.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1788935779",
+            "place": "Crate: Ropes"
+          }
+        ]
+      },
+      {
+        "key": "Shackles_Rear",
+        "itemId": 2886100297,
+        "name": "Shackles",
+        "icon": "icons/cosmetics/Rear-Bumper_Shakles.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "ToiletSeat",
+        "itemId": 3057488404,
+        "name": "Toilet",
+        "icon": "icons/cosmetics/Toilet.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2147933692",
+            "place": "Crate: Toilet"
+          }
+        ]
+      },
+      {
+        "key": "TowBar",
+        "itemId": 2724069072,
+        "name": "Tow Bar",
+        "icon": "icons/cosmetics/Rear-Bumper_Tow_Bar.webp",
+        "type": {
+          "key": "rear_bumper",
+          "label": "Rear Bumper"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1974878868",
+            "place": "Crate: Tow Bar"
+          }
+        ]
+      },
+      {
+        "key": "BullHorns",
+        "itemId": 2247201091,
+        "name": "Bull Horns",
+        "icon": "icons/cosmetics/Hood_Bull_Horns.webp",
+        "type": {
+          "key": "hood",
+          "label": "Hood"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1703553236",
+            "place": "Crate: Bull Horns"
+          }
+        ]
+      },
+      {
+        "key": "Cattleskull",
+        "itemId": 1345851068,
+        "name": "Cattle Skull",
+        "icon": "icons/cosmetics/Hood_Cattle_Skull.webp",
+        "type": {
+          "key": "hood",
+          "label": "Hood"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1944270648",
+            "place": "Crate: Cattle Skull"
+          }
+        ]
+      },
+      {
+        "key": "Vents",
+        "itemId": 1577860020,
+        "name": "Hood Vents",
+        "icon": "icons/cosmetics/Hood_Vents.webp",
+        "type": {
+          "key": "hood",
+          "label": "Hood"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2371502007",
+            "place": "Crate: Hood Vents"
+          }
+        ]
+      },
+      {
+        "key": "Wreath_Front",
+        "itemId": 2393730593,
+        "name": "Hood Wreath",
+        "icon": "icons/cosmetics/Hood_Wreath.webp",
+        "type": {
+          "key": "hood",
+          "label": "Hood"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "1745298177",
+            "place": "Crate: Hood Wreath"
+          }
+        ]
+      },
+      {
+        "key": "Sparewheel_Hood",
+        "itemId": 3003061624,
+        "name": "Hood-Mounted Spare Wheel",
+        "icon": "icons/cosmetics/Hood_Spare_Wheel.webp",
+        "type": {
+          "key": "hood",
+          "label": "Hood"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1531597370",
+            "place": "Crate: Hood-Mounted Spare Wheel"
+          }
+        ]
+      },
+      {
+        "key": "RamSkull",
+        "itemId": 3883087761,
+        "name": "Ram Skull",
+        "icon": "icons/cosmetics/Hood_Ram_Skull.webp",
+        "type": {
+          "key": "hood",
+          "label": "Hood"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1677436617",
+            "place": "Crate: Ram Skull"
+          }
+        ]
+      },
+      {
+        "key": "VentsOval",
+        "itemId": 2417968644,
+        "name": "Round Hood Vents",
+        "icon": "icons/cosmetics/Round_Hood_Vents.webp",
+        "type": {
+          "key": "hood",
+          "label": "Hood"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2838104606",
+            "place": "Crate: Round Hood Vents"
+          }
+        ]
+      },
+      {
+        "key": "Boat",
+        "itemId": 2814541033,
+        "name": "Boat",
+        "icon": "icons/cosmetics/Boat.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2122516905",
+            "place": "Fraser Research Boardwalk"
+          },
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "checkpoint_R1A2_Wetlands_2122516905_1",
+            "place": "Fraser Research Boardwalk"
+          },
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "checkpoint_R1A2_Wetlands_2122516905_2",
+            "place": "Fraser Research Boardwalk"
+          },
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "checkpoint_R1A2_Wetlands_2122516905_3",
+            "place": "Fraser Research Boardwalk"
+          },
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "checkpoint_R1A2_Wetlands_2122516905_4",
+            "place": "Fraser Research Boardwalk"
+          },
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "checkpoint_R1A2_Wetlands_2122516905_5",
+            "place": "Fraser Research Boardwalk"
+          }
+        ]
+      },
+      {
+        "key": "Camper",
+        "itemId": 1246763350,
+        "name": "Camping Gear",
+        "icon": "icons/cosmetics/Roofrack_Camper.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1301202979",
+            "place": "Crate: Camping Gear"
+          }
+        ]
+      },
+      {
+        "key": "Canoe",
+        "itemId": 3823205236,
+        "name": "Canoe",
+        "icon": "icons/cosmetics/Roofrack_Canoe.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1072791888",
+            "place": "Elizabeth Lake Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Crown",
+        "itemId": 3461162295,
+        "name": "Crown",
+        "icon": "icons/cosmetics/Crown.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2110270902",
+            "place": "Crate: Crown"
+          }
+        ]
+      },
+      {
+        "key": "Overlander",
+        "itemId": 3277887484,
+        "name": "Expedition Gear",
+        "icon": "icons/cosmetics/Roofrack_Overlander.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2116477254",
+            "place": "Crate: Expedition Gear"
+          }
+        ]
+      },
+      {
+        "key": "Tent",
+        "itemId": 2376616555,
+        "name": "Expedition Tent",
+        "icon": "icons/cosmetics/Roofrack_Rooftent.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2579221576",
+            "place": "Glasir Wood Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Christmas",
+        "itemId": 1638208364,
+        "name": "Festive Tree",
+        "icon": "icons/cosmetics/Roofrack_Festive.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2980641660",
+            "place": "Crate: Festive Tree"
+          }
+        ]
+      },
+      {
+        "key": "Fisher",
+        "itemId": 3561647872,
+        "name": "Fishing Boat",
+        "icon": "icons/cosmetics/Fisher.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2639272041",
+            "place": "Crate: Fishing Boat"
+          }
+        ]
+      },
+      {
+        "key": "Hotdog",
+        "itemId": 4202446733,
+        "name": "Hot Dog",
+        "icon": "icons/cosmetics/HotDog.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2792693812",
+            "place": "Upland Carmanah Recovery"
+          }
+        ]
+      },
+      {
+        "key": "IceCream",
+        "itemId": 3444195680,
+        "name": "Ice Cream",
+        "icon": "icons/cosmetics/IceCream.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2240744815",
+            "place": "Crate: Ice Cream"
+          }
+        ]
+      },
+      {
+        "key": "Kayak",
+        "itemId": 1799703386,
+        "name": "Kayaks",
+        "icon": "icons/cosmetics/Roofrack_Kayaks.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1239687479",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_1",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_2",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_3",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_4",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_5",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_6",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_7",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_8",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_9",
+            "place": "Elizabeth Oath Trail"
+          },
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "checkpoint_R1A1_Valley_1239687479_10",
+            "place": "Elizabeth Oath Trail"
+          }
+        ]
+      },
+      {
+        "key": "Rescue",
+        "itemId": 1871196454,
+        "name": "Mountain Rescue",
+        "icon": "icons/cosmetics/Roofrack_Mountain_Rescue.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2141545027",
+            "place": "Crate: Mountain Rescue"
+          }
+        ]
+      },
+      {
+        "key": "Party",
+        "itemId": 2659571908,
+        "name": "Party Pack",
+        "icon": "icons/cosmetics/Roofrack_Party_Pack.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2675030852",
+            "place": "Chebka Rim Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Refreshments",
+        "itemId": 2524073732,
+        "name": "Refreshments",
+        "icon": "icons/cosmetics/Roofrack_Refreshments.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1895424600",
+            "place": "Crate: Refreshments"
+          }
+        ]
+      },
+      {
+        "key": "Rocket",
+        "itemId": 2589312632,
+        "name": "Rocket",
+        "icon": "icons/cosmetics/Rocket.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2553820812",
+            "place": "Crate: Rocket"
+          }
+        ]
+      },
+      {
+        "key": "RoofSpare",
+        "itemId": 2135401100,
+        "name": "Roof Mounted Spare Wheel",
+        "icon": "icons/cosmetics/Roof_Mounted_SpareWheel_1.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Wintersports",
+        "itemId": 3010393760,
+        "name": "Skis & Snowboards",
+        "icon": "icons/cosmetics/Roofrack_Ski_and_Snowboard.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1962703434",
+            "place": "Midgar Way Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Surfboard",
+        "itemId": 3179273176,
+        "name": "Surfboards",
+        "icon": "icons/cosmetics/Roofrack_surfboards.webp",
+        "type": {
+          "key": "roof",
+          "label": "Roof"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1846446038",
+            "place": "Crate: Surfboards"
+          }
+        ]
+      },
+      {
+        "key": "Lights_BeaconBar_Amber",
+        "itemId": 1341452526,
+        "name": "Beacon Bar - Amber",
+        "icon": "icons/cosmetics/Rooflights_Beacon_Bar.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2701059746",
+            "place": "Crate: Beacon Bar - Amber"
+          }
+        ]
+      },
+      {
+        "key": "Lights_BeaconBar_Blue",
+        "itemId": 2594319430,
+        "name": "Beacon Bar - Blue",
+        "icon": "icons/cosmetics/Rooflights_Beacon_Bar.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Lights_BeaconBar_Red",
+        "itemId": 2485859301,
+        "name": "Beacon Bar - Red",
+        "icon": "icons/cosmetics/Rooflights_Beacon_Bar.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2387518341",
+            "place": "Crate: Beacon Bar - Red"
+          }
+        ]
+      },
+      {
+        "key": "Lights_BeaconBar_RedBlue",
+        "itemId": 2452964728,
+        "name": "Beacon Bar - Red & Blue",
+        "icon": "icons/cosmetics/Rooflights_Beacon_Bar.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2053617678",
+            "place": "Crate: Beacon Bar - Red & Blue"
+          }
+        ]
+      },
+      {
+        "key": "Lights_Beacon_Amber",
+        "itemId": 2227690346,
+        "name": "Beacons - Amber",
+        "icon": "icons/cosmetics/Rooflights_Beacons.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1543754958",
+            "place": "Crate: Beacons - Amber"
+          }
+        ]
+      },
+      {
+        "key": "Lights_Beacon_Blue",
+        "itemId": 1591184657,
+        "name": "Beacons - Blue",
+        "icon": "icons/cosmetics/Rooflights_Beacons.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Lights_Beacon_Red",
+        "itemId": 2016844261,
+        "name": "Beacons - Red",
+        "icon": "icons/cosmetics/Rooflights_Beacons.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Lights_Beacon_RedBlue",
+        "itemId": 3094406027,
+        "name": "Beacons - Red & Blue",
+        "icon": "icons/cosmetics/Rooflights_Beacons.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1364398092",
+            "place": "Crate: Beacons - Red & Blue"
+          }
+        ]
+      },
+      {
+        "key": "Lights_Funselektor",
+        "itemId": 3592954415,
+        "name": "Funselektor Round Light Covers",
+        "icon": "icons/cosmetics/Rooflights_Funselektor_Cover.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AirHorns",
+        "itemId": 1668824796,
+        "name": "Rooftop Air Horns",
+        "icon": "icons/cosmetics/Rooflights_Air_Horns.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2787096912",
+            "place": "Crate: Rooftop Air Horns"
+          }
+        ]
+      },
+      {
+        "key": "Lights_Black",
+        "itemId": 3191874815,
+        "name": "Round Light Covers - Black",
+        "icon": "icons/cosmetics/Rooflights_Cover.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2889717837",
+            "place": "Crate: Round Light Covers - Black"
+          }
+        ]
+      },
+      {
+        "key": "Lights_White",
+        "itemId": 2238870993,
+        "name": "Round Light Covers - White",
+        "icon": "icons/cosmetics/Rooflights_Cover.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Lights_Round",
+        "itemId": 3912776600,
+        "name": "Round Lights",
+        "icon": "icons/cosmetics/Rooflights_Round_Lights.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1722160960",
+            "place": "Northeast Hamada Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Lights_Smiley",
+        "itemId": 3825002035,
+        "name": "Smiley Round Light Covers",
+        "icon": "icons/cosmetics/Rooflights_Smiley_cover.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "1080927363",
+            "place": "Crate: Smiley Round Light Covers"
+          }
+        ]
+      },
+      {
+        "key": "Lights_Square",
+        "itemId": 2214287887,
+        "name": "Square Lights",
+        "icon": "icons/cosmetics/Rooflights_Square_Lights.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2235978151",
+            "place": "Crate: Square Lights"
+          }
+        ]
+      },
+      {
+        "key": "Lights_VIP",
+        "itemId": 2567631570,
+        "name": "Star Round Light Covers",
+        "icon": "icons/cosmetics/Rooflights_VIP_Cover.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "TaxiSign",
+        "itemId": 3812523733,
+        "name": "Taxi Sign",
+        "icon": "icons/cosmetics/TaxiSign.webp",
+        "type": {
+          "key": "roof_lights",
+          "label": "Roof Lights"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2078326098",
+            "place": "Crate: Taxi Sign"
+          }
+        ]
+      },
+      {
+        "key": "FlipFlopFlaps",
+        "itemId": 3270168488,
+        "name": "Flip Flop Flaps",
+        "icon": "icons/cosmetics/FlipFlopFlaps.webp",
+        "type": {
+          "key": "fenders",
+          "label": "Fenders"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2139665709",
+            "place": "Crate: Flip Flop Flaps"
+          }
+        ]
+      },
+      {
+        "key": "Mudflap_01",
+        "itemId": 2508501354,
+        "name": "Mudflaps - Black",
+        "icon": "icons/cosmetics/Fender_Mudflap.webp",
+        "type": {
+          "key": "fenders",
+          "label": "Fenders"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1336871965",
+            "place": "Crate: Mudflaps - Black"
+          }
+        ]
+      },
+      {
+        "key": "Mudflap_05",
+        "itemId": 1861438385,
+        "name": "Mudflaps - Blue",
+        "icon": "icons/cosmetics/Fender_Mudflap.webp",
+        "type": {
+          "key": "fenders",
+          "label": "Fenders"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Mudflap_06",
+        "itemId": 2627262099,
+        "name": "Mudflaps - Green",
+        "icon": "icons/cosmetics/Fender_Mudflap.webp",
+        "type": {
+          "key": "fenders",
+          "label": "Fenders"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Mudflap_03",
+        "itemId": 2191801555,
+        "name": "Mudflaps - Red",
+        "icon": "icons/cosmetics/Fender_Mudflap.webp",
+        "type": {
+          "key": "fenders",
+          "label": "Fenders"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1600031388",
+            "place": "Crate: Mudflaps - Red"
+          }
+        ]
+      },
+      {
+        "key": "Mudflap_02",
+        "itemId": 2073995297,
+        "name": "Mudflaps - Silver",
+        "icon": "icons/cosmetics/Fender_Mudflap.webp",
+        "type": {
+          "key": "fenders",
+          "label": "Fenders"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Mudflap_04",
+        "itemId": 2310985251,
+        "name": "Mudflaps - Yellow",
+        "icon": "icons/cosmetics/Fender_Mudflap.webp",
+        "type": {
+          "key": "fenders",
+          "label": "Fenders"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2498181916",
+            "place": "Crate: Mudflaps - Yellow"
+          }
+        ]
+      },
+      {
+        "key": "Steps_03",
+        "itemId": 1987289783,
+        "name": "Rock Sliders",
+        "icon": "icons/cosmetics/SideStep_Rock_Sliders.webp",
+        "type": {
+          "key": "side_step",
+          "label": "Side Step"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Christmas_Side",
+        "itemId": 2655750352,
+        "name": "Side Festive Lights",
+        "icon": "icons/cosmetics/SideStep_Fairy_lights.webp",
+        "type": {
+          "key": "side_step",
+          "label": "Side Step"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1483175781",
+            "place": "Crate: Side Festive Lights"
+          }
+        ]
+      },
+      {
+        "key": "Steps_01",
+        "itemId": 1336553944,
+        "name": "Side Steps - Black",
+        "icon": "icons/cosmetics/SideStep_Steps.webp",
+        "type": {
+          "key": "side_step",
+          "label": "Side Step"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1491809132",
+            "place": "Crate: Side Steps - Black"
+          }
+        ]
+      },
+      {
+        "key": "Steps_02",
+        "itemId": 2781862655,
+        "name": "Side Steps - Silver",
+        "icon": "icons/cosmetics/SideStep_Steps.webp",
+        "type": {
+          "key": "side_step",
+          "label": "Side Step"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2195230599",
+            "place": "Crate: Side Steps - Silver"
+          }
+        ]
+      },
+      {
+        "key": "AntennaPlushBear",
+        "itemId": 1390508814,
+        "name": "Bear Plushie Antenna",
+        "icon": "icons/cosmetics/Antenna_Bear_Plushie.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "2391169344",
+            "place": "Crate: Bear Plushie Antenna"
+          }
+        ]
+      },
+      {
+        "key": "AntennaCapybara",
+        "itemId": 1712467787,
+        "name": "Capybara Antenna",
+        "icon": "icons/cosmetics/Antenna_Capybara3.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "source": {},
+        "foundAt": []
+      },
+      {
+        "key": "AntennaPlushFoxxo",
+        "itemId": 1282610331,
+        "name": "Fox Plushie Antenna",
+        "icon": "icons/cosmetics/Antenna_Fox_Plushie.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AntennaFlagFunselektor",
+        "itemId": 2023484620,
+        "name": "Funselektor Flag",
+        "icon": "icons/cosmetics/Antenna_Funselektor_Flag.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AntennaPlushChipmunk",
+        "itemId": 3780138146,
+        "name": "Funselektor Plushie Antenna",
+        "icon": "icons/cosmetics/Antenna_Funselektor_Plushie.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AntennaLuckyCharm",
+        "itemId": 2272615151,
+        "name": "Lucky Charm Antenna",
+        "icon": "icons/cosmetics/Antenna_Lucky_Charm.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1671525984",
+            "place": "Crate: Lucky Charm Antenna"
+          }
+        ]
+      },
+      {
+        "key": "AntennaMarshmellow",
+        "itemId": 2293667268,
+        "name": "Marshmallow Antenna",
+        "icon": "icons/cosmetics/Antenna_Marshmallow.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2577728778",
+            "place": "Crate: Marshmallow Antenna"
+          }
+        ]
+      },
+      {
+        "key": "AntennaPlane",
+        "itemId": 2615847919,
+        "name": "Plane Antenna",
+        "icon": "icons/cosmetics/Antenna_Plane.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1439786416",
+            "place": "Crate: Plane Antenna"
+          }
+        ]
+      },
+      {
+        "key": "AntennaPlushPuppy",
+        "itemId": 2557563859,
+        "name": "Puppy Plushie Antenna",
+        "icon": "icons/cosmetics/Antenna_Puppy_Plushie.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2479352777",
+            "place": "Tassili n’Idir Recovery"
+          }
+        ]
+      },
+      {
+        "key": "AntennaSasquatch",
+        "itemId": 1391580136,
+        "name": "Sasquatch Antenna",
+        "icon": "icons/cosmetics/Antenna_Sasquatch.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1452709774",
+            "place": "Crate: Sasquatch Antenna"
+          }
+        ]
+      },
+      {
+        "key": "AntennaSeal",
+        "itemId": 2318692073,
+        "name": "Seal Antenna",
+        "icon": "icons/cosmetics/Antenna_Seal.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AntennaFlagVIP",
+        "itemId": 3004449906,
+        "name": "Shooting Star Flag",
+        "icon": "icons/cosmetics/Antenna_Flag_ShootingStar.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AntennaSnowflake",
+        "itemId": 3359810739,
+        "name": "Snowflake Antenna",
+        "icon": "icons/cosmetics/Antenna_Snowflake.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Antenna",
+        "itemId": 3370309071,
+        "name": "Standard Antenna",
+        "icon": "icons/cosmetics/Antenna_Simple.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AntennaPlushStarPuppy",
+        "itemId": 3015789526,
+        "name": "Star Puppy Plushie Antenna",
+        "icon": "icons/cosmetics/Antenna_Star_Puppy_Plushie.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "source": {
+          "supporter": "Supporter Edition",
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "AntennaSushi",
+        "itemId": 3238315710,
+        "name": "Sushi Antenna",
+        "icon": "icons/cosmetics/Antenna_Sushi.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "source": {},
+        "foundAt": []
+      },
+      {
+        "key": "AntennaUfo",
+        "itemId": 1791770205,
+        "name": "UFO Antenna",
+        "icon": "icons/cosmetics/Antenna_UFO.webp",
+        "type": {
+          "key": "antenna",
+          "label": "Antenna"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "1731185913",
+            "place": "Crate: UFO Antenna"
+          }
+        ]
+      },
+      {
+        "key": "Bushcables",
+        "itemId": 3117195162,
+        "name": "Bush Cables",
+        "icon": "icons/cosmetics/BushCables.webp",
+        "type": {
+          "key": "bush_cables",
+          "label": "Bush cables"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1955403738",
+            "place": "Crate: Bush Cables"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Funny_Ahooga",
+        "itemId": 3697646922,
+        "name": "Ahooga Horn",
+        "icon": "icons/cosmetics/Ahooga.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2710211854",
+            "place": "Crate: Ahooga Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Animal_BaldEagle",
+        "itemId": 3235940822,
+        "name": "Bald Eagle Horn",
+        "icon": "icons/cosmetics/BaldEagle_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "2417692484",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_1",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_2",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_3",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_4",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_5",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_6",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_7",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_8",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_9",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_10",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_11",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_12",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_13",
+            "place": "Wakefield Switchback Climb"
+          },
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "checkpoint_R1A3_Ridge_2417692484_14",
+            "place": "Wakefield Switchback Climb"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Vehicle_BikeHonk",
+        "itemId": 3930238507,
+        "name": "Bike Horn",
+        "icon": "icons/cosmetics/Bike_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {},
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "2078879044",
+            "place": "Crate: Bike Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Vehicle_Dixie",
+        "itemId": 3749256032,
+        "name": "Dixie Horn",
+        "icon": "icons/cosmetics/Dixie.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2836717815",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_1",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_2",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_3",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_4",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_5",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_6",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_7",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_8",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_9",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_10",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_11",
+            "place": "La Cathédrale Climb"
+          },
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "checkpoint_R2A1_Desert_2836717815_12",
+            "place": "La Cathédrale Climb"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Animal_Elk",
+        "itemId": 2349686661,
+        "name": "Elk Horn",
+        "icon": "icons/cosmetics/Elk_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R1A3_Ridge",
+            "levelName": "Asgard Mountain",
+            "key": "1900350647",
+            "place": "Crate: Elk Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Vehicle_Ferry",
+        "itemId": 3894629903,
+        "name": "Ferry Horn",
+        "icon": "icons/cosmetics/Ferry_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1716829154",
+            "place": "Nerthus Marsh Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Tone_RegHigh1",
+        "itemId": 2982588297,
+        "name": "High-Tone Horn 1",
+        "icon": "icons/cosmetics/High-Tone_Horn_1.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Tone_RegHigh2",
+        "itemId": 4083416283,
+        "name": "High-Tone Horn 2",
+        "icon": "icons/cosmetics/High-Tone_Horn_2.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Vehicle_Icecream",
+        "itemId": 1988518588,
+        "name": "Ice Cream Truck Horn",
+        "icon": "icons/cosmetics/IceCream_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "1112533721",
+            "place": "Crate: Ice Cream Truck Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Funny_Cucaracha",
+        "itemId": 2646395413,
+        "name": "La Cucaracha Horn",
+        "icon": "icons/cosmetics/Cucaracha.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2274202374",
+            "place": "Chebka North Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Tone_Low1",
+        "itemId": 3054536049,
+        "name": "Low-Tone Horn 1",
+        "icon": "icons/cosmetics/Low-Tone_Horn_1.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Tone_Low2",
+        "itemId": 3106137998,
+        "name": "Low-Tone Horn 2",
+        "icon": "icons/cosmetics/Low-Tone_Horn_2.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Tone_Mid1",
+        "itemId": 1058857562,
+        "name": "Mid-Tone Horn 1",
+        "icon": "icons/cosmetics/Mid-Tone_Horn_1.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Tone_Mid2",
+        "itemId": 2292871810,
+        "name": "Mid-Tone Horn 2",
+        "icon": "icons/cosmetics/Mid-Tone_Horn_2.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Tone_Mid3",
+        "itemId": 1952257607,
+        "name": "Mid-Tone Horn 3",
+        "icon": "icons/cosmetics/Mid-Tone_Horn_3.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Tone_Mid4",
+        "itemId": 1271257327,
+        "name": "Mid-Tone Horn 4",
+        "icon": "icons/cosmetics/Mid-Tone_Horn_4.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Tone_Mid5",
+        "itemId": 1600042212,
+        "name": "Mid-Tone Horn 5",
+        "icon": "icons/cosmetics/Mid-Tone_Horn_5.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "source": {
+          "starting": true
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Vehicle_OldBoat",
+        "itemId": 3231319523,
+        "name": "Old Boat Horn",
+        "icon": "icons/cosmetics/OldBoat_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R1A2_Wetlands",
+            "levelName": "Gimli Ridge",
+            "key": "1684265496",
+            "place": "Crate: Old Boat Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Vehicle_OldCar",
+        "itemId": 2833792802,
+        "name": "Old Car Horn",
+        "icon": "icons/cosmetics/OldCar_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2450765315",
+            "place": "Crate: Old Car Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Vehicle_PoliceSiren",
+        "itemId": 2400347625,
+        "name": "Police Siren",
+        "icon": "icons/cosmetics/Police_Siren.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R2A1_Desert",
+            "levelName": "Tassili n'Ajjer Desert",
+            "key": "2012169263",
+            "place": "Crate: Police Siren"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Funny_RChicken",
+        "itemId": 3250223662,
+        "name": "Rubber Chicken Horn",
+        "icon": "icons/cosmetics/RubberChicken_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R2A2_Canyon",
+            "levelName": "Aurès Mountains",
+            "key": "2044125675",
+            "place": "North Jazira Recovery"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Funny_Squeaky",
+        "itemId": 1794962253,
+        "name": "Squeaky Horn",
+        "icon": "icons/cosmetics/Squeaky_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1267671253",
+            "place": "Crate: Squeaky Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Vehicle_Train",
+        "itemId": 1446840145,
+        "name": "Train Horn",
+        "icon": "icons/cosmetics/Train_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1302162358",
+            "place": "Crate: Train Horn"
+          }
+        ]
+      },
+      {
+        "key": "Horn_Animal_WildCat",
+        "itemId": 2826595923,
+        "name": "Wildcat Horn",
+        "icon": "icons/cosmetics/WildCat_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": []
+      },
+      {
+        "key": "Horn_Animal_Wolf",
+        "itemId": 3172462648,
+        "name": "Wolf Horn",
+        "icon": "icons/cosmetics/Wolf_Horn.webp",
+        "type": {
+          "key": "horns",
+          "label": "Horn"
+        },
+        "foundAt": [
+          {
+            "level": "R1A1_Valley",
+            "levelName": "Emerald Lake",
+            "key": "1126868999",
+            "place": "Crate: Wolf Horn"
+          }
+        ]
+      }
+    ],
+    "upgrades": [
+      {
+        "key": "Engine_stage_2",
+        "itemId": 1235344816,
+        "name": "Engine Stage 2",
+        "description": "Increase engine power and reach a higher top speed.",
+        "icon": "icons/upgrades/Engine-2.webp",
+        "type": "Engine",
+        "group": 2,
+        "effect": {
+          "kind": "engine",
+          "tier": 1
+        },
+        "price": 25
+      },
+      {
+        "key": "Engine_stage_3",
+        "itemId": 1457324967,
+        "name": "Engine Stage 3",
+        "description": "Increase engine power and reach a higher top speed.",
+        "icon": "icons/upgrades/Engine-3.webp",
+        "type": "Engine",
+        "group": 2,
+        "effect": {
+          "kind": "engine",
+          "tier": 2
+        },
+        "price": 50
+      },
+      {
+        "key": "Protection_stage_2",
+        "itemId": 1962146421,
+        "name": "Protection Stage 2",
+        "description": "Increases damage resistance.",
+        "icon": "icons/upgrades/Protection-2.webp",
+        "type": "Protection",
+        "group": 11,
+        "effect": {
+          "kind": "protection",
+          "value": 0.8500000238418579
+        },
+        "price": 25
+      },
+      {
+        "key": "Protection_stage_3",
+        "itemId": 2826120212,
+        "name": "Protection Stage 3",
+        "description": "Increases damage resistance.",
+        "icon": "icons/upgrades/Protection-3.webp",
+        "type": "Protection",
+        "group": 11,
+        "effect": {
+          "kind": "protection",
+          "value": 0.699999988079071
+        },
+        "price": 50
+      },
+      {
+        "key": "SuspensionLift_stage_2",
+        "itemId": 3344051035,
+        "name": "Suspension Level 2",
+        "description": "Increases suspension height.",
+        "icon": "icons/upgrades/Suspension-2.webp",
+        "type": "Suspension",
+        "group": 7,
+        "effect": {
+          "kind": "lift",
+          "value": 0.07999999821186066
+        },
+        "price": 25
+      },
+      {
+        "key": "SuspensionLift_stage_3",
+        "itemId": 2707028229,
+        "name": "Suspension Level 3",
+        "description": "Increases suspension height.",
+        "icon": "icons/upgrades/Suspension-3.webp",
+        "type": "Suspension",
+        "group": 7,
+        "effect": {
+          "kind": "lift",
+          "value": 0.1599999964237213
+        },
+        "price": 50
+      },
+      {
+        "key": "Tire_2",
+        "itemId": 2404294194,
+        "name": "Tires Stage 2",
+        "description": "Increases the grip of your tires.",
+        "icon": "icons/upgrades/Tires-2.webp",
+        "type": "Tires",
+        "group": 9,
+        "effect": {
+          "kind": "tire",
+          "tier": 1
+        },
+        "price": 25
+      },
+      {
+        "key": "Tire_3",
+        "itemId": 2299336256,
+        "name": "Tires Stage 3",
+        "description": "Increases the grip of your tires.",
+        "icon": "icons/upgrades/Tires-3.webp",
+        "type": "Tires",
+        "group": 9,
+        "effect": {
+          "kind": "tire",
+          "tier": 2
+        },
+        "price": 50
+      },
+      {
+        "key": "ToolSlot_1",
+        "itemId": 1529577735,
+        "name": "Tool slot",
+        "description": "Allows carrying more tools with you.",
+        "icon": "icons/upgrades/inventory_02.webp",
+        "type": "Inventory",
+        "group": 6,
+        "effect": null,
+        "price": 25
+      },
+      {
+        "key": "ToolSlot_2",
+        "itemId": 1873049924,
+        "name": "Tool slot",
+        "description": "Allows carrying more tools with you.",
+        "icon": "icons/upgrades/inventory_03.webp",
+        "type": "Inventory",
+        "group": 6,
+        "effect": null,
+        "price": 50
+      },
+      {
+        "key": "ToolSlot_3",
+        "itemId": 3002350259,
+        "name": "Tool slot",
+        "description": "Allows carrying more tools with you.",
+        "icon": "icons/upgrades/inventory_04.webp",
+        "type": "Inventory",
+        "group": 6,
+        "effect": null,
+        "price": 75
+      },
+      {
+        "key": "WaterResistance_2",
+        "itemId": 2184154733,
+        "name": "Water Resistance 2",
+        "description": "Increases the water depth and time the engine can withstand before flooding.",
+        "icon": "icons/upgrades/Water-2.webp",
+        "type": "Water Resistance",
+        "group": 8,
+        "effect": {
+          "kind": "water",
+          "value": 1.5
+        },
+        "price": 25
+      },
+      {
+        "key": "WaterResistance_3",
+        "itemId": 3390219457,
+        "name": "Water Resistance 3",
+        "description": "Increases the water depth and time the engine can withstand before flooding.",
+        "icon": "icons/upgrades/Water-3.webp",
+        "type": "Water Resistance",
+        "group": 8,
+        "effect": {
+          "kind": "water",
+          "value": 2
+        },
+        "price": 50
+      },
+      {
+        "key": "Winch_2",
+        "itemId": 2221235084,
+        "name": "Winch Stage 2",
+        "description": "Increases the range of your winch.",
+        "icon": "icons/upgrades/Winch-1.webp",
+        "type": "Winch",
+        "group": 10,
+        "effect": {
+          "kind": "winch",
+          "value": 1.149999976158142
+        },
+        "price": 25
+      },
+      {
+        "key": "Winch_3",
+        "itemId": 2387411355,
+        "name": "Winch Stage 3",
+        "description": "Increases the range of your winch.",
+        "icon": "icons/upgrades/Winch-2.webp",
+        "type": "Winch",
+        "group": 10,
+        "effect": {
+          "kind": "winch",
+          "value": 1.2999999523162842
+        },
+        "price": 50
+      },
+      {
+        "key": "Winch_4",
+        "itemId": 1758494685,
+        "name": "Winch Stage 4",
+        "description": "Increases the range of your winch.",
+        "icon": "icons/upgrades/Winch-3.webp",
+        "type": "Winch",
+        "group": 10,
+        "effect": {
+          "kind": "winch",
+          "value": 1.5
+        },
+        "price": 75
+      }
+    ]
+  }
+}

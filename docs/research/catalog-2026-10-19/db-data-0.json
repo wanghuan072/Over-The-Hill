@@ -1,0 +1,876 @@
+[
+  {
+    "id": "Brick",
+    "itemId": 1691061460,
+    "name": "The Brick",
+    "description": "When it came time to update The Ding, the engineers were given two instructions: make it more comfortable and do not make it worse. The Brick gained a curved windshield, which caused considerable excitement at the factory, along with a little more room and some nicer seats. Underneath, it remained stubbornly committed to being a brick.",
+    "country": "JP",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Brick_Icon",
+    "upgradesList": "Brick_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.550000011920929,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Brick_livery_04"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Japan"
+  },
+  {
+    "id": "Marshal",
+    "itemId": 2266109950,
+    "name": "The Marshal",
+    "description": "Packing a lot of people and equipment into a small footprint meant putting the cab directly over the front wheels. Climbing into The Marshal was awkward enough that the wheel hubs doubled as steps, while the kettle connected to the cooling system ensured nobody had to face a difficult journey without a proper cup of tea.",
+    "country": "GB",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Marshal_Icon",
+    "upgradesList": "Marshal_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Large_More45_WorkTruck",
+    "carConfig": "CarCategory_04_Expedition",
+    "suspension": {
+      "radius": 0.5199999809265137,
+      "inertia": 3.125,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.699999988079071,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 40000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 55.0,
+      "bumpStopRate": 400000.0,
+      "bumpTravelOffset": 0.1599999964237213,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03999999910593033
+    },
+    "defaultLiveries": [
+      "Marshal_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_Kingdom"
+  },
+  {
+    "id": "DingDing",
+    "itemId": 1461055881,
+    "name": "The Ding",
+    "description": "The Ding was a product of the great ruler shortage of 1960, with new presses stamping straight body panels quickly enough to send them just about everywhere. From transporting tofu in Japan to firewood in the Alps, an icon was created.",
+    "country": "JP",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "DingDing_Icon",
+    "upgradesList": "DingDing_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.44999998807907104,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "DingDing_livery_03"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Japan"
+  },
+  {
+    "id": "Roamer",
+    "itemId": 3262308567,
+    "name": "The Roamer",
+    "description": "The Roamer brought more room and a boxier idea of adventure. Its brochure proudly called it aerodynamic, despite a drag coefficient of 0.43, this was technically true in the same way that a brick is more aerodynamic if you round the corners.\\n\\nIt later became an unlikely movie star, carrying tourists through a slightly mismanaged dinosaur park.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Roamer_Icon",
+    "upgradesList": "Roamer_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_02_Wagon",
+    "suspension": {
+      "radius": 0.41999998688697815,
+      "inertia": 2.0,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.5,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 34000.0,
+      "damperRate": 4000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 36.0,
+      "bumpStopRate": 340000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Roamer_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "Burro",
+    "itemId": 1260490138,
+    "name": "The Burro",
+    "description": "Take a proven mountain climber, stretch it out and give it somewhere to carry things. The Burro gained a longer chassis and strengthened rear leaf springs for heavier loads, making it equally happy carrying tools, livestock feed or an unreasonable number of refreshments.",
+    "country": "JP",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Burro_Icon",
+    "upgradesList": "Burro_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_03_Workhorse",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.44999998807907104,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 42000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 420000.0,
+      "bumpTravelOffset": 0.15000000596046448,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03500000014901161
+    },
+    "defaultLiveries": [
+      "Burro_livery_06"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Japan"
+  },
+  {
+    "id": "Bull",
+    "itemId": 1236419262,
+    "name": "The Bull v1",
+    "description": "Inside the factory, The Bull v1 was known simply as G.O.A.T. for its ability to go over any terrain. Apparently that wasn't enough, so the accessory catalogue offered everything from winches and snowploughs to radios and powered equipment, allowing owners to turn The Bull v1 into almost anything except a normal car.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Bull_Icon",
+    "upgradesList": "Bull_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.550000011920929,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Bull_livery_06"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "Grizzly[CatalogExcluded]",
+    "itemId": 2940455280,
+    "name": "Grizzly",
+    "description": "The iconic Italian lightweight.",
+    "country": "IT",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Grizzly_Icon",
+    "upgradesList": "Grizzly_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": null,
+    "carConfig": null,
+    "suspension": {
+      "radius": 0.30000001192092896,
+      "inertia": 1.5,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.25,
+      "suspensionAnchor": 0.5,
+      "springRate": 20000.0,
+      "damperRate": 1500.0,
+      "preloadDistance": 0.009999999776482582,
+      "unsprungMass": 80.0,
+      "bumpStopRate": 180000.0,
+      "bumpTravelOffset": 0.0,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03999999910593033
+    },
+    "defaultLiveries": [
+      "Grizzly_livery_00"
+    ],
+    "catalogExcluded": true,
+    "countryName": "Italy"
+  },
+  {
+    "id": "Woodman",
+    "itemId": 1779250133,
+    "name": "The Woodman",
+    "description": "At a time when four-wheel-drive vehicles were expected to ride like agricultural equipment, The Woodman arrived with comfortable seats, a coffee maker and the radical idea that passengers might enjoy the journey too. Somehow it managed this without forgetting how to get muddy.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Woodman_Icon",
+    "upgradesList": "Woodman_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_02_Wagon",
+    "suspension": {
+      "radius": 0.3799999952316284,
+      "inertia": 1.7000000476837158,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.5,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 34000.0,
+      "damperRate": 4000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 29.0,
+      "bumpStopRate": 340000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Woodman_livery_01"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "Boar",
+    "itemId": 2998940911,
+    "name": "The Boar",
+    "description": "The Boar borrowed its body from a popular city taxi before being given four-wheel drive and much larger shoes. Passengers still flag it down, although the meter reportedly stopped working somewhere around the first river crossing.",
+    "country": "SE",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Boar_Icon",
+    "upgradesList": "Boar_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Large_More45_WorkTruck",
+    "carConfig": "CarCategory_03_Workhorse",
+    "suspension": {
+      "radius": 0.46000000834465027,
+      "inertia": 2.4000000953674316,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.44999998807907104,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 42000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 43.0,
+      "bumpStopRate": 420000.0,
+      "bumpTravelOffset": 0.15000000596046448,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03500000014901161
+    },
+    "defaultLiveries": [
+      "Boar_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Sweden"
+  },
+  {
+    "id": "Timberbox",
+    "itemId": 2098325991,
+    "name": "The Timberbox",
+    "description": "Only a handful of Timberboxes were ever built, combining a heavy four-wheel-drive chassis with an enormous cabin constructed from wood. One enthusiastic carpenter even fitted a small sauna in the back, making for happy passengers when waiting for rescue while stuck.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Timberbox_Icon",
+    "upgradesList": "Timberbox_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_03_Workhorse",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.44999998807907104,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 42000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 420000.0,
+      "bumpTravelOffset": 0.15000000596046448,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03500000014901161
+    },
+    "defaultLiveries": [
+      "Timberbox_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "Tinny",
+    "itemId": 2047734690,
+    "name": "The Tinny",
+    "description": "With steel difficult to obtain, The Tinny used lightweight aluminium for its early panels, which were kept so flat and simple they could largely be folded by hand. Interestingly, they were built in the same factory that also built garden sheds. This explains both its appearance and complete disregard for aerodynamics.",
+    "country": "GB",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Tinny_Icon",
+    "upgradesList": "Tinny_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.550000011920929,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Tinny_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_Kingdom"
+  },
+  {
+    "id": "RustOx",
+    "itemId": 1018520739,
+    "name": "Das Rust Ox",
+    "description": "Das Rust Ox spent its first life moving people and cargo while its diesel engine refused to retire. After retirement, someone added a bed, cupboards, a coffee pot and a shelf specifically engineered to keep biscuits intact on rough roads.",
+    "country": "DE",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "RustOx_Icon",
+    "upgradesList": "RustOx_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Small_Less38_Camper",
+    "carConfig": "CarCategory_03_Workhorse",
+    "suspension": {
+      "radius": 0.36000001430511475,
+      "inertia": 1.5,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.6000000238418579,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 42000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 26.0,
+      "bumpStopRate": 420000.0,
+      "bumpTravelOffset": 0.15000000596046448,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03500000014901161
+    },
+    "defaultLiveries": [
+      "RustOx_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Germany"
+  },
+  {
+    "id": "Wombat",
+    "itemId": 3658652804,
+    "name": "Das Wombat",
+    "description": "Das Wombat was built entirely by hand and shaped mostly with rulers, with a ladder frame and solid axles underneath. It proved so difficult to destroy that people eventually decided something this indestructible deserved leather seats and increased comfort.",
+    "country": "DE",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Wombat_Icon",
+    "upgradesList": "Wombat_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4300000071525574,
+      "inertia": 2.200000047683716,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.550000011920929,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 39.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Wombat_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Germany"
+  },
+  {
+    "id": "GrandWoodman",
+    "itemId": 2033237166,
+    "name": "The Grand Woodman",
+    "description": "Eventually The Woodman grew up, put on some nicer clothes and became The Grand Woodman. Carpeting, softer seats and fancy trim were added over the years, along with dedicated storage for hot chocolate and marshmallows, while underneath it stubbornly continued using much of the same old machinery.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "GrandWoodman_Icon",
+    "upgradesList": "GrandWoodman_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_02_Wagon",
+    "suspension": {
+      "radius": 0.3799999952316284,
+      "inertia": 1.7000000476837158,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.5,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 34000.0,
+      "damperRate": 4000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 29.0,
+      "bumpStopRate": 340000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "GrandWoodman_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "Cumbre",
+    "itemId": 3847423181,
+    "name": "The Cumbre",
+    "description": "A mysterious surplus of glass in America gave The Cumbre 21% more of it than its predecessor, plus large windows and a radio antenna hidden in the windshield. Drivers could see more of the mountains while listening to the weather report telling them not to go there, assuming the antenna picked it up. An auxiliary fuel tank let them get lost considerably farther from home.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Cumbre_Icon",
+    "upgradesList": "Cumbre_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_02_Wagon",
+    "suspension": {
+      "radius": 0.4399999976158142,
+      "inertia": 2.200000047683716,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.5,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 34000.0,
+      "damperRate": 4000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 39.0,
+      "bumpStopRate": 340000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Cumbre_livery_10"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "Protector",
+    "itemId": 1046421331,
+    "name": "The Protector",
+    "description": "Advancements in garden shed technology eventually trickled down to The Protector, bringing coil springs, improved upholstery and a little more comfort. Farmers had long complained that stopping for tea was hurting productivity, so the factory increased onboard hot water-making capacity accordingly.",
+    "country": "GB",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Protector_Icon",
+    "upgradesList": "Protector_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.550000011920929,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Protector_livery_02"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_Kingdom"
+  },
+  {
+    "id": "TrailBurner",
+    "itemId": 2035762699,
+    "name": "The Trail Burner",
+    "description": "Someone took a full-size pickup, shortened it dramatically, moved the cargo area inside and made most of the roof removable. The result left The Trail Burner with plenty of room for camping gear, a large thermos and several days' worth of sandwiches.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "TrailBurner_Icon",
+    "upgradesList": "TrailBurner_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_02_Wagon",
+    "suspension": {
+      "radius": 0.4399999976158142,
+      "inertia": 2.200000047683716,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.5,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 34000.0,
+      "damperRate": 4000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 39.0,
+      "bumpStopRate": 340000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "TrailBurner_livery_06"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "BlastWagon",
+    "itemId": 1808898351,
+    "name": "The Blast Wagon",
+    "description": "The Blast Wagon's cargo bed used a hardwood floor reinforced with steel strips, supposedly after someone accidentally borrowed timber meant for a fancy cabin. Nobody complained, mostly because it turned out to be an excellent place to throw tools, lumber and everything else.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "BlastWagon_Icon",
+    "upgradesList": "BlastWagon_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Large_More45_WorkTruck",
+    "carConfig": "CarCategory_03_Workhorse",
+    "suspension": {
+      "radius": 0.47999998927116394,
+      "inertia": 2.700000047683716,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.44999998807907104,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 42000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 47.0,
+      "bumpStopRate": 420000.0,
+      "bumpTravelOffset": 0.15000000596046448,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03500000014901161
+    },
+    "defaultLiveries": [
+      "BlastWagon_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  },
+  {
+    "id": "Mammoth",
+    "itemId": 1932033467,
+    "name": "Das Mammoth",
+    "description": "Part tractor, part truck and part toolbox, Das Mammoth could haul, tow, plough, run machinery and crawl along almost slower than walking pace. With enough attachments, owners eventually stopped asking what it could do and started asking what it couldn't.",
+    "country": "DE",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Mammoth_Icon",
+    "upgradesList": "Mammoth_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Large_More45_WorkTruck",
+    "carConfig": "CarCategory_04_Expedition",
+    "suspension": {
+      "radius": 0.5199999809265137,
+      "inertia": 3.125,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.699999988079071,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 40000.0,
+      "damperRate": 7000.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 55.0,
+      "bumpStopRate": 400000.0,
+      "bumpTravelOffset": 0.1599999964237213,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03999999910593033
+    },
+    "defaultLiveries": [
+      "Mammoth_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Germany"
+  },
+  {
+    "id": "Baguette[CatalogExcluded]",
+    "itemId": 2077913603,
+    "name": "Rancho",
+    "description": "A distinctive adventure-oriented vehicle that blended everyday practicality with the rugged styling of an off-road machine.",
+    "country": "FR",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Baguette_Icon",
+    "upgradesList": "Baguette_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": null,
+    "carConfig": null,
+    "suspension": {
+      "radius": 0.30000001192092896,
+      "inertia": 1.5,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.25,
+      "suspensionAnchor": 0.5,
+      "springRate": 20000.0,
+      "damperRate": 1500.0,
+      "preloadDistance": 0.009999999776482582,
+      "unsprungMass": 80.0,
+      "bumpStopRate": 180000.0,
+      "bumpTravelOffset": 0.0,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.03999999910593033
+    },
+    "defaultLiveries": [
+      "Baguette_livery_00"
+    ],
+    "catalogExcluded": true,
+    "countryName": "France"
+  },
+  {
+    "id": "Lynx",
+    "itemId": 3404874685,
+    "name": "Das Lynx",
+    "description": "Das Lynx was assembled using an unusual collection of parts that already existed on other cars, including a low first gear for crawling. A few were later sent racing through the desert and did so well that their four-wheel-drive system quietly inspired The Hammer.",
+    "country": "DE",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Lynx_Icon",
+    "upgradesList": "Lynx_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.3499999940395355,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Lynx_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Germany"
+  },
+  {
+    "id": "Polyana",
+    "itemId": 3098383629,
+    "name": "The Polyana",
+    "description": "The Polyana developed a habit of showing up where cars weren't supposed to be. One spent over a decade working in Antarctica, while its longer-legged relatives reached Everest Base Camp and the North Pole. Apparently nobody told them where the road ended.",
+    "country": "RU",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Polyana_Icon",
+    "upgradesList": "Polyana_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Small_Less38_Camper",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.3499999940395355,
+      "inertia": 1.399999976158142,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.4000000059604645,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 26.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Polyana_livery_00"
+    ],
+    "catalogExcluded": false,
+    "countryName": "Russian_Federation"
+  },
+  {
+    "id": "Trailrat",
+    "itemId": 1043242486,
+    "name": "The Trailrat",
+    "description": "The Trailrat began with a simple request: replace the horse. The engineers responded with removable body panels, four-wheel drive and an engine made by essentially chopping a larger one in half. Somehow, all of this worked.",
+    "country": "US",
+    "price": 0,
+    "type": "Vehicle",
+    "icon": "Trailrat_Icon",
+    "upgradesList": "Trailrat_UpgradesLists",
+    "tools": "AllCars_ToolsLists",
+    "tireConfig": "TireConfig_Medium_Crawler",
+    "carConfig": "CarCategory_01_Trail",
+    "suspension": {
+      "radius": 0.4000000059604645,
+      "inertia": 1.7999999523162842,
+      "center": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "suspensionTravel": 0.550000011920929,
+      "suspensionAnchor": 0.4000000059604645,
+      "springRate": 37000.0,
+      "damperRate": 4400.0,
+      "preloadDistance": 0.0,
+      "unsprungMass": 32.0,
+      "bumpStopRate": 370000.0,
+      "bumpTravelOffset": 0.11999999731779099,
+      "numberOfExtraRays": 20,
+      "physicsGroundPenetration": 0.029999999329447746
+    },
+    "defaultLiveries": [
+      "Trailrat_livery_01"
+    ],
+    "catalogExcluded": false,
+    "countryName": "United_States"
+  }
+]

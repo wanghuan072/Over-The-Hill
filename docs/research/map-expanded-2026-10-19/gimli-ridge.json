@@ -1,0 +1,6323 @@
+{
+  "name": "Gimli Ridge",
+  "region": "The Valhallas - Canada",
+  "mapSize": {
+    "x": 4000,
+    "z": 4000,
+    "maxZoom": 8
+  },
+  "layers": [
+    {
+      "dir": "overthehill/levels/R1A2_Wetlands/satellite",
+      "label": "Satellite",
+      "folder": "/satellite",
+      "ext": "webp",
+      "maxZoom": 8,
+      "v": "25806963"
+    },
+    {
+      "dir": "overthehill/levels/R1A2_Wetlands/topographic",
+      "label": "Topographic",
+      "folder": "/topographic",
+      "ext": "webp",
+      "maxZoom": 3,
+      "v": "25806963"
+    }
+  ],
+  "overlays": [
+    {
+      "label": "_HAZARDS",
+      "key": "_HAZARDS",
+      "kind": "ground",
+      "dir": "overthehill/levels/R1A2_Wetlands/hazards/ground",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "061d4414d377d4be",
+      "index": "tiles.json"
+    },
+    {
+      "label": "_HZ_SNOW",
+      "key": "_HZ_DEEP_SNOW",
+      "kind": "snow",
+      "dir": "overthehill/levels/R1A2_Wetlands/hazards/snow",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "4d42a3d919e3e031",
+      "index": "tiles.json"
+    },
+    {
+      "label": "_HZ_ICE",
+      "key": "_HZ_ICE",
+      "kind": "ice",
+      "dir": "overthehill/levels/R1A2_Wetlands/hazards/ice",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "952cdbd708d25410",
+      "index": "tiles.json"
+    },
+    {
+      "label": "_HZ_ROUGH_GROUND",
+      "key": "_HZ_SOFT",
+      "kind": "soft",
+      "dir": "overthehill/levels/R1A2_Wetlands/hazards/soft",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "9f76e22c4b8a7576",
+      "index": "tiles.json"
+    },
+    {
+      "label": "_HZ_WATER",
+      "key": "_HZ_WATER",
+      "kind": "water",
+      "dir": "overthehill/levels/R1A2_Wetlands/hazards/water",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "b5ebb0bb0ada57bb",
+      "index": "tiles.json"
+    }
+  ],
+  "hazardsVersion": "3900f5dd96cb941e",
+  "pinSize": {
+    "w": 44,
+    "h": 54
+  },
+  "refs": {
+    "animal:MountainGoat": {
+      "type": "animal",
+      "animalKey": "MountainGoat",
+      "itemId": 2624703975,
+      "name": "Mountain Goat",
+      "icon": "icons/animals/MountainGoat.webp",
+      "pin": "pins/animal_MountainGoat.webp",
+      "image": "animals/MountainGoat.webp",
+      "class": "Mammal",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Gimli Ridge, Asgard Mountain",
+      "habitat": "Mountain",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:BlackBear": {
+      "type": "animal",
+      "animalKey": "BlackBear",
+      "itemId": 2542451225,
+      "name": "Black Bear",
+      "icon": "icons/animals/BlackBear.webp",
+      "pin": "pins/animal_BlackBear.webp",
+      "image": "animals/BlackBear.webp",
+      "class": "Mammal",
+      "rarity": "Rare",
+      "rarityKey": "rare",
+      "areas": "Emerald Lake, Gimli Ridge",
+      "habitat": "Forest",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime, Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 50,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:MuleDeerMale": {
+      "type": "animal",
+      "animalKey": "MuleDeerMale",
+      "itemId": 1951397390,
+      "name": "Mule Deer",
+      "icon": "icons/animals/MuleDeerMale.webp",
+      "pin": "pins/animal_MuleDeerMale.webp",
+      "image": "animals/MuleDeerMale.webp",
+      "class": "Mammal",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Emerald Lake, Gimli Ridge",
+      "habitat": "Forest, Clearing",
+      "weather": "Dry, Wet",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        },
+        {
+          "label": "Wet",
+          "items": [
+            "Dense Fog",
+            "Light Precipitation",
+            "Heavy Precipitation",
+            "Receding Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime, Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:BighornSheepMale": {
+      "type": "animal",
+      "animalKey": "BighornSheepMale",
+      "itemId": 1725686174,
+      "name": "Bighorn Sheep",
+      "icon": "icons/animals/BighornSheepMale.webp",
+      "pin": "pins/animal_BighornSheepMale.webp",
+      "image": "animals/BighornSheepMale.webp",
+      "class": "Mammal",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Gimli Ridge, Asgard Mountain",
+      "habitat": "Forest, Mountain",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:CanadaGoose": {
+      "type": "animal",
+      "animalKey": "CanadaGoose",
+      "itemId": 2415360431,
+      "name": "Canada Goose",
+      "icon": "icons/animals/CanadaGoose.webp",
+      "pin": "pins/animal_CanadaGoose.webp",
+      "image": "animals/CanadaGoose.webp",
+      "class": "Bird",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Emerald Lake, Gimli Ridge",
+      "habitat": "Wetlands, Lake",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Coyote": {
+      "type": "animal",
+      "animalKey": "Coyote",
+      "itemId": 2048460572,
+      "name": "Coyote",
+      "icon": "icons/animals/Coyote.webp",
+      "pin": "pins/animal_Coyote.webp",
+      "image": "animals/Coyote.webp",
+      "class": "Mammal",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Emerald Lake, Gimli Ridge",
+      "habitat": "Forest, Clearing",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime, Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:CommonRaven": {
+      "type": "animal",
+      "animalKey": "CommonRaven",
+      "itemId": 2225123386,
+      "name": "Common Raven",
+      "icon": "icons/animals/CommonRaven.webp",
+      "pin": "pins/animal_CommonRaven.webp",
+      "image": "animals/CommonRaven.webp",
+      "class": "Bird",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Emerald Lake, Gimli Ridge, Asgard Mountain",
+      "habitat": "Forest, Mountain",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:BaldEagle": {
+      "type": "animal",
+      "animalKey": "BaldEagle",
+      "itemId": 2330246028,
+      "name": "Bald Eagle",
+      "icon": "icons/animals/BaldEagle.webp",
+      "pin": "pins/animal_BaldEagle.webp",
+      "image": "animals/BaldEagle.webp",
+      "class": "Bird",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Gimli Ridge, Asgard Mountain",
+      "habitat": "Lake, Cliff",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Beaver": {
+      "type": "animal",
+      "animalKey": "Beaver",
+      "itemId": 2419144249,
+      "name": "Beaver",
+      "icon": "icons/animals/Beaver.webp",
+      "pin": "pins/animal_Beaver.webp",
+      "image": "animals/Beaver.webp",
+      "class": "Mammal",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Emerald Lake, Gimli Ridge, Asgard Mountain",
+      "habitat": "River",
+      "weather": "Dry, Wet",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        },
+        {
+          "label": "Wet",
+          "items": [
+            "Dense Fog",
+            "Light Precipitation",
+            "Heavy Precipitation",
+            "Receding Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Moose": {
+      "type": "animal",
+      "animalKey": "Moose",
+      "itemId": 2180040503,
+      "name": "Moose",
+      "icon": "icons/animals/Moose.webp",
+      "pin": "pins/animal_Moose.webp",
+      "image": "animals/Moose.webp",
+      "class": "Mammal",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Emerald Lake, Gimli Ridge",
+      "habitat": "Forest, Wetlands",
+      "weather": "Dry, Wet",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        },
+        {
+          "label": "Wet",
+          "items": [
+            "Dense Fog",
+            "Light Precipitation",
+            "Heavy Precipitation",
+            "Receding Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime, Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:GrizzlyBear": {
+      "type": "animal",
+      "animalKey": "GrizzlyBear",
+      "itemId": 2229541244,
+      "name": "Grizzly Bear",
+      "icon": "icons/animals/GrizzlyBear.webp",
+      "pin": "pins/animal_GrizzlyBear.webp",
+      "image": "animals/GrizzlyBear.webp",
+      "class": "Mammal",
+      "rarity": "Rare",
+      "rarityKey": "rare",
+      "areas": "Gimli Ridge, Asgard Mountain",
+      "habitat": "Remote Forest, River, Lake",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Particle Based Clouds",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Dense Clouds",
+            "Distant Storm",
+            "Approaching Storm",
+            "Imminent Storm",
+            "Storm Eye"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 50,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin1": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin1",
+      "name": "Sunset Landing Cabin",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin2": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin2",
+      "name": "Secluded Marsh Bunkie",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin3": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin3",
+      "name": "Nerthus Cabin",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin4": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin4",
+      "name": "Lake View Cabin",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin5": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin5",
+      "name": "Valkyr Lodge",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin6": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin6",
+      "name": "Powder Creek Lodge",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin7": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin7",
+      "name": "Seer Lodge",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin8": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin8",
+      "name": "Mount Gibson Lodge",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R1A2_Cabin9": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R1A2_Cabin9",
+      "name": "Whitecap Alpine Lodge",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 1": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 1",
+      "name": "Crate: Bull Bar Type 6 - Black",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bullbar_01_LightsSquare",
+          "name": "Bull Bar Type 6 - Black",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2468692344",
+          "icon": "icons/cosmetics/Bullbar_type_2_Square_Lights.webp",
+          "image": null,
+          "type": "Front Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 10": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 10",
+      "name": "Crate: Mountain Rescue",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Rescue",
+          "name": "Mountain Rescue",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1871196454",
+          "icon": "icons/cosmetics/Roofrack_Mountain_Rescue.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        },
+        {
+          "key": "Rescue_Bed",
+          "name": "Mountain Rescue",
+          "count": 1,
+          "hidden": true,
+          "progress": "cosmetic:3126085195",
+          "icon": "icons/cosmetics/PickupBed_Mountain_Rescue.webp",
+          "image": null,
+          "type": "Bed",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 11": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 11",
+      "name": "Crate: Old Boat Horn",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Vehicle_OldBoat",
+          "name": "Old Boat Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3231319523",
+          "icon": "icons/cosmetics/OldBoat_Horn.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 12": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 12",
+      "name": "Crate: Beacon Bar - Red",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Lights_BeaconBar_Red",
+          "name": "Beacon Bar - Red",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2485859301",
+          "icon": "icons/cosmetics/Rooflights_Beacon_Bar.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 13": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 13",
+      "name": "Crate: Rear-Mounted Grill",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "MountedGrill",
+          "name": "Rear-Mounted Grill",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2666376772",
+          "icon": "icons/cosmetics/Rear_Mount_Grill.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 14": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 14",
+      "name": "Crate: Axe",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Side_Tool_Axe",
+          "name": "Axe",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2041092171",
+          "icon": "icons/cosmetics/Side_Axe.webp",
+          "image": null,
+          "type": "Side Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 15": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 15",
+      "name": "Crate: Bull Bar Type 5 - Black",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bullbar_01_LightsRound",
+          "name": "Bull Bar Type 5 - Black",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1613960288",
+          "icon": "icons/cosmetics/Bullbar_Type_2_Round_Lights.webp",
+          "image": null,
+          "type": "Front Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 16": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 16",
+      "name": "Crate: Hood-Mounted Spare Wheel",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Sparewheel_Hood",
+          "name": "Hood-Mounted Spare Wheel",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3003061624",
+          "icon": "icons/cosmetics/Hood_Spare_Wheel.webp",
+          "image": null,
+          "type": "Hood",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 2": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 2",
+      "name": "Crate: Bull Bar Type 4 - White",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bullbar_02",
+          "name": "Bull Bar Type 4 - White",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2740750955",
+          "icon": "icons/cosmetics/Bullbar_Type_2.webp",
+          "image": null,
+          "type": "Front Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 3": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 3",
+      "name": "Crate: Traveler’s Spare Wheel",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Sparewheel_Trasheroo",
+          "name": "Traveler’s Spare Wheel",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2771653254",
+          "icon": "icons/cosmetics/Rear_Spare_Wheel_Storage_Bag.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 4": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 4",
+      "name": "Crate: Bear Plushie Antenna",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "AntennaPlushBear",
+          "name": "Bear Plushie Antenna",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1390508814",
+          "icon": "icons/cosmetics/Antenna_Bear_Plushie.webp",
+          "image": null,
+          "type": "Antenna",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 5": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 5",
+      "name": "Crate: Beacon Bar - Amber",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Lights_BeaconBar_Amber",
+          "name": "Beacon Bar - Amber",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1341452526",
+          "icon": "icons/cosmetics/Rooflights_Beacon_Bar.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 6": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 6",
+      "name": "Crate: Mudflaps - Black",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Mudflap_01",
+          "name": "Mudflaps - Black",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2508501354",
+          "icon": "icons/cosmetics/Fender_Mudflap.webp",
+          "image": null,
+          "type": "Fenders",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 7": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 7",
+      "name": "Crate: Mudflaps - Yellow",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Mudflap_04",
+          "name": "Mudflaps - Yellow",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2310985251",
+          "icon": "icons/cosmetics/Fender_Mudflap.webp",
+          "image": null,
+          "type": "Fenders",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 8": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 8",
+      "name": "Crate: Lucky Charm Antenna",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "AntennaLuckyCharm",
+          "name": "Lucky Charm Antenna",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2272615151",
+          "icon": "icons/cosmetics/Antenna_Lucky_Charm.webp",
+          "image": null,
+          "type": "Antenna",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R1A2_Generic 9": {
+      "type": "crate",
+      "poiKey": "mission_generic_R1A2_Generic 9",
+      "name": "Crate: Rooftop Air Horns",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "AirHorns",
+          "name": "Rooftop Air Horns",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1668824796",
+          "icon": "icons/cosmetics/Rooflights_Air_Horns.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_trail_2122516905": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2122516905",
+      "totalCheckpoints": 6,
+      "name": "Fraser Research Boardwalk",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Boat",
+          "name": "Boat",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2814541033",
+          "icon": "icons/cosmetics/Boat.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 3,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_1913081803": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_1913081803",
+      "totalCheckpoints": 9,
+      "name": "Waddington Scree Trail",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "RustOx",
+          "name": "Das Rust Ox",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:1018520739",
+          "icon": null,
+          "image": "vehicles/RustOx.webp",
+          "slug": "das-rust-ox",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 40,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 8,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_1293743245": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_1293743245",
+      "totalCheckpoints": 30,
+      "name": "Bridal Veil Falls Climb",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Brick",
+          "name": "The Brick",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:1691061460",
+          "icon": null,
+          "image": "vehicles/Brick.webp",
+          "slug": "the-brick",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_1677088208": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_1677088208",
+      "totalCheckpoints": 20,
+      "name": "Windcall Gorge Trail",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "BlastWagon",
+          "name": "The Blast Wagon",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:1808898351",
+          "icon": null,
+          "image": "vehicles/BlastWagon.webp",
+          "slug": "the-blast-wagon",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_2166847824": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2166847824",
+      "totalCheckpoints": 11,
+      "name": "Elvis Rim Trail",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Polyana",
+          "name": "The Polyana",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:3098383629",
+          "icon": null,
+          "image": "vehicles/Polyana.webp",
+          "slug": "the-polyana",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 40,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 8,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "meteorite": {
+      "type": "meteorite",
+      "description": "An object fallen from the sky. \nIt seems to be stuck on the ground.",
+      "tip": "Explore the world in search of meteorites. At night you can see their glow from afar. \nExtract them with the winch to earn Pebbles and upgrade your vehicle.",
+      "sizes": [
+        {
+          "name": "Very small meteorite",
+          "pebbles": 15,
+          "players": 1,
+          "spawn": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Small meteorite",
+          "pebbles": 20,
+          "players": 1,
+          "spawn": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Medium meteorite",
+          "pebbles": 30,
+          "players": 1,
+          "spawn": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Large meteorite",
+          "pebbles": 40,
+          "players": 2,
+          "spawn": [
+            2,
+            3
+          ]
+        },
+        {
+          "name": "Very large meteorite",
+          "pebbles": 50,
+          "players": 2,
+          "spawn": [
+            2,
+            4
+          ]
+        },
+        {
+          "name": "Huge meteorite",
+          "pebbles": 60,
+          "players": 3,
+          "spawn": [
+            3,
+            4
+          ]
+        },
+        {
+          "name": "Very huge meteorite",
+          "pebbles": 80,
+          "players": 4,
+          "spawn": [
+            4,
+            4
+          ]
+        }
+      ],
+      "video": "videos/meteorite",
+      "radar": {
+        "name": "Meteorite Radar",
+        "description": "The meteorite radar can help you find meteorites!",
+        "icon": "icons/tools/radar.webp"
+      }
+    },
+    "poi:mission_scenic_R1A2_Scenic 1": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 1",
+      "name": "Fisherman's Cove",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R1A2_Scenic 2": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 2",
+      "name": "Clark Watchtower",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R1A2_Scenic 3": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 3",
+      "name": "Nerthus Observation Tower",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R1A2_Scenic 4": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 4",
+      "name": "Beatrice Ridge",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R1A2_Scenic 5": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 5",
+      "name": "Murray Peak",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R1A2_Scenic 6": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 6",
+      "name": "Mímisbrunnr Lake Overlook",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R1A2_Scenic 7": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 7",
+      "name": "Lucy Chapman Lake View",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R1A2_Scenic 8": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R1A2_Scenic 8",
+      "name": "Mount Robinson Viewpoint",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_recovery_R1A2_Recovery 1": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R1A2_Recovery 1",
+      "name": "Glasir Wood Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Tent",
+          "name": "Expedition Tent",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2376616555",
+          "icon": "icons/cosmetics/Roofrack_Rooftent.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        },
+        {
+          "key": "Tent_Bed",
+          "name": "Expedition Tent",
+          "count": 1,
+          "hidden": true,
+          "progress": "cosmetic:2513861343",
+          "icon": "icons/cosmetics/PickupBed_Tent.webp",
+          "image": null,
+          "type": "Bed",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R1A2_Recovery 2": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R1A2_Recovery 2",
+      "name": "Nerthus Marsh Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Vehicle_Ferry",
+          "name": "Ferry Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3894629903",
+          "icon": "icons/cosmetics/Ferry_Horn.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:merchant_R1A2_Wetlands": {
+      "type": "merchant",
+      "poiKey": "merchant_R1A2_Wetlands",
+      "name": "Crazy Günther",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:portal_R1A2_EntryPortal": {
+      "type": "portal",
+      "poiKey": "portal_R1A2_EntryPortal",
+      "name": "Ferry to the Mountain",
+      "mechanics": [],
+      "rewards": [],
+      "repeatRewards": [],
+      "destination": {
+        "key": "R1A1_Valley",
+        "label": "Emerald Lake",
+        "route": "overthehill-levels-R1A1_Valley",
+        "loc": "2349692358"
+      }
+    },
+    "poi:portal_R1A2_ExitPortal": {
+      "type": "portal",
+      "poiKey": "portal_R1A2_ExitPortal",
+      "name": "Tunnel to Asgard Mountain",
+      "mechanics": [],
+      "rewards": [],
+      "repeatRewards": [],
+      "destination": {
+        "key": "R1A3_Ridge",
+        "label": "Asgard Mountain",
+        "route": "overthehill-levels-R1A3_Ridge",
+        "loc": "2776394955"
+      }
+    }
+  },
+  "markerLayers": [
+    {
+      "id": "animal",
+      "label": "Animals",
+      "icon": "icons/polaroid.webp",
+      "pin": "pins/polaroid.webp",
+      "markers": [
+        {
+          "key": "animal_R1A2_Wetlands_1572682818",
+          "position": {
+            "x": 671.67,
+            "y": 330.32,
+            "z": 642.99
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1359377144",
+          "position": {
+            "x": -561.46,
+            "y": 54.38,
+            "z": -1006.68
+          },
+          "ref": {
+            "id": "animal:BlackBear"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_139844058",
+          "position": {
+            "x": -409.12,
+            "y": 49.97,
+            "z": -851.26
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3151776115",
+          "position": {
+            "x": -825.95,
+            "y": 34.61,
+            "z": -1668.01
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1721171611",
+          "position": {
+            "x": -1050.8,
+            "y": 171.79,
+            "z": -236.62
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1330366452",
+          "position": {
+            "x": 1259.77,
+            "y": 251.91,
+            "z": -539.75
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1457940150",
+          "position": {
+            "x": -999.01,
+            "y": 56.45,
+            "z": -1127.6
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3392254744",
+          "position": {
+            "x": -387.77,
+            "y": 25,
+            "z": -1608.53
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2599408172",
+          "position": {
+            "x": -1437.75,
+            "y": 24.69,
+            "z": -1407.25
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_167312440",
+          "position": {
+            "x": -50.38,
+            "y": 33.8,
+            "z": -926.01
+          },
+          "ref": {
+            "id": "animal:Coyote"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_914484034",
+          "position": {
+            "x": -1126.66,
+            "y": 35.18,
+            "z": -1489.81
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_188848792",
+          "position": {
+            "x": 671.98,
+            "y": 466.04,
+            "z": 1251
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2870007366",
+          "position": {
+            "x": 284.07,
+            "y": 320.8,
+            "z": 463.69
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2864515718",
+          "position": {
+            "x": -1671.49,
+            "y": 67.95,
+            "z": 103.38
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1490200667",
+          "position": {
+            "x": 581.05,
+            "y": 41.2,
+            "z": -1072.7
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1607143203",
+          "position": {
+            "x": 212,
+            "y": 409.25,
+            "z": 460.5
+          },
+          "ref": {
+            "id": "animal:BaldEagle"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3099986638",
+          "position": {
+            "x": 672.31,
+            "y": 460.04,
+            "z": 1227.7
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1705595209",
+          "position": {
+            "x": -752.38,
+            "y": 280.97,
+            "z": 153.87
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4092062721",
+          "position": {
+            "x": -524.45,
+            "y": 194.99,
+            "z": -72.49
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1446704862",
+          "position": {
+            "x": -1227.29,
+            "y": 26.23,
+            "z": -1508.61
+          },
+          "ref": {
+            "id": "animal:Coyote"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2877791696",
+          "position": {
+            "x": -780.28,
+            "y": 46.65,
+            "z": -1134.13
+          },
+          "ref": {
+            "id": "animal:Coyote"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_777445472",
+          "position": {
+            "x": 462.55,
+            "y": 208.2,
+            "z": -136.76
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2577247531",
+          "position": {
+            "x": 338.34,
+            "y": 311.73,
+            "z": 233.97
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1696722989",
+          "position": {
+            "x": -861.03,
+            "y": 25.38,
+            "z": -603.28
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3969121688",
+          "position": {
+            "x": -892.92,
+            "y": 229.2,
+            "z": 608.27
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1599933440",
+          "position": {
+            "x": -608.89,
+            "y": 24.64,
+            "z": -1362.7
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_487936670",
+          "position": {
+            "x": 1312.54,
+            "y": 236.59,
+            "z": -589.72
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3165376772",
+          "position": {
+            "x": 322.28,
+            "y": 359.84,
+            "z": 917.3
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2077019982",
+          "position": {
+            "x": 1397.26,
+            "y": 320.88,
+            "z": -469.41
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2847617220",
+          "position": {
+            "x": 333.63,
+            "y": 360.73,
+            "z": 919.9
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2929019384",
+          "position": {
+            "x": 692.38,
+            "y": 333.72,
+            "z": 663.74
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1339842362",
+          "position": {
+            "x": 339.91,
+            "y": 362.08,
+            "z": 930.08
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4012550320",
+          "position": {
+            "x": -397.75,
+            "y": 25,
+            "z": -1604.82
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3984048327",
+          "position": {
+            "x": -610.88,
+            "y": 33.6,
+            "z": -1676.8
+          },
+          "ref": {
+            "id": "animal:Coyote"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2374901357",
+          "position": {
+            "x": -712.35,
+            "y": 34.7,
+            "z": -1681.31
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_734939972",
+          "position": {
+            "x": 276.57,
+            "y": 327.1,
+            "z": 567.4
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_374851278",
+          "position": {
+            "x": -708.4,
+            "y": 69.4,
+            "z": -305.5
+          },
+          "ref": {
+            "id": "animal:BaldEagle"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_694062167",
+          "position": {
+            "x": -655.18,
+            "y": 36.66,
+            "z": -1718.19
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1754727521",
+          "position": {
+            "x": 635.49,
+            "y": 476.66,
+            "z": 1237.74
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2676527022",
+          "position": {
+            "x": 216.45,
+            "y": 25.5,
+            "z": -530.96
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_20661425",
+          "position": {
+            "x": -418.26,
+            "y": 42.89,
+            "z": -1696.32
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3086792771",
+          "position": {
+            "x": -1276.39,
+            "y": 225.5,
+            "z": 496.15
+          },
+          "ref": {
+            "id": "animal:BlackBear"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_157837274",
+          "position": {
+            "x": -776.19,
+            "y": 50,
+            "z": -1708.44
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1407034850",
+          "position": {
+            "x": 1334.89,
+            "y": 304.96,
+            "z": -489.5
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_523640517",
+          "position": {
+            "x": -1130.83,
+            "y": 35.54,
+            "z": -1496.52
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2982415574",
+          "position": {
+            "x": -1284.09,
+            "y": 28.49,
+            "z": -605.56
+          },
+          "ref": {
+            "id": "animal:Moose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3126125585",
+          "position": {
+            "x": -1083.91,
+            "y": 25,
+            "z": -1291.52
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3866956608",
+          "position": {
+            "x": -820.95,
+            "y": 34.43,
+            "z": -1666.85
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1751741204",
+          "position": {
+            "x": -514.75,
+            "y": 271.44,
+            "z": 669.5
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3505997321",
+          "position": {
+            "x": -781.06,
+            "y": 30,
+            "z": -1616.78
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1611492113",
+          "position": {
+            "x": -1020.5,
+            "y": 174.2,
+            "z": -300.93
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2904915199",
+          "position": {
+            "x": -95.87,
+            "y": 48.42,
+            "z": -844.2
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1995950075",
+          "position": {
+            "x": -881.84,
+            "y": 25.29,
+            "z": -613.11
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2313041246",
+          "position": {
+            "x": -221.31,
+            "y": 274.13,
+            "z": 288.94
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_317059642",
+          "position": {
+            "x": -977.75,
+            "y": 26.2,
+            "z": -765.5
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3726972406",
+          "position": {
+            "x": 654,
+            "y": 462,
+            "z": 1225.75
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3135726071",
+          "position": {
+            "x": 101.25,
+            "y": 78.45,
+            "z": -295.01
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2674751722",
+          "position": {
+            "x": 1179.12,
+            "y": 251.43,
+            "z": -533.88
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1343533085",
+          "position": {
+            "x": -996.91,
+            "y": 56.53,
+            "z": -1128.97
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3302310518",
+          "position": {
+            "x": 474,
+            "y": 28.5,
+            "z": -470.25
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2078015902",
+          "position": {
+            "x": -624.24,
+            "y": 25,
+            "z": -1350.78
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3317016894",
+          "position": {
+            "x": -1231.81,
+            "y": 217.74,
+            "z": 454.5
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2362288101",
+          "position": {
+            "x": 1083.1,
+            "y": 144.5,
+            "z": -822.6
+          },
+          "ref": {
+            "id": "animal:BaldEagle"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3708483679",
+          "position": {
+            "x": 243.54,
+            "y": 375.3,
+            "z": 925.57
+          },
+          "ref": {
+            "id": "animal:GrizzlyBear"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_74218963",
+          "position": {
+            "x": 231.59,
+            "y": 25.97,
+            "z": -1336.17
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_82333324",
+          "position": {
+            "x": -1073.44,
+            "y": 167.28,
+            "z": -242.96
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4263551275",
+          "position": {
+            "x": -1417.68,
+            "y": 24.83,
+            "z": -1412.65
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3104854682",
+          "position": {
+            "x": 286.13,
+            "y": 319.53,
+            "z": 556.94
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_619392998",
+          "position": {
+            "x": -388.35,
+            "y": 25,
+            "z": -1603.77
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4004781202",
+          "position": {
+            "x": -1364.59,
+            "y": 31.41,
+            "z": -1659.53
+          },
+          "ref": {
+            "id": "animal:BlackBear"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2690819387",
+          "position": {
+            "x": -1316.06,
+            "y": 30.19,
+            "z": -1586.9
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1145071630",
+          "position": {
+            "x": -1049.03,
+            "y": 176.43,
+            "z": -268.52
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_74651789",
+          "position": {
+            "x": 239.55,
+            "y": 351.98,
+            "z": 606.03
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2187660392",
+          "position": {
+            "x": 243.04,
+            "y": 333.41,
+            "z": 547.47
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2349285409",
+          "position": {
+            "x": 620.21,
+            "y": 44.51,
+            "z": -702.41
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3493451852",
+          "position": {
+            "x": 1187.36,
+            "y": 248.1,
+            "z": -543.98
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4285091484",
+          "position": {
+            "x": 212.5,
+            "y": 25.3,
+            "z": -533
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1486238289",
+          "position": {
+            "x": 33.38,
+            "y": 354.71,
+            "z": 795.39
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4150158108",
+          "position": {
+            "x": -1295.83,
+            "y": 24.72,
+            "z": -1361.98
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3772195372",
+          "position": {
+            "x": 276.88,
+            "y": 323.16,
+            "z": 469.32
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_113405566",
+          "position": {
+            "x": -1121.72,
+            "y": 231.4,
+            "z": 510.54
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2099702106",
+          "position": {
+            "x": 500.44,
+            "y": 199.53,
+            "z": -160.19
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2683855653",
+          "position": {
+            "x": 35,
+            "y": 354.94,
+            "z": 800.37
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2423879725",
+          "position": {
+            "x": 507.33,
+            "y": 198.91,
+            "z": -159.22
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3451482370",
+          "position": {
+            "x": -465.5,
+            "y": 26,
+            "z": -1368.5
+          },
+          "ref": {
+            "id": "animal:Moose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2910101236",
+          "position": {
+            "x": 294.88,
+            "y": 313.37,
+            "z": 535.09
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1392232692",
+          "position": {
+            "x": 469.1,
+            "y": 25.56,
+            "z": -480.1
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1953577326",
+          "position": {
+            "x": 460.77,
+            "y": 208.45,
+            "z": -133.94
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1701441893",
+          "position": {
+            "x": -412.71,
+            "y": 48.63,
+            "z": -857.21
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_845633097",
+          "position": {
+            "x": -1761.47,
+            "y": 27.68,
+            "z": 48.23
+          },
+          "ref": {
+            "id": "animal:Moose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3395522037",
+          "position": {
+            "x": 428.16,
+            "y": 417.92,
+            "z": 999.66
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3513123557",
+          "position": {
+            "x": -1497.07,
+            "y": 128.91,
+            "z": 148.86
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2221036532",
+          "position": {
+            "x": 1495.7,
+            "y": 290.8,
+            "z": -495.7
+          },
+          "ref": {
+            "id": "animal:BaldEagle"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2779647409",
+          "position": {
+            "x": 1376.2,
+            "y": 310.11,
+            "z": -457.42
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2930739382",
+          "position": {
+            "x": 1260.15,
+            "y": 254.08,
+            "z": -527.85
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1578780133",
+          "position": {
+            "x": -1464.12,
+            "y": 24.75,
+            "z": -1507.56
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3410689166",
+          "position": {
+            "x": 1362.04,
+            "y": 310.07,
+            "z": -449.92
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3496045905",
+          "position": {
+            "x": -1359.45,
+            "y": 25.49,
+            "z": -1419.52
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_229520482",
+          "position": {
+            "x": 448.66,
+            "y": 417.99,
+            "z": 989.51
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3618453961",
+          "position": {
+            "x": -641.98,
+            "y": 25,
+            "z": -1341.98
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1505365563",
+          "position": {
+            "x": 361.73,
+            "y": 309.76,
+            "z": 228.19
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_141187453",
+          "position": {
+            "x": 311.85,
+            "y": 309.41,
+            "z": 549.81
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_492710326",
+          "position": {
+            "x": -773.62,
+            "y": 46.17,
+            "z": -1614.43
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1078491627",
+          "position": {
+            "x": -531.41,
+            "y": 196.63,
+            "z": -65.63
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1653204236",
+          "position": {
+            "x": 948.5,
+            "y": 40,
+            "z": -1108.25
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2124008860",
+          "position": {
+            "x": -35.26,
+            "y": 25.27,
+            "z": -699.4
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3303108166",
+          "position": {
+            "x": -271.62,
+            "y": 236.45,
+            "z": 186.1
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4115463789",
+          "position": {
+            "x": 371.55,
+            "y": 369.64,
+            "z": 860.52
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3378166099",
+          "position": {
+            "x": -1254.67,
+            "y": 220.87,
+            "z": 420.19
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3477794932",
+          "position": {
+            "x": 1309.14,
+            "y": 235,
+            "z": -593.93
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1069332765",
+          "position": {
+            "x": -18.96,
+            "y": 38.24,
+            "z": -1537.36
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2500171138",
+          "position": {
+            "x": -1045.52,
+            "y": 176.49,
+            "z": -259.49
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1220556732",
+          "position": {
+            "x": -521.66,
+            "y": 194.91,
+            "z": -67.9
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1439200037",
+          "position": {
+            "x": 1342.69,
+            "y": 305.87,
+            "z": -485.35
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1987831421",
+          "position": {
+            "x": -94.74,
+            "y": 48.86,
+            "z": -824.2
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3031858390",
+          "position": {
+            "x": -600.36,
+            "y": 32.74,
+            "z": -1671.73
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1087495402",
+          "position": {
+            "x": 668.87,
+            "y": 325.88,
+            "z": 655.76
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1814828572",
+          "position": {
+            "x": -486.53,
+            "y": 27.27,
+            "z": -1651.59
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_966319182",
+          "position": {
+            "x": -31.94,
+            "y": 25,
+            "z": -700.68
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1536234717",
+          "position": {
+            "x": -463,
+            "y": 25.59,
+            "z": -1371
+          },
+          "ref": {
+            "id": "animal:Moose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1764252765",
+          "position": {
+            "x": 1556.75,
+            "y": 289.91,
+            "z": -437.39
+          },
+          "ref": {
+            "id": "animal:GrizzlyBear"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1523523596",
+          "position": {
+            "x": -1084.45,
+            "y": 25,
+            "z": -1286.83
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2261766035",
+          "position": {
+            "x": 1338.9,
+            "y": 304.47,
+            "z": -477.03
+          },
+          "ref": {
+            "id": "animal:BighornSheepMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1542968200",
+          "position": {
+            "x": 1202.4,
+            "y": 249.71,
+            "z": -536.13
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1351485010",
+          "position": {
+            "x": -908.17,
+            "y": 45.91,
+            "z": -998.44
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3163268154",
+          "position": {
+            "x": -775.39,
+            "y": 29.35,
+            "z": -1605.54
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4005857502",
+          "position": {
+            "x": -1010.89,
+            "y": 41.71,
+            "z": -507.57
+          },
+          "ref": {
+            "id": "animal:Coyote"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3980446432",
+          "position": {
+            "x": 568.57,
+            "y": 123.5,
+            "z": -369.87
+          },
+          "ref": {
+            "id": "animal:BaldEagle"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_635921521",
+          "position": {
+            "x": 1205.04,
+            "y": 249.57,
+            "z": -536.64
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3757371161",
+          "position": {
+            "x": -1480.7,
+            "y": 130.8,
+            "z": 183.2
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2006405568",
+          "position": {
+            "x": -1329.6,
+            "y": 67,
+            "z": -1260.5
+          },
+          "ref": {
+            "id": "animal:BaldEagle"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_557262432",
+          "position": {
+            "x": -707.59,
+            "y": 46.42,
+            "z": -1669.44
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2139145536",
+          "position": {
+            "x": -1561.39,
+            "y": 96.46,
+            "z": 177.59
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2844295268",
+          "position": {
+            "x": -704.1,
+            "y": 35.05,
+            "z": -1684.15
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1354416975",
+          "position": {
+            "x": -870,
+            "y": 25.48,
+            "z": -591.29
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2149953015",
+          "position": {
+            "x": 188.89,
+            "y": 26.19,
+            "z": -542.91
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2078495934",
+          "position": {
+            "x": -953.5,
+            "y": 25.75,
+            "z": -748
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3011983125",
+          "position": {
+            "x": -1464,
+            "y": 24.54,
+            "z": -1512.75
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2335754283",
+          "position": {
+            "x": 1008.38,
+            "y": 491.3,
+            "z": 1624.48
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3669401749",
+          "position": {
+            "x": 379.69,
+            "y": 309.4,
+            "z": 268.65
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_962328269",
+          "position": {
+            "x": -123.58,
+            "y": 49.5,
+            "z": -828.62
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1848287584",
+          "position": {
+            "x": 106,
+            "y": 381.5,
+            "z": 819
+          },
+          "ref": {
+            "id": "animal:BaldEagle"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1319166985",
+          "position": {
+            "x": -905.38,
+            "y": 45.16,
+            "z": -995.6
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_604679564",
+          "position": {
+            "x": -1445.53,
+            "y": 25.08,
+            "z": -1547.05
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3513355485",
+          "position": {
+            "x": 665.54,
+            "y": 325.88,
+            "z": 648.23
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_163134156",
+          "position": {
+            "x": -825.03,
+            "y": 214.51,
+            "z": 637.39
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3511199152",
+          "position": {
+            "x": -863.96,
+            "y": 25.33,
+            "z": -598.06
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2571169891",
+          "position": {
+            "x": 243.3,
+            "y": 344.24,
+            "z": 592.05
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1171670233",
+          "position": {
+            "x": 581.8,
+            "y": 28.33,
+            "z": -1026.92
+          },
+          "ref": {
+            "id": "animal:Moose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_869818735",
+          "position": {
+            "x": 362.32,
+            "y": 309.22,
+            "z": 348.86
+          },
+          "ref": {
+            "id": "animal:GrizzlyBear"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2811310672",
+          "position": {
+            "x": -86.24,
+            "y": 46.12,
+            "z": -861.63
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3843412108",
+          "position": {
+            "x": 545.9,
+            "y": 36.17,
+            "z": -1295.1
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3885276484",
+          "position": {
+            "x": -520.54,
+            "y": 271.65,
+            "z": 671.24
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3014191528",
+          "position": {
+            "x": 179.46,
+            "y": 28.19,
+            "z": -1417.7
+          },
+          "ref": {
+            "id": "animal:Moose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2817694606",
+          "position": {
+            "x": 340.67,
+            "y": 311.77,
+            "z": 228.83
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3020407237",
+          "position": {
+            "x": -557.6,
+            "y": 270.85,
+            "z": 738.7
+          },
+          "ref": {
+            "id": "animal:Coyote"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_221324357",
+          "position": {
+            "x": -638.1,
+            "y": 29.68,
+            "z": -1625.67
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_473173513",
+          "position": {
+            "x": -102.58,
+            "y": 47.29,
+            "z": -854.32
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2516508687",
+          "position": {
+            "x": -497.79,
+            "y": 26.85,
+            "z": -1641.18
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3035752466",
+          "position": {
+            "x": -1427.19,
+            "y": 24.79,
+            "z": -1415.11
+          },
+          "ref": {
+            "id": "animal:CanadaGoose"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4076552475",
+          "position": {
+            "x": 328.79,
+            "y": 367.94,
+            "z": 954.53
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1970468791",
+          "position": {
+            "x": -1373.9,
+            "y": 212.18,
+            "z": 375.51
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1562894630",
+          "position": {
+            "x": -28.09,
+            "y": 25.3,
+            "z": -697.33
+          },
+          "ref": {
+            "id": "animal:Beaver"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1245014412",
+          "position": {
+            "x": 316.86,
+            "y": 361.09,
+            "z": 928.15
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1346104827",
+          "position": {
+            "x": -1194.98,
+            "y": 31.22,
+            "z": -1530.7
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_2395946340",
+          "position": {
+            "x": -486.91,
+            "y": 279.13,
+            "z": 695.51
+          },
+          "ref": {
+            "id": "animal:CommonRaven"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_4093436390",
+          "position": {
+            "x": -1248.39,
+            "y": 29.83,
+            "z": -1565.62
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_3963655417",
+          "position": {
+            "x": -779.03,
+            "y": 29.46,
+            "z": -1609.5
+          },
+          "ref": {
+            "id": "animal:MuleDeerMale"
+          }
+        },
+        {
+          "key": "animal_R1A2_Wetlands_1234356212",
+          "position": {
+            "x": 386.53,
+            "y": 370.6,
+            "z": 842.94
+          },
+          "ref": {
+            "id": "animal:MountainGoat"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cabin",
+      "label": "Cabin",
+      "icon": "icons/cabin.webp",
+      "pin": "pins/cabin.webp",
+      "markers": [
+        {
+          "key": "1750341430",
+          "itemId": 1750341430,
+          "position": {
+            "x": -280.62,
+            "y": 28.5,
+            "z": -749.38
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin1"
+          }
+        },
+        {
+          "key": "1688272994",
+          "itemId": 1688272994,
+          "position": {
+            "x": 68.5,
+            "y": 38.3,
+            "z": -1360
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin2"
+          }
+        },
+        {
+          "key": "1689746922",
+          "itemId": 1689746922,
+          "position": {
+            "x": -961.75,
+            "y": 40.26,
+            "z": -1463.93
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin3"
+          }
+        },
+        {
+          "key": "2786927816",
+          "itemId": 2786927816,
+          "position": {
+            "x": -324.17,
+            "y": 34.67,
+            "z": -386.25
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin4"
+          }
+        },
+        {
+          "key": "2196576037",
+          "itemId": 2196576037,
+          "position": {
+            "x": 632.45,
+            "y": 109.78,
+            "z": -498.26
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin5"
+          }
+        },
+        {
+          "key": "1247617841",
+          "itemId": 1247617841,
+          "position": {
+            "x": 461.6,
+            "y": 317.42,
+            "z": 195.3
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin6"
+          }
+        },
+        {
+          "key": "2813951711",
+          "itemId": 2813951711,
+          "position": {
+            "x": -263,
+            "y": 358.12,
+            "z": 570.39
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin7"
+          }
+        },
+        {
+          "key": "1746949483",
+          "itemId": 1746949483,
+          "position": {
+            "x": -1114.41,
+            "y": 295.6,
+            "z": 256.71
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin8"
+          }
+        },
+        {
+          "key": "1923376065",
+          "itemId": 1923376065,
+          "position": {
+            "x": 892.56,
+            "y": 397.21,
+            "z": 1283.17
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R1A2_Cabin9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crate",
+      "label": "Point of Interest",
+      "icon": "icons/generic_poi.webp",
+      "pin": "pins/generic_poi.webp",
+      "markers": [
+        {
+          "key": "2394188356",
+          "itemId": 2394188356,
+          "position": {
+            "x": -484.78,
+            "y": 26.32,
+            "z": -717.93
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 1"
+          }
+        },
+        {
+          "key": "2141545027",
+          "itemId": 2141545027,
+          "position": {
+            "x": 385,
+            "y": 31.03,
+            "z": -1550.14
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 10"
+          }
+        },
+        {
+          "key": "1684265496",
+          "itemId": 1684265496,
+          "position": {
+            "x": -1607.06,
+            "y": 171.41,
+            "z": 325.69
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 11"
+          }
+        },
+        {
+          "key": "2387518341",
+          "itemId": 2387518341,
+          "position": {
+            "x": -297.08,
+            "y": 282.11,
+            "z": 365.42
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 12"
+          }
+        },
+        {
+          "key": "1711060605",
+          "itemId": 1711060605,
+          "position": {
+            "x": 243.42,
+            "y": 391.45,
+            "z": 1435.12
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 13"
+          }
+        },
+        {
+          "key": "1719891549",
+          "itemId": 1719891549,
+          "position": {
+            "x": 656.92,
+            "y": 461.18,
+            "z": 1233.15
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 14"
+          }
+        },
+        {
+          "key": "2279434991",
+          "itemId": 2279434991,
+          "position": {
+            "x": 357.74,
+            "y": 309.63,
+            "z": 653.93
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 15"
+          }
+        },
+        {
+          "key": "1531597370",
+          "itemId": 1531597370,
+          "position": {
+            "x": 1480.91,
+            "y": 183.08,
+            "z": -766.48
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 16"
+          }
+        },
+        {
+          "key": "1352081072",
+          "itemId": 1352081072,
+          "position": {
+            "x": -282.35,
+            "y": 69.37,
+            "z": -1009.9
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 2"
+          }
+        },
+        {
+          "key": "1720953584",
+          "itemId": 1720953584,
+          "position": {
+            "x": -424.83,
+            "y": 30.1,
+            "z": -466.8
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 3"
+          }
+        },
+        {
+          "key": "2391169344",
+          "itemId": 2391169344,
+          "position": {
+            "x": -1403.71,
+            "y": 33.37,
+            "z": -454.57
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 4"
+          }
+        },
+        {
+          "key": "2701059746",
+          "itemId": 2701059746,
+          "position": {
+            "x": -1298.5,
+            "y": 39.22,
+            "z": -1141.25
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 5"
+          }
+        },
+        {
+          "key": "1336871965",
+          "itemId": 1336871965,
+          "position": {
+            "x": -655.24,
+            "y": 36.05,
+            "z": -1722.96
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 6"
+          }
+        },
+        {
+          "key": "2498181916",
+          "itemId": 2498181916,
+          "position": {
+            "x": -1606.28,
+            "y": 45.35,
+            "z": -1535.16
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 7"
+          }
+        },
+        {
+          "key": "1671525984",
+          "itemId": 1671525984,
+          "position": {
+            "x": 588.84,
+            "y": 25.21,
+            "z": -1091.61
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 8"
+          }
+        },
+        {
+          "key": "2787096912",
+          "itemId": 2787096912,
+          "position": {
+            "x": 339.07,
+            "y": 25.64,
+            "z": -727.43
+          },
+          "ref": {
+            "id": "poi:mission_generic_R1A2_Generic 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trail",
+      "label": "Challenge trail",
+      "icon": "icons/trail.webp",
+      "pin": "pins/trail.webp",
+      "routes": [
+        {
+          "key": "mission_trail_2122516905",
+          "itemId": 2122516905,
+          "name": "Fraser Research Boardwalk",
+          "waypoints": [
+            {
+              "key": "2122516905",
+              "position": {
+                "x": -261.11,
+                "y": 28.31,
+                "z": -1306.3
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2122516905_1",
+              "position": {
+                "x": -289.58,
+                "y": 28.39,
+                "z": -1312.05
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2122516905_2",
+              "position": {
+                "x": -316.41,
+                "y": 28.35,
+                "z": -1329.8
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2122516905_3",
+              "position": {
+                "x": -356.45,
+                "y": 28.45,
+                "z": -1322.27
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2122516905_4",
+              "position": {
+                "x": -401.3,
+                "y": 28.3,
+                "z": -1301.97
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2122516905_5",
+              "position": {
+                "x": -423.6,
+                "y": 28.38,
+                "z": -1307.38
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_1913081803",
+          "itemId": 1913081803,
+          "name": "Waddington Scree Trail",
+          "waypoints": [
+            {
+              "key": "1913081803",
+              "position": {
+                "x": -538.96,
+                "y": 155.91,
+                "z": 181.68
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_1",
+              "position": {
+                "x": -550.79,
+                "y": 170.91,
+                "z": 126.05
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_2",
+              "position": {
+                "x": -543.52,
+                "y": 187.2,
+                "z": 80.55
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_3",
+              "position": {
+                "x": -579.61,
+                "y": 203.74,
+                "z": 125.4
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_4",
+              "position": {
+                "x": -591.34,
+                "y": 206.07,
+                "z": 131.41
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_5",
+              "position": {
+                "x": -605.16,
+                "y": 215.08,
+                "z": 83.31
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_6",
+              "position": {
+                "x": -635.05,
+                "y": 220.34,
+                "z": 82.1
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_7",
+              "position": {
+                "x": -647.55,
+                "y": 226.28,
+                "z": 57.37
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1913081803_8",
+              "position": {
+                "x": -691.58,
+                "y": 208.44,
+                "z": 14.12
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_1293743245",
+          "itemId": 1293743245,
+          "name": "Bridal Veil Falls Climb",
+          "waypoints": [
+            {
+              "key": "1293743245",
+              "position": {
+                "x": 636.22,
+                "y": 110.26,
+                "z": -409.74
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_1",
+              "position": {
+                "x": 602.06,
+                "y": 122.86,
+                "z": -334.02
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_2",
+              "position": {
+                "x": 636.1,
+                "y": 133.91,
+                "z": -340.05
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_3",
+              "position": {
+                "x": 638.18,
+                "y": 150.23,
+                "z": -291.73
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_4",
+              "position": {
+                "x": 607.2,
+                "y": 153.88,
+                "z": -286.9
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_5",
+              "position": {
+                "x": 579.17,
+                "y": 162.36,
+                "z": -255.08
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_6",
+              "position": {
+                "x": 512.2,
+                "y": 173.23,
+                "z": -246.55
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_7",
+              "position": {
+                "x": 451.68,
+                "y": 178.91,
+                "z": -240.42
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_8",
+              "position": {
+                "x": 415.43,
+                "y": 181.33,
+                "z": -228
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_9",
+              "position": {
+                "x": 457.87,
+                "y": 193.32,
+                "z": -205.16
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_10",
+              "position": {
+                "x": 501.79,
+                "y": 200.1,
+                "z": -212.06
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_11",
+              "position": {
+                "x": 536.51,
+                "y": 192.87,
+                "z": -226.43
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_12",
+              "position": {
+                "x": 571.09,
+                "y": 190.5,
+                "z": -190
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_13",
+              "position": {
+                "x": 524.18,
+                "y": 197.8,
+                "z": -152.43
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_14",
+              "position": {
+                "x": 499.18,
+                "y": 198.89,
+                "z": -181.34
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_15",
+              "position": {
+                "x": 453.02,
+                "y": 207.35,
+                "z": -152.74
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_16",
+              "position": {
+                "x": 441.82,
+                "y": 212.27,
+                "z": -113.04
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_17",
+              "position": {
+                "x": 446.07,
+                "y": 219.61,
+                "z": -65.95
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_18",
+              "position": {
+                "x": 493.1,
+                "y": 225.23,
+                "z": -46.68
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_19",
+              "position": {
+                "x": 480.98,
+                "y": 228.54,
+                "z": -88.86
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_20",
+              "position": {
+                "x": 535.47,
+                "y": 238.3,
+                "z": -37.23
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_21",
+              "position": {
+                "x": 524.59,
+                "y": 244.7,
+                "z": -13.53
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_22",
+              "position": {
+                "x": 441.12,
+                "y": 247.53,
+                "z": 1.57
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_23",
+              "position": {
+                "x": 391.72,
+                "y": 263.93,
+                "z": 19.16
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_24",
+              "position": {
+                "x": 428.77,
+                "y": 275.16,
+                "z": 69.23
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_25",
+              "position": {
+                "x": 444.05,
+                "y": 284.74,
+                "z": 120.84
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_26",
+              "position": {
+                "x": 477.01,
+                "y": 294.01,
+                "z": 132.32
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_27",
+              "position": {
+                "x": 464.23,
+                "y": 299.69,
+                "z": 146.64
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_28",
+              "position": {
+                "x": 425.95,
+                "y": 305.72,
+                "z": 170.37
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1293743245_29",
+              "position": {
+                "x": 415.65,
+                "y": 310.41,
+                "z": 199.87
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_1677088208",
+          "itemId": 1677088208,
+          "name": "Windcall Gorge Trail",
+          "waypoints": [
+            {
+              "key": "1677088208",
+              "position": {
+                "x": 716.15,
+                "y": 26.95,
+                "z": -1482.83
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_1",
+              "position": {
+                "x": 721.49,
+                "y": 26.18,
+                "z": -1510.8
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_2",
+              "position": {
+                "x": 746.89,
+                "y": 26.04,
+                "z": -1532.5
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_3",
+              "position": {
+                "x": 777.89,
+                "y": 25.95,
+                "z": -1564.3
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_4",
+              "position": {
+                "x": 811.09,
+                "y": 25.95,
+                "z": -1561.8
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_5",
+              "position": {
+                "x": 839.79,
+                "y": 25.95,
+                "z": -1593.4
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_6",
+              "position": {
+                "x": 883.99,
+                "y": 25.95,
+                "z": -1577.8
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_7",
+              "position": {
+                "x": 932.79,
+                "y": 25.58,
+                "z": -1572.7
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_8",
+              "position": {
+                "x": 960.89,
+                "y": 24.86,
+                "z": -1577.44
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_9",
+              "position": {
+                "x": 1001.39,
+                "y": 24.98,
+                "z": -1593.1
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_10",
+              "position": {
+                "x": 1044.99,
+                "y": 26.05,
+                "z": -1602.2
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_11",
+              "position": {
+                "x": 1084.39,
+                "y": 25.29,
+                "z": -1608.1
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_12",
+              "position": {
+                "x": 1127.39,
+                "y": 26.77,
+                "z": -1618.5
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_13",
+              "position": {
+                "x": 1176.64,
+                "y": 31.05,
+                "z": -1585.71
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_14",
+              "position": {
+                "x": 1213.79,
+                "y": 45.34,
+                "z": -1549.08
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_15",
+              "position": {
+                "x": 1256.49,
+                "y": 53.44,
+                "z": -1559.82
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_16",
+              "position": {
+                "x": 1266.64,
+                "y": 64.23,
+                "z": -1628.99
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_17",
+              "position": {
+                "x": 1237,
+                "y": 61.38,
+                "z": -1649.91
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_18",
+              "position": {
+                "x": 1199.46,
+                "y": 54.25,
+                "z": -1657.96
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_1677088208_19",
+              "position": {
+                "x": 1165.44,
+                "y": 47.56,
+                "z": -1645.75
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_2166847824",
+          "itemId": 2166847824,
+          "name": "Elvis Rim Trail",
+          "waypoints": [
+            {
+              "key": "2166847824",
+              "position": {
+                "x": -223.86,
+                "y": 363.03,
+                "z": 579.29
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_1",
+              "position": {
+                "x": -179.76,
+                "y": 364.9,
+                "z": 542.04
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_2",
+              "position": {
+                "x": -151.77,
+                "y": 372.25,
+                "z": 488.09
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_3",
+              "position": {
+                "x": -93.2,
+                "y": 378.61,
+                "z": 450.83
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_4",
+              "position": {
+                "x": -52.15,
+                "y": 372.23,
+                "z": 423.59
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_5",
+              "position": {
+                "x": 34.15,
+                "y": 382.72,
+                "z": 419.34
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_6",
+              "position": {
+                "x": 104.26,
+                "y": 396.63,
+                "z": 444.94
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_7",
+              "position": {
+                "x": 151.49,
+                "y": 408.99,
+                "z": 468.24
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_8",
+              "position": {
+                "x": 144.1,
+                "y": 406.35,
+                "z": 533.83
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_9",
+              "position": {
+                "x": 159.21,
+                "y": 391.63,
+                "z": 594.33
+              }
+            },
+            {
+              "key": "checkpoint_R1A2_Wetlands_2166847824_10",
+              "position": {
+                "x": 102.29,
+                "y": 392.54,
+                "z": 658.98
+              }
+            }
+          ]
+        }
+      ],
+      "markers": [
+        {
+          "key": "2122516905",
+          "position": {
+            "x": -261.11,
+            "y": 28.31,
+            "z": -1306.3
+          },
+          "ref": {
+            "id": "poi:mission_trail_2122516905",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2122516905_1",
+          "position": {
+            "x": -289.58,
+            "y": 28.39,
+            "z": -1312.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_2122516905",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2122516905_2",
+          "position": {
+            "x": -316.41,
+            "y": 28.35,
+            "z": -1329.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_2122516905",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2122516905_3",
+          "position": {
+            "x": -356.45,
+            "y": 28.45,
+            "z": -1322.27
+          },
+          "ref": {
+            "id": "poi:mission_trail_2122516905",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2122516905_4",
+          "position": {
+            "x": -401.3,
+            "y": 28.3,
+            "z": -1301.97
+          },
+          "ref": {
+            "id": "poi:mission_trail_2122516905",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2122516905_5",
+          "position": {
+            "x": -423.6,
+            "y": 28.38,
+            "z": -1307.38
+          },
+          "ref": {
+            "id": "poi:mission_trail_2122516905",
+            "order": 5
+          }
+        },
+        {
+          "key": "1913081803",
+          "position": {
+            "x": -538.96,
+            "y": 155.91,
+            "z": 181.68
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_1",
+          "position": {
+            "x": -550.79,
+            "y": 170.91,
+            "z": 126.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_2",
+          "position": {
+            "x": -543.52,
+            "y": 187.2,
+            "z": 80.55
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_3",
+          "position": {
+            "x": -579.61,
+            "y": 203.74,
+            "z": 125.4
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_4",
+          "position": {
+            "x": -591.34,
+            "y": 206.07,
+            "z": 131.41
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_5",
+          "position": {
+            "x": -605.16,
+            "y": 215.08,
+            "z": 83.31
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_6",
+          "position": {
+            "x": -635.05,
+            "y": 220.34,
+            "z": 82.1
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_7",
+          "position": {
+            "x": -647.55,
+            "y": 226.28,
+            "z": 57.37
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1913081803_8",
+          "position": {
+            "x": -691.58,
+            "y": 208.44,
+            "z": 14.12
+          },
+          "ref": {
+            "id": "poi:mission_trail_1913081803",
+            "order": 8
+          }
+        },
+        {
+          "key": "1293743245",
+          "position": {
+            "x": 636.22,
+            "y": 110.26,
+            "z": -409.74
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_1",
+          "position": {
+            "x": 602.06,
+            "y": 122.86,
+            "z": -334.02
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_2",
+          "position": {
+            "x": 636.1,
+            "y": 133.91,
+            "z": -340.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_3",
+          "position": {
+            "x": 638.18,
+            "y": 150.23,
+            "z": -291.73
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_4",
+          "position": {
+            "x": 607.2,
+            "y": 153.88,
+            "z": -286.9
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_5",
+          "position": {
+            "x": 579.17,
+            "y": 162.36,
+            "z": -255.08
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_6",
+          "position": {
+            "x": 512.2,
+            "y": 173.23,
+            "z": -246.55
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_7",
+          "position": {
+            "x": 451.68,
+            "y": 178.91,
+            "z": -240.42
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_8",
+          "position": {
+            "x": 415.43,
+            "y": 181.33,
+            "z": -228
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_9",
+          "position": {
+            "x": 457.87,
+            "y": 193.32,
+            "z": -205.16
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_10",
+          "position": {
+            "x": 501.79,
+            "y": 200.1,
+            "z": -212.06
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_11",
+          "position": {
+            "x": 536.51,
+            "y": 192.87,
+            "z": -226.43
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_12",
+          "position": {
+            "x": 571.09,
+            "y": 190.5,
+            "z": -190
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_13",
+          "position": {
+            "x": 524.18,
+            "y": 197.8,
+            "z": -152.43
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 13
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_14",
+          "position": {
+            "x": 499.18,
+            "y": 198.89,
+            "z": -181.34
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 14
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_15",
+          "position": {
+            "x": 453.02,
+            "y": 207.35,
+            "z": -152.74
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 15
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_16",
+          "position": {
+            "x": 441.82,
+            "y": 212.27,
+            "z": -113.04
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 16
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_17",
+          "position": {
+            "x": 446.07,
+            "y": 219.61,
+            "z": -65.95
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 17
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_18",
+          "position": {
+            "x": 493.1,
+            "y": 225.23,
+            "z": -46.68
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 18
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_19",
+          "position": {
+            "x": 480.98,
+            "y": 228.54,
+            "z": -88.86
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 19
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_20",
+          "position": {
+            "x": 535.47,
+            "y": 238.3,
+            "z": -37.23
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 20
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_21",
+          "position": {
+            "x": 524.59,
+            "y": 244.7,
+            "z": -13.53
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 21
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_22",
+          "position": {
+            "x": 441.12,
+            "y": 247.53,
+            "z": 1.57
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 22
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_23",
+          "position": {
+            "x": 391.72,
+            "y": 263.93,
+            "z": 19.16
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 23
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_24",
+          "position": {
+            "x": 428.77,
+            "y": 275.16,
+            "z": 69.23
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 24
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_25",
+          "position": {
+            "x": 444.05,
+            "y": 284.74,
+            "z": 120.84
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 25
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_26",
+          "position": {
+            "x": 477.01,
+            "y": 294.01,
+            "z": 132.32
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 26
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_27",
+          "position": {
+            "x": 464.23,
+            "y": 299.69,
+            "z": 146.64
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 27
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_28",
+          "position": {
+            "x": 425.95,
+            "y": 305.72,
+            "z": 170.37
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 28
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1293743245_29",
+          "position": {
+            "x": 415.65,
+            "y": 310.41,
+            "z": 199.87
+          },
+          "ref": {
+            "id": "poi:mission_trail_1293743245",
+            "order": 29
+          }
+        },
+        {
+          "key": "1677088208",
+          "position": {
+            "x": 716.15,
+            "y": 26.95,
+            "z": -1482.83
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_1",
+          "position": {
+            "x": 721.49,
+            "y": 26.18,
+            "z": -1510.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_2",
+          "position": {
+            "x": 746.89,
+            "y": 26.04,
+            "z": -1532.5
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_3",
+          "position": {
+            "x": 777.89,
+            "y": 25.95,
+            "z": -1564.3
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_4",
+          "position": {
+            "x": 811.09,
+            "y": 25.95,
+            "z": -1561.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_5",
+          "position": {
+            "x": 839.79,
+            "y": 25.95,
+            "z": -1593.4
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_6",
+          "position": {
+            "x": 883.99,
+            "y": 25.95,
+            "z": -1577.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_7",
+          "position": {
+            "x": 932.79,
+            "y": 25.58,
+            "z": -1572.7
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_8",
+          "position": {
+            "x": 960.89,
+            "y": 24.86,
+            "z": -1577.44
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_9",
+          "position": {
+            "x": 1001.39,
+            "y": 24.98,
+            "z": -1593.1
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_10",
+          "position": {
+            "x": 1044.99,
+            "y": 26.05,
+            "z": -1602.2
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_11",
+          "position": {
+            "x": 1084.39,
+            "y": 25.29,
+            "z": -1608.1
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_12",
+          "position": {
+            "x": 1127.39,
+            "y": 26.77,
+            "z": -1618.5
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_13",
+          "position": {
+            "x": 1176.64,
+            "y": 31.05,
+            "z": -1585.71
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 13
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_14",
+          "position": {
+            "x": 1213.79,
+            "y": 45.34,
+            "z": -1549.08
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 14
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_15",
+          "position": {
+            "x": 1256.49,
+            "y": 53.44,
+            "z": -1559.82
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 15
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_16",
+          "position": {
+            "x": 1266.64,
+            "y": 64.23,
+            "z": -1628.99
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 16
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_17",
+          "position": {
+            "x": 1237,
+            "y": 61.38,
+            "z": -1649.91
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 17
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_18",
+          "position": {
+            "x": 1199.46,
+            "y": 54.25,
+            "z": -1657.96
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 18
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_1677088208_19",
+          "position": {
+            "x": 1165.44,
+            "y": 47.56,
+            "z": -1645.75
+          },
+          "ref": {
+            "id": "poi:mission_trail_1677088208",
+            "order": 19
+          }
+        },
+        {
+          "key": "2166847824",
+          "position": {
+            "x": -223.86,
+            "y": 363.03,
+            "z": 579.29
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_1",
+          "position": {
+            "x": -179.76,
+            "y": 364.9,
+            "z": 542.04
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_2",
+          "position": {
+            "x": -151.77,
+            "y": 372.25,
+            "z": 488.09
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_3",
+          "position": {
+            "x": -93.2,
+            "y": 378.61,
+            "z": 450.83
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_4",
+          "position": {
+            "x": -52.15,
+            "y": 372.23,
+            "z": 423.59
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_5",
+          "position": {
+            "x": 34.15,
+            "y": 382.72,
+            "z": 419.34
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_6",
+          "position": {
+            "x": 104.26,
+            "y": 396.63,
+            "z": 444.94
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_7",
+          "position": {
+            "x": 151.49,
+            "y": 408.99,
+            "z": 468.24
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_8",
+          "position": {
+            "x": 144.1,
+            "y": 406.35,
+            "z": 533.83
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_9",
+          "position": {
+            "x": 159.21,
+            "y": 391.63,
+            "z": 594.33
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R1A2_Wetlands_2166847824_10",
+          "position": {
+            "x": 102.29,
+            "y": 392.54,
+            "z": 658.98
+          },
+          "ref": {
+            "id": "poi:mission_trail_2166847824",
+            "order": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "meteorite",
+      "label": "Meteorite",
+      "icon": "icons/meteor_white.webp",
+      "pin": "pins/meteor_white.webp",
+      "markers": [
+        {
+          "key": "meteorite_R1A2_Wetlands_3",
+          "position": {
+            "x": -868.64,
+            "y": 326.46,
+            "z": 268.78
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_4",
+          "position": {
+            "x": -1534.13,
+            "y": 25.56,
+            "z": -257.73
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_7",
+          "position": {
+            "x": -270.52,
+            "y": 328.82,
+            "z": 663.85
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_25",
+          "position": {
+            "x": -439.56,
+            "y": 69.4,
+            "z": -1093.23
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_18",
+          "position": {
+            "x": 509.33,
+            "y": 275.03,
+            "z": 52.71
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_14",
+          "position": {
+            "x": -36.85,
+            "y": 343.01,
+            "z": 278.24
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_28",
+          "position": {
+            "x": -846.38,
+            "y": 54.93,
+            "z": -1124.52
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_15",
+          "position": {
+            "x": -239.17,
+            "y": 199.5,
+            "z": 29.33
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_19",
+          "position": {
+            "x": 1366.57,
+            "y": 346.13,
+            "z": -401.04
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_20",
+          "position": {
+            "x": 1594.09,
+            "y": 313.25,
+            "z": -363.53
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_12",
+          "position": {
+            "x": 172.78,
+            "y": 405.61,
+            "z": 477.77
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_27",
+          "position": {
+            "x": -1230.98,
+            "y": 68.61,
+            "z": -985.63
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_17",
+          "position": {
+            "x": 283.73,
+            "y": 25.4,
+            "z": -595.12
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_6",
+          "position": {
+            "x": -1296.92,
+            "y": 30.62,
+            "z": -614.73
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_31",
+          "position": {
+            "x": -849.81,
+            "y": 218.67,
+            "z": -66.98
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_5",
+          "position": {
+            "x": -844.8,
+            "y": 98.36,
+            "z": -286.27
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_23",
+          "position": {
+            "x": 393.66,
+            "y": 50.42,
+            "z": -876.66
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_22",
+          "position": {
+            "x": 1127.36,
+            "y": 27.59,
+            "z": -1571.91
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_16",
+          "position": {
+            "x": 106.81,
+            "y": 68.28,
+            "z": -297.47
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_26",
+          "position": {
+            "x": -387.05,
+            "y": 36.66,
+            "z": -1759.92
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_30",
+          "position": {
+            "x": -1730.57,
+            "y": 25.32,
+            "z": -1236.19
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_13",
+          "position": {
+            "x": -232.53,
+            "y": 256.23,
+            "z": 235.23
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_10",
+          "position": {
+            "x": 632.45,
+            "y": 357.05,
+            "z": 902.52
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_1",
+          "position": {
+            "x": -1320.34,
+            "y": 230.55,
+            "z": 449.51
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_11",
+          "position": {
+            "x": 535.42,
+            "y": 315.14,
+            "z": 469.28
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_2",
+          "position": {
+            "x": -1531.53,
+            "y": 101.72,
+            "z": 99.13
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_8",
+          "position": {
+            "x": 192.35,
+            "y": 395,
+            "z": 1493.01
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_24",
+          "position": {
+            "x": 423.84,
+            "y": 25.12,
+            "z": -1200.42
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_9",
+          "position": {
+            "x": 823.04,
+            "y": 454.3,
+            "z": 1642.74
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_29",
+          "position": {
+            "x": -1172.06,
+            "y": 34.82,
+            "z": -1577.7
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R1A2_Wetlands_21",
+          "position": {
+            "x": 645.77,
+            "y": 45.92,
+            "z": -1294.87
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenic",
+      "label": "Scenic Point",
+      "icon": "icons/scenic_point.webp",
+      "pin": "pins/scenic_point.webp",
+      "markers": [
+        {
+          "key": "2579130062",
+          "itemId": 2579130062,
+          "position": {
+            "x": -738.9,
+            "y": 29.52,
+            "z": -451.7
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 1"
+          }
+        },
+        {
+          "key": "2376834603",
+          "itemId": 2376834603,
+          "position": {
+            "x": -1047.18,
+            "y": 176.98,
+            "z": -315.93
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 2"
+          }
+        },
+        {
+          "key": "2069096790",
+          "itemId": 2069096790,
+          "position": {
+            "x": 52.69,
+            "y": 35.97,
+            "z": -1232.88
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 3"
+          }
+        },
+        {
+          "key": "1552449317",
+          "itemId": 1552449317,
+          "position": {
+            "x": -379.09,
+            "y": 185.69,
+            "z": -115.99
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 4"
+          }
+        },
+        {
+          "key": "2832948104",
+          "itemId": 2832948104,
+          "position": {
+            "x": -834.16,
+            "y": 331.84,
+            "z": 246.26
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 5"
+          }
+        },
+        {
+          "key": "1962295277",
+          "itemId": 1962295277,
+          "position": {
+            "x": -66,
+            "y": 441.03,
+            "z": 1005.03
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 6"
+          }
+        },
+        {
+          "key": "2388548199",
+          "itemId": 2388548199,
+          "position": {
+            "x": 436.7,
+            "y": 309.26,
+            "z": 332.9
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 7"
+          }
+        },
+        {
+          "key": "2067196769",
+          "itemId": 2067196769,
+          "position": {
+            "x": 1397.94,
+            "y": 320.06,
+            "z": -463.93
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R1A2_Scenic 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "label": "Item Recovery",
+      "icon": "icons/item_recovery.webp",
+      "pin": "pins/item_recovery.webp",
+      "markers": [
+        {
+          "key": "2579221576",
+          "itemId": 2579221576,
+          "position": {
+            "x": -1386.07,
+            "y": 28.54,
+            "z": -1589.85
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R1A2_Recovery 1"
+          }
+        },
+        {
+          "key": "1716829154",
+          "itemId": 1716829154,
+          "position": {
+            "x": 975.54,
+            "y": 26.95,
+            "z": -957.64
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R1A2_Recovery 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "merchant",
+      "label": "Mechanic",
+      "icon": "icons/merchant.webp",
+      "pin": "pins/merchant.webp",
+      "markers": [
+        {
+          "key": "4053512632",
+          "itemId": 4053512632,
+          "position": {
+            "x": 680.66,
+            "y": 34.21,
+            "z": -725.51
+          },
+          "ref": {
+            "id": "poi:merchant_R1A2_Wetlands"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portal",
+      "label": "Portal",
+      "icon": "icons/portal.webp",
+      "pin": "pins/portal.webp",
+      "markers": [
+        {
+          "key": "2281158188",
+          "itemId": 2281158188,
+          "position": {
+            "x": -249.8,
+            "y": 23.02,
+            "z": -649.97
+          },
+          "ref": {
+            "id": "poi:portal_R1A2_EntryPortal"
+          }
+        },
+        {
+          "key": "2454176252",
+          "itemId": 2454176252,
+          "position": {
+            "x": 1070.09,
+            "y": 504.12,
+            "z": 1707.15
+          },
+          "ref": {
+            "id": "poi:portal_R1A2_ExitPortal"
+          }
+        }
+      ]
+    }
+  ]
+}

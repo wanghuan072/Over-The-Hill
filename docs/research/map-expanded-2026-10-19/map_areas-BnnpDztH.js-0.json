@@ -1,0 +1,2335 @@
+{
+  "worldBounds": {
+    "minX": -2000.0,
+    "maxX": 2000.0,
+    "minZ": -2000.0,
+    "maxZ": 2000.0
+  },
+  "markers": [
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -548.0,
+        "y": 105.5,
+        "z": 442.2
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 342.2,
+        "y": 36.0,
+        "z": -1776.8
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 29
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -955.6,
+        "y": 206.8,
+        "z": 1446.6
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 12
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -69.9,
+        "y": 62.7,
+        "z": -538.6
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -982.2,
+        "y": 114.2,
+        "z": 23.2
+      },
+      "area": "R2A1",
+      "name": "SaharanCheetah",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 423.3,
+        "y": 69.4,
+        "z": -194.0
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 305.0,
+        "y": 93.9,
+        "z": -110.8
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 97.9,
+        "y": 55.2,
+        "z": -521.4
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1474.2,
+        "y": 83.1,
+        "z": -423.7
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 7
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 741.7,
+        "y": 113.1,
+        "z": 451.0
+      },
+      "area": "R2A1",
+      "name": "Fennec FoxI",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -468.0,
+        "y": 100.7,
+        "z": 388.1
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 23
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 84.5,
+        "y": 57.0,
+        "z": -1652.1
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 962.9,
+        "y": 103.5,
+        "z": 1547.2
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 42
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -621.0,
+        "y": 107.0,
+        "z": 656.8
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 91.0,
+        "y": 57.0,
+        "z": -1650.3
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1010.7,
+        "y": 45.6,
+        "z": 701.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -688.3,
+        "y": 106.8,
+        "z": 653.9
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -87.8,
+        "y": 54.8,
+        "z": -550.4
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1052.7,
+        "y": 71.9,
+        "z": -1398.3
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 2
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1076.8,
+        "y": 42.5,
+        "z": 717.4
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 368.1,
+        "y": 67.2,
+        "z": 558.5
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 455.0,
+        "y": 66.9,
+        "z": 179.7
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1262.2,
+        "y": 51.5,
+        "z": -642.6
+      },
+      "area": "R2A1",
+      "name": "Fennec FoxI",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -1305.9,
+        "y": 90.0,
+        "z": -1165.8
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 2"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1702.7,
+        "y": 56.4,
+        "z": -1238.9
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 34
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -231.1,
+        "y": 51.5,
+        "z": -827.4
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -595.0,
+        "y": 109.9,
+        "z": 635.9
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 222.3,
+        "y": 69.0,
+        "z": -441.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -722.4,
+        "y": 150.0,
+        "z": -904.7
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 46
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1343.8,
+        "y": 137.4,
+        "z": 1413.8
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 82.1,
+        "y": 57.0,
+        "z": -1645.7
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -950.9,
+        "y": 183.7,
+        "z": 351.5
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -584.4,
+        "y": 105.4,
+        "z": 409.0
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 883.8,
+        "y": 126.2,
+        "z": 710.0
+      },
+      "area": "R2A1",
+      "name": "EgyptianVulture",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -693.9,
+        "y": 109.5,
+        "z": 598.3
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -968.7,
+        "y": 68.3,
+        "z": -451.6
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 6
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 87.3,
+        "y": 57.0,
+        "z": -1646.8
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -952.6,
+        "y": 75.2,
+        "z": -1573.3
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 1"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 462.3,
+        "y": 66.0,
+        "z": 162.4
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 20
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 974.5,
+        "y": 45.3,
+        "z": 721.8
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 326.8,
+        "y": 83.7,
+        "z": -154.2
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -344.2,
+        "y": 131.5,
+        "z": 59.1
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 45
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 525.5,
+        "y": 66.6,
+        "z": 316.7
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -1225.4,
+        "y": 53.1,
+        "z": -605.8
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1115.4,
+        "y": 190.7,
+        "z": 714.5
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 11
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 309.3,
+        "y": 58.6,
+        "z": -577.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 115.5,
+        "y": 72.7,
+        "z": -427.6
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -817.7,
+        "y": 230.6,
+        "z": -901.6
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1227.4,
+        "y": 55.3,
+        "z": -670.4
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 5
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -914.6,
+        "y": 88.5,
+        "z": -1121.5
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 4
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 268.9,
+        "y": 58.8,
+        "z": -556.7
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 21
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 1636.1,
+        "y": 56.6,
+        "z": -1416.8
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 19"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -521.5,
+        "y": 102.3,
+        "z": 263.6
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 663.2,
+        "y": 31.3,
+        "z": -1029.8
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 16"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -512.2,
+        "y": 105.9,
+        "z": 447.5
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 364.3,
+        "y": 66.9,
+        "z": 478.0
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -411.5,
+        "y": 100.7,
+        "z": 310.5
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 310.2,
+        "y": 133.6,
+        "z": 1283.6
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 18
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 1280.0,
+        "y": 43.9,
+        "z": -787.7
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 6"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -492.2,
+        "y": 103.4,
+        "z": 439.0
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 819.0,
+        "y": 54.8,
+        "z": -533.6
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 18"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 652.1,
+        "y": 68.1,
+        "z": 190.2
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 93.9,
+        "y": 177.1,
+        "z": 1688.5
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 91.3,
+        "y": 177.8,
+        "z": 1691.5
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -390.7,
+        "y": 99.3,
+        "z": 360.7
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 257.5,
+        "y": 112.7,
+        "z": -144.7
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -607.8,
+        "y": 105.9,
+        "z": 306.3
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 357.0,
+        "y": 69.0,
+        "z": -133.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 0.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -3.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 961.4,
+        "y": 38.6,
+        "z": 698.2
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 40
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 364.2,
+        "y": 84.5,
+        "z": -297.5
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -68.9,
+        "y": 62.5,
+        "z": -544.7
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -8.2,
+        "y": 62.5,
+        "z": -532.0
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 1574.1,
+        "y": 132.2,
+        "z": 421.2
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 7"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 251.9,
+        "y": 67.8,
+        "z": 612.3
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 21"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -628.3,
+        "y": 130.5,
+        "z": 905.6
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 14
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 1397.7,
+        "y": 131.2,
+        "z": 78.0
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -900.3,
+        "y": 125.9,
+        "z": -62.5
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 48
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1405.2,
+        "y": 64.9,
+        "z": -75.7
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 38
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -9.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1002.4,
+        "y": 25.6,
+        "z": -654.9
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 33
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 344.2,
+        "y": 59.4,
+        "z": -154.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1664.0,
+        "y": 48.2,
+        "z": -388.9
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 39
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -639.2,
+        "y": 106.8,
+        "z": 306.0
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -651.0,
+        "y": 108.3,
+        "z": 596.8
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -6.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 23.5,
+        "y": 135.2,
+        "z": -992.5
+      },
+      "area": "R2A1",
+      "name": "EgyptianVulture",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 196.2,
+        "y": 61.1,
+        "z": -1451.1
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 8"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 240.0,
+        "y": 36.1,
+        "z": -1644.9
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 25
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 231.8,
+        "y": 107.7,
+        "z": -133.4
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 655.3,
+        "y": 68.6,
+        "z": 181.9
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 35
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 92.3,
+        "y": 77.0,
+        "z": -546.6
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -1133.9,
+        "y": 75.5,
+        "z": -539.0
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 11"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 86.0,
+        "y": 177.5,
+        "z": 1687.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 579.9,
+        "y": 67.6,
+        "z": 165.4
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 17"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -223.9,
+        "y": 52.7,
+        "z": -841.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 882.3,
+        "y": 22.3,
+        "z": -1452.4
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 30
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 88.6,
+        "y": 176.7,
+        "z": 1683.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -1174.9,
+        "y": 125.2,
+        "z": -91.4
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 28"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -1025.9,
+        "y": 106.3,
+        "z": -801.0
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 12"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -77.8,
+        "y": 113.1,
+        "z": 395.5
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 24
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 419.1,
+        "y": 67.2,
+        "z": 169.1
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -328.9,
+        "y": 46.3,
+        "z": -1482.6
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 27
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1111.8,
+        "y": 35.7,
+        "z": 700.7
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -201.7,
+        "y": 39.4,
+        "z": -1436.6
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -187.3,
+        "y": 121.2,
+        "z": -144.1
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 29"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 436.7,
+        "y": 67.3,
+        "z": 167.3
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -322.0,
+        "y": 64.4,
+        "z": -898.5
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -523.5,
+        "y": 103.7,
+        "z": 261.0
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 428.9,
+        "y": 66.9,
+        "z": 202.5
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 580.8,
+        "y": 67.0,
+        "z": 153.9
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -612.8,
+        "y": 105.6,
+        "z": 312.6
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 211.7,
+        "y": 82.8,
+        "z": 537.2
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 19
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 973.5,
+        "y": 48.3,
+        "z": 736.1
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 523.2,
+        "y": 66.6,
+        "z": 370.4
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 1433.9,
+        "y": 91.4,
+        "z": 1474.7
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 30"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -709.1,
+        "y": 62.8,
+        "z": -1236.1
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1261.9,
+        "y": 100.9,
+        "z": -921.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1072.5,
+        "y": 21.7,
+        "z": -1253.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1594.2,
+        "y": 39.7,
+        "z": 756.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 637.3,
+        "y": 39.7,
+        "z": -563.4
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 76.6,
+        "y": 43.3,
+        "z": -1921.4
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 142.2,
+        "y": 95.8,
+        "z": 960.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1442.8,
+        "y": 209.1,
+        "z": 980.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1293.8,
+        "y": 133.8,
+        "z": -95.1
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -480.2,
+        "y": 107.6,
+        "z": -230.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -1197.1,
+        "y": 235.3,
+        "z": 937.1
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 22"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -255.2,
+        "y": 170.2,
+        "z": 1181.8
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 15
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1289.0,
+        "y": 133.8,
+        "z": -93.5
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1444.4,
+        "y": 209.1,
+        "z": 976.2
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 147.2,
+        "y": 95.2,
+        "z": 960.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -475.2,
+        "y": 107.6,
+        "z": -230.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -704.1,
+        "y": 62.8,
+        "z": -1236.1
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1599.2,
+        "y": 39.7,
+        "z": 756.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1077.5,
+        "y": 21.7,
+        "z": -1253.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1257.2,
+        "y": 100.9,
+        "z": -920.3
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 81.5,
+        "y": 43.3,
+        "z": -1922.3
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 642.3,
+        "y": 39.7,
+        "z": -563.4
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1449.4,
+        "y": 209.1,
+        "z": 983.2
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 142.2,
+        "y": 95.8,
+        "z": 953.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1291.5,
+        "y": 133.8,
+        "z": -101.8
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -480.2,
+        "y": 107.6,
+        "z": -237.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -709.1,
+        "y": 62.8,
+        "z": -1243.1
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1072.5,
+        "y": 21.7,
+        "z": -1260.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1259.7,
+        "y": 100.9,
+        "z": -928.6
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1594.2,
+        "y": 39.7,
+        "z": 749.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 637.3,
+        "y": 40.3,
+        "z": -570.4
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 75.4,
+        "y": 43.3,
+        "z": -1928.3
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 611.6,
+        "y": 98.4,
+        "z": 1392.9
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 44
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -1247.1,
+        "y": 59.2,
+        "z": -1282.3
+      },
+      "area": "R2A1",
+      "name": "StripedHyenaInfo",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 85.1,
+        "y": 55.5,
+        "z": -1652.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1071.9,
+        "y": 43.0,
+        "z": 727.0
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 264.9,
+        "y": 177.4,
+        "z": 1688.5
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 17
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 300.4,
+        "y": 88.5,
+        "z": -138.3
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -257.1,
+        "y": 51.1,
+        "z": -684.0
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 28
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -942.6,
+        "y": 139.3,
+        "z": 444.1
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 9
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 244.8,
+        "y": 112.3,
+        "z": -76.0
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1254.9,
+        "y": 100.9,
+        "z": -927.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1077.5,
+        "y": 21.7,
+        "z": -1260.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1599.2,
+        "y": 39.7,
+        "z": 749.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 642.3,
+        "y": 40.3,
+        "z": -570.4
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 80.3,
+        "y": 43.3,
+        "z": -1929.2
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -704.1,
+        "y": 62.8,
+        "z": -1243.1
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -475.2,
+        "y": 107.6,
+        "z": -237.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 147.2,
+        "y": 95.8,
+        "z": 953.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1451.0,
+        "y": 209.1,
+        "z": 978.4
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1286.8,
+        "y": 133.8,
+        "z": -100.2
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 162.2,
+        "y": 180.2,
+        "z": 1620.0
+      },
+      "area": "R2A1",
+      "name": "EgyptianVulture",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1076.6,
+        "y": 232.9,
+        "z": 1135.2
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 13
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 152.3,
+        "y": 48.8,
+        "z": -473.6
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 22
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1620.2,
+        "y": 130.3,
+        "z": -67.0
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 8
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -589.9,
+        "y": 106.7,
+        "z": 439.4
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -166.4,
+        "y": 82.6,
+        "z": -785.1
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 24"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -545.2,
+        "y": 105.0,
+        "z": 418.9
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 614.2,
+        "y": 75.9,
+        "z": -150.4
+      },
+      "area": "R2A1",
+      "name": "Fennec FoxI",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 799.2,
+        "y": 117.8,
+        "z": 485.2
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 36
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -1213.7,
+        "y": 123.5,
+        "z": -536.0
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 154.1,
+        "y": 49.5,
+        "z": -474.6
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -670.3,
+        "y": 103.5,
+        "z": 706.9
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1770.5,
+        "y": 105.3,
+        "z": 115.0
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 10
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -605.0,
+        "y": 105.3,
+        "z": 394.4
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 16.4,
+        "y": 65.3,
+        "z": -518.3
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 97.2,
+        "y": 55.1,
+        "z": -476.0
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -252.1,
+        "y": 51.2,
+        "z": -1038.0
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 15"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1327.1,
+        "y": 100.1,
+        "z": -552.1
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 3
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1304.4,
+        "y": 91.1,
+        "z": -1451.5
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 1
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -547.3,
+        "y": 67.2,
+        "z": -1589.9
+      },
+      "area": "R2A1",
+      "name": "StripedHyenaInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 376.6,
+        "y": 53.0,
+        "z": -229.7
+      },
+      "area": "R2A1",
+      "name": "Fennec FoxI",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -56.6,
+        "y": 39.5,
+        "z": -1612.7
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 47
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -629.3,
+        "y": 93.0,
+        "z": -1498.8
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 13"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 150.8,
+        "y": 48.3,
+        "z": -509.5
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 227.5,
+        "y": 54.9,
+        "z": -471.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -645.8,
+        "y": 107.2,
+        "z": 312.3
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 973.1,
+        "y": 114.0,
+        "z": 1240.1
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 43
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -31.1,
+        "y": 67.8,
+        "z": -919.7
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 26
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -200.0,
+        "y": 202.4,
+        "z": 181.5
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -221.1,
+        "y": 53.4,
+        "z": -826.0
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 121.4,
+        "y": 147.0,
+        "z": 1569.6
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 16
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 291.0,
+        "y": 106.2,
+        "z": -92.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -649.3,
+        "y": 108.5,
+        "z": 578.6
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 990.4,
+        "y": 20.7,
+        "z": -1439.5
+      },
+      "area": "R2A1",
+      "name": "StripedHyenaInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 236.3,
+        "y": 58.2,
+        "z": -533.0
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -473.2,
+        "y": 101.3,
+        "z": 391.6
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 261.9,
+        "y": 59.1,
+        "z": -555.7
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 885.5,
+        "y": 104.1,
+        "z": -217.5
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1415.6,
+        "y": 78.8,
+        "z": 375.7
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 37
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 157.2,
+        "y": 106.5,
+        "z": -94.5
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 447.0,
+        "y": 17.5,
+        "z": -1809.6
+      },
+      "area": "R2A1",
+      "name": "Fennec FoxI",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1612.5,
+        "y": 59.8,
+        "z": 1444.5
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 41
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -614.5,
+        "y": 107.9,
+        "z": 652.5
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -96.3,
+        "y": 65.9,
+        "z": -517.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1112.5,
+        "y": 45.7,
+        "z": -1471.5
+      },
+      "area": "R2A1",
+      "name": "LannerFalcon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 350.0,
+        "y": 67.3,
+        "z": 502.3
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 577.0,
+        "y": 67.1,
+        "z": 182.0
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -477.1,
+        "y": 101.6,
+        "z": 396.1
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -228.6,
+        "y": 51.9,
+        "z": -833.9
+      },
+      "area": "R2A1"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 145.7,
+        "y": 68.5,
+        "z": -432.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 961.6,
+        "y": 113.8,
+        "z": 1149.3
+      },
+      "area": "R2A1",
+      "name": "Fennec FoxI",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -684.1,
+        "y": 108.3,
+        "z": 554.9
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 639.1,
+        "y": 67.8,
+        "z": 195.5
+      },
+      "area": "R2A1",
+      "name": "DromedaryCamel",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 664.0,
+        "y": 112.9,
+        "z": 464.6
+      },
+      "area": "R2A1",
+      "name": "Fennec FoxI",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 977.3,
+        "y": 20.0,
+        "z": -1428.3
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 31
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 340.6,
+        "y": 66.6,
+        "z": 435.4
+      },
+      "area": "R2A1",
+      "name": "Desert SparrowInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 170.0,
+        "y": 108.0,
+        "z": -46.9
+      },
+      "area": "R2A1",
+      "name": "BarbarySheepAoudad",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 190.2,
+        "y": 96.4,
+        "z": -716.8
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 26"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 761.8,
+        "y": 123.5,
+        "z": 1395.3
+      },
+      "area": "R2A1",
+      "reward": "R2A1_Generic 20"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1654.1,
+        "y": 61.8,
+        "z": -800.3
+      },
+      "area": "R2A1",
+      "meteoriteIndex": 32
+    }
+  ]
+}

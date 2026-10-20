@@ -1,0 +1,1837 @@
+[
+  {
+    "areaSlug": "emerald-lake",
+    "worldSize": 4000,
+    "projection": {
+      "x": "(world.x + 2000) / 4000",
+      "y": "(2000 - world.z) / 4000"
+    },
+    "independentProjection": {
+      "scaleX": 1.0204073010287404,
+      "offsetX": 4995.805206060384,
+      "scaleZ": -1.016744730076857,
+      "offsetZ": 5015.467566426595
+    },
+    "locations": [
+      {
+        "id": "emerald-lake-pavilion-lake-cabin",
+        "world": {
+          "x": -1045,
+          "y": 162.04,
+          "z": -437.5
+        },
+        "reference": "poi:poi_cabin_scene_R1A1_Cabin1",
+        "independentMarkerId": 193285,
+        "independentPixel": [
+          3922,
+          5456
+        ],
+        "crossCheckErrorMetres": 8.46
+      },
+      {
+        "id": "emerald-lake-birch-grove-hut",
+        "world": {
+          "x": 138.4,
+          "y": 144.4,
+          "z": -399.51
+        },
+        "reference": "poi:poi_cabin_scene_R1A1_Cabin6",
+        "independentMarkerId": 193413,
+        "independentPixel": [
+          5132,
+          5424
+        ],
+        "crossCheckErrorMetres": 5.44
+      },
+      {
+        "id": "emerald-lake-elizabeth-lake-cabin",
+        "world": {
+          "x": -1034.52,
+          "y": 110.21,
+          "z": 85.21
+        },
+        "reference": "poi:poi_cabin_scene_R1A1_Cabin3",
+        "independentMarkerId": 193317,
+        "independentPixel": [
+          3933,
+          4919
+        ],
+        "crossCheckErrorMetres": 11.95
+      },
+      {
+        "id": "emerald-lake-brew-hut",
+        "world": {
+          "x": -828.46,
+          "y": 116.41,
+          "z": 399.94
+        },
+        "reference": "poi:poi_cabin_scene_R1A1_Cabin4",
+        "independentMarkerId": 193334,
+        "independentPixel": [
+          4156,
+          4608
+        ],
+        "crossCheckErrorMetres": 5.51
+      },
+      {
+        "id": "emerald-lake-black-bear-s-den",
+        "world": {
+          "x": 37.65,
+          "y": 137.81,
+          "z": 404.41
+        },
+        "reference": "poi:poi_cabin_scene_R1A1_Cabin5",
+        "independentMarkerId": 193385,
+        "independentPixel": [
+          5043,
+          4601
+        ],
+        "crossCheckErrorMetres": 9.19
+      },
+      {
+        "id": "emerald-lake-malachite-lodge",
+        "world": {
+          "x": 1389.52,
+          "y": 81.14,
+          "z": -933.81
+        },
+        "reference": "poi:poi_cabin_scene_R1A1_Cabin2",
+        "independentMarkerId": 193485,
+        "independentPixel": [
+          6414,
+          5977
+        ],
+        "crossCheckErrorMetres": 11.89
+      },
+      {
+        "id": "emerald-lake-windy-joe-trail",
+        "world": {
+          "x": -336.88,
+          "y": 161.88,
+          "z": -544.4
+        },
+        "reference": "poi:mission_trail_2215793191",
+        "independentMarkerId": 193429,
+        "independentPixel": [
+          4657,
+          5566
+        ],
+        "crossCheckErrorMetres": 5.67
+      },
+      {
+        "id": "emerald-lake-elizabeth-oath-trail",
+        "world": {
+          "x": -1150.05,
+          "y": 106.11,
+          "z": -20.46
+        },
+        "reference": "poi:mission_trail_1239687479",
+        "independentMarkerId": 193311,
+        "independentPixel": [
+          3829,
+          5027
+        ],
+        "crossCheckErrorMetres": 11.24
+      },
+      {
+        "id": "emerald-lake-hermit-trail",
+        "world": {
+          "x": 1336.42,
+          "y": 77,
+          "z": -1022.74
+        },
+        "reference": "poi:mission_trail_2216048868",
+        "independentMarkerId": 193670,
+        "independentPixel": [
+          6365,
+          6056
+        ],
+        "crossCheckErrorMetres": 5.43
+      },
+      {
+        "id": "emerald-lake-clark-watchtower",
+        "world": {
+          "x": 346.73,
+          "y": 221.18,
+          "z": -435.13
+        },
+        "reference": "poi:mission_scenic_R1A1_Scenic 2",
+        "independentMarkerId": 193420,
+        "independentPixel": [
+          5345,
+          5445
+        ],
+        "crossCheckErrorMetres": 13.45
+      },
+      {
+        "id": "emerald-lake-harrison-watchtower",
+        "world": {
+          "x": -394.09,
+          "y": 186.57,
+          "z": 366.53
+        },
+        "reference": "poi:mission_scenic_R1A1_Scenic 1",
+        "independentMarkerId": 193370,
+        "independentPixel": [
+          4605,
+          4657
+        ],
+        "crossCheckErrorMetres": 17.84
+      },
+      {
+        "id": "emerald-lake-crazy-gunther",
+        "world": {
+          "x": -1036.38,
+          "y": 159.25,
+          "z": -287.75
+        },
+        "reference": "poi:merchant_R1A1_Valley",
+        "independentMarkerId": 193301,
+        "independentPixel": [
+          3933,
+          5303
+        ],
+        "crossCheckErrorMetres": 7.16
+      },
+      {
+        "id": "emerald-lake-ferry-to-the-ridge",
+        "world": {
+          "x": 594.64,
+          "y": 49.94,
+          "z": -28.92
+        },
+        "reference": "poi:portal_R1A1_ExitPortal",
+        "independentMarkerId": 193457,
+        "independentPixel": [
+          5589,
+          5064
+        ],
+        "crossCheckErrorMetres": 23.04
+      }
+    ]
+  },
+  {
+    "areaSlug": "gimli-ridge",
+    "worldSize": 4000,
+    "projection": {
+      "x": "(world.x + 2000) / 4000",
+      "y": "(2000 - world.z) / 4000"
+    },
+    "independentProjection": {
+      "scaleX": 1.0180593015131352,
+      "offsetX": 4994.509527245772,
+      "scaleZ": -1.0221169253937732,
+      "offsetZ": 5006.082469991793
+    },
+    "locations": [
+      {
+        "id": "gimli-ridge-sunset-landing-cabin",
+        "world": {
+          "x": -280.62,
+          "y": 28.5,
+          "z": -749.38
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin1",
+        "independentMarkerId": 194097,
+        "independentPixel": [
+          4715,
+          5770
+        ],
+        "crossCheckErrorMetres": 6.39
+      },
+      {
+        "id": "gimli-ridge-nerthus-cabin",
+        "world": {
+          "x": -961.75,
+          "y": 40.26,
+          "z": -1463.93
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin3",
+        "independentMarkerId": 194177,
+        "independentPixel": [
+          4027,
+          6489
+        ],
+        "crossCheckErrorMetres": 17.37
+      },
+      {
+        "id": "gimli-ridge-secluded-marsh-bunkie",
+        "world": {
+          "x": 68.5,
+          "y": 38.3,
+          "z": -1360
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin2",
+        "independentMarkerId": 194198,
+        "independentPixel": [
+          5071,
+          6392
+        ],
+        "crossCheckErrorMetres": 7.78
+      },
+      {
+        "id": "gimli-ridge-valkyr-lodge",
+        "world": {
+          "x": 632.45,
+          "y": 109.78,
+          "z": -498.26
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin5",
+        "independentMarkerId": 194232,
+        "independentPixel": [
+          5649,
+          5522
+        ],
+        "crossCheckErrorMetres": 12.29
+      },
+      {
+        "id": "gimli-ridge-lake-view-cabin",
+        "world": {
+          "x": -324.17,
+          "y": 34.67,
+          "z": -386.25
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin4",
+        "independentMarkerId": 194875,
+        "independentPixel": [
+          4662,
+          5400
+        ],
+        "crossCheckErrorMetres": 2.59
+      },
+      {
+        "id": "gimli-ridge-powder-creek-lodge",
+        "world": {
+          "x": 461.6,
+          "y": 317.42,
+          "z": 195.3
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin6",
+        "independentMarkerId": 194880,
+        "independentPixel": [
+          5469,
+          4816
+        ],
+        "crossCheckErrorMetres": 10.35
+      },
+      {
+        "id": "gimli-ridge-seer-lodge",
+        "world": {
+          "x": -263,
+          "y": 358.12,
+          "z": 570.39
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin7",
+        "independentMarkerId": 194890,
+        "independentPixel": [
+          4723,
+          4424
+        ],
+        "crossCheckErrorMetres": 3.8
+      },
+      {
+        "id": "gimli-ridge-mount-gibson-lodge",
+        "world": {
+          "x": -1114.41,
+          "y": 295.6,
+          "z": 256.71
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin8",
+        "independentMarkerId": 194916,
+        "independentPixel": [
+          3842,
+          4721
+        ],
+        "crossCheckErrorMetres": 28.37
+      },
+      {
+        "id": "gimli-ridge-whitecap-alpine-lodge",
+        "world": {
+          "x": 892.56,
+          "y": 397.21,
+          "z": 1283.17
+        },
+        "reference": "poi:poi_cabin_scene_R1A2_Cabin9",
+        "independentMarkerId": 194919,
+        "independentPixel": [
+          5900,
+          3693
+        ],
+        "crossCheckErrorMetres": 3.47
+      },
+      {
+        "id": "gimli-ridge-fraser-research-boardwalk",
+        "world": {
+          "x": -261.11,
+          "y": 28.31,
+          "z": -1306.3
+        },
+        "reference": "poi:mission_trail_2122516905",
+        "independentMarkerId": 194212,
+        "independentPixel": [
+          4729,
+          6336
+        ],
+        "crossCheckErrorMetres": 5.17
+      },
+      {
+        "id": "gimli-ridge-windcall-gorge-trail",
+        "world": {
+          "x": 716.15,
+          "y": 26.95,
+          "z": -1482.83
+        },
+        "reference": "poi:mission_trail_1677088208",
+        "independentMarkerId": 194228,
+        "independentPixel": [
+          5728,
+          6510
+        ],
+        "crossCheckErrorMetres": 12.25
+      },
+      {
+        "id": "gimli-ridge-bridal-veil-falls-climb",
+        "world": {
+          "x": 636.22,
+          "y": 110.26,
+          "z": -409.74
+        },
+        "reference": "poi:mission_trail_1293743245",
+        "independentMarkerId": 194877,
+        "independentPixel": [
+          5649,
+          5436
+        ],
+        "crossCheckErrorMetres": 12.75
+      },
+      {
+        "id": "gimli-ridge-elvis-rim-trail",
+        "world": {
+          "x": -223.86,
+          "y": 363.03,
+          "z": 579.29
+        },
+        "reference": "poi:mission_trail_2166847824",
+        "independentMarkerId": 195158,
+        "independentPixel": [
+          4768,
+          4407
+        ],
+        "crossCheckErrorMetres": 6.97
+      },
+      {
+        "id": "gimli-ridge-waddington-scree-trail",
+        "world": {
+          "x": -538.96,
+          "y": 155.91,
+          "z": 181.68
+        },
+        "reference": "poi:mission_trail_1913081803",
+        "independentMarkerId": 195172,
+        "independentPixel": [
+          4447,
+          4819
+        ],
+        "crossCheckErrorMetres": 1.78
+      },
+      {
+        "id": "gimli-ridge-nerthus-observation-tower",
+        "world": {
+          "x": 52.69,
+          "y": 35.97,
+          "z": -1232.88
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 3",
+        "independentMarkerId": 194205,
+        "independentPixel": [
+          5044,
+          6267
+        ],
+        "crossCheckErrorMetres": 4.15
+      },
+      {
+        "id": "gimli-ridge-mount-robinson-viewpoint",
+        "world": {
+          "x": 1397.94,
+          "y": 320.06,
+          "z": -463.93
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 8",
+        "independentMarkerId": 194248,
+        "independentPixel": [
+          6383,
+          5530
+        ],
+        "crossCheckErrorMetres": 59.4
+      },
+      {
+        "id": "gimli-ridge-fisherman-s-cove",
+        "world": {
+          "x": -738.9,
+          "y": 29.52,
+          "z": -451.7
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 1",
+        "independentMarkerId": 194874,
+        "independentPixel": [
+          4228,
+          5472
+        ],
+        "crossCheckErrorMetres": 14.61
+      },
+      {
+        "id": "gimli-ridge-lucy-chapman-lake-view",
+        "world": {
+          "x": 436.7,
+          "y": 309.26,
+          "z": 332.9
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 7",
+        "independentMarkerId": 194884,
+        "independentPixel": [
+          5447,
+          4665
+        ],
+        "crossCheckErrorMetres": 7.81
+      },
+      {
+        "id": "gimli-ridge-mimisbrunnr-lake-overlook",
+        "world": {
+          "x": -66,
+          "y": 441.03,
+          "z": 1005.03
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 6",
+        "independentMarkerId": 195160,
+        "independentPixel": [
+          4917,
+          3974
+        ],
+        "crossCheckErrorMetres": 11.18
+      },
+      {
+        "id": "gimli-ridge-murray-peak",
+        "world": {
+          "x": -834.16,
+          "y": 331.84,
+          "z": 246.26
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 5",
+        "independentMarkerId": 195165,
+        "independentPixel": [
+          4155,
+          4752
+        ],
+        "crossCheckErrorMetres": 9.82
+      },
+      {
+        "id": "gimli-ridge-beatrice-ridge",
+        "world": {
+          "x": -379.09,
+          "y": 185.69,
+          "z": -115.99
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 4",
+        "independentMarkerId": 195203,
+        "independentPixel": [
+          4624,
+          5121
+        ],
+        "crossCheckErrorMetres": 15.57
+      },
+      {
+        "id": "gimli-ridge-clark-watchtower",
+        "world": {
+          "x": -1047.18,
+          "y": 176.98,
+          "z": -315.93
+        },
+        "reference": "poi:mission_scenic_R1A2_Scenic 2",
+        "independentMarkerId": 195206,
+        "independentPixel": [
+          3927,
+          5334
+        ],
+        "crossCheckErrorMetres": 5.09
+      },
+      {
+        "id": "gimli-ridge-crazy-gunther",
+        "world": {
+          "x": 680.66,
+          "y": 34.21,
+          "z": -725.51
+        },
+        "reference": "poi:merchant_R1A2_Wetlands",
+        "independentMarkerId": 194229,
+        "independentPixel": [
+          5687,
+          5747
+        ],
+        "crossCheckErrorMetres": 0.77
+      },
+      {
+        "id": "gimli-ridge-ferry-to-the-mountain",
+        "world": {
+          "x": -249.8,
+          "y": 23.02,
+          "z": -649.97
+        },
+        "reference": "poi:portal_R1A2_EntryPortal",
+        "independentMarkerId": 194098,
+        "independentPixel": [
+          4726,
+          5667
+        ],
+        "crossCheckErrorMetres": 14.34
+      },
+      {
+        "id": "gimli-ridge-tunnel-to-asgard-mountain",
+        "world": {
+          "x": 1070.09,
+          "y": 504.12,
+          "z": 1707.15
+        },
+        "reference": "poi:portal_R1A2_ExitPortal",
+        "independentMarkerId": 195187,
+        "independentPixel": [
+          6104,
+          3259
+        ],
+        "crossCheckErrorMetres": 19.83
+      }
+    ]
+  },
+  {
+    "areaSlug": "asgard-mountain",
+    "worldSize": 4000,
+    "projection": {
+      "x": "(world.x + 2000) / 4000",
+      "y": "(2000 - world.z) / 4000"
+    },
+    "independentProjection": {
+      "scaleX": 1.0279066983512724,
+      "offsetX": 4995.28590409627,
+      "scaleZ": -1.0271432926740787,
+      "offsetZ": 5006.442891369924
+    },
+    "locations": [
+      {
+        "id": "asgard-mountain-shaughnessy-cabin",
+        "world": {
+          "x": -786.2,
+          "y": 474.59,
+          "z": -1551.4
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin1",
+        "independentMarkerId": 195271,
+        "independentPixel": [
+          4195,
+          6588
+        ],
+        "crossCheckErrorMetres": 13.92
+      },
+      {
+        "id": "asgard-mountain-ridgeline-rest",
+        "world": {
+          "x": -678.84,
+          "y": 582.8,
+          "z": -652.68
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin2",
+        "independentMarkerId": 195285,
+        "independentPixel": [
+          4255,
+          5747
+        ],
+        "crossCheckErrorMetres": 79.85
+      },
+      {
+        "id": "asgard-mountain-eagle-perch-cabin",
+        "world": {
+          "x": -1275.57,
+          "y": 460.66,
+          "z": -283.21
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin8",
+        "independentMarkerId": 195307,
+        "independentPixel": [
+          3693,
+          5300
+        ],
+        "crossCheckErrorMetres": 9.02
+      },
+      {
+        "id": "asgard-mountain-twin-pools-cabin",
+        "world": {
+          "x": 510.64,
+          "y": 253.48,
+          "z": -1511.8
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin6",
+        "independentMarkerId": 195388,
+        "independentPixel": [
+          5525,
+          6562
+        ],
+        "crossCheckErrorMetres": 5.39
+      },
+      {
+        "id": "asgard-mountain-rock-cradle-cabin",
+        "world": {
+          "x": 703.83,
+          "y": 401.04,
+          "z": -504.56
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin5",
+        "independentMarkerId": 195459,
+        "independentPixel": [
+          5704,
+          5542
+        ],
+        "crossCheckErrorMetres": 22.13
+      },
+      {
+        "id": "asgard-mountain-crossroads-shelter",
+        "world": {
+          "x": 354.02,
+          "y": 553.16,
+          "z": 169.38
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin3",
+        "independentMarkerId": 195973,
+        "independentPixel": [
+          5359,
+          4832
+        ],
+        "crossCheckErrorMetres": 0.49
+      },
+      {
+        "id": "asgard-mountain-mjoll-basin-lodge",
+        "world": {
+          "x": -578.14,
+          "y": 572.99,
+          "z": 752.55
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin4",
+        "independentMarkerId": 195983,
+        "independentPixel": [
+          4409,
+          4256
+        ],
+        "crossCheckErrorMetres": 23.27
+      },
+      {
+        "id": "asgard-mountain-similkameen-lodge",
+        "world": {
+          "x": 1255.04,
+          "y": 279.21,
+          "z": 516.85
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin7",
+        "independentMarkerId": 196161,
+        "independentPixel": [
+          6281,
+          4470
+        ],
+        "crossCheckErrorMetres": 6.87
+      },
+      {
+        "id": "asgard-mountain-gods-rest",
+        "world": {
+          "x": -33.7,
+          "y": 825.38,
+          "z": 207.2
+        },
+        "reference": "poi:poi_cabin_scene_R1A3_Cabin9",
+        "independentMarkerId": 196426,
+        "independentPixel": [
+          4969,
+          4777
+        ],
+        "crossCheckErrorMetres": 18.11
+      },
+      {
+        "id": "asgard-mountain-blanshard-ridge-trail",
+        "world": {
+          "x": -831.19,
+          "y": 509.31,
+          "z": -1115.85
+        },
+        "reference": "poi:mission_trail_2596466543",
+        "independentMarkerId": 195277,
+        "independentPixel": [
+          4147,
+          6135
+        ],
+        "crossCheckErrorMetres": 18.12
+      },
+      {
+        "id": "asgard-mountain-asulkan-lake-highline",
+        "world": {
+          "x": -1168.21,
+          "y": 397.94,
+          "z": -918.76
+        },
+        "reference": "poi:mission_trail_1653246910",
+        "independentMarkerId": 195352,
+        "independentPixel": [
+          3806,
+          5943
+        ],
+        "crossCheckErrorMetres": 13.19
+      },
+      {
+        "id": "asgard-mountain-lower-midgar-trail",
+        "world": {
+          "x": 182.32,
+          "y": 502.4,
+          "z": 1220.02
+        },
+        "reference": "poi:mission_trail_2097763223",
+        "independentMarkerId": 196217,
+        "independentPixel": [
+          5183,
+          3746
+        ],
+        "crossCheckErrorMetres": 7.12
+      },
+      {
+        "id": "asgard-mountain-midgar-ascent",
+        "world": {
+          "x": -70.85,
+          "y": 828.08,
+          "z": 251.12
+        },
+        "reference": "poi:mission_trail_2610473996",
+        "independentMarkerId": 196451,
+        "independentPixel": [
+          4927,
+          4745
+        ],
+        "crossCheckErrorMetres": 5.58
+      },
+      {
+        "id": "asgard-mountain-wakefield-switchback-climb",
+        "world": {
+          "x": 1516.94,
+          "y": 152.05,
+          "z": -46.17
+        },
+        "reference": "poi:mission_trail_2417692484",
+        "independentMarkerId": 196507,
+        "independentPixel": [
+          6555,
+          5040
+        ],
+        "crossCheckErrorMetres": 13.51
+      },
+      {
+        "id": "asgard-mountain-rock-cradle-weather-station",
+        "world": {
+          "x": 803.62,
+          "y": 439.44,
+          "z": -593.57
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 2",
+        "independentMarkerId": 195501,
+        "independentPixel": [
+          5822,
+          5610
+        ],
+        "crossCheckErrorMetres": 6.0
+      },
+      {
+        "id": "asgard-mountain-eaglewing-ridge",
+        "world": {
+          "x": 501.08,
+          "y": 497.64,
+          "z": 622.75
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 3",
+        "independentMarkerId": 196078,
+        "independentPixel": [
+          5519,
+          4361
+        ],
+        "crossCheckErrorMetres": 10.13
+      },
+      {
+        "id": "asgard-mountain-pemberton-point",
+        "world": {
+          "x": -308.1,
+          "y": 320.16,
+          "z": -1133.5
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 1",
+        "independentMarkerId": 196095,
+        "independentPixel": [
+          4676,
+          6167
+        ],
+        "crossCheckErrorMetres": 4.4
+      },
+      {
+        "id": "asgard-mountain-bighorn-lake",
+        "world": {
+          "x": 947.7,
+          "y": 355.9,
+          "z": 1018.2
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 7",
+        "independentMarkerId": 196151,
+        "independentPixel": [
+          5968,
+          3971
+        ],
+        "crossCheckErrorMetres": 10.22
+      },
+      {
+        "id": "asgard-mountain-heimdall-eye",
+        "world": {
+          "x": -38.2,
+          "y": 972.05,
+          "z": 394.83
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 8",
+        "independentMarkerId": 196504,
+        "independentPixel": [
+          4969,
+          4583
+        ],
+        "crossCheckErrorMetres": 21.52
+      },
+      {
+        "id": "asgard-mountain-jormungandr-s-coil",
+        "world": {
+          "x": 956.66,
+          "y": 483.39,
+          "z": -55.84
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 6",
+        "independentMarkerId": 196572,
+        "independentPixel": [
+          5983,
+          5069
+        ],
+        "crossCheckErrorMetres": 6.6
+      },
+      {
+        "id": "asgard-mountain-headless-valley",
+        "world": {
+          "x": -1132.6,
+          "y": 396.17,
+          "z": 824.4
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 4",
+        "independentMarkerId": 196590,
+        "independentPixel": [
+          3842,
+          4152
+        ],
+        "crossCheckErrorMetres": 12.98
+      },
+      {
+        "id": "asgard-mountain-niflhel-bath",
+        "world": {
+          "x": -910.6,
+          "y": 376.12,
+          "z": 331.6
+        },
+        "reference": "poi:mission_scenic_R1A3_Scenic 5",
+        "independentMarkerId": 196598,
+        "independentPixel": [
+          4027,
+          4667
+        ],
+        "crossCheckErrorMetres": 31.42
+      },
+      {
+        "id": "asgard-mountain-crazy-gunther",
+        "world": {
+          "x": -846.4,
+          "y": 506.02,
+          "z": -1160
+        },
+        "reference": "poi:merchant_R1A3_Ridge",
+        "independentMarkerId": 195274,
+        "independentPixel": [
+          4131,
+          6199
+        ],
+        "crossCheckErrorMetres": 5.68
+      },
+      {
+        "id": "asgard-mountain-tunnel-to-gimli-ridge",
+        "world": {
+          "x": -825.22,
+          "y": 476.22,
+          "z": -1619.61
+        },
+        "reference": "poi:portal_R1A3_EntryPortal",
+        "independentMarkerId": 195270,
+        "independentPixel": [
+          4141,
+          6662
+        ],
+        "crossCheckErrorMetres": 9.77
+      }
+    ]
+  },
+  {
+    "areaSlug": "tassili-najjer-desert",
+    "worldSize": 4000,
+    "projection": {
+      "x": "(world.x + 2000) / 4000",
+      "y": "(2000 - world.z) / 4000"
+    },
+    "independentProjection": {
+      "scaleX": 1.023162109181784,
+      "offsetX": 5000.948077341644,
+      "scaleZ": -1.0248906458266944,
+      "offsetZ": 5000.489965996147
+    },
+    "locations": [
+      {
+        "id": "tassili-najjer-desert-porte-du-desert-camp",
+        "world": {
+          "x": 66.38,
+          "y": 41.76,
+          "z": -1921.69
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin1",
+        "independentMarkerId": 195057,
+        "independentPixel": [
+          5070,
+          6976
+        ],
+        "crossCheckErrorMetres": 5.95
+      },
+      {
+        "id": "tassili-najjer-desert-istirahat-el-hajj-camp",
+        "world": {
+          "x": 1062.55,
+          "y": 20.23,
+          "z": -1255.05
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin5",
+        "independentMarkerId": 195322,
+        "independentPixel": [
+          6090,
+          6283
+        ],
+        "crossCheckErrorMetres": 4.12
+      },
+      {
+        "id": "tassili-najjer-desert-sama-el-sakhr-camp",
+        "world": {
+          "x": 627.31,
+          "y": 38.75,
+          "z": -565.36
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin7",
+        "independentMarkerId": 195367,
+        "independentPixel": [
+          5649,
+          5589
+        ],
+        "crossCheckErrorMetres": 10.74
+      },
+      {
+        "id": "tassili-najjer-desert-gharib-el-kathib-camp",
+        "world": {
+          "x": -719.12,
+          "y": 61.29,
+          "z": -1238.1
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin2",
+        "independentMarkerId": 195547,
+        "independentPixel": [
+          4266,
+          6269
+        ],
+        "crossCheckErrorMetres": 0.9
+      },
+      {
+        "id": "tassili-najjer-desert-oued-el-ghubar-camp",
+        "world": {
+          "x": -490.19,
+          "y": 106.14,
+          "z": -232.9
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin3",
+        "independentMarkerId": 195551,
+        "independentPixel": [
+          4495,
+          5247
+        ],
+        "crossCheckErrorMetres": 8.75
+      },
+      {
+        "id": "tassili-najjer-desert-shaka-bivouac",
+        "world": {
+          "x": -1441.49,
+          "y": 207.56,
+          "z": 991.04
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin4",
+        "independentMarkerId": 195946,
+        "independentPixel": [
+          3523,
+          3986
+        ],
+        "crossCheckErrorMetres": 3.23
+      },
+      {
+        "id": "tassili-najjer-desert-thuban-el-milh-camp",
+        "world": {
+          "x": 132.21,
+          "y": 94.26,
+          "z": 958.94
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin8",
+        "independentMarkerId": 195932,
+        "independentPixel": [
+          5134,
+          4023
+        ],
+        "crossCheckErrorMetres": 5.62
+      },
+      {
+        "id": "tassili-najjer-desert-el-kalaa-outpost",
+        "world": {
+          "x": 1584.21,
+          "y": 38.16,
+          "z": 754.04
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin6",
+        "independentMarkerId": 196319,
+        "independentPixel": [
+          6627,
+          4237
+        ],
+        "crossCheckErrorMetres": 10.39
+      },
+      {
+        "id": "tassili-najjer-desert-foret-de-pierres-camp",
+        "world": {
+          "x": -1270.74,
+          "y": 99.76,
+          "z": -927.05
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin9",
+        "independentMarkerId": 196374,
+        "independentPixel": [
+          3722,
+          5971
+        ],
+        "crossCheckErrorMetres": 28.74
+      },
+      {
+        "id": "tassili-najjer-desert-shabah-el-raml-camp",
+        "world": {
+          "x": -1302.6,
+          "y": 132.29,
+          "z": -100.26
+        },
+        "reference": "poi:poi_cabin_scene_R2A1_Cabin10",
+        "independentMarkerId": 196663,
+        "independentPixel": [
+          3660,
+          5112
+        ],
+        "crossCheckErrorMetres": 11.7
+      },
+      {
+        "id": "tassili-najjer-desert-el-kalaa-north-ascent",
+        "world": {
+          "x": 355.15,
+          "y": 50.41,
+          "z": -177.11
+        },
+        "reference": "poi:mission_trail_1540800166",
+        "independentMarkerId": 195541,
+        "independentPixel": [
+          5360,
+          5177
+        ],
+        "crossCheckErrorMetres": 6.46
+      },
+      {
+        "id": "tassili-najjer-desert-la-cathedrale-climb",
+        "world": {
+          "x": -23.08,
+          "y": 72.22,
+          "z": -958.93
+        },
+        "reference": "poi:mission_trail_2836717815",
+        "independentMarkerId": 195542,
+        "independentPixel": [
+          4975,
+          5981
+        ],
+        "crossCheckErrorMetres": 3.19
+      },
+      {
+        "id": "tassili-najjer-desert-el-kalaa-south-ascent",
+        "world": {
+          "x": 1055.26,
+          "y": 62.5,
+          "z": 670.48
+        },
+        "reference": "poi:mission_trail_1601018324",
+        "independentMarkerId": 196321,
+        "independentPixel": [
+          6065,
+          4317
+        ],
+        "crossCheckErrorMetres": 15.71
+      },
+      {
+        "id": "tassili-najjer-desert-tarfa-ascent",
+        "world": {
+          "x": -1136.67,
+          "y": 82.83,
+          "z": -1611.6
+        },
+        "reference": "poi:mission_trail_1652484417",
+        "independentMarkerId": 196343,
+        "independentPixel": [
+          3842,
+          6648
+        ],
+        "crossCheckErrorMetres": 5.7
+      },
+      {
+        "id": "tassili-najjer-desert-shabah-ascent",
+        "world": {
+          "x": -1188.88,
+          "y": 86.11,
+          "z": -406.28
+        },
+        "reference": "poi:mission_trail_2378976275",
+        "independentMarkerId": 196381,
+        "independentPixel": [
+          3786,
+          5419
+        ],
+        "crossCheckErrorMetres": 2.52
+      },
+      {
+        "id": "tassili-najjer-desert-oued-el-zumurrud",
+        "world": {
+          "x": 24.09,
+          "y": 62.12,
+          "z": -1633
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 2",
+        "independentMarkerId": 195059,
+        "independentPixel": [
+          5023,
+          6676
+        ],
+        "crossCheckErrorMetres": 3.12
+      },
+      {
+        "id": "tassili-najjer-desert-bab-el-hajj",
+        "world": {
+          "x": 846.2,
+          "y": 45.57,
+          "z": -1441.4
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 8",
+        "independentMarkerId": 195355,
+        "independentPixel": [
+          5864,
+          6446
+        ],
+        "crossCheckErrorMetres": 31.11
+      },
+      {
+        "id": "tassili-najjer-desert-jisr-el-ajib",
+        "world": {
+          "x": 583.32,
+          "y": 96.33,
+          "z": -749.33
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 15",
+        "independentMarkerId": 195537,
+        "independentPixel": [
+          5598,
+          5768
+        ],
+        "crossCheckErrorMetres": 0.51
+      },
+      {
+        "id": "tassili-najjer-desert-sama-el-sakhr",
+        "world": {
+          "x": 499.81,
+          "y": 85.92,
+          "z": -399.31
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 17",
+        "independentMarkerId": 195539,
+        "independentPixel": [
+          5522,
+          5406
+        ],
+        "crossCheckErrorMetres": 10.13
+      },
+      {
+        "id": "tassili-najjer-desert-buried-giants-i",
+        "world": {
+          "x": 1215.4,
+          "y": 20.7,
+          "z": -828.1
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 4",
+        "independentMarkerId": 195543,
+        "independentPixel": [
+          6259,
+          5840
+        ],
+        "crossCheckErrorMetres": 16.78
+      },
+      {
+        "id": "tassili-najjer-desert-tariq-el-qawafil",
+        "world": {
+          "x": -318.55,
+          "y": 98.33,
+          "z": -1379.47
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 7",
+        "independentMarkerId": 195546,
+        "independentPixel": [
+          4673,
+          6419
+        ],
+        "crossCheckErrorMetres": 5.0
+      },
+      {
+        "id": "tassili-najjer-desert-jisr-el-rai",
+        "world": {
+          "x": 161.35,
+          "y": 73.71,
+          "z": -484.67
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 3",
+        "independentMarkerId": 195548,
+        "independentPixel": [
+          5165,
+          5501
+        ],
+        "crossCheckErrorMetres": 3.82
+      },
+      {
+        "id": "tassili-najjer-desert-tahaddi-el-saqr",
+        "world": {
+          "x": -757.59,
+          "y": 155.06,
+          "z": -901.87
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 6",
+        "independentMarkerId": 195844,
+        "independentPixel": [
+          4222,
+          5929
+        ],
+        "crossCheckErrorMetres": 5.53
+      },
+      {
+        "id": "tassili-najjer-desert-grand-erg-occidental",
+        "world": {
+          "x": -287.7,
+          "y": 143.43,
+          "z": 550.7
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 16",
+        "independentMarkerId": 195945,
+        "independentPixel": [
+          4715,
+          4421
+        ],
+        "crossCheckErrorMetres": 16.86
+      },
+      {
+        "id": "tassili-najjer-desert-buried-giants-ii",
+        "world": {
+          "x": -1180.69,
+          "y": 237.27,
+          "z": 838.28
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 11",
+        "independentMarkerId": 195955,
+        "independentPixel": [
+          3798,
+          4145
+        ],
+        "crossCheckErrorMetres": 6.12
+      },
+      {
+        "id": "tassili-najjer-desert-qatrat-el-sama",
+        "world": {
+          "x": -1303.1,
+          "y": 99.02,
+          "z": -572.89
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 5",
+        "independentMarkerId": 196380,
+        "independentPixel": [
+          3661,
+          5587
+        ],
+        "crossCheckErrorMetres": 6.54
+      },
+      {
+        "id": "tassili-najjer-desert-buried-giants-iii-overlook",
+        "world": {
+          "x": -1136.5,
+          "y": 108.03,
+          "z": -1183.1
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 1",
+        "independentMarkerId": 196764,
+        "independentPixel": [
+          3838,
+          6210
+        ],
+        "crossCheckErrorMetres": 2.97
+      },
+      {
+        "id": "tassili-najjer-desert-el-kalaa-overlook",
+        "world": {
+          "x": 1458.9,
+          "y": 137.28,
+          "z": 908.9
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 10",
+        "independentMarkerId": 196828,
+        "independentPixel": [
+          6492,
+          4064
+        ],
+        "crossCheckErrorMetres": 5.1
+      },
+      {
+        "id": "tassili-najjer-desert-thuban-el-milh-overlook",
+        "world": {
+          "x": 542.8,
+          "y": 111.29,
+          "z": 553
+        },
+        "reference": "poi:mission_scenic_R2A1_Scenic 9",
+        "independentMarkerId": 196846,
+        "independentPixel": [
+          5559,
+          4434
+        ],
+        "crossCheckErrorMetres": 2.63
+      },
+      {
+        "id": "tassili-najjer-desert-crazy-gunther",
+        "world": {
+          "x": 84.37,
+          "y": 55.47,
+          "z": -1652.36
+        },
+        "reference": "poi:merchant_R2A1_Desert",
+        "independentMarkerId": 195058,
+        "independentPixel": [
+          5088,
+          6698
+        ],
+        "crossCheckErrorMetres": 3.99
+      },
+      {
+        "id": "tassili-najjer-desert-tunnel-to-the-aures-mountain",
+        "world": {
+          "x": 100.17,
+          "y": 176.41,
+          "z": 1697.67
+        },
+        "reference": "poi:portal_R2A1_ExitPortal",
+        "independentMarkerId": 195958,
+        "independentPixel": [
+          5081,
+          3249
+        ],
+        "crossCheckErrorMetres": 24.66
+      }
+    ]
+  },
+  {
+    "areaSlug": "aures-mountains",
+    "worldSize": 4000,
+    "projection": {
+      "x": "(world.x + 2000) / 4000",
+      "y": "(2000 - world.z) / 4000"
+    },
+    "independentProjection": {
+      "scaleX": 1.0260801147740262,
+      "offsetX": 5002.565350895516,
+      "scaleZ": -1.0242696760079657,
+      "offsetZ": 4998.655742306436
+    },
+    "locations": [
+      {
+        "id": "aures-mountains-691752",
+        "world": {
+          "x": -1746.25,
+          "y": 87.22,
+          "z": 655.28
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin1",
+        "independentMarkerId": 195960,
+        "independentPixel": [
+          3196,
+          4329
+        ],
+        "crossCheckErrorMetres": 14.47
+      },
+      {
+        "id": "aures-mountains-691754",
+        "world": {
+          "x": -293.2,
+          "y": 80.91,
+          "z": 1012.9
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin3",
+        "independentMarkerId": 196119,
+        "independentPixel": [
+          4691,
+          3963
+        ],
+        "crossCheckErrorMetres": 10.6
+      },
+      {
+        "id": "aures-mountains-691899",
+        "world": {
+          "x": 356.44,
+          "y": 81.56,
+          "z": 58.87
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin4",
+        "independentMarkerId": 196276,
+        "independentPixel": [
+          5367,
+          4938
+        ],
+        "crossCheckErrorMetres": 1.32
+      },
+      {
+        "id": "aures-mountains-691901",
+        "world": {
+          "x": -216.5,
+          "y": 161.51,
+          "z": -166.9
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin2",
+        "independentMarkerId": 196278,
+        "independentPixel": [
+          4777,
+          5179
+        ],
+        "crossCheckErrorMetres": 9.76
+      },
+      {
+        "id": "aures-mountains-691931",
+        "world": {
+          "x": -1443.8,
+          "y": 284.3,
+          "z": -689
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin6",
+        "independentMarkerId": 196742,
+        "independentPixel": [
+          3529,
+          5689
+        ],
+        "crossCheckErrorMetres": 16.87
+      },
+      {
+        "id": "aures-mountains-691966",
+        "world": {
+          "x": -835.57,
+          "y": 272.06,
+          "z": -1574.64
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin7",
+        "independentMarkerId": 196912,
+        "independentPixel": [
+          4148,
+          6644
+        ],
+        "crossCheckErrorMetres": 31.84
+      },
+      {
+        "id": "aures-mountains-691970",
+        "world": {
+          "x": 208.1,
+          "y": 11,
+          "z": -1211.3
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin8",
+        "independentMarkerId": 196977,
+        "independentPixel": [
+          5223,
+          6241
+        ],
+        "crossCheckErrorMetres": 6.92
+      },
+      {
+        "id": "aures-mountains-691996",
+        "world": {
+          "x": 1194.76,
+          "y": 100.37,
+          "z": 470.07
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin5",
+        "independentMarkerId": 197203,
+        "independentPixel": [
+          6223,
+          4488
+        ],
+        "crossCheckErrorMetres": 28.98
+      },
+      {
+        "id": "aures-mountains-691997",
+        "world": {
+          "x": 1103.04,
+          "y": 159.55,
+          "z": -546.23
+        },
+        "reference": "poi:poi_cabin_scene_R2A2_Cabin9",
+        "independentMarkerId": 197216,
+        "independentPixel": [
+          6128,
+          5556
+        ],
+        "crossCheckErrorMetres": 6.55
+      },
+      {
+        "id": "aures-mountains-691755",
+        "world": {
+          "x": -1722.21,
+          "y": 41.96,
+          "z": 404.95
+        },
+        "reference": "poi:mission_trail_2728409084",
+        "independentMarkerId": 196679,
+        "independentPixel": [
+          3240,
+          4586
+        ],
+        "crossCheckErrorMetres": 4.9
+      },
+      {
+        "id": "aures-mountains-691929",
+        "world": {
+          "x": -1291.11,
+          "y": 284.26,
+          "z": -652.8
+        },
+        "reference": "poi:mission_trail_2073309612",
+        "independentMarkerId": 196735,
+        "independentPixel": [
+          3682,
+          5657
+        ],
+        "crossCheckErrorMetres": 10.86
+      },
+      {
+        "id": "aures-mountains-691967",
+        "world": {
+          "x": -790.41,
+          "y": 238.22,
+          "z": -1420.9
+        },
+        "reference": "poi:mission_trail_2633272869",
+        "independentMarkerId": 196913,
+        "independentPixel": [
+          4183,
+          6430
+        ],
+        "crossCheckErrorMetres": 24.9
+      },
+      {
+        "id": "aures-mountains-691971",
+        "world": {
+          "x": 430.89,
+          "y": 23.29,
+          "z": -665.6
+        },
+        "reference": "poi:mission_trail_2452553039",
+        "independentMarkerId": 196988,
+        "independentPixel": [
+          5447,
+          5667
+        ],
+        "crossCheckErrorMetres": 13.28
+      },
+      {
+        "id": "aures-mountains-691978",
+        "world": {
+          "x": 690.18,
+          "y": 130.57,
+          "z": 661.24
+        },
+        "reference": "poi:mission_trail_1984922832",
+        "independentMarkerId": 197061,
+        "independentPixel": [
+          5722,
+          4334
+        ],
+        "crossCheckErrorMetres": 16.5
+      },
+      {
+        "id": "aures-mountains-691756",
+        "world": {
+          "x": -25.66,
+          "y": 131.94,
+          "z": 644.42
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 6",
+        "independentMarkerId": 196155,
+        "independentPixel": [
+          4967,
+          4348
+        ],
+        "crossCheckErrorMetres": 12.86
+      },
+      {
+        "id": "aures-mountains-691868",
+        "world": {
+          "x": -1155.41,
+          "y": 42.24,
+          "z": 928.22
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 2",
+        "independentMarkerId": 196105,
+        "independentPixel": [
+          3822,
+          4050
+        ],
+        "crossCheckErrorMetres": 5.26
+      },
+      {
+        "id": "aures-mountains-691902",
+        "world": {
+          "x": -59.83,
+          "y": 160.82,
+          "z": -463.66
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 3",
+        "independentMarkerId": 196281,
+        "independentPixel": [
+          4936,
+          5473
+        ],
+        "crossCheckErrorMetres": 5.07
+      },
+      {
+        "id": "aures-mountains-691927",
+        "world": {
+          "x": -762.13,
+          "y": 262.64,
+          "z": -345.37
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 7",
+        "independentMarkerId": 196701,
+        "independentPixel": [
+          4235,
+          5365
+        ],
+        "crossCheckErrorMetres": 18.69
+      },
+      {
+        "id": "aures-mountains-691965",
+        "world": {
+          "x": -1623.7,
+          "y": 419.8,
+          "z": -1252
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 1",
+        "independentMarkerId": 196904,
+        "independentPixel": [
+          3336,
+          6287
+        ],
+        "crossCheckErrorMetres": 5.84
+      },
+      {
+        "id": "aures-mountains-691977",
+        "world": {
+          "x": 706.87,
+          "y": 238.14,
+          "z": 906.63
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 8",
+        "independentMarkerId": 197058,
+        "independentPixel": [
+          5726,
+          4070
+        ],
+        "crossCheckErrorMetres": 1.82
+      },
+      {
+        "id": "aures-mountains-691992",
+        "world": {
+          "x": 1558.4,
+          "y": 223.2,
+          "z": 187.57
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 4",
+        "independentMarkerId": 197170,
+        "independentPixel": [
+          6606,
+          4808
+        ],
+        "crossCheckErrorMetres": 4.51
+      },
+      {
+        "id": "aures-mountains-691999",
+        "world": {
+          "x": 368.5,
+          "y": 127.7,
+          "z": 219.1
+        },
+        "reference": "poi:mission_scenic_R2A2_Scenic 5",
+        "independentMarkerId": 197229,
+        "independentPixel": [
+          5384,
+          4784
+        ],
+        "crossCheckErrorMetres": 10.07
+      },
+      {
+        "id": "aures-mountains-691985",
+        "world": {
+          "x": -457.41,
+          "y": 43.36,
+          "z": 452.5
+        },
+        "reference": "poi:merchant_R2A2_Canyon",
+        "independentMarkerId": 197110,
+        "independentPixel": [
+          4536,
+          4531
+        ],
+        "crossCheckErrorMetres": 4.89
+      },
+      {
+        "id": "aures-mountains-691751",
+        "world": {
+          "x": -1783.62,
+          "y": 87.82,
+          "z": 640.76
+        },
+        "reference": "poi:portal_R2A2_EntryPortal",
+        "independentMarkerId": 195959,
+        "independentPixel": [
+          3170,
+          4339
+        ],
+        "crossCheckErrorMetres": 4.03
+      }
+    ]
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "vehicleId": "ding",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/us-forest-service-ding",
+    "creator": "veixqq",
+    "imageUrl": "https://thumb.modcdn.io/mods/ef68/6453663/crop_1280x720/screenshot_20261015_162231_501.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/ding.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-ding",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "e990911f2146c1d8f314e357ce050cc8ca78a06640ae9a9099b6ece0912e5608",
+    "sourceSha256": "3d9c76f5c2022d4b8e5df6d71cf6faf6606a559b70754ba2420ff77e1db545d3",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "e18787868e0c282c",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423108"
+  },
+  {
+    "vehicleId": "bull",
+    "sourceUrl": "https://www.igcd.net/vehicle.php?id=423124",
+    "creator": "temerario",
+    "imageUrl": "https://www.igcd.net/images/423/124.jpg",
+    "identity": "Named IGCD gameplay record: Bull v1; square grille panel, two round headlamps, short two-door hardtop body. The Fronco candidate was rejected because model geometry could not be matched confidently.",
+    "path": "/images/vehicles/gameplay/bull.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-bull",
+    "originalSize": [
+      720,
+      405
+    ],
+    "size": [
+      720,
+      405
+    ],
+    "sha256": "57d619c66fc7e8c59c1ceaee13b701feb8c4eed950d8a1febe517700d9ce6602",
+    "sourceSha256": "e7d7f3c951764fb8509cb25e321598e23693cac2a4fbcbf24e160fbe233d2860",
+    "checkedAt": "2026-10-19",
+    "livery": false,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "1f756d6d6df6ce8c",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423124"
+  },
+  {
+    "vehicleId": "brick",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/half-brick-racing",
+    "creator": "ehdrien",
+    "imageUrl": "https://thumb.modcdn.io/mods/c3e8/6434242/crop_1280x720/screenshot_20261007_143438_085.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/brick.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-brick",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "612d4e496fd4f5319366247dfea863705319d8771bf6816908d695b29c9de3fa",
+    "sourceSha256": "4e6c094902cfe1a73f9eedf40fc8c61fb2b1765e2dcdab6c8f4c3ecea3396392",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "671b0d07598c8d41",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423136"
+  },
+  {
+    "vehicleId": "lynx",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/lynx-zebra-stripes",
+    "creator": "ehdrien",
+    "imageUrl": "https://thumb.modcdn.io/mods/4b87/6435989/crop_1280x720/screenshot_20261008_141750_330.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/lynx.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-lynx",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "1efc52d80860f5333b3f14d99f6bbd6cb5a4c6b57e5fd9bf089644336e574497",
+    "sourceSha256": "886f5e342c1ece186b478561bbd392b45a2b712227abc81c6b5629cd1ccbb98e",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "316707171fceb533",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423137"
+  },
+  {
+    "vehicleId": "tinny",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/tinny-marine-blue",
+    "creator": "landyjacque",
+    "imageUrl": "https://thumb.modcdn.io/mods/54fa/6455572/crop_1280x720/screenshot_20261016_193951_004.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/tinny.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-tinny",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "dc3f0b3332a230589f76ea669d5be08e498ed168c7f1b9b94b8b434a774d9b89",
+    "sourceSha256": "16e5dd07d28621e20ebd02b6cb09223ae3db16d476da42e09b5e5b1fc2818625",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "0c2e07170bcbd3cf",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423131"
+  },
+  {
+    "vehicleId": "polyana",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/polyana-vintage",
+    "creator": "ortuod",
+    "imageUrl": "https://thumb.modcdn.io/mods/ab9f/6454432/crop_1280x720/screenshot2026-10-16005613.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/polyana.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-polyana",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "8e0634678a89eb4b8676def1ce16ac4715ea7eabcc63257c72b7cb3094861e35",
+    "sourceSha256": "90dd2fb27b0547d47837623bc8eba9a1446f42134b7815b05c989befff471f20",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "870b356538119999",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423129"
+  },
+  {
+    "vehicleId": "trailrat",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/friends",
+    "creator": "LonelyHovering",
+    "imageUrl": "https://thumb.modcdn.io/mods/9e4d/6453647/crop_1280x720/friends_preview.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/trailrat.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-trailrat",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "66873c7724623dd067e6b7a098c5aea4f89c918ade74ca031689378dfcc9d72e",
+    "sourceSha256": "a5b844dfa0b3cc590a301975b84609bf84cbcac012910df86e28f0aa033ed862",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "0d4f6b5d1d0f753b",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423120"
+  },
+  {
+    "vehicleId": "wombat",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/wombat-german-flag-liveries",
+    "creator": "ehdrien",
+    "imageUrl": "https://thumb.modcdn.io/mods/9967/6436333/crop_1280x720/screenshot_20261008_173940_599.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/wombat.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-wombat",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "a9ffa4b477ed395aeee596a1d5fedbe6048f2f1c853236e7cd7c98f6afc0b528",
+    "sourceSha256": "715458b644647f7ce6536c960d88678000b6cc57970f835f7cb8fde08a5ef85f",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "dc0f9bb3e6e3d1c9",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423132"
+  },
+  {
+    "vehicleId": "roamer",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/jurassic-hill-visitor-roamer",
+    "creator": "Hulso",
+    "imageUrl": "https://thumb.modcdn.io/mods/b1f9/6454841/crop_1280x720/roamer_dino_visitor_media_01.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/roamer.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-roamer",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "a211bc49a20efd4743ac68b791f006a0807784bcd7e0fb8309f4cb3190890f04",
+    "sourceSha256": "4eed38d7d435aaa33691a657c86f432ff026643838bd044d20c2389e694734c0",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "070c4c423c3c1c38",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423125"
+  },
+  {
+    "vehicleId": "woodman",
+    "sourceUrl": "https://www.igcd.net/vehicle.php?id=423128",
+    "creator": "temerario",
+    "imageUrl": "https://www.igcd.net/images/423/128.jpg",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/woodman.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-woodman",
+    "originalSize": [
+      720,
+      404
+    ],
+    "size": [
+      720,
+      404
+    ],
+    "sha256": "6254fd4417022eff53af6a324528ee9f491f657d47acaaaaf3fcba78b0feea3f",
+    "sourceSha256": "d0688843443ddeafdcb13d2af5f7c82ee71ed27d63464f81b6c16b1a701b804b",
+    "checkedAt": "2026-10-19",
+    "livery": false,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "1e576d2c74e3fb9c",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423128"
+  },
+  {
+    "vehicleId": "grand-woodman",
+    "sourceUrl": "https://www.igcd.net/vehicle.php?id=423127",
+    "creator": "temerario",
+    "imageUrl": "https://www.igcd.net/images/423/127.jpg",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/grand-woodman.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-grand-woodman",
+    "originalSize": [
+      720,
+      404
+    ],
+    "size": [
+      720,
+      404
+    ],
+    "sha256": "ee607fb5107495b58dc23d17060ba34efcb99b8079a65ea3122c7e8d76d52687",
+    "sourceSha256": "25033056a0a54018f4c2edef169cfc66d21a5ebe7ddce487535a40718a409290",
+    "checkedAt": "2026-10-19",
+    "livery": false,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "1e57654d481bbaf8",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423127"
+  },
+  {
+    "vehicleId": "cumbre",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/cumbre-alternate-two-tone",
+    "creator": "ehdrien",
+    "imageUrl": "https://thumb.modcdn.io/mods/c966/6434769/crop_1280x720/screenshot_20261007_202457_803.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/cumbre.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-cumbre",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "bc545dd42941bf66ea0fd2d120e899edc4fd8495db62016d9eb8f3f9801956f8",
+    "sourceSha256": "38ffc754084a116bab07bd5f5bb119bdae2c1ee9b42f466f3201489e3133d37f",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "33030325e081c949",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423139"
+  },
+  {
+    "vehicleId": "blast-wagon",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/blast-wagon-military-pack",
+    "creator": "ortuod",
+    "imageUrl": "https://thumb.modcdn.io/mods/149e/6454494/crop_1280x720/screenshot2026-10-16015934.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/blast-wagon.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-blast-wagon",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "97a49205c642ca99bc0d53238f0e188b6b3ea586658ff53ea1db8224767365ed",
+    "sourceSha256": "1d6ead54cb6c541491401682ba066bbc99894c29b30a6c42a77481861d8f2228",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "c7870365753cc3d3",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423123"
+  },
+  {
+    "vehicleId": "rust-ox",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/mystery-machine",
+    "creator": "DreamtOG",
+    "imageUrl": "https://thumb.modcdn.io/mods/ce6a/6454556/crop_1280x720/screenshot_20261016_022351_481.1.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/rust-ox.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-rust-ox",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "312e2775e9cac9e9cffc0f2d4fde5dcec9ddf4b5979684325e6b306e5c6909e5",
+    "sourceSha256": "1c8d75da1f92274ce021b9ef88c18544f2e92372667d917ea2865f2ce54e8e9d",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "030706a6c762d2ca",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423133"
+  },
+  {
+    "vehicleId": "boar",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/boar-roamer",
+    "creator": "Blaig",
+    "imageUrl": "https://thumb.modcdn.io/mods/e638/6460522/crop_1280x720/screenshot_20261018_081911_384.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/boar.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-boar",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "759990670b8fd573e4ead8062eb66e0f5cc5798f154ef5d1b31c98935e09bb9d",
+    "sourceSha256": "4d3360f2c9fdfb49439be02fc89d6dea5a1f0a305e7465e97fae4258b493a6ac",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "641c0f0b9652e5e4",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423138"
+  },
+  {
+    "vehicleId": "timberbox",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/frostflame-timber-box",
+    "creator": "ANTARTICAPENGUIN",
+    "imageUrl": "https://thumb.modcdn.io/mods/79df/6457565/crop_1280x720/599acf043d56622a87a447d644dc379.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/timberbox.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-timberbox",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "3270ddc5fd26ad171077c6285077f5849a45a5a1a77bbb3263e8dc2d88087193",
+    "sourceSha256": "c35406281c79653502affa8a76a429aebd615f6327630a4ce9282cccfe986480",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "f6059989c98b9400",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423126"
+  },
+  {
+    "vehicleId": "mammoth",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/mammoth-difrent-paint-jobs",
+    "creator": "Dante_Wood",
+    "imageUrl": "https://thumb.modcdn.io/mods/7153/6453708/crop_1280x720/image245.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/mammoth.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-mammoth",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "fcc6d654c3aad07a0f14cefd9c6443717ae773d951e7d7aa93ace5a46c11e0d4",
+    "sourceSha256": "c8d7dd4a2ecb13db18499764e3e476098b40c6b7605797df6f40037f09756593",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "17b973737b63e171",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423134"
+  },
+  {
+    "vehicleId": "marshal",
+    "sourceUrl": "https://mod.io/g/over-the-hill/m/marshal-survivor",
+    "creator": "Blaig",
+    "imageUrl": "https://thumb.modcdn.io/mods/94fa/6453937/crop_1280x720/screenshot_20261016_004301_858.png",
+    "identity": "Author listing names and tags this vehicle; front, body, roof, windows and cargo arrangement visually matched to its named IGCD gameplay record.",
+    "path": "/images/vehicles/gameplay/marshal.webp",
+    "kind": "game-screenshot",
+    "sourceId": "photo-marshal",
+    "originalSize": [
+      1280,
+      720
+    ],
+    "size": [
+      1200,
+      675
+    ],
+    "sha256": "1563fdb33436a7b1bc7a805c05dd73eaa98088b0cd9a47932020502a4d593e6b",
+    "sourceSha256": "9b95ac11ce335fe4732a259b1dc55985473d4c4139de8873194f83c1ec31f981",
+    "checkedAt": "2026-10-19",
+    "livery": true,
+    "rights": "Editorial game screenshot. Game, screenshot and custom livery rights remain with their respective owners. No blanket reuse licence asserted.",
+    "dhash": "da26860e8dcde0f0",
+    "comparisonPage": "https://www.igcd.net/vehicle.php?id=423130"
+  }
+]

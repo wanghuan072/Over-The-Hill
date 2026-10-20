@@ -1,0 +1,5819 @@
+{
+  "name": "Tassili n'Ajjer Desert",
+  "region": "Algeria",
+  "mapSize": {
+    "x": 4000,
+    "z": 4000,
+    "maxZoom": 8
+  },
+  "layers": [
+    {
+      "dir": "overthehill/levels/R2A1_Desert/satellite",
+      "label": "Satellite",
+      "folder": "/satellite",
+      "ext": "webp",
+      "maxZoom": 8,
+      "v": "25806963"
+    },
+    {
+      "dir": "overthehill/levels/R2A1_Desert/topographic",
+      "label": "Topographic",
+      "folder": "/topographic",
+      "ext": "webp",
+      "maxZoom": 3,
+      "v": "25806963"
+    }
+  ],
+  "overlays": [
+    {
+      "label": "_HAZARDS",
+      "key": "_HAZARDS",
+      "kind": "ground",
+      "dir": "overthehill/levels/R2A1_Desert/hazards/ground",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "f2befc344325b39a",
+      "index": "tiles.json"
+    },
+    {
+      "label": "_HZ_WATER",
+      "key": "_HZ_WATER",
+      "kind": "water",
+      "dir": "overthehill/levels/R2A1_Desert/hazards/water",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "4e574d0603b07fd3",
+      "index": "tiles.json"
+    }
+  ],
+  "hazardsVersion": "90207774667fecbc",
+  "pinSize": {
+    "w": 44,
+    "h": 54
+  },
+  "refs": {
+    "animal:BarbarySheepAoudad": {
+      "type": "animal",
+      "animalKey": "BarbarySheepAoudad",
+      "itemId": 3021150937,
+      "name": "Barbary Sheep (Aoudad)",
+      "icon": "icons/animals/BarbarySheepAoudad.webp",
+      "pin": "pins/animal_BarbarySheepAoudad.webp",
+      "image": "animals/BarbarySheepAoudad.webp",
+      "class": "Mammal",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Mountain, Rocks",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:EgyptianVulture": {
+      "type": "animal",
+      "animalKey": "EgyptianVulture",
+      "itemId": 2014276128,
+      "name": "Egyptian Vulture",
+      "icon": "icons/animals/EgyptianVulture.webp",
+      "pin": "pins/animal_EgyptianVulture.webp",
+      "image": "animals/EgyptianVulture.webp",
+      "class": "Bird",
+      "rarity": "Rare",
+      "rarityKey": "rare",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Cliff, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 50,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Desert SparrowInfo": {
+      "type": "animal",
+      "animalKey": "Desert SparrowInfo",
+      "itemId": 1925770050,
+      "name": "Desert Sparrow",
+      "icon": "icons/animals/Desert SparrowInfo.webp",
+      "pin": "pins/animal_Desert SparrowInfo.webp",
+      "image": "animals/Desert SparrowInfo.webp",
+      "class": "Bird",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Oasis, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:LannerFalcon": {
+      "type": "animal",
+      "animalKey": "LannerFalcon",
+      "itemId": 2341432011,
+      "name": "Lanner Falcon",
+      "icon": "icons/animals/LannerFalcon.webp",
+      "pin": "pins/animal_LannerFalcon.webp",
+      "image": "animals/LannerFalcon.webp",
+      "class": "Bird",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Mountain, Cliff",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:DromedaryCamel": {
+      "type": "animal",
+      "animalKey": "DromedaryCamel",
+      "itemId": 2361259004,
+      "name": "Dromedary Camel",
+      "icon": "icons/animals/DromedaryCamel.webp",
+      "pin": "pins/animal_DromedaryCamel.webp",
+      "image": "animals/DromedaryCamel.webp",
+      "class": "Mammal",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Tassili n'Ajjer Desert",
+      "habitat": "Oasis, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Fennec FoxI": {
+      "type": "animal",
+      "animalKey": "Fennec FoxI",
+      "itemId": 1850872898,
+      "name": "Fennec Fox",
+      "icon": "icons/animals/Fennec FoxI.webp",
+      "pin": "pins/animal_Fennec FoxI.webp",
+      "image": "animals/Fennec FoxI.webp",
+      "class": "Mammal",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Tassili n'Ajjer Desert",
+      "habitat": "River, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime, Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:SaharanCheetah": {
+      "type": "animal",
+      "animalKey": "SaharanCheetah",
+      "itemId": 2783000462,
+      "name": "Saharan Cheetah",
+      "icon": "icons/animals/SaharanCheetah.webp",
+      "pin": "pins/animal_SaharanCheetah.webp",
+      "image": "animals/SaharanCheetah.webp",
+      "class": "Mammal",
+      "rarity": "Legendary",
+      "rarityKey": "very_rare",
+      "areas": "Tassili n'Ajjer Desert",
+      "habitat": "Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime, Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 100,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:StripedHyenaInfo": {
+      "type": "animal",
+      "animalKey": "StripedHyenaInfo",
+      "itemId": 2128302049,
+      "name": "Striped Hyena",
+      "icon": "icons/animals/StripedHyenaInfo.webp",
+      "pin": "pins/animal_StripedHyenaInfo.webp",
+      "image": "animals/StripedHyenaInfo.webp",
+      "class": "Mammal",
+      "rarity": "Rare",
+      "rarityKey": "rare",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Rocks, Grassland",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 50,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin1": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin1",
+      "name": "Porte du Désert Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin10": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin10",
+      "name": "Shabah el Raml Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin2": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin2",
+      "name": "Gharib el Kathib Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin3": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin3",
+      "name": "Oued el Ghubar Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin4": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin4",
+      "name": "Shaka Bivouac",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin5": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin5",
+      "name": "Istirahat el Hajj Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin6": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin6",
+      "name": "El Kalaa Outpost",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin7": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin7",
+      "name": "Sama el Sakhr Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin8": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin8",
+      "name": "Thuban el Milh Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A1_Cabin9": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A1_Cabin9",
+      "name": "Forêt de Pierres Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 1": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 1",
+      "name": "Crate: Ice Cream",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "IceCream",
+          "name": "Ice Cream",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3444195680",
+          "icon": "icons/cosmetics/IceCream.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 11": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 11",
+      "name": "Crate: Shovel",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Side_Tool_Shovel",
+          "name": "Shovel",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1570524396",
+          "icon": "icons/cosmetics/Side_shovel.webp",
+          "image": null,
+          "type": "Side Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 12": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 12",
+      "name": "Crate: Marshmallow Antenna",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "AntennaMarshmellow",
+          "name": "Marshmallow Antenna",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2293667268",
+          "icon": "icons/cosmetics/Antenna_Marshmallow.webp",
+          "image": null,
+          "type": "Antenna",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 13": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 13",
+      "name": "Crate: Refreshments",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Refreshments",
+          "name": "Refreshments",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2524073732",
+          "icon": "icons/cosmetics/Roofrack_Refreshments.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        },
+        {
+          "key": "Refreshments_Bed",
+          "name": "Refreshments",
+          "count": 1,
+          "hidden": true,
+          "progress": "cosmetic:2020516196",
+          "icon": "icons/cosmetics/PickupBed_Refreshments.webp",
+          "image": null,
+          "type": "Bed",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 15": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 15",
+      "name": "Crate: Bush Cables",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bushcables",
+          "name": "Bush Cables",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3117195162",
+          "icon": "icons/cosmetics/BushCables.webp",
+          "image": null,
+          "type": "Bush cables",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 16": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 16",
+      "name": "Crate: Police Siren",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Vehicle_PoliceSiren",
+          "name": "Police Siren",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2400347625",
+          "icon": "icons/cosmetics/Police_Siren.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 17": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 17",
+      "name": "Crate: Mudflaps - Red",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Mudflap_03",
+          "name": "Mudflaps - Red",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2191801555",
+          "icon": "icons/cosmetics/Fender_Mudflap.webp",
+          "image": null,
+          "type": "Fenders",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 18": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 18",
+      "name": "Crate: Rocket",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Rocket",
+          "name": "Rocket",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2589312632",
+          "icon": "icons/cosmetics/Rocket.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 19": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 19",
+      "name": "Crate: Tow Bar",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "TowBar",
+          "name": "Tow Bar",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2724069072",
+          "icon": "icons/cosmetics/Rear-Bumper_Tow_Bar.webp",
+          "image": null,
+          "type": "Rear Bumper",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 2": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 2",
+      "name": "Crate: Cattle Skull",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Cattleskull",
+          "name": "Cattle Skull",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1345851068",
+          "icon": "icons/cosmetics/Hood_Cattle_Skull.webp",
+          "image": null,
+          "type": "Hood",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 20": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 20",
+      "name": "Crate: Machete",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Side_Tool_Machette",
+          "name": "Machete",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3217833354",
+          "icon": "icons/cosmetics/Side_Machete.webp",
+          "image": null,
+          "type": "Side Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 21": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 21",
+      "name": "Crate: Bull Bar Type 4 - Black",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bullbar_01",
+          "name": "Bull Bar Type 4 - Black",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1932940717",
+          "icon": "icons/cosmetics/Bullbar_Type_2.webp",
+          "image": null,
+          "type": "Front Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 22": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 22",
+      "name": "Crate: Bull Bar Type 5 - White",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bullbar_02_LightsRound",
+          "name": "Bull Bar Type 5 - White",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2427782803",
+          "icon": "icons/cosmetics/Bullbar_Type_2_Round_Lights.webp",
+          "image": null,
+          "type": "Front Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 24": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 24",
+      "name": "Crate: Bike",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bike",
+          "name": "Bike",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2796380315",
+          "icon": "icons/cosmetics/Rear_Bike.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 26": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 26",
+      "name": "Crate: First Aid Kit",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Side_Medkit",
+          "name": "First Aid Kit",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2995334329",
+          "icon": "icons/cosmetics/Side_Medikit.webp",
+          "image": null,
+          "type": "Side Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 28": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 28",
+      "name": "Crate: Hood Vents",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Vents",
+          "name": "Hood Vents",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1577860020",
+          "icon": "icons/cosmetics/Hood_Vents.webp",
+          "image": null,
+          "type": "Hood",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 29": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 29",
+      "name": "Crate: Star Puppy Plushie",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "PlushPuppy",
+          "name": "Star Puppy Plushie",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2751886749",
+          "icon": "icons/cosmetics/Puppy_Plushie.webp",
+          "image": null,
+          "type": "Front Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 30": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 30",
+      "name": "Crate: Toilet",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "ToiletSeat",
+          "name": "Toilet",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3057488404",
+          "icon": "icons/cosmetics/Toilet.webp",
+          "image": null,
+          "type": "Rear Bumper",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 6": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 6",
+      "name": "Crate: Beacons - Red & Blue",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Lights_Beacon_RedBlue",
+          "name": "Beacons - Red & Blue",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3094406027",
+          "icon": "icons/cosmetics/Rooflights_Beacons.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 7": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 7",
+      "name": "Crate: Guitar Case",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Guitar",
+          "name": "Guitar Case",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2150790501",
+          "icon": "icons/cosmetics/Guitar_Case.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A1_Generic 8": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A1_Generic 8",
+      "name": "Crate: Ice Cream Truck Horn",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Vehicle_Icecream",
+          "name": "Ice Cream Truck Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1988518588",
+          "icon": "icons/cosmetics/IceCream_Horn.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_trail_1652484417": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_1652484417",
+      "totalCheckpoints": 11,
+      "name": "Tarfa Ascent",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Boar",
+          "name": "The Boar",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:2998940911",
+          "icon": null,
+          "image": "vehicles/Boar.webp",
+          "slug": "the-boar",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_2378976275": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2378976275",
+      "totalCheckpoints": 14,
+      "name": "Shabah Ascent",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Marshal",
+          "name": "The Marshal",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:2266109950",
+          "icon": null,
+          "image": "vehicles/Marshal.webp",
+          "slug": "the-marshal",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 40,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 8,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_2836717815": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2836717815",
+      "totalCheckpoints": 13,
+      "name": "La Cathédrale Climb",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Vehicle_Dixie",
+          "name": "Dixie Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3749256032",
+          "icon": "icons/cosmetics/Dixie.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 3,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_1540800166": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_1540800166",
+      "totalCheckpoints": 10,
+      "name": "El Kalaa North Ascent",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Wombat",
+          "name": "Das Wombat",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:3658652804",
+          "icon": null,
+          "image": "vehicles/Wombat.webp",
+          "slug": "das-wombat",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_1601018324": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_1601018324",
+      "totalCheckpoints": 9,
+      "name": "El Kalaa South Ascent",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Woodman",
+          "name": "The Woodman",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:1779250133",
+          "icon": null,
+          "image": "vehicles/Woodman.webp",
+          "slug": "the-woodman",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 40,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 8,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "meteorite": {
+      "type": "meteorite",
+      "description": "An object fallen from the sky. \nIt seems to be stuck on the ground.",
+      "tip": "Explore the world in search of meteorites. At night you can see their glow from afar. \nExtract them with the winch to earn Pebbles and upgrade your vehicle.",
+      "sizes": [
+        {
+          "name": "Very small meteorite",
+          "pebbles": 15,
+          "players": 1,
+          "spawn": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Small meteorite",
+          "pebbles": 20,
+          "players": 1,
+          "spawn": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Medium meteorite",
+          "pebbles": 30,
+          "players": 1,
+          "spawn": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Large meteorite",
+          "pebbles": 40,
+          "players": 2,
+          "spawn": [
+            2,
+            3
+          ]
+        },
+        {
+          "name": "Very large meteorite",
+          "pebbles": 50,
+          "players": 2,
+          "spawn": [
+            2,
+            4
+          ]
+        },
+        {
+          "name": "Huge meteorite",
+          "pebbles": 60,
+          "players": 3,
+          "spawn": [
+            3,
+            4
+          ]
+        },
+        {
+          "name": "Very huge meteorite",
+          "pebbles": 80,
+          "players": 4,
+          "spawn": [
+            4,
+            4
+          ]
+        }
+      ],
+      "video": "videos/meteorite",
+      "radar": {
+        "name": "Meteorite Radar",
+        "description": "The meteorite radar can help you find meteorites!",
+        "icon": "icons/tools/radar.webp"
+      }
+    },
+    "poi:mission_scenic_R2A1_Scenic 1": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 1",
+      "name": "Buried Giants III: Overlook",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 10": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 10",
+      "name": "El Kalaa Overlook",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 11": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 11",
+      "name": "Buried Giants II",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 15": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 15",
+      "name": "Jisr el Ajib",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 16": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 16",
+      "name": "Grand Erg Occidental",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 17": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 17",
+      "name": "Sama el Sakhr",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 2": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 2",
+      "name": "Oued el Zumurrud",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 3": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 3",
+      "name": "Jisr el Rai",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 4": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 4",
+      "name": "Buried Giants I",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 5": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 5",
+      "name": "Qatrat el Sama",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 6": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 6",
+      "name": "Tahaddi el Saqr",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 7": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 7",
+      "name": "Tariq el Qawafil",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 8": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 8",
+      "name": "Bab el Hajj",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A1_Scenic 9": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A1_Scenic 9",
+      "name": "Thuban el Milh Overlook",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_recovery_R2A1_Recovery 1": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A1_Recovery 1",
+      "name": "Chebka Rim Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Party",
+          "name": "Party Pack",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2659571908",
+          "icon": "icons/cosmetics/Roofrack_Party_Pack.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        },
+        {
+          "key": "Party_Bed",
+          "name": "Party Pack",
+          "count": 1,
+          "hidden": true,
+          "progress": "cosmetic:2806263253",
+          "icon": "icons/cosmetics/PickupBed_Party-Pack.webp",
+          "image": null,
+          "type": "Bed",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R2A1_Recovery 2": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A1_Recovery 2",
+      "name": "Tassili n’Idir Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "AntennaPlushPuppy",
+          "name": "Puppy Plushie Antenna",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2557563859",
+          "icon": "icons/cosmetics/Antenna_Puppy_Plushie.webp",
+          "image": null,
+          "type": "Antenna",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R2A1_Recovery 3": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A1_Recovery 3",
+      "name": "Northeast Hamada Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Lights_Round",
+          "name": "Round Lights",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3912776600",
+          "icon": "icons/cosmetics/Rooflights_Round_Lights.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R2A1_Recovery 4": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A1_Recovery 4",
+      "name": "Grand Oasis Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "WhipLights_02",
+          "name": "Whip Lights - Green",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1756279490",
+          "icon": "icons/cosmetics/Whip_Lights_2.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R2A1_Recovery 5": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A1_Recovery 5",
+      "name": "Chebka Gateway Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "WhipLights_06",
+          "name": "Whip Lights - Red",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2616701851",
+          "icon": "icons/cosmetics/Whip_Lights_2.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R2A1_Recovery 6": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A1_Recovery 6",
+      "name": "Lakebed Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Side_Tool_Sledgehammer",
+          "name": "Sledgehammer",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2452984801",
+          "icon": "icons/cosmetics/Side_sledgehammer.webp",
+          "image": null,
+          "type": "Side Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R2A1_Recovery 7": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A1_Recovery 7",
+      "name": "Chebka North Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Funny_Cucaracha",
+          "name": "La Cucaracha Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2646395413",
+          "icon": "icons/cosmetics/Cucaracha.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:merchant_R2A1_Desert": {
+      "type": "merchant",
+      "poiKey": "merchant_R2A1_Desert",
+      "name": "Crazy Günther",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:portal_R2A1_ExitPortal": {
+      "type": "portal",
+      "poiKey": "portal_R2A1_ExitPortal",
+      "name": "Tunnel to the Aurès Mountains",
+      "mechanics": [],
+      "rewards": [],
+      "repeatRewards": [],
+      "destination": {
+        "key": "R2A2_Canyon",
+        "label": "Aurès Mountains",
+        "route": "overthehill-levels-R2A2_Canyon",
+        "loc": "2127798943"
+      }
+    }
+  },
+  "markerLayers": [
+    {
+      "id": "animal",
+      "label": "Animals",
+      "icon": "icons/polaroid.webp",
+      "pin": "pins/polaroid.webp",
+      "markers": [
+        {
+          "key": "animal_R2A1_Desert_3808842923",
+          "position": {
+            "x": 92.28,
+            "y": 76.98,
+            "z": -546.57
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1821008282",
+          "position": {
+            "x": 231.75,
+            "y": 107.69,
+            "z": -133.44
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3883917054",
+          "position": {
+            "x": 23.5,
+            "y": 135.16,
+            "z": -992.5
+          },
+          "ref": {
+            "id": "animal:EgyptianVulture"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_511220311",
+          "position": {
+            "x": -651,
+            "y": 108.33,
+            "z": 596.76
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1538517546",
+          "position": {
+            "x": -639.25,
+            "y": 106.76,
+            "z": 306.01
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4144670436",
+          "position": {
+            "x": 344.25,
+            "y": 59.44,
+            "z": -154.94
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1568147860",
+          "position": {
+            "x": -8.23,
+            "y": 62.48,
+            "z": -532.02
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_324158529",
+          "position": {
+            "x": -68.86,
+            "y": 62.49,
+            "z": -544.69
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_653808594",
+          "position": {
+            "x": 364.24,
+            "y": 84.51,
+            "z": -297.49
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3209701143",
+          "position": {
+            "x": -950.93,
+            "y": 183.7,
+            "z": 351.48
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3580025826",
+          "position": {
+            "x": 357,
+            "y": 68.99,
+            "z": -133.94
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1681902702",
+          "position": {
+            "x": -607.75,
+            "y": 105.86,
+            "z": 306.26
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2992933635",
+          "position": {
+            "x": 257.5,
+            "y": 112.69,
+            "z": -144.69
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1144308219",
+          "position": {
+            "x": -390.68,
+            "y": 99.32,
+            "z": 360.75
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2570572781",
+          "position": {
+            "x": 652.09,
+            "y": 68.12,
+            "z": 190.23
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2160412838",
+          "position": {
+            "x": -492.25,
+            "y": 103.43,
+            "z": 439.01
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2343654966",
+          "position": {
+            "x": -817.7,
+            "y": 230.6,
+            "z": -901.6
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1702674378",
+          "position": {
+            "x": -411.5,
+            "y": 100.71,
+            "z": 310.54
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4221833106",
+          "position": {
+            "x": 364.26,
+            "y": 66.92,
+            "z": 477.97
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_215203617",
+          "position": {
+            "x": -512.25,
+            "y": 105.91,
+            "z": 447.51
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_590566378",
+          "position": {
+            "x": -521.51,
+            "y": 102.29,
+            "z": 263.58
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2596883182",
+          "position": {
+            "x": 115.52,
+            "y": 72.66,
+            "z": -427.58
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1068431586",
+          "position": {
+            "x": 309.25,
+            "y": 58.6,
+            "z": -577.93
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2805318861",
+          "position": {
+            "x": -1225.38,
+            "y": 53.05,
+            "z": -605.84
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2733028551",
+          "position": {
+            "x": 525.47,
+            "y": 66.6,
+            "z": 316.69
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1090143492",
+          "position": {
+            "x": 326.75,
+            "y": 83.69,
+            "z": -154.19
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2396469752",
+          "position": {
+            "x": 974.49,
+            "y": 45.28,
+            "z": 721.81
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2999895744",
+          "position": {
+            "x": -693.91,
+            "y": 109.47,
+            "z": 598.29
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3586686214",
+          "position": {
+            "x": 883.75,
+            "y": 126.16,
+            "z": 710
+          },
+          "ref": {
+            "id": "animal:EgyptianVulture"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1979861444",
+          "position": {
+            "x": -584.38,
+            "y": 105.35,
+            "z": 408.97
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4272771800",
+          "position": {
+            "x": 1343.75,
+            "y": 137.44,
+            "z": 1413.76
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1141724189",
+          "position": {
+            "x": 222.31,
+            "y": 69.01,
+            "z": -441.92
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1813515442",
+          "position": {
+            "x": -595.04,
+            "y": 109.87,
+            "z": 635.91
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2118188176",
+          "position": {
+            "x": 455.02,
+            "y": 66.89,
+            "z": 179.74
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3825576845",
+          "position": {
+            "x": 1262.24,
+            "y": 51.48,
+            "z": -642.59
+          },
+          "ref": {
+            "id": "animal:Fennec FoxI"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2304706587",
+          "position": {
+            "x": 368.11,
+            "y": 67.25,
+            "z": 558.49
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2789854034",
+          "position": {
+            "x": 1076.8,
+            "y": 42.54,
+            "z": 717.44
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4263317588",
+          "position": {
+            "x": 1397.7,
+            "y": 131.2,
+            "z": 78
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1255155169",
+          "position": {
+            "x": -87.78,
+            "y": 54.75,
+            "z": -550.43
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_673354264",
+          "position": {
+            "x": -688.33,
+            "y": 106.84,
+            "z": 653.87
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_599537745",
+          "position": {
+            "x": 1010.75,
+            "y": 45.61,
+            "z": 701.86
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4290763877",
+          "position": {
+            "x": -621,
+            "y": 106.97,
+            "z": 656.8
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2904813307",
+          "position": {
+            "x": 741.74,
+            "y": 113.12,
+            "z": 450.98
+          },
+          "ref": {
+            "id": "animal:Fennec FoxI"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2737863540",
+          "position": {
+            "x": 97.86,
+            "y": 55.2,
+            "z": -521.44
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2177826399",
+          "position": {
+            "x": 423.33,
+            "y": 69.4,
+            "z": -194.03
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3424319638",
+          "position": {
+            "x": -982.16,
+            "y": 114.17,
+            "z": 23.22
+          },
+          "ref": {
+            "id": "animal:SaharanCheetah"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3088238894",
+          "position": {
+            "x": -69.87,
+            "y": 62.74,
+            "z": -538.63
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1548568194",
+          "position": {
+            "x": -547.96,
+            "y": 105.51,
+            "z": 442.17
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2041171413",
+          "position": {
+            "x": 170,
+            "y": 108.01,
+            "z": -46.92
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_510961175",
+          "position": {
+            "x": 340.57,
+            "y": 66.58,
+            "z": 435.37
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_799218710",
+          "position": {
+            "x": 664,
+            "y": 112.92,
+            "z": 464.62
+          },
+          "ref": {
+            "id": "animal:Fennec FoxI"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4187932498",
+          "position": {
+            "x": 639.12,
+            "y": 67.83,
+            "z": 195.5
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1922518886",
+          "position": {
+            "x": -684.1,
+            "y": 108.26,
+            "z": 554.9
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2365453537",
+          "position": {
+            "x": 961.63,
+            "y": 113.78,
+            "z": 1149.32
+          },
+          "ref": {
+            "id": "animal:Fennec FoxI"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4257740924",
+          "position": {
+            "x": 145.74,
+            "y": 68.5,
+            "z": -432.9
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_68093246",
+          "position": {
+            "x": -477.07,
+            "y": 101.63,
+            "z": 396.06
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3920100347",
+          "position": {
+            "x": 576.97,
+            "y": 67.1,
+            "z": 182.01
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3120912516",
+          "position": {
+            "x": 350,
+            "y": 67.26,
+            "z": 502.26
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2714820745",
+          "position": {
+            "x": 1112.5,
+            "y": 45.69,
+            "z": -1471.49
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1682000899",
+          "position": {
+            "x": -96.33,
+            "y": 65.93,
+            "z": -517.9
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2558189435",
+          "position": {
+            "x": -614.5,
+            "y": 107.91,
+            "z": 652.51
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_524768316",
+          "position": {
+            "x": 447,
+            "y": 17.53,
+            "z": -1809.6
+          },
+          "ref": {
+            "id": "animal:Fennec FoxI"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3036488551",
+          "position": {
+            "x": 157.16,
+            "y": 106.46,
+            "z": -94.52
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3361368243",
+          "position": {
+            "x": 885.5,
+            "y": 104.09,
+            "z": -217.46
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4055713868",
+          "position": {
+            "x": 261.86,
+            "y": 59.07,
+            "z": -555.69
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1135459345",
+          "position": {
+            "x": -473.24,
+            "y": 101.31,
+            "z": 391.62
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3383681823",
+          "position": {
+            "x": 162.16,
+            "y": 180.2,
+            "z": 1620.04
+          },
+          "ref": {
+            "id": "animal:EgyptianVulture"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2759692737",
+          "position": {
+            "x": 236.29,
+            "y": 58.18,
+            "z": -533
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2706932832",
+          "position": {
+            "x": 990.4,
+            "y": 20.74,
+            "z": -1439.46
+          },
+          "ref": {
+            "id": "animal:StripedHyenaInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4175189262",
+          "position": {
+            "x": -649.31,
+            "y": 108.52,
+            "z": 578.61
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1651508072",
+          "position": {
+            "x": 291,
+            "y": 106.19,
+            "z": -92.94
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2511815535",
+          "position": {
+            "x": -645.75,
+            "y": 107.17,
+            "z": 312.26
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4195920612",
+          "position": {
+            "x": 227.51,
+            "y": 54.87,
+            "z": -471.94
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_695000396",
+          "position": {
+            "x": 150.82,
+            "y": 48.29,
+            "z": -509.53
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_123166659",
+          "position": {
+            "x": -1213.7,
+            "y": 123.5,
+            "z": -536
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3928079240",
+          "position": {
+            "x": 376.6,
+            "y": 52.99,
+            "z": -229.7
+          },
+          "ref": {
+            "id": "animal:Fennec FoxI"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1803417243",
+          "position": {
+            "x": -547.26,
+            "y": 67.22,
+            "z": -1589.88
+          },
+          "ref": {
+            "id": "animal:StripedHyenaInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_438715683",
+          "position": {
+            "x": 97.15,
+            "y": 55.08,
+            "z": -476.04
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1876770507",
+          "position": {
+            "x": 16.41,
+            "y": 65.27,
+            "z": -518.26
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_869969786",
+          "position": {
+            "x": -605.04,
+            "y": 105.34,
+            "z": 394.41
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1727118439",
+          "position": {
+            "x": -670.32,
+            "y": 103.46,
+            "z": 706.91
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3237255070",
+          "position": {
+            "x": 154.07,
+            "y": 49.49,
+            "z": -474.57
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_373963664",
+          "position": {
+            "x": 614.17,
+            "y": 75.85,
+            "z": -150.37
+          },
+          "ref": {
+            "id": "animal:Fennec FoxI"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2286990199",
+          "position": {
+            "x": -545.22,
+            "y": 105.02,
+            "z": 418.86
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2985829994",
+          "position": {
+            "x": -200,
+            "y": 202.43,
+            "z": 181.52
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_752506174",
+          "position": {
+            "x": -589.85,
+            "y": 106.74,
+            "z": 439.39
+          },
+          "ref": {
+            "id": "animal:DromedaryCamel"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2650618019",
+          "position": {
+            "x": 244.75,
+            "y": 112.34,
+            "z": -76.01
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2009556543",
+          "position": {
+            "x": 1071.88,
+            "y": 42.96,
+            "z": 727.04
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1669182990",
+          "position": {
+            "x": -1247.11,
+            "y": 59.23,
+            "z": -1282.27
+          },
+          "ref": {
+            "id": "animal:StripedHyenaInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4236021801",
+          "position": {
+            "x": 523.18,
+            "y": 66.58,
+            "z": 370.43
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3705274219",
+          "position": {
+            "x": 973.45,
+            "y": 48.34,
+            "z": 736.11
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_604177947",
+          "position": {
+            "x": -612.83,
+            "y": 105.6,
+            "z": 312.61
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3692629104",
+          "position": {
+            "x": 428.86,
+            "y": 66.85,
+            "z": 202.45
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2340268515",
+          "position": {
+            "x": 580.81,
+            "y": 67.01,
+            "z": 153.88
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_4160707949",
+          "position": {
+            "x": -523.5,
+            "y": 103.65,
+            "z": 261.01
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3368025158",
+          "position": {
+            "x": -322.03,
+            "y": 64.44,
+            "z": -898.46
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3721140302",
+          "position": {
+            "x": 436.71,
+            "y": 67.34,
+            "z": 167.26
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_1070740182",
+          "position": {
+            "x": -201.75,
+            "y": 39.39,
+            "z": -1436.63
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_3216119147",
+          "position": {
+            "x": 1111.83,
+            "y": 35.7,
+            "z": 700.72
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A1_Desert_2679453642",
+          "position": {
+            "x": 419.07,
+            "y": 67.21,
+            "z": 169.15
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cabin",
+      "label": "Cabin",
+      "icon": "icons/cabin.webp",
+      "pin": "pins/cabin.webp",
+      "markers": [
+        {
+          "key": "2274679499",
+          "itemId": 2274679499,
+          "position": {
+            "x": 66.38,
+            "y": 41.76,
+            "z": -1921.69
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin1"
+          }
+        },
+        {
+          "key": "1305258282",
+          "itemId": 1305258282,
+          "position": {
+            "x": -1302.6,
+            "y": 132.29,
+            "z": -100.26
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin10"
+          }
+        },
+        {
+          "key": "1995749782",
+          "itemId": 1995749782,
+          "position": {
+            "x": -719.12,
+            "y": 61.29,
+            "z": -1238.1
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin2"
+          }
+        },
+        {
+          "key": "1749934660",
+          "itemId": 1749934660,
+          "position": {
+            "x": -490.19,
+            "y": 106.14,
+            "z": -232.9
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin3"
+          }
+        },
+        {
+          "key": "2542523183",
+          "itemId": 2542523183,
+          "position": {
+            "x": -1441.49,
+            "y": 207.56,
+            "z": 991.04
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin4"
+          }
+        },
+        {
+          "key": "1683286937",
+          "itemId": 1683286937,
+          "position": {
+            "x": 1062.55,
+            "y": 20.23,
+            "z": -1255.05
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin5"
+          }
+        },
+        {
+          "key": "2567674653",
+          "itemId": 2567674653,
+          "position": {
+            "x": 1584.21,
+            "y": 38.16,
+            "z": 754.04
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin6"
+          }
+        },
+        {
+          "key": "1476983872",
+          "itemId": 1476983872,
+          "position": {
+            "x": 627.31,
+            "y": 38.75,
+            "z": -565.36
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin7"
+          }
+        },
+        {
+          "key": "1017192020",
+          "itemId": 1017192020,
+          "position": {
+            "x": 132.21,
+            "y": 94.26,
+            "z": 958.94
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin8"
+          }
+        },
+        {
+          "key": "2024248428",
+          "itemId": 2024248428,
+          "position": {
+            "x": -1270.74,
+            "y": 99.76,
+            "z": -927.05
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A1_Cabin9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crate",
+      "label": "Point of Interest",
+      "icon": "icons/generic_poi.webp",
+      "pin": "pins/generic_poi.webp",
+      "markers": [
+        {
+          "key": "2240744815",
+          "itemId": 2240744815,
+          "position": {
+            "x": -952.59,
+            "y": 75.21,
+            "z": -1573.28
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 1"
+          }
+        },
+        {
+          "key": "1968295539",
+          "itemId": 1968295539,
+          "position": {
+            "x": -1133.9,
+            "y": 75.47,
+            "z": -538.95
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 11"
+          }
+        },
+        {
+          "key": "2577728778",
+          "itemId": 2577728778,
+          "position": {
+            "x": -1025.93,
+            "y": 106.32,
+            "z": -801.02
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 12"
+          }
+        },
+        {
+          "key": "1895424600",
+          "itemId": 1895424600,
+          "position": {
+            "x": -629.32,
+            "y": 92.98,
+            "z": -1498.8
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 13"
+          }
+        },
+        {
+          "key": "1955403738",
+          "itemId": 1955403738,
+          "position": {
+            "x": -252.07,
+            "y": 51.21,
+            "z": -1038
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 15"
+          }
+        },
+        {
+          "key": "2012169263",
+          "itemId": 2012169263,
+          "position": {
+            "x": 663.21,
+            "y": 31.26,
+            "z": -1029.81
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 16"
+          }
+        },
+        {
+          "key": "1600031388",
+          "itemId": 1600031388,
+          "position": {
+            "x": 579.88,
+            "y": 67.56,
+            "z": 165.36
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 17"
+          }
+        },
+        {
+          "key": "2553820812",
+          "itemId": 2553820812,
+          "position": {
+            "x": 818.98,
+            "y": 54.85,
+            "z": -533.63
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 18"
+          }
+        },
+        {
+          "key": "1974878868",
+          "itemId": 1974878868,
+          "position": {
+            "x": 1636.08,
+            "y": 56.6,
+            "z": -1416.85
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 19"
+          }
+        },
+        {
+          "key": "1944270648",
+          "itemId": 1944270648,
+          "position": {
+            "x": -1305.9,
+            "y": 90.03,
+            "z": -1165.8
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 2"
+          }
+        },
+        {
+          "key": "2320323536",
+          "itemId": 2320323536,
+          "position": {
+            "x": 761.76,
+            "y": 123.53,
+            "z": 1395.31
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 20"
+          }
+        },
+        {
+          "key": "2157191347",
+          "itemId": 2157191347,
+          "position": {
+            "x": 251.85,
+            "y": 67.83,
+            "z": 612.35
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 21"
+          }
+        },
+        {
+          "key": "2097458695",
+          "itemId": 2097458695,
+          "position": {
+            "x": -1197.07,
+            "y": 235.34,
+            "z": 937.15
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 22"
+          }
+        },
+        {
+          "key": "1985160545",
+          "itemId": 1985160545,
+          "position": {
+            "x": -166.35,
+            "y": 82.56,
+            "z": -785.06
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 24"
+          }
+        },
+        {
+          "key": "1983810433",
+          "itemId": 1983810433,
+          "position": {
+            "x": 190.21,
+            "y": 96.42,
+            "z": -716.81
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 26"
+          }
+        },
+        {
+          "key": "2371502007",
+          "itemId": 2371502007,
+          "position": {
+            "x": -1174.92,
+            "y": 125.25,
+            "z": -91.37
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 28"
+          }
+        },
+        {
+          "key": "2053288642",
+          "itemId": 2053288642,
+          "position": {
+            "x": -187.26,
+            "y": 121.22,
+            "z": -144.06
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 29"
+          }
+        },
+        {
+          "key": "2147933692",
+          "itemId": 2147933692,
+          "position": {
+            "x": 1433.88,
+            "y": 91.45,
+            "z": 1474.7
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 30"
+          }
+        },
+        {
+          "key": "1364398092",
+          "itemId": 1364398092,
+          "position": {
+            "x": 1279.97,
+            "y": 43.93,
+            "z": -787.74
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 6"
+          }
+        },
+        {
+          "key": "1817523898",
+          "itemId": 1817523898,
+          "position": {
+            "x": 1574.05,
+            "y": 132.17,
+            "z": 421.18
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 7"
+          }
+        },
+        {
+          "key": "1112533721",
+          "itemId": 1112533721,
+          "position": {
+            "x": 196.17,
+            "y": 61.08,
+            "z": -1451.13
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A1_Generic 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trail",
+      "label": "Challenge trail",
+      "icon": "icons/trail.webp",
+      "pin": "pins/trail.webp",
+      "routes": [
+        {
+          "key": "mission_trail_1652484417",
+          "itemId": 1652484417,
+          "name": "Tarfa Ascent",
+          "waypoints": [
+            {
+              "key": "1652484417",
+              "position": {
+                "x": -1136.67,
+                "y": 82.83,
+                "z": -1611.6
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_1",
+              "position": {
+                "x": -1156.62,
+                "y": 91.6,
+                "z": -1668
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_2",
+              "position": {
+                "x": -1117.6,
+                "y": 111.73,
+                "z": -1722.89
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_3",
+              "position": {
+                "x": -1195.8,
+                "y": 118.29,
+                "z": -1714.13
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_4",
+              "position": {
+                "x": -1180.69,
+                "y": 125.46,
+                "z": -1660.64
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_5",
+              "position": {
+                "x": -1170.61,
+                "y": 114.06,
+                "z": -1694.67
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_6",
+              "position": {
+                "x": -1134.69,
+                "y": 110.78,
+                "z": -1642.27
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_7",
+              "position": {
+                "x": -1086.84,
+                "y": 110.31,
+                "z": -1614.78
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_8",
+              "position": {
+                "x": -1026.15,
+                "y": 96.93,
+                "z": -1623.87
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_9",
+              "position": {
+                "x": -1008.97,
+                "y": 90.04,
+                "z": -1609.41
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1652484417_10",
+              "position": {
+                "x": -1045.16,
+                "y": 89.54,
+                "z": -1569.38
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_2378976275",
+          "itemId": 2378976275,
+          "name": "Shabah Ascent",
+          "waypoints": [
+            {
+              "key": "2378976275",
+              "position": {
+                "x": -1188.88,
+                "y": 86.11,
+                "z": -406.28
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_1",
+              "position": {
+                "x": -1140.87,
+                "y": 107.78,
+                "z": -374.89
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_2",
+              "position": {
+                "x": -1166.51,
+                "y": 112.7,
+                "z": -339.15
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_3",
+              "position": {
+                "x": -1197.57,
+                "y": 114.44,
+                "z": -358.38
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_4",
+              "position": {
+                "x": -1240.78,
+                "y": 102.38,
+                "z": -306.59
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_5",
+              "position": {
+                "x": -1143.22,
+                "y": 99.47,
+                "z": -242.4
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_6",
+              "position": {
+                "x": -1100.85,
+                "y": 99.58,
+                "z": -279.51
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_7",
+              "position": {
+                "x": -1045.98,
+                "y": 100.94,
+                "z": -360.38
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_8",
+              "position": {
+                "x": -945.13,
+                "y": 99.6,
+                "z": -315.39
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_9",
+              "position": {
+                "x": -919.03,
+                "y": 99.42,
+                "z": -304.7
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_10",
+              "position": {
+                "x": -917.41,
+                "y": 99.84,
+                "z": -334.76
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_11",
+              "position": {
+                "x": -947.75,
+                "y": 100.09,
+                "z": -388.05
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_12",
+              "position": {
+                "x": -996.72,
+                "y": 110.53,
+                "z": -396.58
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2378976275_13",
+              "position": {
+                "x": -976.84,
+                "y": 120.23,
+                "z": -374.26
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_2836717815",
+          "itemId": 2836717815,
+          "name": "La Cathédrale Climb",
+          "waypoints": [
+            {
+              "key": "2836717815",
+              "position": {
+                "x": -23.08,
+                "y": 72.22,
+                "z": -958.93
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_1",
+              "position": {
+                "x": 13.7,
+                "y": 75.13,
+                "z": -949.75
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_2",
+              "position": {
+                "x": 42.42,
+                "y": 81.53,
+                "z": -958.23
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_3",
+              "position": {
+                "x": 63.6,
+                "y": 85.15,
+                "z": -993.42
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_4",
+              "position": {
+                "x": 54.65,
+                "y": 88.61,
+                "z": -1056.26
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_5",
+              "position": {
+                "x": 23.84,
+                "y": 94.02,
+                "z": -1061.56
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_6",
+              "position": {
+                "x": -3.56,
+                "y": 104.26,
+                "z": -1030.83
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_7",
+              "position": {
+                "x": -58.28,
+                "y": 104.63,
+                "z": -1007.53
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_8",
+              "position": {
+                "x": -65.08,
+                "y": 104.32,
+                "z": -942.06
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_9",
+              "position": {
+                "x": -25.35,
+                "y": 104.51,
+                "z": -881.42
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_10",
+              "position": {
+                "x": 39.67,
+                "y": 106.99,
+                "z": -857.78
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_11",
+              "position": {
+                "x": 80.2,
+                "y": 98.16,
+                "z": -880.23
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_2836717815_12",
+              "position": {
+                "x": 185.42,
+                "y": 83.62,
+                "z": -908.03
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_1540800166",
+          "itemId": 1540800166,
+          "name": "El Kalaa North Ascent",
+          "waypoints": [
+            {
+              "key": "1540800166",
+              "position": {
+                "x": 355.15,
+                "y": 50.41,
+                "z": -177.11
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_1",
+              "position": {
+                "x": 320.12,
+                "y": 58.97,
+                "z": -148.36
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_2",
+              "position": {
+                "x": 275.83,
+                "y": 72.19,
+                "z": -123.56
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_3",
+              "position": {
+                "x": 236.23,
+                "y": 79.67,
+                "z": -103.09
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_4",
+              "position": {
+                "x": 194.54,
+                "y": 85.47,
+                "z": -82.41
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_5",
+              "position": {
+                "x": 105.73,
+                "y": 91.16,
+                "z": -49.15
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_6",
+              "position": {
+                "x": 205.7,
+                "y": 99.87,
+                "z": -67.37
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_7",
+              "position": {
+                "x": 239.47,
+                "y": 96.56,
+                "z": -124.59
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_8",
+              "position": {
+                "x": 283,
+                "y": 93.61,
+                "z": -106.79
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1540800166_9",
+              "position": {
+                "x": 322.11,
+                "y": 83.95,
+                "z": -153.66
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_1601018324",
+          "itemId": 1601018324,
+          "name": "El Kalaa South Ascent",
+          "waypoints": [
+            {
+              "key": "1601018324",
+              "position": {
+                "x": 1055.26,
+                "y": 62.5,
+                "z": 670.48
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_1",
+              "position": {
+                "x": 1089.06,
+                "y": 68.74,
+                "z": 604.5
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_2",
+              "position": {
+                "x": 1176.34,
+                "y": 72.58,
+                "z": 552.24
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_3",
+              "position": {
+                "x": 1098.54,
+                "y": 92.45,
+                "z": 524.09
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_4",
+              "position": {
+                "x": 1177.44,
+                "y": 115.3,
+                "z": 433.13
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_5",
+              "position": {
+                "x": 1147.06,
+                "y": 119.49,
+                "z": 327.36
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_6",
+              "position": {
+                "x": 1088.43,
+                "y": 142.72,
+                "z": 368.14
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_7",
+              "position": {
+                "x": 978.26,
+                "y": 140.6,
+                "z": 423.18
+              }
+            },
+            {
+              "key": "checkpoint_R2A1_Desert_1601018324_8",
+              "position": {
+                "x": 915.11,
+                "y": 167.72,
+                "z": 379.64
+              }
+            }
+          ]
+        }
+      ],
+      "markers": [
+        {
+          "key": "1652484417",
+          "position": {
+            "x": -1136.67,
+            "y": 82.83,
+            "z": -1611.6
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_1",
+          "position": {
+            "x": -1156.62,
+            "y": 91.6,
+            "z": -1668
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_2",
+          "position": {
+            "x": -1117.6,
+            "y": 111.73,
+            "z": -1722.89
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_3",
+          "position": {
+            "x": -1195.8,
+            "y": 118.29,
+            "z": -1714.13
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_4",
+          "position": {
+            "x": -1180.69,
+            "y": 125.46,
+            "z": -1660.64
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_5",
+          "position": {
+            "x": -1170.61,
+            "y": 114.06,
+            "z": -1694.67
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_6",
+          "position": {
+            "x": -1134.69,
+            "y": 110.78,
+            "z": -1642.27
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_7",
+          "position": {
+            "x": -1086.84,
+            "y": 110.31,
+            "z": -1614.78
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_8",
+          "position": {
+            "x": -1026.15,
+            "y": 96.93,
+            "z": -1623.87
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_9",
+          "position": {
+            "x": -1008.97,
+            "y": 90.04,
+            "z": -1609.41
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1652484417_10",
+          "position": {
+            "x": -1045.16,
+            "y": 89.54,
+            "z": -1569.38
+          },
+          "ref": {
+            "id": "poi:mission_trail_1652484417",
+            "order": 10
+          }
+        },
+        {
+          "key": "2378976275",
+          "position": {
+            "x": -1188.88,
+            "y": 86.11,
+            "z": -406.28
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_1",
+          "position": {
+            "x": -1140.87,
+            "y": 107.78,
+            "z": -374.89
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_2",
+          "position": {
+            "x": -1166.51,
+            "y": 112.7,
+            "z": -339.15
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_3",
+          "position": {
+            "x": -1197.57,
+            "y": 114.44,
+            "z": -358.38
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_4",
+          "position": {
+            "x": -1240.78,
+            "y": 102.38,
+            "z": -306.59
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_5",
+          "position": {
+            "x": -1143.22,
+            "y": 99.47,
+            "z": -242.4
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_6",
+          "position": {
+            "x": -1100.85,
+            "y": 99.58,
+            "z": -279.51
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_7",
+          "position": {
+            "x": -1045.98,
+            "y": 100.94,
+            "z": -360.38
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_8",
+          "position": {
+            "x": -945.13,
+            "y": 99.6,
+            "z": -315.39
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_9",
+          "position": {
+            "x": -919.03,
+            "y": 99.42,
+            "z": -304.7
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_10",
+          "position": {
+            "x": -917.41,
+            "y": 99.84,
+            "z": -334.76
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_11",
+          "position": {
+            "x": -947.75,
+            "y": 100.09,
+            "z": -388.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_12",
+          "position": {
+            "x": -996.72,
+            "y": 110.53,
+            "z": -396.58
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2378976275_13",
+          "position": {
+            "x": -976.84,
+            "y": 120.23,
+            "z": -374.26
+          },
+          "ref": {
+            "id": "poi:mission_trail_2378976275",
+            "order": 13
+          }
+        },
+        {
+          "key": "2836717815",
+          "position": {
+            "x": -23.08,
+            "y": 72.22,
+            "z": -958.93
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_1",
+          "position": {
+            "x": 13.7,
+            "y": 75.13,
+            "z": -949.75
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_2",
+          "position": {
+            "x": 42.42,
+            "y": 81.53,
+            "z": -958.23
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_3",
+          "position": {
+            "x": 63.6,
+            "y": 85.15,
+            "z": -993.42
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_4",
+          "position": {
+            "x": 54.65,
+            "y": 88.61,
+            "z": -1056.26
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_5",
+          "position": {
+            "x": 23.84,
+            "y": 94.02,
+            "z": -1061.56
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_6",
+          "position": {
+            "x": -3.56,
+            "y": 104.26,
+            "z": -1030.83
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_7",
+          "position": {
+            "x": -58.28,
+            "y": 104.63,
+            "z": -1007.53
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_8",
+          "position": {
+            "x": -65.08,
+            "y": 104.32,
+            "z": -942.06
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_9",
+          "position": {
+            "x": -25.35,
+            "y": 104.51,
+            "z": -881.42
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_10",
+          "position": {
+            "x": 39.67,
+            "y": 106.99,
+            "z": -857.78
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_11",
+          "position": {
+            "x": 80.2,
+            "y": 98.16,
+            "z": -880.23
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_2836717815_12",
+          "position": {
+            "x": 185.42,
+            "y": 83.62,
+            "z": -908.03
+          },
+          "ref": {
+            "id": "poi:mission_trail_2836717815",
+            "order": 12
+          }
+        },
+        {
+          "key": "1540800166",
+          "position": {
+            "x": 355.15,
+            "y": 50.41,
+            "z": -177.11
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_1",
+          "position": {
+            "x": 320.12,
+            "y": 58.97,
+            "z": -148.36
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_2",
+          "position": {
+            "x": 275.83,
+            "y": 72.19,
+            "z": -123.56
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_3",
+          "position": {
+            "x": 236.23,
+            "y": 79.67,
+            "z": -103.09
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_4",
+          "position": {
+            "x": 194.54,
+            "y": 85.47,
+            "z": -82.41
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_5",
+          "position": {
+            "x": 105.73,
+            "y": 91.16,
+            "z": -49.15
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_6",
+          "position": {
+            "x": 205.7,
+            "y": 99.87,
+            "z": -67.37
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_7",
+          "position": {
+            "x": 239.47,
+            "y": 96.56,
+            "z": -124.59
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_8",
+          "position": {
+            "x": 283,
+            "y": 93.61,
+            "z": -106.79
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1540800166_9",
+          "position": {
+            "x": 322.11,
+            "y": 83.95,
+            "z": -153.66
+          },
+          "ref": {
+            "id": "poi:mission_trail_1540800166",
+            "order": 9
+          }
+        },
+        {
+          "key": "1601018324",
+          "position": {
+            "x": 1055.26,
+            "y": 62.5,
+            "z": 670.48
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_1",
+          "position": {
+            "x": 1089.06,
+            "y": 68.74,
+            "z": 604.5
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_2",
+          "position": {
+            "x": 1176.34,
+            "y": 72.58,
+            "z": 552.24
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_3",
+          "position": {
+            "x": 1098.54,
+            "y": 92.45,
+            "z": 524.09
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_4",
+          "position": {
+            "x": 1177.44,
+            "y": 115.3,
+            "z": 433.13
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_5",
+          "position": {
+            "x": 1147.06,
+            "y": 119.49,
+            "z": 327.36
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_6",
+          "position": {
+            "x": 1088.43,
+            "y": 142.72,
+            "z": 368.14
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_7",
+          "position": {
+            "x": 978.26,
+            "y": 140.6,
+            "z": 423.18
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A1_Desert_1601018324_8",
+          "position": {
+            "x": 915.11,
+            "y": 167.72,
+            "z": 379.64
+          },
+          "ref": {
+            "id": "poi:mission_trail_1601018324",
+            "order": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "meteorite",
+      "label": "Meteorite",
+      "icon": "icons/meteor_white.webp",
+      "pin": "pins/meteor_white.webp",
+      "markers": [
+        {
+          "key": "meteorite_R2A1_Desert_35",
+          "position": {
+            "x": 655.33,
+            "y": 68.6,
+            "z": 181.91
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_25",
+          "position": {
+            "x": 239.99,
+            "y": 36.11,
+            "z": -1644.94
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_30",
+          "position": {
+            "x": 882.3,
+            "y": 22.26,
+            "z": -1452.39
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_48",
+          "position": {
+            "x": -900.25,
+            "y": 125.86,
+            "z": -62.51
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_38",
+          "position": {
+            "x": 1405.15,
+            "y": 64.87,
+            "z": -75.7
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_14",
+          "position": {
+            "x": -628.34,
+            "y": 130.5,
+            "z": 905.56
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_39",
+          "position": {
+            "x": 1663.99,
+            "y": 48.17,
+            "z": -388.9
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_33",
+          "position": {
+            "x": 1002.4,
+            "y": 25.58,
+            "z": -654.86
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_40",
+          "position": {
+            "x": 961.4,
+            "y": 38.65,
+            "z": 698.22
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_18",
+          "position": {
+            "x": 310.22,
+            "y": 133.6,
+            "z": 1283.63
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_45",
+          "position": {
+            "x": -344.17,
+            "y": 131.52,
+            "z": 59.08
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_4",
+          "position": {
+            "x": -914.6,
+            "y": 88.54,
+            "z": -1121.48
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_21",
+          "position": {
+            "x": 268.87,
+            "y": 58.85,
+            "z": -556.73
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_5",
+          "position": {
+            "x": -1227.42,
+            "y": 55.26,
+            "z": -670.37
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_11",
+          "position": {
+            "x": -1115.4,
+            "y": 190.72,
+            "z": 714.55
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_46",
+          "position": {
+            "x": -722.41,
+            "y": 149.97,
+            "z": -904.66
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_20",
+          "position": {
+            "x": 462.32,
+            "y": 66.01,
+            "z": 162.44
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_6",
+          "position": {
+            "x": -968.74,
+            "y": 68.31,
+            "z": -451.56
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_42",
+          "position": {
+            "x": 962.85,
+            "y": 103.52,
+            "z": 1547.18
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_34",
+          "position": {
+            "x": 1702.66,
+            "y": 56.4,
+            "z": -1238.94
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_2",
+          "position": {
+            "x": -1052.69,
+            "y": 71.94,
+            "z": -1398.29
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_29",
+          "position": {
+            "x": 342.17,
+            "y": 35.99,
+            "z": -1776.82
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_12",
+          "position": {
+            "x": -955.58,
+            "y": 206.76,
+            "z": 1446.63
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_23",
+          "position": {
+            "x": -467.98,
+            "y": 100.67,
+            "z": 388.09
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_7",
+          "position": {
+            "x": -1474.22,
+            "y": 83.06,
+            "z": -423.7
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_32",
+          "position": {
+            "x": 1654.06,
+            "y": 61.78,
+            "z": -800.25
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_31",
+          "position": {
+            "x": 977.34,
+            "y": 19.96,
+            "z": -1428.26
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_41",
+          "position": {
+            "x": 1612.47,
+            "y": 59.81,
+            "z": 1444.48
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_37",
+          "position": {
+            "x": 1415.56,
+            "y": 78.77,
+            "z": 375.7
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_47",
+          "position": {
+            "x": -56.56,
+            "y": 39.52,
+            "z": -1612.74
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_1",
+          "position": {
+            "x": -1304.41,
+            "y": 91.15,
+            "z": -1451.53
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_3",
+          "position": {
+            "x": -1327.14,
+            "y": 100.07,
+            "z": -552.12
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_16",
+          "position": {
+            "x": 121.35,
+            "y": 146.95,
+            "z": 1569.58
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_26",
+          "position": {
+            "x": -31.07,
+            "y": 67.76,
+            "z": -919.67
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_43",
+          "position": {
+            "x": 973.11,
+            "y": 113.99,
+            "z": 1240.14
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_10",
+          "position": {
+            "x": -1770.52,
+            "y": 105.3,
+            "z": 115
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_36",
+          "position": {
+            "x": 799.19,
+            "y": 117.85,
+            "z": 485.18
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_17",
+          "position": {
+            "x": 264.87,
+            "y": 177.41,
+            "z": 1688.51
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_44",
+          "position": {
+            "x": 611.61,
+            "y": 98.37,
+            "z": 1392.85
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_8",
+          "position": {
+            "x": -1620.18,
+            "y": 130.28,
+            "z": -67.04
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_22",
+          "position": {
+            "x": 152.32,
+            "y": 48.8,
+            "z": -473.63
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_13",
+          "position": {
+            "x": -1076.59,
+            "y": 232.92,
+            "z": 1135.21
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_28",
+          "position": {
+            "x": -257.11,
+            "y": 51.11,
+            "z": -683.98
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_9",
+          "position": {
+            "x": -942.58,
+            "y": 139.35,
+            "z": 444.15
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_15",
+          "position": {
+            "x": -255.17,
+            "y": 170.24,
+            "z": 1181.84
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_19",
+          "position": {
+            "x": 211.66,
+            "y": 82.81,
+            "z": 537.17
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_24",
+          "position": {
+            "x": -77.77,
+            "y": 113.12,
+            "z": 395.51
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A1_Desert_27",
+          "position": {
+            "x": -328.9,
+            "y": 46.28,
+            "z": -1482.56
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenic",
+      "label": "Scenic Point",
+      "icon": "icons/scenic_point.webp",
+      "pin": "pins/scenic_point.webp",
+      "markers": [
+        {
+          "key": "1690265923",
+          "itemId": 1690265923,
+          "position": {
+            "x": -1136.5,
+            "y": 108.03,
+            "z": -1183.1
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 1"
+          }
+        },
+        {
+          "key": "2434288495",
+          "itemId": 2434288495,
+          "position": {
+            "x": 1458.9,
+            "y": 137.28,
+            "z": 908.9
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 10"
+          }
+        },
+        {
+          "key": "1901752387",
+          "itemId": 1901752387,
+          "position": {
+            "x": -1180.69,
+            "y": 237.27,
+            "z": 838.28
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 11"
+          }
+        },
+        {
+          "key": "2001504750",
+          "itemId": 2001504750,
+          "position": {
+            "x": 583.32,
+            "y": 96.33,
+            "z": -749.33
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 15"
+          }
+        },
+        {
+          "key": "1828981842",
+          "itemId": 1828981842,
+          "position": {
+            "x": -287.7,
+            "y": 143.43,
+            "z": 550.7
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 16"
+          }
+        },
+        {
+          "key": "2065404514",
+          "itemId": 2065404514,
+          "position": {
+            "x": 499.81,
+            "y": 85.92,
+            "z": -399.31
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 17"
+          }
+        },
+        {
+          "key": "3036862916",
+          "itemId": 3036862916,
+          "position": {
+            "x": 24.09,
+            "y": 62.12,
+            "z": -1633
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 2"
+          }
+        },
+        {
+          "key": "1754317644",
+          "itemId": 1754317644,
+          "position": {
+            "x": 161.35,
+            "y": 73.71,
+            "z": -484.67
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 3"
+          }
+        },
+        {
+          "key": "1761678879",
+          "itemId": 1761678879,
+          "position": {
+            "x": 1215.4,
+            "y": 20.7,
+            "z": -828.1
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 4"
+          }
+        },
+        {
+          "key": "2231158588",
+          "itemId": 2231158588,
+          "position": {
+            "x": -1303.1,
+            "y": 99.02,
+            "z": -572.89
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 5"
+          }
+        },
+        {
+          "key": "2228903530",
+          "itemId": 2228903530,
+          "position": {
+            "x": -757.59,
+            "y": 155.06,
+            "z": -901.87
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 6"
+          }
+        },
+        {
+          "key": "1349816054",
+          "itemId": 1349816054,
+          "position": {
+            "x": -318.55,
+            "y": 98.33,
+            "z": -1379.47
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 7"
+          }
+        },
+        {
+          "key": "1545845057",
+          "itemId": 1545845057,
+          "position": {
+            "x": 846.2,
+            "y": 45.57,
+            "z": -1441.4
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 8"
+          }
+        },
+        {
+          "key": "2477041314",
+          "itemId": 2477041314,
+          "position": {
+            "x": 542.8,
+            "y": 111.29,
+            "z": 553
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A1_Scenic 9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "label": "Item Recovery",
+      "icon": "icons/item_recovery.webp",
+      "pin": "pins/item_recovery.webp",
+      "markers": [
+        {
+          "key": "2675030852",
+          "itemId": 2675030852,
+          "position": {
+            "x": -749.17,
+            "y": 82.88,
+            "z": -1810.12
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A1_Recovery 1"
+          }
+        },
+        {
+          "key": "2479352777",
+          "itemId": 2479352777,
+          "position": {
+            "x": 1396.1,
+            "y": 50.5,
+            "z": -1296
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A1_Recovery 2"
+          }
+        },
+        {
+          "key": "1722160960",
+          "itemId": 1722160960,
+          "position": {
+            "x": 557.3,
+            "y": 126.29,
+            "z": 887.6
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A1_Recovery 3"
+          }
+        },
+        {
+          "key": "1409767127",
+          "itemId": 1409767127,
+          "position": {
+            "x": -668.1,
+            "y": 108.07,
+            "z": 253.7
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A1_Recovery 4"
+          }
+        },
+        {
+          "key": "1829510151",
+          "itemId": 1829510151,
+          "position": {
+            "x": -561.7,
+            "y": 91.92,
+            "z": -761.5
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A1_Recovery 5"
+          }
+        },
+        {
+          "key": "2084836648",
+          "itemId": 2084836648,
+          "position": {
+            "x": -106.1,
+            "y": 134.4,
+            "z": 1347
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A1_Recovery 6"
+          }
+        },
+        {
+          "key": "2274202374",
+          "itemId": 2274202374,
+          "position": {
+            "x": -1740.84,
+            "y": 198.86,
+            "z": 719.36
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A1_Recovery 7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "merchant",
+      "label": "Mechanic",
+      "icon": "icons/merchant.webp",
+      "pin": "pins/merchant.webp",
+      "markers": [
+        {
+          "key": "3764252565",
+          "itemId": 3764252565,
+          "position": {
+            "x": 84.37,
+            "y": 55.47,
+            "z": -1652.36
+          },
+          "ref": {
+            "id": "poi:merchant_R2A1_Desert"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portal",
+      "label": "Portal",
+      "icon": "icons/portal.webp",
+      "pin": "pins/portal.webp",
+      "markers": [
+        {
+          "key": "2413673284",
+          "itemId": 2413673284,
+          "position": {
+            "x": 100.17,
+            "y": 176.41,
+            "z": 1697.67
+          },
+          "ref": {
+            "id": "poi:portal_R2A1_ExitPortal"
+          }
+        }
+      ]
+    }
+  ]
+}

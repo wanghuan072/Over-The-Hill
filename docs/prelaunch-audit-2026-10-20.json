@@ -1,0 +1,82 @@
+{
+  "checkedOn": "2026-10-20",
+  "domain": "https://overthehillhub.com",
+  "technicalStatus": "passed",
+  "publicLaunchStatus": "pending-production-configuration-and-asset-rights",
+  "scope": {
+    "publicPages": 20,
+    "indexablePages": 19,
+    "guideDetails": 3,
+    "dataRecords": 158,
+    "verifiedLocationRecords": 117,
+    "viewports": [
+      1440,
+      1024,
+      768,
+      375
+    ]
+  },
+  "fixed": [
+    "Vehicle hash navigation restores the full list and locates the selected vehicle after filtering, including mobile.",
+    "Footer copyright symbol corrected; required rel attributes restored on Legal links.",
+    "Brand images retain their aspect ratio.",
+    "Development builds remain noindex even when production indexing values are inherited.",
+    "Production audit uses the real route list; stale test copy, mobile layout assumptions and lazy-image checks updated.",
+    "Playwright can inspect the existing service without starting another server.",
+    "About-page vehicle image description and deployment/SEO documentation updated."
+  ],
+  "verification": {
+    "typescriptEslintAndDataAudit": "passed",
+    "unitTests": {
+      "passed": 27,
+      "failed": 0
+    },
+    "playwrightEndToEnd": {
+      "passed": 3,
+      "failed": 0,
+      "baseURL": "http://localhost:3002",
+      "startedServer": false
+    },
+    "productionDependenciesAudit": {
+      "reportedVulnerabilities": 0,
+      "command": "npm audit --omit=dev --json"
+    },
+    "productionBuildAndCompiledHtml": "passed with SITE_INDEXABLE=true and VERCEL_ENV=production",
+    "previewBuildAndCompiledHtml": "passed; final build restored to noindex with empty sitemap",
+    "allPageBrowserConsoleAndOverflow": "20 pages at all four viewports passed",
+    "maps": "five maps, 19 overlays, zoom/pan, filters, progress/reload/reset, notes, measurement, touch and unavailable storage passed",
+    "headerHomeGuides": "responsive rendering, real images, keyboard interactions, full document navigation and history passed",
+    "persistentDates": "unchanged repeated run reports 0 changed fingerprints"
+  },
+  "releaseConfiguration": {
+    "SITE_URL": "https://overthehillhub.com",
+    "CONTACT_EMAIL": "support@overthehillhub.com",
+    "SITE_INDEXABLE": "true in production only; rebuild after setting"
+  },
+  "remaining": [
+    {
+      "item": "Third-party asset reuse permissions",
+      "status": "confirmation-needed",
+      "evidence": [
+        "docs/assets.md",
+        "docs/research/catalog-2026-10-19/assets.json",
+        "docs/research/map-presentation-2026-10-19/assets.json"
+      ],
+      "note": "Source URLs and hashes are recorded, but explicit redistribution permission is not established for all community imagery and MapRunner renders."
+    },
+    {
+      "item": "Live production DNS, HTTPS, deployed robots/canonical/sitemap and support mailbox",
+      "status": "not-verified",
+      "note": "No deployment, DNS changes or external email was performed."
+    }
+  ],
+  "limitations": [
+    "No current external re-verification of every gameplay fact was undertaken; content checks cover structure, consistency, references and retained version labels.",
+    "No real-user performance or live production Core Web Vitals measurement was performed."
+  ],
+  "actionsNotPerformed": [
+    "Started a project server",
+    "Deployed or modified remote repositories",
+    "Contacted external people or support"
+  ]
+}

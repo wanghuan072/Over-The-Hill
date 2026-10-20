@@ -1,0 +1,1636 @@
+{
+  "vehicles": [
+    {
+      "id": "protector",
+      "gameItemId": 1046421331,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-protector",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "ding",
+      "gameItemId": 1461055881,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-ding",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "trailrat",
+      "gameItemId": 1043242486,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-trailrat",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "brick",
+      "gameItemId": 1691061460,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-brick",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "bull",
+      "gameItemId": 1236419262,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-bull-v1",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "polyana",
+      "gameItemId": 3098383629,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-polyana",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "tinny",
+      "gameItemId": 2047734690,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-tinny",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "lynx",
+      "gameItemId": 3404874685,
+      "page": "https://www.maprunner.info/overthehill/vehicles/das-lynx",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "wombat",
+      "gameItemId": 3658652804,
+      "page": "https://www.maprunner.info/overthehill/vehicles/das-wombat",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 100,
+          "speedCap": 27
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 106,
+          "speedCap": 31
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 112,
+          "speedCap": 34
+        }
+      ]
+    },
+    {
+      "id": "trail-burner",
+      "gameItemId": 2035762699,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-trail-burner",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 125,
+          "speedCap": 29
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 138,
+          "speedCap": 32
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 151,
+          "speedCap": 36
+        }
+      ]
+    },
+    {
+      "id": "roamer",
+      "gameItemId": 3262308567,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-roamer",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 125,
+          "speedCap": 29
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 138,
+          "speedCap": 32
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 151,
+          "speedCap": 36
+        }
+      ]
+    },
+    {
+      "id": "woodman",
+      "gameItemId": 1779250133,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-woodman",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 125,
+          "speedCap": 29
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 138,
+          "speedCap": 32
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 151,
+          "speedCap": 36
+        }
+      ]
+    },
+    {
+      "id": "grand-woodman",
+      "gameItemId": 2033237166,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-grand-woodman",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 125,
+          "speedCap": 29
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 138,
+          "speedCap": 32
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 151,
+          "speedCap": 36
+        }
+      ]
+    },
+    {
+      "id": "cumbre",
+      "gameItemId": 3847423181,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-cumbre",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 125,
+          "speedCap": 29
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 138,
+          "speedCap": 32
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 151,
+          "speedCap": 36
+        }
+      ]
+    },
+    {
+      "id": "burro",
+      "gameItemId": 1260490138,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-burro",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 175,
+          "speedCap": 22
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 190,
+          "speedCap": 25
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 207,
+          "speedCap": 29
+        }
+      ]
+    },
+    {
+      "id": "blast-wagon",
+      "gameItemId": 1808898351,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-blast-wagon",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 175,
+          "speedCap": 22
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 190,
+          "speedCap": 25
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 207,
+          "speedCap": 29
+        }
+      ]
+    },
+    {
+      "id": "rust-ox",
+      "gameItemId": 1018520739,
+      "page": "https://www.maprunner.info/overthehill/vehicles/das-rust-ox",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 175,
+          "speedCap": 22
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 190,
+          "speedCap": 25
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 207,
+          "speedCap": 29
+        }
+      ]
+    },
+    {
+      "id": "boar",
+      "gameItemId": 2998940911,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-boar",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 175,
+          "speedCap": 22
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 190,
+          "speedCap": 25
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 207,
+          "speedCap": 29
+        }
+      ]
+    },
+    {
+      "id": "timberbox",
+      "gameItemId": 2098325991,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-timberbox",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 175,
+          "speedCap": 22
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 190,
+          "speedCap": 25
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 207,
+          "speedCap": 29
+        }
+      ]
+    },
+    {
+      "id": "mammoth",
+      "gameItemId": 1932033467,
+      "page": "https://www.maprunner.info/overthehill/vehicles/das-mammoth",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 200,
+          "speedCap": 20
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 227,
+          "speedCap": 23
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 256,
+          "speedCap": 27
+        }
+      ]
+    },
+    {
+      "id": "marshal",
+      "gameItemId": 2266109950,
+      "page": "https://www.maprunner.info/overthehill/vehicles/the-marshal",
+      "crossCheckedFields": [
+        "country",
+        "class",
+        "mass",
+        "steering",
+        "suspensionTravel",
+        "wheelRadius",
+        "engineTorque",
+        "speedLimiter",
+        "rpm"
+      ],
+      "engineStages": [
+        {
+          "stage": "Stock",
+          "torque": 200,
+          "speedCap": 20
+        },
+        {
+          "stage": "Stage 2",
+          "torque": 227,
+          "speedCap": 23
+        },
+        {
+          "stage": "Stage 3",
+          "torque": 256,
+          "speedCap": 27
+        }
+      ]
+    }
+  ],
+  "animals": [
+    {
+      "id": "bald-eagle",
+      "gameItemId": 2330246028,
+      "page": "https://www.maprunner.info/overthehill/animals/bald-eagle",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "barbary-sheep",
+      "gameItemId": 3021150937,
+      "page": "https://www.maprunner.info/overthehill/animals/barbary-sheep-aoudad",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "beaver",
+      "gameItemId": 2419144249,
+      "page": "https://www.maprunner.info/overthehill/animals/beaver",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "bighorn-sheep",
+      "gameItemId": 1725686174,
+      "page": "https://www.maprunner.info/overthehill/animals/bighorn-sheep",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "black-bear",
+      "gameItemId": 2542451225,
+      "page": "https://www.maprunner.info/overthehill/animals/black-bear",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "canada-goose",
+      "gameItemId": 2415360431,
+      "page": "https://www.maprunner.info/overthehill/animals/canada-goose",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "common-raven",
+      "gameItemId": 2225123386,
+      "page": "https://www.maprunner.info/overthehill/animals/common-raven",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "coyote",
+      "gameItemId": 2048460572,
+      "page": "https://www.maprunner.info/overthehill/animals/coyote",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "desert-sparrow",
+      "gameItemId": 1925770050,
+      "page": "https://www.maprunner.info/overthehill/animals/desert-sparrow",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "dorcas-gazelle",
+      "gameItemId": 2477274988,
+      "page": "https://www.maprunner.info/overthehill/animals/dorcas-gazelle",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "dromedary-camel",
+      "gameItemId": 2361259004,
+      "page": "https://www.maprunner.info/overthehill/animals/dromedary-camel",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "egyptian-vulture",
+      "gameItemId": 2014276128,
+      "page": "https://www.maprunner.info/overthehill/animals/egyptian-vulture",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "elk",
+      "gameItemId": 2572388347,
+      "page": "https://www.maprunner.info/overthehill/animals/elk",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "fennec-fox",
+      "gameItemId": 1850872898,
+      "page": "https://www.maprunner.info/overthehill/animals/fennec-fox",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "flamingo",
+      "gameItemId": 2152802977,
+      "page": "https://www.maprunner.info/overthehill/animals/flamingo",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "gray-wolf",
+      "gameItemId": 3000190931,
+      "page": "https://www.maprunner.info/overthehill/animals/gray-wolf",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "grizzly-bear",
+      "gameItemId": 2229541244,
+      "page": "https://www.maprunner.info/overthehill/animals/grizzly-bear",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "jackal",
+      "gameItemId": 2183602026,
+      "page": "https://www.maprunner.info/overthehill/animals/jackal",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "kokanee-salmon",
+      "gameItemId": 2561404324,
+      "page": "https://www.maprunner.info/overthehill/animals/kokanee-salmon",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "lanner-falcon",
+      "gameItemId": 2341432011,
+      "page": "https://www.maprunner.info/overthehill/animals/lanner-falcon",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "moose",
+      "gameItemId": 2180040503,
+      "page": "https://www.maprunner.info/overthehill/animals/moose",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "mountain-goat",
+      "gameItemId": 2624703975,
+      "page": "https://www.maprunner.info/overthehill/animals/mountain-goat",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "mule-deer",
+      "gameItemId": 1951397390,
+      "page": "https://www.maprunner.info/overthehill/animals/mule-deer",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "red-fox",
+      "gameItemId": 2005722174,
+      "page": "https://www.maprunner.info/overthehill/animals/red-fox",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "saharan-cheetah",
+      "gameItemId": 2783000462,
+      "page": "https://www.maprunner.info/overthehill/animals/saharan-cheetah",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "sasquatch",
+      "gameItemId": 2289752720,
+      "page": "https://www.maprunner.info/overthehill/animals/sasquatch",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    },
+    {
+      "id": "striped-hyena",
+      "gameItemId": 2128302049,
+      "page": "https://www.maprunner.info/overthehill/animals/striped-hyena",
+      "crossCheckedFields": [
+        "areas",
+        "habitat",
+        "weather",
+        "timeOfDay",
+        "class",
+        "rarity",
+        "firstPhotoReward"
+      ]
+    }
+  ],
+  "upgrades": [
+    {
+      "id": "engine-stage-2",
+      "gameItemId": 1235344816,
+      "price": 25,
+      "effect": [],
+      "vehicleCount": 21
+    },
+    {
+      "id": "engine-stage-3",
+      "gameItemId": 1457324967,
+      "price": 50,
+      "effect": [],
+      "vehicleCount": 21
+    },
+    {
+      "id": "tool-slots",
+      "gameItemId": 1529577735,
+      "price": 25,
+      "effect": [
+        {
+          "label": "_TOOL_SLOTS",
+          "value": "2"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "tool-slots-3",
+      "gameItemId": 1873049924,
+      "price": 50,
+      "effect": [
+        {
+          "label": "_TOOL_SLOTS",
+          "value": "3"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "tool-slots-4",
+      "gameItemId": 3002350259,
+      "price": 75,
+      "effect": [
+        {
+          "label": "_TOOL_SLOTS",
+          "value": "4"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "suspension-level-2",
+      "gameItemId": 3344051035,
+      "price": 25,
+      "effect": [
+        {
+          "label": "_SUSPENSION_TRAVEL",
+          "value": "+8 cm"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "suspension-level-3",
+      "gameItemId": 2707028229,
+      "price": 50,
+      "effect": [
+        {
+          "label": "_SUSPENSION_TRAVEL",
+          "value": "+16 cm"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "water-resistance-2",
+      "gameItemId": 2184154733,
+      "price": 25,
+      "effect": [
+        {
+          "label": "_FLOOD_TIME",
+          "value": "+50%"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "water-resistance-3",
+      "gameItemId": 3390219457,
+      "price": 50,
+      "effect": [
+        {
+          "label": "_FLOOD_TIME",
+          "value": "+100%"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "tyres-stage-2",
+      "gameItemId": 2404294194,
+      "price": 25,
+      "effect": [
+        {
+          "label": "_GRIP",
+          "value": "+0.08"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "tyres-stage-3",
+      "gameItemId": 2299336256,
+      "price": 50,
+      "effect": [
+        {
+          "label": "_GRIP",
+          "value": "+0.16"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "winch-stage-2",
+      "gameItemId": 2221235084,
+      "price": 25,
+      "effect": [
+        {
+          "label": "_WINCH_RANGE",
+          "value": "+15%"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "winch-stage-3",
+      "gameItemId": 2387411355,
+      "price": 50,
+      "effect": [
+        {
+          "label": "_WINCH_RANGE",
+          "value": "+30%"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "winch-stage-4",
+      "gameItemId": 1758494685,
+      "price": 75,
+      "effect": [
+        {
+          "label": "_WINCH_RANGE",
+          "value": "+50%"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "protection-stage-2",
+      "gameItemId": 1962146421,
+      "price": 25,
+      "effect": [
+        {
+          "label": "_DAMAGE_TAKEN",
+          "value": "-15%"
+        }
+      ],
+      "vehicleCount": 21
+    },
+    {
+      "id": "protection-stage-3",
+      "gameItemId": 2826120212,
+      "price": 50,
+      "effect": [
+        {
+          "label": "_DAMAGE_TAKEN",
+          "value": "-30%"
+        }
+      ],
+      "vehicleCount": 21
+    }
+  ],
+  "achievements": [
+    {
+      "id": "achievement-WelcomeToTheWild",
+      "gameKey": "WelcomeToTheWild",
+      "requirement": "Complete the tutorial.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-FirstAid",
+      "gameKey": "FirstAid",
+      "requirement": "Recover your first vehicle.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-UnderTheStars",
+      "gameKey": "UnderTheStars",
+      "requirement": "Set up a campsite for the first time.",
+      "hidden": true
+    },
+    {
+      "id": "achievement-DirtBaptism",
+      "gameKey": "DirtBaptism",
+      "requirement": "Complete your first trail.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-SayCheese",
+      "gameKey": "SayCheese",
+      "requirement": "Photograph your first animal.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-NewHorizons",
+      "gameKey": "NewHorizons",
+      "requirement": "Find the exit from an area.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-GettingBetter",
+      "gameKey": "GettingBetter",
+      "requirement": "Purchase your first upgrade.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-ShinyRock",
+      "gameKey": "ShinyRock",
+      "requirement": "Extract your first meteorite.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-Explorer",
+      "gameKey": "Explorer",
+      "requirement": "Discover 20 points of interest.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-ScenicRoute",
+      "gameKey": "ScenicRoute",
+      "requirement": "Reach a scenic viewpoint.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-OffTheBeatenPath",
+      "gameKey": "OffTheBeatenPath",
+      "requirement": "Drive 50 km off-road.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-ManySmallSteps",
+      "gameKey": "ManySmallSteps",
+      "requirement": "Drive 100 km.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-MakeALongJourney",
+      "gameKey": "MakeALongJourney",
+      "requirement": "Drive 1,000 km.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-Collector",
+      "gameKey": "Collector",
+      "requirement": "Unlock 6 vehicles.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-FleetOwner",
+      "gameKey": "FleetOwner",
+      "requirement": "Unlock 18 vehicles.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-NobodyLeftBehind",
+      "gameKey": "NobodyLeftBehind",
+      "requirement": "Tow another vehicle for 1,000 meters.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-CloseEncounter",
+      "gameKey": "CloseEncounter",
+      "requirement": "Photograph a mammal from less than 10 meters away.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-Birdwatcher",
+      "gameKey": "Birdwatcher",
+      "requirement": "Photograph at least 5 bird species.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-AHandfulOfPebbles",
+      "gameKey": "AHandfulOfPebbles",
+      "requirement": "Collect 100 pebbles.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-ASackOfPebbles",
+      "gameKey": "ASackOfPebbles",
+      "requirement": "Collect 1,000 pebbles.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-MasterMechanic",
+      "gameKey": "MasterMechanic",
+      "requirement": "Fully upgrade a vehicle.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-AllDressedUp",
+      "gameKey": "AllDressedUp",
+      "requirement": "Equip at least 5 cosmetics at the same time.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-BackToTheCabin",
+      "gameKey": "BackToTheCabin",
+      "requirement": "Fast travel to an unlocked cabin.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-ProblemSolver",
+      "gameKey": "ProblemSolver",
+      "requirement": "Perform 10 recoveries.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-HandyHelper",
+      "gameKey": "HandyHelper",
+      "requirement": "Use your first tool.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-HeldByAThread",
+      "gameKey": "HeldByAThread",
+      "requirement": "Hang suspended by your winch for 10 seconds, while completely in the air.",
+      "hidden": true
+    },
+    {
+      "id": "achievement-GetOutOfMySwamp",
+      "gameKey": "GetOutOfMySwamp",
+      "requirement": "Drive 20 km through mud.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-WetSocks",
+      "gameKey": "WetSocks",
+      "requirement": "Drive 5 km through water.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-Snowcat",
+      "gameKey": "Snowcat",
+      "requirement": "Drive 20 km on snow.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-SandSurfer",
+      "gameKey": "SandSurfer",
+      "requirement": "Drive 20 km on sand.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-EnjoyTheJourney",
+      "gameKey": "EnjoyTheJourney",
+      "requirement": "Drive 20 km in Low Range.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-CloseCall",
+      "gameKey": "CloseCall",
+      "requirement": "Pull your fully submerged vehicle out of the water using the winch.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-ProfessionalDriver",
+      "gameKey": "ProfessionalDriver",
+      "requirement": "Flip your vehicle.",
+      "hidden": true
+    },
+    {
+      "id": "achievement-BackOnTrack",
+      "gameKey": "BackOnTrack",
+      "requirement": "Recover from a rollover.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-StarCollector",
+      "gameKey": "StarCollector",
+      "requirement": "Collect 20 meteorites.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-AGiftFromTheStars",
+      "gameKey": "AGiftFromTheStars",
+      "requirement": "Collect a meteorite within 5 minutes of its impact.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-MorningDrive",
+      "gameKey": "MorningDrive",
+      "requirement": "Witness a sunrise.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-WishUponAStar",
+      "gameKey": "WishUponAStar",
+      "requirement": "Spot a falling meteorite.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-UnderTheWater",
+      "gameKey": "UnderTheWater",
+      "requirement": "Completely fill the water resistance bar so that the vehicle shuts down.",
+      "hidden": true
+    },
+    {
+      "id": "achievement-NightWalker",
+      "gameKey": "NightWalker",
+      "requirement": "Drive 20 km at night.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-Totaled",
+      "gameKey": "Totaled",
+      "requirement": "Destroy your vehicle.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-Odysseus",
+      "gameKey": "Odysseus",
+      "requirement": "Drive for 1 hour without going near a cabin.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-RareEncounter",
+      "gameKey": "RareEncounter",
+      "requirement": "Photograph a rare animal.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-TreasureHunter",
+      "gameKey": "TreasureHunter",
+      "requirement": "Open 50 crates.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-NewStyle",
+      "gameKey": "NewStyle",
+      "requirement": "Equip your first cosmetic.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-StormChaser",
+      "gameKey": "StormChaser",
+      "requirement": "Drive 20 km in the rain.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-Naturalist",
+      "gameKey": "Naturalist",
+      "requirement": "Complete a region's wildlife compendium.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-WildlifeEnthusiast",
+      "gameKey": "WildlifeEnthusiast",
+      "requirement": "Photograph 20 animals.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-ATaleComeTrue",
+      "gameKey": "ATaleComeTrue",
+      "requirement": "Photograph a legendary animal.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-NightWatcher",
+      "gameKey": "NightWatcher",
+      "requirement": "Photograph a nocturnal animal.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-NoisyNeighbor",
+      "gameKey": "NoisyNeighbor",
+      "requirement": "Scare 20 different animals.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-GoldenHour",
+      "gameKey": "GoldenHour",
+      "requirement": "Witness a sunset.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-CanadianPassport",
+      "gameKey": "CanadianPassport",
+      "requirement": "Complete everything in Canada.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-AlgerianPassport",
+      "gameKey": "AlgerianPassport",
+      "requirement": "Complete everything in Algeria.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-MakingMemories",
+      "gameKey": "MakingMemories",
+      "requirement": "Take 20 photos.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-SoundtrackToTheJourney",
+      "gameKey": "SoundtrackToTheJourney",
+      "requirement": "Drive 10 km without stopping the music.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-TheTwelveLabours",
+      "gameKey": "TheTwelveLabours",
+      "requirement": "Complete 12 trails.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-TakingFlight",
+      "gameKey": "TakingFlight",
+      "requirement": "Make a jump with your vehicle.",
+      "hidden": true
+    },
+    {
+      "id": "achievement-SmoothRide",
+      "gameKey": "SmoothRide",
+      "requirement": "Complete a trail without taking any damage.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-LawOfTheLand",
+      "gameKey": "LawOfTheLand",
+      "requirement": "Equip a blue livery and the 'Red & Blue Beacons' or 'Red & Blue Beacon Bar' at the same time.",
+      "hidden": true
+    },
+    {
+      "id": "achievement-AMountainOfPebbles",
+      "gameKey": "AMountainOfPebbles",
+      "requirement": "Collect 2,000 pebbles.",
+      "hidden": false
+    },
+    {
+      "id": "achievement-SoundOfTheNature",
+      "gameKey": "SoundOfTheNature",
+      "requirement": "Drive 10 km without listening to music.",
+      "hidden": false
+    }
+  ],
+  "excluded": []
+}

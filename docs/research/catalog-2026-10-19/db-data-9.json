@@ -1,0 +1,1775 @@
+[
+  {
+    "id": "TowBar",
+    "name": "Tow Bar",
+    "description": null,
+    "itemId": 2724069072,
+    "price": 0,
+    "icon": "Rear-Bumper_Tow Bar",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaMarshmellow",
+    "name": "Marshmallow Antenna",
+    "description": null,
+    "itemId": 2293667268,
+    "price": 0,
+    "icon": "Antenna_Marshmallow",
+    "requiredDlc": 0
+  },
+  {
+    "id": "WhipLights_03",
+    "name": "Whip Lights - Orange",
+    "description": null,
+    "itemId": 2706586623,
+    "price": 0,
+    "icon": "Whip_Lights_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "BashBar_01_Rear",
+    "name": "Rear Tube Bumper",
+    "description": null,
+    "itemId": 2268347193,
+    "price": 0,
+    "icon": "Rear-Bumper_Bash Bar_Type 1",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_VIP_Front",
+    "name": "Framed M.V.P. Plate",
+    "description": null,
+    "itemId": 3287975291,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Framed_MVP",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Refreshments_Bed",
+    "name": "Refreshments",
+    "description": null,
+    "itemId": 2020516196,
+    "price": 0,
+    "icon": "PickupBed_Refreshments",
+    "requiredDlc": 0
+  },
+  {
+    "id": "PlushStarPuppy",
+    "name": "Star Puppy Plushie",
+    "description": null,
+    "itemId": 1907278087,
+    "price": 0,
+    "icon": "Star_Puppy_Plushie",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Bullbar_01_LightsSquare",
+    "name": "Bull Bar Type 6 - Black",
+    "description": null,
+    "itemId": 2468692344,
+    "price": 0,
+    "icon": "Bullbar_type 2_Square Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Bullbar_00",
+    "name": "Bull Bar Type 1 - Black",
+    "description": null,
+    "itemId": 1802891673,
+    "price": 0,
+    "icon": "Bullbar_Type 1",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Funny_RChicken",
+    "name": "Rubber Chicken Horn",
+    "description": null,
+    "itemId": 3250223662,
+    "price": 0,
+    "icon": "RubberChicken_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Black",
+    "name": "Round Light Covers - Black",
+    "description": null,
+    "itemId": 3191874815,
+    "price": 0,
+    "icon": "Rooflights_Cover",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Shackles_Rear",
+    "name": "Shackles",
+    "description": null,
+    "itemId": 2886100297,
+    "price": 0,
+    "icon": "Rear-Bumper_Shakles",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Canoe_Bed",
+    "name": "Canoe",
+    "description": null,
+    "itemId": 2885773951,
+    "price": 0,
+    "icon": "PickupBed_Canoe",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_GLAP",
+    "name": "Framed Golden Lap Plate",
+    "description": null,
+    "itemId": 3158723573,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Framed_Golden Lap",
+    "requiredDlc": 1
+  },
+  {
+    "id": "AntennaPlushStarPuppy",
+    "name": "Star Puppy Plushie Antenna",
+    "description": null,
+    "itemId": 3015789526,
+    "price": 0,
+    "icon": "Antenna_Star_Puppy_Plushie",
+    "requiredDlc": 1
+  },
+  {
+    "id": "LicensePlateFramed_FNSLKTR",
+    "name": "Framed Funselektor Plate",
+    "description": null,
+    "itemId": 2086845792,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Framed_Funselektor",
+    "requiredDlc": 1
+  },
+  {
+    "id": "WhipLights_01",
+    "name": "Whip Lights - Blue",
+    "description": null,
+    "itemId": 2883880182,
+    "price": 0,
+    "icon": "Whip_Lights_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaSushi",
+    "name": "Sushi Antenna",
+    "description": null,
+    "itemId": 3238315710,
+    "price": 0,
+    "icon": "Antenna_Sushi",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_BeaconBar_Amber",
+    "name": "Beacon Bar - Amber",
+    "description": null,
+    "itemId": 1341452526,
+    "price": 0,
+    "icon": "Rooflights_Beacon Bar",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaLuckyCharm",
+    "name": "Lucky Charm Antenna",
+    "description": null,
+    "itemId": 2272615151,
+    "price": 0,
+    "icon": "Antenna_Lucky Charm",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_Mid2",
+    "name": "Mid-Tone Horn 2",
+    "description": null,
+    "itemId": 2292871810,
+    "price": 0,
+    "icon": "Mid-Tone_Horn_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaSeal",
+    "name": "Seal Antenna",
+    "description": null,
+    "itemId": 2318692073,
+    "price": 0,
+    "icon": "Antenna_Seal",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Tent_Bed",
+    "name": "Expedition Tent",
+    "description": null,
+    "itemId": 2513861343,
+    "price": 0,
+    "icon": "PickupBed_Tent",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_Axe",
+    "name": "Axe",
+    "description": null,
+    "itemId": 2041092171,
+    "price": 0,
+    "icon": "Side_Axe",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Bullbar_01",
+    "name": "Bull Bar Type 4 - Black",
+    "description": null,
+    "itemId": 1932940717,
+    "price": 0,
+    "icon": "Bullbar_Type 2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaPlushChipmunk",
+    "name": "Funselektor Plushie Antenna",
+    "description": null,
+    "itemId": 3780138146,
+    "price": 0,
+    "icon": "Antenna_Funselektor_Plushie",
+    "requiredDlc": 1
+  },
+  {
+    "id": "WhipLights_04",
+    "name": "Whip Lights - Pink",
+    "description": null,
+    "itemId": 1157697193,
+    "price": 0,
+    "icon": "Whip_Lights_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Christmas_Front",
+    "name": "Festive Lights",
+    "description": null,
+    "itemId": 3524770717,
+    "price": 0,
+    "icon": "Front-Bumper_Fairy Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_FNSLKTR_Front",
+    "name": "Funselektor Plate",
+    "description": null,
+    "itemId": 3756393217,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_funselektor",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Mudflap_02",
+    "name": "Mudflaps - Silver",
+    "description": null,
+    "itemId": 2073995297,
+    "price": 0,
+    "icon": "Fender_Mudflap",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_RegHigh2",
+    "name": "High-Tone Horn 2",
+    "description": null,
+    "itemId": 4083416283,
+    "price": 0,
+    "icon": "High-Tone_Horn_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "IceCream",
+    "name": "Ice Cream",
+    "description": null,
+    "itemId": 3444195680,
+    "price": 0,
+    "icon": "IceCream",
+    "requiredDlc": 0
+  },
+  {
+    "id": "CampingLantern",
+    "name": "Camp Lantern",
+    "description": null,
+    "itemId": 3098014576,
+    "price": 0,
+    "icon": "CampLantern",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Party",
+    "name": "Party Pack",
+    "description": null,
+    "itemId": 2659571908,
+    "price": 0,
+    "icon": "Roofrack_Party Pack",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_Mid1",
+    "name": "Mid-Tone Horn 1",
+    "description": null,
+    "itemId": 1058857562,
+    "price": 0,
+    "icon": "Mid-Tone_Horn_1",
+    "requiredDlc": 0
+  },
+  {
+    "id": "RearWing",
+    "name": "Rear Wing",
+    "description": null,
+    "itemId": 2249697169,
+    "price": 0,
+    "icon": "Rear_Wing",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed",
+    "name": "Framed Blank Plate",
+    "description": null,
+    "itemId": 2117412776,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Framed_Simple",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_Sledgehammer",
+    "name": "Sledgehammer",
+    "description": null,
+    "itemId": 2452984801,
+    "price": 0,
+    "icon": "Side_sledgehammer",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Mudflap_06",
+    "name": "Mudflaps - Green",
+    "description": null,
+    "itemId": 2627262099,
+    "price": 0,
+    "icon": "Fender_Mudflap",
+    "requiredDlc": 0
+  },
+  {
+    "id": "WhipLights_05",
+    "name": "Whip Lights - Purple",
+    "description": null,
+    "itemId": 3314739926,
+    "price": 0,
+    "icon": "Whip_Lights_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_GLAP",
+    "name": "Golden Lap Plate",
+    "description": null,
+    "itemId": 1803242480,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Golden Lap",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Sparewheel_Wreath",
+    "name": "Festive Spare Wheel",
+    "description": null,
+    "itemId": 3160637481,
+    "price": 0,
+    "icon": "Rear_Spare Wheel_wreath",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Rocket",
+    "name": "Rocket",
+    "description": null,
+    "itemId": 2589312632,
+    "price": 0,
+    "icon": "Rocket",
+    "requiredDlc": 0
+  },
+  {
+    "id": "ToiletSeat",
+    "name": "Toilet",
+    "description": null,
+    "itemId": 3057488404,
+    "price": 0,
+    "icon": "Toilet",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_BikeHonk",
+    "name": "Bike Horn",
+    "description": null,
+    "itemId": 3930238507,
+    "price": 0,
+    "icon": "Bike_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Round",
+    "name": "Round Lights",
+    "description": null,
+    "itemId": 3912776600,
+    "price": 0,
+    "icon": "Rooflights_Round Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Sparewheel_Axe_Shovel",
+    "name": "Trailblazer Spare Wheel",
+    "description": null,
+    "itemId": 2258050032,
+    "price": 0,
+    "icon": "Rear_Spare Wheel_Axe and Shovel",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Surfboard_Bed",
+    "name": "Surfboards",
+    "description": null,
+    "itemId": 3083956934,
+    "price": 0,
+    "icon": "PickupBed_Surfboards",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Crown",
+    "name": "Crown",
+    "description": null,
+    "itemId": 3461162295,
+    "price": 0,
+    "icon": "Crown",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaPlushBear",
+    "name": "Bear Plushie Antenna",
+    "description": null,
+    "itemId": 1390508814,
+    "price": 0,
+    "icon": "Antenna_Bear_Plushie",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Pan",
+    "name": "Frying Pan",
+    "description": null,
+    "itemId": 4010936324,
+    "price": 0,
+    "icon": "Rear_Frying Pan",
+    "requiredDlc": 0
+  },
+  {
+    "id": "PlushChipmunk",
+    "name": "Funselektor Plushie",
+    "description": null,
+    "itemId": 3416375832,
+    "price": 0,
+    "icon": "Funselektor_Plushie",
+    "requiredDlc": 1
+  },
+  {
+    "id": "LicensePlateFramed_ADRIFT_Front",
+    "name": "Framed Absolute Drift Plate",
+    "description": null,
+    "itemId": 1469381514,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Framed_Absolute Drift",
+    "requiredDlc": 1
+  },
+  {
+    "id": "LicensePlateFramed_ADRIFT",
+    "name": "Framed Absolute Drift Plate",
+    "description": null,
+    "itemId": 2283901947,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Framed_Absolute Drift",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Bullbar_01_LightsRound",
+    "name": "Bull Bar Type 5 - Black",
+    "description": null,
+    "itemId": 1613960288,
+    "price": 0,
+    "icon": "Bullbar_Type 2_Round Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Funny_Squeaky",
+    "name": "Squeaky Horn",
+    "description": null,
+    "itemId": 1794962253,
+    "price": 0,
+    "icon": "Squeaky_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Sparewheel_Hood",
+    "name": "Hood-Mounted Spare Wheel",
+    "description": null,
+    "itemId": 3003061624,
+    "price": 0,
+    "icon": "Hood_Spare Wheel",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Cattleskull",
+    "name": "Cattle Skull",
+    "description": null,
+    "itemId": 1345851068,
+    "price": 0,
+    "icon": "Hood_Cattle Skull",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Steps_01",
+    "name": "Side Steps - Black",
+    "description": null,
+    "itemId": 1336553944,
+    "price": 0,
+    "icon": "SideStep_Steps",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Christmas",
+    "name": "Festive Tree",
+    "description": null,
+    "itemId": 1638208364,
+    "price": 0,
+    "icon": "Roofrack_Festive",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Fisher",
+    "name": "Fishing Boat",
+    "description": null,
+    "itemId": 3561647872,
+    "price": 0,
+    "icon": "Fisher",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_BeaconBar_Blue",
+    "name": "Beacon Bar - Blue",
+    "description": null,
+    "itemId": 2594319430,
+    "price": 0,
+    "icon": "Rooflights_Beacon Bar",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_GLAP_Front",
+    "name": "Golden Lap Plate",
+    "description": null,
+    "itemId": 3480199623,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Golden Lap",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Steps_03",
+    "name": "Rock Sliders",
+    "description": null,
+    "itemId": 1987289783,
+    "price": 0,
+    "icon": "SideStep_Rock Sliders",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Canoe",
+    "name": "Canoe",
+    "description": null,
+    "itemId": 3823205236,
+    "price": 0,
+    "icon": "Roofrack_Canoe",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_OldCar",
+    "name": "Old Car Horn",
+    "description": null,
+    "itemId": 2833792802,
+    "price": 0,
+    "icon": "OldCar_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Bullbar_00_LightsRound",
+    "name": "Bull Bar Type 2 - Black",
+    "description": null,
+    "itemId": 2771791156,
+    "price": 0,
+    "icon": "Bullbar_type 1_round Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Jerrycan",
+    "name": "Jerry Cans",
+    "description": null,
+    "itemId": 3837972046,
+    "price": 0,
+    "icon": "Side_Jerry Cans",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_Mid5",
+    "name": "Mid-Tone Horn 5",
+    "description": null,
+    "itemId": 1600042212,
+    "price": 0,
+    "icon": "Mid-Tone_Horn_5",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Mudflap_04",
+    "name": "Mudflaps - Yellow",
+    "description": null,
+    "itemId": 2310985251,
+    "price": 0,
+    "icon": "Fender_Mudflap",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaPlushFoxxo",
+    "name": "Fox Plushie Antenna",
+    "description": null,
+    "itemId": 1282610331,
+    "price": 0,
+    "icon": "Antenna_Fox_Plushie",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Party_Bed",
+    "name": "Party Pack",
+    "description": null,
+    "itemId": 2806263253,
+    "price": 0,
+    "icon": "PickupBed_Party-Pack",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Smiley",
+    "name": "Smiley Round Light Covers",
+    "description": null,
+    "itemId": 3825002035,
+    "price": 0,
+    "icon": "Rooflights_Smiley cover",
+    "requiredDlc": 0
+  },
+  {
+    "id": "MountedGrill",
+    "name": "Rear-Mounted Grill",
+    "description": null,
+    "itemId": 2666376772,
+    "price": 0,
+    "icon": "Rear_Mount_Grill",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Bullbar_02",
+    "name": "Bull Bar Type 4 - White",
+    "description": null,
+    "itemId": 2740750955,
+    "price": 0,
+    "icon": "Bullbar_Type 2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_Low1",
+    "name": "Low-Tone Horn 1",
+    "description": null,
+    "itemId": 3054536049,
+    "price": 0,
+    "icon": "Low-Tone_Horn_1",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Rescue_Bed",
+    "name": "Mountain Rescue",
+    "description": null,
+    "itemId": 3126085195,
+    "price": 0,
+    "icon": "PickupBed_Mountain Rescue",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaPlushPuppy",
+    "name": "Puppy Plushie Antenna",
+    "description": null,
+    "itemId": 2557563859,
+    "price": 0,
+    "icon": "Antenna_Puppy_Plushie",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Sparewheel_cover_00",
+    "name": "Over the Hill Spare Wheel",
+    "description": null,
+    "itemId": 2564047870,
+    "price": 0,
+    "icon": "Rear_Spare Wheel_OTH Cover",
+    "requiredDlc": 1
+  },
+  {
+    "id": "LicensePlate_AOR_Front",
+    "name": "Art of Rally Plate",
+    "description": null,
+    "itemId": 2327053616,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_AOR",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Lights_White",
+    "name": "Round Light Covers - White",
+    "description": null,
+    "itemId": 2238870993,
+    "price": 0,
+    "icon": "Rooflights_Cover",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_ADRIFT_Front",
+    "name": "Absolute Drift Plate",
+    "description": null,
+    "itemId": 1409488183,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Absolute Drift",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Side_Tool_Shovel",
+    "name": "Shovel",
+    "description": null,
+    "itemId": 1570524396,
+    "price": 0,
+    "icon": "Side_shovel",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Sparewheel_Machette",
+    "name": "Bushcraft Spare Wheel",
+    "description": null,
+    "itemId": 2919489103,
+    "price": 0,
+    "icon": "Rear_Spare Wheel_Machete",
+    "requiredDlc": 0
+  },
+  {
+    "id": "WhipLights_02",
+    "name": "Whip Lights - Green",
+    "description": null,
+    "itemId": 1756279490,
+    "price": 0,
+    "icon": "Whip_Lights_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Wreath",
+    "name": "Wreath",
+    "description": null,
+    "itemId": 3120886791,
+    "price": 0,
+    "icon": "Side_Wreath",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Hotdog",
+    "name": "Hot Dog",
+    "description": null,
+    "itemId": 4202446733,
+    "price": 0,
+    "icon": "HotDog",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Camper",
+    "name": "Camping Gear",
+    "description": null,
+    "itemId": 1246763350,
+    "price": 0,
+    "icon": "Roofrack_Camper",
+    "requiredDlc": 0
+  },
+  {
+    "id": "RoofSpare",
+    "name": "Roof Mounted Spare Wheel",
+    "description": null,
+    "itemId": 2135401100,
+    "price": 0,
+    "icon": "Roof_Mounted_SpareWheel_1",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Wintersports",
+    "name": "Skis & Snowboards",
+    "description": null,
+    "itemId": 3010393760,
+    "price": 0,
+    "icon": "Roofrack_Ski and Snowboard",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_IcePicks",
+    "name": "Ice Picks",
+    "description": null,
+    "itemId": 3025295683,
+    "price": 0,
+    "icon": "Side_Ice Picks",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Christmas_Bed",
+    "name": "Festive Tree",
+    "description": null,
+    "itemId": 2920863285,
+    "price": 0,
+    "icon": "PickupBed_Festive",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Sparewheel_Rear",
+    "name": "Hood-Mounted Spare Wheel",
+    "description": null,
+    "itemId": 2626633432,
+    "price": 0,
+    "icon": "Rear_Spare Wheel",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaUfo",
+    "name": "UFO Antenna",
+    "description": null,
+    "itemId": 1791770205,
+    "price": 0,
+    "icon": "Antenna_UFO",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Surfboard",
+    "name": "Surfboards",
+    "description": null,
+    "itemId": 3179273176,
+    "price": 0,
+    "icon": "Roofrack_surfboards",
+    "requiredDlc": 0
+  },
+  {
+    "id": "TaxiSign",
+    "name": "Taxi Sign",
+    "description": null,
+    "itemId": 3812523733,
+    "price": 0,
+    "icon": "TaxiSign",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_Low2",
+    "name": "Low-Tone Horn 2",
+    "description": null,
+    "itemId": 3106137998,
+    "price": 0,
+    "icon": "Low-Tone_Horn_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Overlander",
+    "name": "Expedition Gear",
+    "description": null,
+    "itemId": 3277887484,
+    "price": 0,
+    "icon": "Roofrack_Overlander",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Bullbar_02_LightsSquare",
+    "name": "Bull Bar Type 6 - White",
+    "description": null,
+    "itemId": 2263838515,
+    "price": 0,
+    "icon": "Bullbar_type 2_Square Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_AOR_Front",
+    "name": "Framed Art of Rally Plate",
+    "description": null,
+    "itemId": 2161328350,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Framed_AOR",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Bullbar_02_LightsRound",
+    "name": "Bull Bar Type 5 - White",
+    "description": null,
+    "itemId": 2427782803,
+    "price": 0,
+    "icon": "Bullbar_Type 2_Round Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_OldBoat",
+    "name": "Old Boat Horn",
+    "description": null,
+    "itemId": 3231319523,
+    "price": 0,
+    "icon": "OldBoat_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Shackles_Front",
+    "name": "Shackles",
+    "description": null,
+    "itemId": 3343483591,
+    "price": 0,
+    "icon": "Front-Bumper_Shackles",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Antenna",
+    "name": "Standard Antenna",
+    "description": null,
+    "itemId": 3370309071,
+    "price": 0,
+    "icon": "Antenna_Simple",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Kayak_Bed",
+    "name": "Kayaks",
+    "description": null,
+    "itemId": 2154222459,
+    "price": 0,
+    "icon": "PickupBed_Kayaks",
+    "requiredDlc": 0
+  },
+  {
+    "id": "VentsOval",
+    "name": "Round Hood Vents",
+    "description": null,
+    "itemId": 2417968644,
+    "price": 0,
+    "icon": "Round_Hood_Vents",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_VIP",
+    "name": "M.V.P. Plate",
+    "description": null,
+    "itemId": 1631042521,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_MVP",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Bullbar_00_LightsSquare",
+    "name": "Bull Bar Type 3 - Black",
+    "description": null,
+    "itemId": 1496181415,
+    "price": 0,
+    "icon": "Bullbar_Type 1_Square Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_HiLiftJack",
+    "name": "Off-Road Jack",
+    "description": null,
+    "itemId": 1544363213,
+    "price": 0,
+    "icon": "Side_Offroad Jack",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_BoltCutters",
+    "name": "Bolt Cutters",
+    "description": null,
+    "itemId": 3021895969,
+    "price": 0,
+    "icon": "Side_Bolt Cutters",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_VIP_Front",
+    "name": "M.V.P. Plate",
+    "description": null,
+    "itemId": 1252399696,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_MVP",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Mudflap_01",
+    "name": "Mudflaps - Black",
+    "description": null,
+    "itemId": 2508501354,
+    "price": 0,
+    "icon": "Fender_Mudflap",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_OTH",
+    "name": "Over the Hill Plate",
+    "description": null,
+    "itemId": 3207310395,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_OTH",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Horn_Tone_Mid4",
+    "name": "Mid-Tone Horn 4",
+    "description": null,
+    "itemId": 1271257327,
+    "price": 0,
+    "icon": "Mid-Tone_Horn_4",
+    "requiredDlc": 0
+  },
+  {
+    "id": "PlushPuppy",
+    "name": "Star Puppy Plushie",
+    "description": null,
+    "itemId": 2751886749,
+    "price": 0,
+    "icon": "Puppy_Plushie",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Boat",
+    "name": "Boat",
+    "description": null,
+    "itemId": 2814541033,
+    "price": 0,
+    "icon": "Boat",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Beacon_RedBlue",
+    "name": "Beacons - Red & Blue",
+    "description": null,
+    "itemId": 3094406027,
+    "price": 0,
+    "icon": "Rooflights_Beacons",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaSasquatch",
+    "name": "Sasquatch Antenna",
+    "description": null,
+    "itemId": 1391580136,
+    "price": 0,
+    "icon": "Antenna_Sasquatch",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_BeaconBar_RedBlue",
+    "name": "Beacon Bar - Red & Blue",
+    "description": null,
+    "itemId": 2452964728,
+    "price": 0,
+    "icon": "Rooflights_Beacon Bar",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Wreath_Front",
+    "name": "Hood Wreath",
+    "description": null,
+    "itemId": 2393730593,
+    "price": 0,
+    "icon": "Hood_Wreath",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Animal_WildCat",
+    "name": "Wildcat Horn",
+    "description": null,
+    "itemId": 2826595923,
+    "price": 0,
+    "icon": "WildCat_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Funselektor",
+    "name": "Funselektor Round Light Covers",
+    "description": null,
+    "itemId": 3592954415,
+    "price": 0,
+    "icon": "Rooflights_Funselektor Cover",
+    "requiredDlc": 1
+  },
+  {
+    "id": "BashBar_02",
+    "name": "Low Bull Bar",
+    "description": null,
+    "itemId": 1878157645,
+    "price": 0,
+    "icon": "Front-Bumper_Bash Bar_Type 2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Sparewheel_cover_01",
+    "name": "Funselektor Spare Wheel",
+    "description": null,
+    "itemId": 3598237412,
+    "price": 0,
+    "icon": "Rear_Spare Wheel_funselektor Cover",
+    "requiredDlc": 1
+  },
+  {
+    "id": "LicensePlateFramed_Front",
+    "name": "Framed Blank Plate",
+    "description": null,
+    "itemId": 1746256877,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Framed_Simple",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Steps_02",
+    "name": "Side Steps - Silver",
+    "description": null,
+    "itemId": 2781862655,
+    "price": 0,
+    "icon": "SideStep_Steps",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Boat_Bed",
+    "name": "Boat",
+    "description": null,
+    "itemId": 2143545512,
+    "price": 0,
+    "icon": "Boat_Bed",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Refreshments",
+    "name": "Refreshments",
+    "description": null,
+    "itemId": 2524073732,
+    "price": 0,
+    "icon": "Roofrack_Refreshments",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Christmas_Rear",
+    "name": "Festive Lights",
+    "description": null,
+    "itemId": 1845047666,
+    "price": 0,
+    "icon": "Rear-Bumper_Fairy Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "SkidPlate_02",
+    "name": "Skid Plate - Black",
+    "description": null,
+    "itemId": 3128141440,
+    "price": 0,
+    "icon": "Front-Bumper_Skid Plate",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Bike",
+    "name": "Bike",
+    "description": null,
+    "itemId": 2796380315,
+    "price": 0,
+    "icon": "Rear_Bike",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_OTH_Front",
+    "name": "Framed Over the Hill Plate",
+    "description": null,
+    "itemId": 1828137349,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Framed_OTH",
+    "requiredDlc": 1
+  },
+  {
+    "id": "BashBar_01",
+    "name": "Front Tube Bumper",
+    "description": null,
+    "itemId": 3024677586,
+    "price": 0,
+    "icon": "Front-Bumper_Bash Bar_Type 1",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_PipeWrench",
+    "name": "Pipe Wrench",
+    "description": null,
+    "itemId": 2405705410,
+    "price": 0,
+    "icon": "Side_Pipe Wrench",
+    "requiredDlc": 0
+  },
+  {
+    "id": "RamSkull",
+    "name": "Ram Skull",
+    "description": null,
+    "itemId": 3883087761,
+    "price": 0,
+    "icon": "Hood_Ram Skull",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Animal_Wolf",
+    "name": "Wolf Horn",
+    "description": null,
+    "itemId": 3172462648,
+    "price": 0,
+    "icon": "Wolf_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_Ferry",
+    "name": "Ferry Horn",
+    "description": null,
+    "itemId": 3894629903,
+    "price": 0,
+    "icon": "Ferry_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Ropes_Rear",
+    "name": "Ropes",
+    "description": null,
+    "itemId": 2375370513,
+    "price": 0,
+    "icon": "Rear-Bumper_Ropes",
+    "requiredDlc": 0
+  },
+  {
+    "id": "WhipLights_06",
+    "name": "Whip Lights - Red",
+    "description": null,
+    "itemId": 2616701851,
+    "price": 0,
+    "icon": "Whip_Lights_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_Machette",
+    "name": "Machete",
+    "description": null,
+    "itemId": 3217833354,
+    "price": 0,
+    "icon": "Side_Machete",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Funny_Ahooga",
+    "name": "Ahooga Horn",
+    "description": null,
+    "itemId": 3697646922,
+    "price": 0,
+    "icon": "Ahooga",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_Dixie",
+    "name": "Dixie Horn",
+    "description": null,
+    "itemId": 3749256032,
+    "price": 0,
+    "icon": "Dixie",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Funny_Cucaracha",
+    "name": "La Cucaracha Horn",
+    "description": null,
+    "itemId": 2646395413,
+    "price": 0,
+    "icon": "Cucaracha",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_GLAP_Front",
+    "name": "Framed Golden Lap Plate",
+    "description": null,
+    "itemId": 2787926403,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Framed_golden Lap",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Lights_Square",
+    "name": "Square Lights",
+    "description": null,
+    "itemId": 2214287887,
+    "price": 0,
+    "icon": "Rooflights_Square Lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaPlane",
+    "name": "Plane Antenna",
+    "description": null,
+    "itemId": 2615847919,
+    "price": 0,
+    "icon": "Antenna_Plane",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_AOR",
+    "name": "Framed Art of Rally Plate",
+    "description": null,
+    "itemId": 1718466044,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Framed_AOR",
+    "requiredDlc": 1
+  },
+  {
+    "id": "AirHorns",
+    "name": "Rooftop Air Horns",
+    "description": null,
+    "itemId": 1668824796,
+    "price": 0,
+    "icon": "Rooflights_Air Horns",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_AOR",
+    "name": "Art of Rally Plate",
+    "description": null,
+    "itemId": 2480133036,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_AOR",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Kayak",
+    "name": "Kayaks",
+    "description": null,
+    "itemId": 1799703386,
+    "price": 0,
+    "icon": "Roofrack_Kayaks",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_RegHigh1",
+    "name": "High-Tone Horn 1",
+    "description": null,
+    "itemId": 2982588297,
+    "price": 0,
+    "icon": "High-Tone_Horn_1",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Beacon_Blue",
+    "name": "Beacons - Blue",
+    "description": null,
+    "itemId": 1591184657,
+    "price": 0,
+    "icon": "Rooflights_Beacons",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_FNSLKTR_Front",
+    "name": "Framed Funselektor Plate",
+    "description": null,
+    "itemId": 2016773008,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Framed_Funselektor",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Mudflap_03",
+    "name": "Mudflaps - Red",
+    "description": null,
+    "itemId": 2191801555,
+    "price": 0,
+    "icon": "Fender_Mudflap",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_OTH",
+    "name": "Framed Over the Hill Plate",
+    "description": null,
+    "itemId": 3498387764,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Framed_OTH",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Horn_Animal_BaldEagle",
+    "name": "Bald Eagle Horn",
+    "description": null,
+    "itemId": 3235940822,
+    "price": 0,
+    "icon": "BaldEagle_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Bushcables",
+    "name": "Bush Cables",
+    "description": null,
+    "itemId": 3117195162,
+    "price": 0,
+    "icon": "BushCables",
+    "requiredDlc": 0
+  },
+  {
+    "id": "FlipFlopFlaps",
+    "name": "Flip Flop Flaps",
+    "description": null,
+    "itemId": 3270168488,
+    "price": 0,
+    "icon": "FlipFlopFlaps",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tractionboard",
+    "name": "Traction Boards",
+    "description": null,
+    "itemId": 2234257000,
+    "price": 0,
+    "icon": "Side_Traction Board",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_Icecream",
+    "name": "Ice Cream Truck Horn",
+    "description": null,
+    "itemId": 1988518588,
+    "price": 0,
+    "icon": "IceCream_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "PlushBear",
+    "name": "Bear Plushie",
+    "description": null,
+    "itemId": 1934081439,
+    "price": 0,
+    "icon": "Bear_Plushie",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaFlagFunselektor",
+    "name": "Funselektor Flag",
+    "description": null,
+    "itemId": 2023484620,
+    "price": 0,
+    "icon": "Antenna_Funselektor Flag",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Sparewheel_Trasheroo",
+    "name": "Traveler’s Spare Wheel",
+    "description": null,
+    "itemId": 2771653254,
+    "price": 0,
+    "icon": "Rear_Spare Wheel_Storage Bag",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Camper_Bed",
+    "name": "Camping Gear",
+    "description": null,
+    "itemId": 1762552491,
+    "price": 0,
+    "icon": "PickupBed_Camper",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Rescue",
+    "name": "Mountain Rescue",
+    "description": null,
+    "itemId": 1871196454,
+    "price": 0,
+    "icon": "Roofrack_Mountain Rescue",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Tool_PickAxe",
+    "name": "Pickaxe",
+    "description": null,
+    "itemId": 2383625136,
+    "price": 0,
+    "icon": "Side_Pickaxe",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Guitar",
+    "name": "Guitar Case",
+    "description": null,
+    "itemId": 2150790501,
+    "price": 0,
+    "icon": "Guitar_Case",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlateFramed_VIP",
+    "name": "Framed M.V.P. Plate",
+    "description": null,
+    "itemId": 2133658827,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Framed_MVP",
+    "requiredDlc": 1
+  },
+  {
+    "id": "LicensePlate_Front",
+    "name": "Blank Plate",
+    "description": null,
+    "itemId": 3660352652,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_Simple",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_OTH_Front",
+    "name": "Over the Hill Plate",
+    "description": null,
+    "itemId": 3830743480,
+    "price": 0,
+    "icon": "Front-Bumper_LicensePlate_OTH",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Wintersports_Bed",
+    "name": "Skis & Snowboards",
+    "description": null,
+    "itemId": 3192460075,
+    "price": 0,
+    "icon": "PickupBed_ski and Snwboard",
+    "requiredDlc": 0
+  },
+  {
+    "id": "SkidPlate_01",
+    "name": "Skid Plate - Silver",
+    "description": null,
+    "itemId": 2960871481,
+    "price": 0,
+    "icon": "Front-Bumper_Skid Plate",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_ADRIFT",
+    "name": "Absolute Drift Plate",
+    "description": null,
+    "itemId": 2323320406,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Absolute Drift",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Lights_VIP",
+    "name": "Star Round Light Covers",
+    "description": null,
+    "itemId": 2567631570,
+    "price": 0,
+    "icon": "Rooflights_VIP Cover",
+    "requiredDlc": 1
+  },
+  {
+    "id": "WhipLights_07",
+    "name": "Whip Lights - Teal",
+    "description": null,
+    "itemId": 1963166763,
+    "price": 0,
+    "icon": "Whip_Lights_2",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Animal_Elk",
+    "name": "Elk Horn",
+    "description": null,
+    "itemId": 2349686661,
+    "price": 0,
+    "icon": "Elk_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Vents",
+    "name": "Hood Vents",
+    "description": null,
+    "itemId": 1577860020,
+    "price": 0,
+    "icon": "Hood_Vents",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Beacon_Red",
+    "name": "Beacons - Red",
+    "description": null,
+    "itemId": 2016844261,
+    "price": 0,
+    "icon": "Rooflights_Beacons",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate_FNSLKTR",
+    "name": "Funselektor Plate",
+    "description": null,
+    "itemId": 2912241403,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Funselektor",
+    "requiredDlc": 1
+  },
+  {
+    "id": "BullHorns",
+    "name": "Bull Horns",
+    "description": null,
+    "itemId": 2247201091,
+    "price": 0,
+    "icon": "Hood_Bull Horns",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaCapybara",
+    "name": "Capybara Antenna",
+    "description": null,
+    "itemId": 1712467787,
+    "price": 0,
+    "icon": "Antenna_Capybara3",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Overlander_Bed",
+    "name": "Expedition Gear",
+    "description": null,
+    "itemId": 3774652086,
+    "price": 0,
+    "icon": "PickupBed_Overlander",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaSnowflake",
+    "name": "Snowflake Antenna",
+    "description": null,
+    "itemId": 3359810739,
+    "price": 0,
+    "icon": "Antenna_Snowflake",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_PoliceSiren",
+    "name": "Police Siren",
+    "description": null,
+    "itemId": 2400347625,
+    "price": 0,
+    "icon": "Police_Siren",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Ropes_Front",
+    "name": "Ropes",
+    "description": null,
+    "itemId": 2504281102,
+    "price": 0,
+    "icon": "Front-Bumper_Ropes",
+    "requiredDlc": 0
+  },
+  {
+    "id": "AntennaFlagVIP",
+    "name": "Shooting Star Flag",
+    "description": null,
+    "itemId": 3004449906,
+    "price": 0,
+    "icon": "Antenna_Flag_ShootingStar",
+    "requiredDlc": 1
+  },
+  {
+    "id": "Ladder",
+    "name": "Ladder",
+    "description": null,
+    "itemId": 2751510839,
+    "price": 0,
+    "icon": "Rear_Ladder",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Side_Medkit",
+    "name": "First Aid Kit",
+    "description": null,
+    "itemId": 2995334329,
+    "price": 0,
+    "icon": "Side_Medikit",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Fisher_Bed",
+    "name": "Fishing Boat",
+    "description": null,
+    "itemId": 2235095428,
+    "price": 0,
+    "icon": "Fisher",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Tent",
+    "name": "Expedition Tent",
+    "description": null,
+    "itemId": 2376616555,
+    "price": 0,
+    "icon": "Roofrack_Rooftent",
+    "requiredDlc": 0
+  },
+  {
+    "id": "LicensePlate",
+    "name": "Blank Plate",
+    "description": null,
+    "itemId": 2404384675,
+    "price": 0,
+    "icon": "Rear-Bumper_LicensePlate_Simple",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_BeaconBar_Red",
+    "name": "Beacon Bar - Red",
+    "description": null,
+    "itemId": 2485859301,
+    "price": 0,
+    "icon": "Rooflights_Beacon Bar",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Christmas_Side",
+    "name": "Side Festive Lights",
+    "description": null,
+    "itemId": 2655750352,
+    "price": 0,
+    "icon": "SideStep_Fairy lights",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Mudflap_05",
+    "name": "Mudflaps - Blue",
+    "description": null,
+    "itemId": 1861438385,
+    "price": 0,
+    "icon": "Fender_Mudflap",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Tone_Mid3",
+    "name": "Mid-Tone Horn 3",
+    "description": null,
+    "itemId": 1952257607,
+    "price": 0,
+    "icon": "Mid-Tone_Horn_3",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Horn_Vehicle_Train",
+    "name": "Train Horn",
+    "description": null,
+    "itemId": 1446840145,
+    "price": 0,
+    "icon": "Train_Horn",
+    "requiredDlc": 0
+  },
+  {
+    "id": "Lights_Beacon_Amber",
+    "name": "Beacons - Amber",
+    "description": null,
+    "itemId": 2227690346,
+    "price": 0,
+    "icon": "Rooflights_Beacons",
+    "requiredDlc": 0
+  }
+]

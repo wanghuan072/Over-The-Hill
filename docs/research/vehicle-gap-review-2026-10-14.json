@@ -1,0 +1,675 @@
+{
+  "checkedAt": "2026-10-14",
+  "publicChanges": {
+    "newMatchedVehicleImages": 0,
+    "newVerifiedVehicleSpecifications": 0
+  },
+  "scope": "Research only. This file is outside app data and must not be imported into production content.",
+  "remainingVehicles": [
+    {
+      "id": "roamer",
+      "name": "Roamer",
+      "confirmedFields": {
+        "Class": "Trail",
+        "Country": "Japan",
+        "Demo garage": "Locked entry",
+        "Body style": "Compact SUV"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Trail",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 306.5
+        },
+        {
+          "label": "Country flag",
+          "value": "Japan",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 306.5
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 306.5
+        },
+        {
+          "label": "Body style",
+          "value": "Compact SUV",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 306.5
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "bull",
+      "name": "Bull",
+      "confirmedFields": {
+        "Class": "Trail",
+        "Country": "United States",
+        "Demo garage": "Locked entry"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Trail",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 305.5
+        },
+        {
+          "label": "Country flag",
+          "value": "United States",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 305.5
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 305.5
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "woodman",
+      "name": "Woodman",
+      "confirmedFields": {
+        "Class": "Wagon",
+        "Country": "United States",
+        "Demo garage": "Locked entry",
+        "Styling": "Woodgrain trim"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Wagon",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 298.5
+        },
+        {
+          "label": "Country flag",
+          "value": "United States",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 298.5
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 298.5
+        },
+        {
+          "label": "Styling",
+          "value": "Woodgrain trim",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 298.5
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "grand-woodman",
+      "name": "Grand Woodman",
+      "confirmedFields": {
+        "Class": "Wagon",
+        "Country": "United States",
+        "Demo garage": "Locked entry",
+        "Styling": "Upscale wagon"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Wagon",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 299
+        },
+        {
+          "label": "Country flag",
+          "value": "United States",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 299
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 299
+        },
+        {
+          "label": "Styling",
+          "value": "Upscale wagon",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 299
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "overlord",
+      "name": "Overlord",
+      "confirmedFields": {
+        "Class": "Workhorse",
+        "Country": "Germany",
+        "Demo garage": "Locked entry"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Workhorse",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 309
+        },
+        {
+          "label": "Country flag",
+          "value": "Germany",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 309
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 309
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "rust-ox",
+      "name": "Rust Ox",
+      "confirmedFields": {
+        "Class": "Workhorse",
+        "Country": "Germany",
+        "Demo garage": "Locked entry",
+        "Body style": "Utility van"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Workhorse",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 311
+        },
+        {
+          "label": "Country flag",
+          "value": "Germany",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 311
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 311
+        },
+        {
+          "label": "Body style",
+          "value": "Utility van",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 311
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "blast-wagon",
+      "name": "Blast Wagon",
+      "confirmedFields": {
+        "Class": "Workhorse",
+        "Country": "United States",
+        "Demo garage": "Locked entry"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Workhorse",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 311.5
+        },
+        {
+          "label": "Country flag",
+          "value": "United States",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 311.5
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 311.5
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "buzz-wagon",
+      "name": "Buzz Wagon",
+      "confirmedFields": {
+        "Class": "Workhorse",
+        "Country": "United States",
+        "Demo garage": "Locked entry",
+        "Styling": "Wood-trim utility"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Workhorse",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 313
+        },
+        {
+          "label": "Country flag",
+          "value": "United States",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 313
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked catalog entry",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 313
+        },
+        {
+          "label": "Styling",
+          "value": "Wood-trim utility",
+          "sourceId": "camodo-roster",
+          "timestampSeconds": 313
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "trailrat",
+      "name": "Trailrat",
+      "confirmedFields": {
+        "Class": "Trail",
+        "Country": "United States",
+        "Demo garage": "Locked entry"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Trail",
+          "sourceId": "cation-burro",
+          "timestampSeconds": 1061
+        },
+        {
+          "label": "Country flag",
+          "value": "United States",
+          "sourceId": "cation-burro",
+          "timestampSeconds": 1061
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked in this Demo session",
+          "sourceId": "cation-burro",
+          "timestampSeconds": 1061
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    },
+    {
+      "id": "polyana",
+      "name": "Polyana",
+      "confirmedFields": {
+        "Class": "Trail",
+        "Country": "Russia",
+        "Demo garage": "Locked entry"
+      },
+      "identityEvidence": [
+        {
+          "label": "Menu category",
+          "value": "Trail",
+          "sourceId": "cation-burro",
+          "timestampSeconds": 1064
+        },
+        {
+          "label": "Country flag",
+          "value": "Russia",
+          "sourceId": "cation-burro",
+          "timestampSeconds": 1064
+        },
+        {
+          "label": "Recorded availability",
+          "value": "Locked in this Demo session",
+          "sourceId": "cation-burro",
+          "timestampSeconds": 1064
+        }
+      ],
+      "missing": [
+        "named model-to-image correspondence",
+        "verified vehicle-specific performance values",
+        "full-release unlock condition"
+      ],
+      "publicationDecision": "Keep existing verified identity fields; do not borrow an unrelated screenshot or a real-world vehicle specification."
+    }
+  ],
+  "additionalOfficialVideos": [
+    {
+      "url": "https://www.youtube.com/watch?v=TRwRd-RfrwI",
+      "title": "over the hill - Gamescom 2026 Trailer",
+      "description": "over the hill is launching on October 14th on Steam! \n\nYou'll be able to get the soundtrack as a separate DLC. The console ports for PlayStation 5, Xbox Series X|S, and Nintendo Switch 2 will also follow in 2027.\n\nWishlist over the hill on Steam: https://store.steampowered.com/app/2929250/over_the_hill/\n\nExplore the world in the golden age of offroading. Drive iconic vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.\n\nExplore, navigate, and uncover the vast wilderness in over the hill, the newest installation from the creator of art of rally. Ramble your way through varied biomes inspired by real-world locations, from valleys to mountains and everything in between. Take a friend or go on a solo tour. Challenge yourself, collaborate with up to three friends, or just enjoy the sights - the world is your oyster.\n\nWebsite: https://www.funselektor.com/overthehill\nDiscord: https://discord.gg/kcVbHR9\nReddit: https://www.reddit.com/r/overthehillgame/\nTikTok: https://www.tiktok.com/@funselektor\nInstagram: https://instagram.com/funselektor\nTwitter: https://twitter.com/funselektor\nStrelka Games: https://twitter.com/StrelkaGames\n\nTrailer: Indiegoat - https://www.indiegoat.com/\nMusic: Giacomo Giunchedi https://open.spotify.com/artist/49VdciQlH7g9UpuA3B4g1C?si=_XrkAWjZTpyUrxyuj2jbAQ",
+      "upload_date": "20260910",
+      "duration": 66,
+      "channel": "Funselektor",
+      "review": "Inspected five-second overview frames; no named garage selection linking any of the ten missing entries to the shown 3D model. Visual similarity alone was not used to publish a model image."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iO-tLX25pNk",
+      "title": "over the hill | Coming to Steam October 14th",
+      "description": "over the hill is launching on October 14th on Steam! \n\nYou'll be able to get the soundtrack as a separate DLC. The console ports for PlayStation 5, Xbox Series X|S, and Nintendo Switch 2 will also follow in 2027.\n\nWishlist over the hill on Steam: https://store.steampowered.com/app/2929250/over_the_hill/\n\nExplore the world in the golden age of offroading. Drive iconic vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.\n\nExplore, navigate, and uncover the vast wilderness in over the hill, the newest installation from the creator of art of rally. Ramble your way through varied biomes inspired by real-world locations, from valleys to mountains and everything in between. Take a friend or go on a solo tour. Challenge yourself, collaborate with up to three friends, or just enjoy the sights - the world is your oyster.\n\nWebsite: https://www.funselektor.com/overthehill\nDiscord: https://discord.gg/kcVbHR9\nReddit: https://www.reddit.com/r/overthehillgame/\nTikTok: https://www.tiktok.com/@funselektor\nInstagram: https://instagram.com/funselektor\nTwitter: https://twitter.com/funselektor\nStrelka Games: https://twitter.com/StrelkaGames\n\nTrailer: Bapho https://www.linkedin.com/in/enrico-capraro-91344a155/\nMusic: Giacomo Giunchedi https://open.spotify.com/artist/49VdciQlH7g9UpuA3B4g1C?si=_XrkAWjZTpyUrxyuj2jbAQ",
+      "upload_date": "20260810",
+      "duration": 78,
+      "channel": "Funselektor",
+      "review": "Inspected five-second overview frames; no named garage selection linking any of the ten missing entries to the shown 3D model. Visual similarity alone was not used to publish a model image."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tbYXCtYi7Rg",
+      "title": "over the hill - Console Announcement Trailer",
+      "description": "Explore the world in the golden age of offroading. Drive iconic vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.\n\nWishlist on Steam: https://store.steampowered.com/app/2929250/over_the_hill/\nXbox Series: https://www.xbox.com/en-us/games/store/over-the-hill/9pmdqwhs0dc2\nPlaystation 5: https://store.playstation.com/concept/10017187\n\nExplore, navigate, and uncover the vast wilderness in over the hill, the newest installation from the creator of art of rally. Ramble your way through varied biomes inspired by real-world locations, from valleys to mountains and everything in between. Take a friend or go on a solo tour. Challenge yourself, collaborate with up to three friends, or just enjoy the sights - the world is your oyster.\n\nWebsite: https://www.funselektor.com/overthehill\nDiscord: https://discord.gg/kcVbHR9\nReddit: https://www.reddit.com/r/overthehillgame/\nTikTok: https://www.tiktok.com/@funselektor\nInstagram: https://instagram.com/funselektor\nTwitter: https://twitter.com/funselektor\nStrelka Games: https://twitter.com/StrelkaGames\n\nTrailer: Bapho https://www.linkedin.com/in/enrico-capraro-91344a155/\nMusic: \nMushroomSound https://mushroomsound.org/\nGiacomo Giunchedi https://open.spotify.com/artist/49VdciQlH7g9UpuA3B4g1C?si=_XrkAWjZTpyUrxyuj2jbAQ",
+      "upload_date": "20251028",
+      "duration": 47,
+      "channel": "Funselektor",
+      "review": "Inspected five-second overview frames; no named garage selection linking any of the ten missing entries to the shown 3D model. Visual similarity alone was not used to publish a model image."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=newyD2T5HnA",
+      "title": "over the hill - Summer Game Fest Trailer",
+      "description": "The summer is here and we've got another treat for you - the new over the hill trailer highlighting exciting gameplay features like the merchant, repair mechanics, and dynamic weather system! \n\nWe're also thrilled to announce that the first closed playtest will be held in July. If you haven't signed up already, don't miss your chance to be among the first to try our game! Join the official Funselektor Discord at https://discord.gg/kcVbHR9 to learn more about the playtest and sign up.\n\nExplore the world in the golden age of offroading. Drive iconic vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.\n\nWishlist on Steam now: https://store.steampowered.com/app/2929250/over_the_hill/\n\nExplore, navigate, and uncover the vast wilderness in over the hill, the newest installation from the creator of art of rally. Ramble your way through varied biomes inspired by real-world locations, from valleys to mountains and everything in between. Take a friend or go on a solo tour. Challenge yourself, collaborate with up to three friends, or just enjoy the sights - the world is your oyster.\n\nWebsite: https://www.funselektor.com/overthehill\nDiscord: https://discord.gg/kcVbHR9\nReddit: https://www.reddit.com/r/overthehillgame/\nTikTok: https://www.tiktok.com/@funselektor\nInstagram: https://instagram.com/funselektor\nTwitter: https://twitter.com/funselektor\nStrelka Games: https://twitter.com/StrelkaGames\n\nTrailer: Bapho https://www.linkedin.com/in/enrico-capraro-91344a155/\nMusic - Giacomo Giunchedi https://open.spotify.com/artist/49VdciQlH7g9UpuA3B4g1C?si=_XrkAWjZTpyUrxyuj2jbAQ",
+      "upload_date": "20250611",
+      "duration": 56,
+      "channel": "Funselektor",
+      "review": "Inspected five-second overview frames; no named garage selection linking any of the ten missing entries to the shown 3D model. Visual similarity alone was not used to publish a model image."
+    }
+  ],
+  "additionalMediaPack": {
+    "url": "https://funselektor.notion.site/over-the-hill-Press-Kit-de04078ef9eb49f3a7391aa592419808",
+    "archive": "over the hill 4K wallpaper pack.zip",
+    "sha256": "7bc82867eb32f6949e24ef780b39d5f8e479beae577f0c4dbb9974d37cbf80a1",
+    "files": [
+      {
+        "file": "oth_artwall_01.png",
+        "bytes": 6754367,
+        "crc32": "38dbabb8"
+      },
+      {
+        "file": "oth_artwall_02.png",
+        "bytes": 10131332,
+        "crc32": "3d92c529"
+      },
+      {
+        "file": "oth_artwall_03.png",
+        "bytes": 9102455,
+        "crc32": "f80c39e8"
+      },
+      {
+        "file": "oth_artwall_04.png",
+        "bytes": 10104125,
+        "crc32": "508b7819"
+      },
+      {
+        "file": "oth_artwall_05.png",
+        "bytes": 9193249,
+        "crc32": "1b645a58"
+      },
+      {
+        "file": "oth_artwall_06.png",
+        "bytes": 10097368,
+        "crc32": "bd6bc069"
+      },
+      {
+        "file": "oth_artwall_07.png",
+        "bytes": 9713617,
+        "crc32": "e7f96a42"
+      },
+      {
+        "file": "oth_artwall_08.png",
+        "bytes": 6396692,
+        "crc32": "b4421b8d"
+      },
+      {
+        "file": "oth_artwall_09.png",
+        "bytes": 9918852,
+        "crc32": "aa0587fa"
+      },
+      {
+        "file": "oth_artwall_10.png",
+        "bytes": 8675692,
+        "crc32": "1028aeb8"
+      },
+      {
+        "file": "oth_artwall_11.png",
+        "bytes": 7160845,
+        "crc32": "6d06a8a8"
+      },
+      {
+        "file": "oth_artwall_12.png",
+        "bytes": 7752924,
+        "crc32": "998294ac"
+      },
+      {
+        "file": "oth_artwall_13.png",
+        "bytes": 8997468,
+        "crc32": "fb6e00ff"
+      },
+      {
+        "file": "oth_artwall_14.png",
+        "bytes": 9051588,
+        "crc32": "6662421f"
+      },
+      {
+        "file": "oth_artwall_15.png",
+        "bytes": 6938499,
+        "crc32": "42370e88"
+      },
+      {
+        "file": "oth_artwall_16.png",
+        "bytes": 9335434,
+        "crc32": "dd065c75"
+      },
+      {
+        "file": "oth_artwall_17.png",
+        "bytes": 9988454,
+        "crc32": "f08408f4"
+      },
+      {
+        "file": "oth_artwall_18.png",
+        "bytes": 10260174,
+        "crc32": "2f0f9c65"
+      },
+      {
+        "file": "oth_artwall_19.png",
+        "bytes": 7826492,
+        "crc32": "e774c932"
+      },
+      {
+        "file": "oth_artwall_20.png",
+        "bytes": 8120106,
+        "crc32": "edd9fbc7"
+      },
+      {
+        "file": "oth_artwall_21.png",
+        "bytes": 9252491,
+        "crc32": "93902cd7"
+      },
+      {
+        "file": "oth_artwall_22.png",
+        "bytes": 8660116,
+        "crc32": "4536b80d"
+      },
+      {
+        "file": "oth_artwall_23.png",
+        "bytes": 8790689,
+        "crc32": "c17eff5f"
+      },
+      {
+        "file": "oth_artwall_24.png",
+        "bytes": 8827433,
+        "crc32": "30d2bd8d"
+      },
+      {
+        "file": "oth_artwall_25.png",
+        "bytes": 7349497,
+        "crc32": "aad30263"
+      },
+      {
+        "file": "oth_artwall_26.png",
+        "bytes": 7373015,
+        "crc32": "41086fd7"
+      },
+      {
+        "file": "oth_artwall_27.png",
+        "bytes": 7305371,
+        "crc32": "40d5a0a6"
+      },
+      {
+        "file": "oth_artwall_28.png",
+        "bytes": 9633134,
+        "crc32": "88ed75ea"
+      },
+      {
+        "file": "oth_artwall_29.png",
+        "bytes": 8631179,
+        "crc32": "7703682a"
+      },
+      {
+        "file": "oth_artwall_30.png",
+        "bytes": 8287401,
+        "crc32": "26b44d7a"
+      },
+      {
+        "file": "oth_artwall_31.png",
+        "bytes": 9824165,
+        "crc32": "bafa9638"
+      },
+      {
+        "file": "oth_artwall_32.png",
+        "bytes": 9134028,
+        "crc32": "df69846f"
+      },
+      {
+        "file": "oth_artwall_33.png",
+        "bytes": 8491265,
+        "crc32": "1bffbe1f"
+      },
+      {
+        "file": "oth_artwall_34.png",
+        "bytes": 7064944,
+        "crc32": "55a26a63"
+      },
+      {
+        "file": "oth_artwall_35.png",
+        "bytes": 9733270,
+        "crc32": "2a6593a6"
+      },
+      {
+        "file": "oth_artwall_36.png",
+        "bytes": 10157008,
+        "crc32": "64a5dd6a"
+      },
+      {
+        "file": "oth_artwall_37.png",
+        "bytes": 10507196,
+        "crc32": "4c406d1a"
+      },
+      {
+        "file": "oth_artwall_38.png",
+        "bytes": 10859675,
+        "crc32": "9433a3a9"
+      },
+      {
+        "file": "oth_artwall_39.png",
+        "bytes": 6875578,
+        "crc32": "3de778f9"
+      },
+      {
+        "file": "oth_artwall_40.png",
+        "bytes": 6853481,
+        "crc32": "0f8994f5"
+      }
+    ],
+    "review": "All 40 wallpaper overview images inspected. Names are generic sequential file names; no vehicle names or stat sheet included. No new model image was promoted from this pack."
+  },
+  "rejectedOrUnverifiedEvidence": [
+    {
+      "url": "https://overthehilldb.com/",
+      "finding": "Current homepage says catalogs were removed at developer request and will return with official data and artwork.",
+      "decision": "Do not present withdrawn cached numerical data as independently verified release specifications."
+    },
+    {
+      "url": "https://overthehilldb.com/cars/niva",
+      "finding": "Search cache exposes Polyana: mass 1600 kg, peak torque 112 Nm, two forward gears. Direct public page access unsuccessful.",
+      "status": "unverified-cache-only",
+      "decision": "Saved as a research lead only; not added to vehicle JSON, compare tool, search index or rendered HTML."
+    },
+    {
+      "url": "https://www.reddit.com/r/pcgaming/comments/1u9aa48/we_are_the_developers_of_over_the_hill_ask_us/",
+      "finding": "Developer June AMA distinguishes an approximate total of 20 cars from three cars available at the start.",
+      "decision": "Do not reinterpret this as a confirmed total of three launch cars."
+    },
+    {
+      "url": "https://racinggames.gg/article/over-the-hill-release-date-platforms-gameplay-car-list-more",
+      "finding": "The article describes manufacturer counterparts as probable inspiration, with spelling differences from inspected game menus.",
+      "decision": "Use for visual research leads only, not licensed model names, model years, numerical specifications or image matching."
+    },
+    {
+      "url": "https://playtester.io/over-the-hill",
+      "finding": "Fourteen screenshots with scene descriptions; captions do not identify the ten missing vehicle names.",
+      "decision": "Scene captions do not establish named model identity."
+    },
+    {
+      "url": "https://www.polygon.com/over-the-hill-preview-demo-steam/",
+      "finding": "Firsthand preview mentions Protector, Roamer and Sentinel as unlicensed interpretations of real-world vehicles; image captions credit the studios without individual vehicle names.",
+      "decision": "This does not supply a complete ten-model media/stat set."
+    }
+  ],
+  "menuPreviewCaution": "Hovering a locked entry changes the tooltip but leaves the owned vehicle in the 3D preview. Do not caption that preview using the hovered locked name."
+}

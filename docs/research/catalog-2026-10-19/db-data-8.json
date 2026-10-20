@@ -1,0 +1,2473 @@
+[
+  {
+    "id": "R2A2_Reward_Recovery 1",
+    "rewards": [
+      {
+        "item": "Horn_Funny_RChicken",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 3",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 7",
+    "rewards": [
+      {
+        "item": "Camper",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Camper_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A1_Reward_Scenic 13",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 17",
+    "rewards": [
+      {
+        "item": "Sparewheel_Axe_Shovel",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 2",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 5",
+    "rewards": [
+      {
+        "item": "Lights_Beacon_Amber",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 4",
+    "rewards": [
+      {
+        "item": "Mudflap_03",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 10",
+    "rewards": [
+      {
+        "item": "BullHorns",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Trail 2",
+    "rewards": [
+      {
+        "item": "RustOx",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 3",
+    "rewards": [
+      {
+        "item": "Steps_01",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Recovery 3",
+    "rewards": [
+      {
+        "item": "Lights_Round",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 22",
+    "rewards": [
+      {
+        "item": "Bullbar_02_LightsRound",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 1",
+    "rewards": [
+      {
+        "item": "Horn_Animal_Elk",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Trail 4",
+    "rewards": [
+      {
+        "item": "BlastWagon",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Scenic 1",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 14",
+    "rewards": [
+      {
+        "item": "Surfboard",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Surfboard_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R1A2_Reward_Generic 6",
+    "rewards": [
+      {
+        "item": "Mudflap_01",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 8",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_Icecream",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 2",
+    "rewards": [
+      {
+        "item": "Bullbar_00_LightsRound",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Scenic 8",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 14",
+    "rewards": [
+      {
+        "item": "Bushcables",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 16",
+    "rewards": [
+      {
+        "item": "Sparewheel_Hood",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Trail 5",
+    "rewards": [
+      {
+        "item": "Timberbox",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 8",
+    "rewards": [
+      {
+        "item": "Side_Tool_IcePicks",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 18",
+    "rewards": [
+      {
+        "item": "Rocket",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "Canada_Reaward_Merchant",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 10
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 2",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 10",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 6",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Trail 5",
+    "rewards": [
+      {
+        "item": "Woodman",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 11",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Scenic 4",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 9",
+    "rewards": [
+      {
+        "item": "AirHorns",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 15",
+    "rewards": [
+      {
+        "item": "Bushcables",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Scenic 2",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 6",
+    "rewards": [
+      {
+        "item": "Bullbar_00",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 5",
+    "rewards": [
+      {
+        "item": "Lights_BeaconBar_Amber",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 7",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 15",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "Canada_Reward_Animal_VeryRare",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 100
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 10",
+    "rewards": [
+      {
+        "item": "Lights_Beacon_Red",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Recovery 6",
+    "rewards": [
+      {
+        "item": "Side_Tool_Sledgehammer",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 13",
+    "rewards": [
+      {
+        "item": "Overlander",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Overlander_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A1_Reward_Trail 1",
+    "rewards": [
+      {
+        "item": "Boar",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Scenic 1",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 28",
+    "rewards": [
+      {
+        "item": "Vents",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 2",
+    "rewards": [
+      {
+        "item": "FlipFlopFlaps",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Trail 2",
+    "rewards": [
+      {
+        "item": "Marshal",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 1",
+    "rewards": [
+      {
+        "item": "Bullbar_01_LightsSquare",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 23",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Trail 2",
+    "rewards": [
+      {
+        "item": "GrandWoodman",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 4",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 17",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 6",
+    "rewards": [
+      {
+        "item": "Pan",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 4",
+    "rewards": [
+      {
+        "item": "Ropes_Front",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Ropes_Rear",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A2_Reward_Scenic 6",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 9",
+    "rewards": [
+      {
+        "item": "Horn_Funny_Ahooga",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 13",
+    "rewards": [
+      {
+        "item": "MountedGrill",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 11",
+    "rewards": [
+      {
+        "item": "Side_Tool_Shovel",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Trail 4",
+    "rewards": [
+      {
+        "item": "Cumbre",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 12",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_BikeHonk",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 4",
+    "rewards": [
+      {
+        "item": "Fisher",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Fisher_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R1A3_Reward_Generic 3",
+    "rewards": [
+      {
+        "item": "BashBar_02",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 7",
+    "rewards": [
+      {
+        "item": "Mudflap_04",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 14",
+    "rewards": [
+      {
+        "item": "SkidPlate_02",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 9",
+    "rewards": [
+      {
+        "item": "SkidPlate_01",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 9",
+    "rewards": [
+      {
+        "item": "Lights_Square",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 16",
+    "rewards": [
+      {
+        "item": "AntennaPlane",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 4",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Recovery 2",
+    "rewards": [
+      {
+        "item": "AntennaPlushPuppy",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_AreaReward",
+    "rewards": [
+      {
+        "item": "R1A3_Ridge",
+        "count": 1
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 15",
+    "rewards": [
+      {
+        "item": "Side_Wreath",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 3",
+    "rewards": [
+      {
+        "item": "Lights_Smiley",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Trail 1",
+    "rewards": [
+      {
+        "item": "Boat",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Boat_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R1A1_Reward_Trail 3",
+    "rewards": [
+      {
+        "item": "Burro",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 7",
+    "rewards": [
+      {
+        "item": "Guitar",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 15",
+    "rewards": [
+      {
+        "item": "Lights_Black",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Scenic 3",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Recovery 1",
+    "rewards": [
+      {
+        "item": "Canoe",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Canoe_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A2_Reward_Recovery 2",
+    "rewards": [
+      {
+        "item": "BashBar_01_Rear",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "Algeria_Reward_Cabin",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 10
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Recovery 2",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_Ferry",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Recovery 4",
+    "rewards": [
+      {
+        "item": "WhipLights_02",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 10",
+    "rewards": [
+      {
+        "item": "PlushBear",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 10",
+    "rewards": [
+      {
+        "item": "Rescue",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Rescue_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R1A2_Reward_Generic 11",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_OldBoat",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Recovery 1",
+    "rewards": [
+      {
+        "item": "Hotdog",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 11",
+    "rewards": [
+      {
+        "item": "TaxiSign",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 11",
+    "rewards": [
+      {
+        "item": "Sparewheel_Rear",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 1",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 14",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 16",
+    "rewards": [
+      {
+        "item": "Wreath_Front",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 26",
+    "rewards": [
+      {
+        "item": "Side_Medkit",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Scenic 6",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 12",
+    "rewards": [
+      {
+        "item": "Crown",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 1",
+    "rewards": [
+      {
+        "item": "IceCream",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 13",
+    "rewards": [
+      {
+        "item": "Refreshments",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Refreshments_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A2_Reward_Generic 6",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_OldCar",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Trail 1",
+    "rewards": [
+      {
+        "item": "Bull",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 13",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_Train",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 14",
+    "rewards": [
+      {
+        "item": "Side_Tool_Axe",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Scenic 2",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Trail 2",
+    "rewards": [
+      {
+        "item": "Kayak",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Kayak_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A1_Reward_Generic 30",
+    "rewards": [
+      {
+        "item": "ToiletSeat",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Scenic 8",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Scenic 7",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 13",
+    "rewards": [
+      {
+        "item": "Christmas",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Christmas_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A1_Reward_Generic 27",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 15",
+    "rewards": [
+      {
+        "item": "Bullbar_01_LightsRound",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 12",
+    "rewards": [
+      {
+        "item": "Lights_BeaconBar_Red",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Recovery 5",
+    "rewards": [
+      {
+        "item": "WhipLights_06",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 5",
+    "rewards": [
+      {
+        "item": "VentsOval",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Scenic 2",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 29",
+    "rewards": [
+      {
+        "item": "PlushPuppy",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 12",
+    "rewards": [
+      {
+        "item": "Side_Tractionboard",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Recovery 1",
+    "rewards": [
+      {
+        "item": "Party",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Party_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "Canada_Reward_Animal_Uncommon",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 20
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 16",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_PoliceSiren",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Trail 3",
+    "rewards": [
+      {
+        "item": "Mammoth",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Trail 2",
+    "rewards": [
+      {
+        "item": "Roamer",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 25",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 11",
+    "rewards": [
+      {
+        "item": "Steps_02",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Trail 5",
+    "rewards": [
+      {
+        "item": "Polyana",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Trail 3",
+    "rewards": [
+      {
+        "item": "Brick",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 9",
+    "rewards": [
+      {
+        "item": "Christmas_Front",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Christmas_Rear",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R1A3_Reward_Scenic 4",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 5",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Trail 5",
+    "rewards": [
+      {
+        "item": "Lynx",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 40
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Scenic 3",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "Canada_Reward_Animal_Rare",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 50
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 18",
+    "rewards": [
+      {
+        "item": "Horn_Animal_Wolf",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 1",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 24",
+    "rewards": [
+      {
+        "item": "Bike",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Recovery 1",
+    "rewards": [
+      {
+        "item": "Tent",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Tent_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A2_AreaReward",
+    "rewards": [
+      {
+        "item": "R2A2_Canyon",
+        "count": 1
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 15",
+    "rewards": [
+      {
+        "item": "Christmas_Side",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 3",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 4",
+    "rewards": [
+      {
+        "item": "Horn_Funny_Squeaky",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 32",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Trail 1",
+    "rewards": [
+      {
+        "item": "TrailBurner",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 5",
+    "rewards": [
+      {
+        "item": "RamSkull",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 19",
+    "rewards": [
+      {
+        "item": "TowBar",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 8",
+    "rewards": [
+      {
+        "item": "AntennaUfo",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 12",
+    "rewards": [
+      {
+        "item": "AntennaMarshmellow",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Trail 4",
+    "rewards": [
+      {
+        "item": "Horn_Animal_BaldEagle",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 10",
+    "rewards": [
+      {
+        "item": "RearWing",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "Canada_Reward_Cabin",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 10
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_AreaReward",
+    "rewards": [
+      {
+        "item": "R1A2_Wetlands",
+        "count": 1
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Scenic 5",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 20",
+    "rewards": [
+      {
+        "item": "Side_Tool_Machette",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 1",
+    "rewards": [
+      {
+        "item": "AntennaSasquatch",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Trail 3",
+    "rewards": [
+      {
+        "item": "Horn_Vehicle_Dixie",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 2",
+    "rewards": [
+      {
+        "item": "Cattleskull",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Recovery 2",
+    "rewards": [
+      {
+        "item": "Wintersports",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Wintersports_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A1_Reward_Generic 31",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "Canada_Reward_Animal_Common",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 10
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 21",
+    "rewards": [
+      {
+        "item": "Bullbar_01",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 5",
+    "rewards": [
+      {
+        "item": "AntennaMarshmellow",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 7",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 3",
+    "rewards": [
+      {
+        "item": "Refreshments",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": [
+      {
+        "item": "Refreshments_Bed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "R2A2_Reward_Scenic 7",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 1",
+    "rewards": [
+      {
+        "item": "CampingLantern",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 8",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 3",
+    "rewards": [
+      {
+        "item": "Sparewheel_Trasheroo",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "TestReward",
+    "rewards": [],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 8",
+    "rewards": [
+      {
+        "item": "AntennaLuckyCharm",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 16",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 17",
+    "rewards": [
+      {
+        "item": "Mudflap_03",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Scenic 6",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Trail 3",
+    "rewards": [
+      {
+        "item": "WhipLights_04",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Trail 4",
+    "rewards": [
+      {
+        "item": "Wombat",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 9",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 12",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 2",
+    "rewards": [
+      {
+        "item": "Bullbar_02",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 5",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Scenic 1",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 7",
+    "rewards": [
+      {
+        "item": "Bullbar_02_LightsSquare",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Scenic 5",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Generic 6",
+    "rewards": [
+      {
+        "item": "Lights_Beacon_RedBlue",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Scenic 8",
+    "rewards": [
+      {
+        "item": "Money",
+        "count": 15
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 2",
+    "rewards": [
+      {
+        "item": "Side_Jerrycan",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Trail 1",
+    "rewards": [
+      {
+        "item": "Tinny",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A1_Reward_Recovery 7",
+    "rewards": [
+      {
+        "item": "Horn_Funny_Cucaracha",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 25
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R2A2_Reward_Generic 14",
+    "rewards": [
+      {
+        "item": "BashBar_01",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A3_Reward_Generic 7",
+    "rewards": [
+      {
+        "item": "Lights_BeaconBar_RedBlue",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A2_Reward_Generic 4",
+    "rewards": [
+      {
+        "item": "AntennaPlushBear",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  },
+  {
+    "id": "R1A1_Reward_Generic 8",
+    "rewards": [
+      {
+        "item": "Ladder",
+        "count": 1
+      },
+      {
+        "item": "Money",
+        "count": 5
+      }
+    ],
+    "hiddenRewards": []
+  }
+]

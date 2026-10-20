@@ -1,0 +1,765 @@
+[
+  {
+    "id": "R1A3_Cabin3",
+    "itemId": 2555575997,
+    "name": "Crossroads Shelter",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin4",
+    "itemId": 2668121946,
+    "name": "Great Aqueduct Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin4",
+    "itemId": 2786927816,
+    "name": "Lake View Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin2",
+    "itemId": 1749856058,
+    "name": "Hamra Plateau Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin1",
+    "itemId": 1750341430,
+    "name": "Sunset Landing Cabin",
+    "isStartingCabin": true,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "Marsh Point Cabin",
+    "itemId": 1656770866,
+    "name": "Marsh Point Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Cabin",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin2",
+    "itemId": 1995749782,
+    "name": "Gharib el Kathib Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "Alaska Homestead",
+    "itemId": 1960337396,
+    "name": "Alaska Homestead",
+    "isStartingCabin": true,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Cabin",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin6",
+    "itemId": 2567674653,
+    "name": "El Kalaa Outpost",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin9",
+    "itemId": 2160233880,
+    "name": "Camp de la Trompe",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A1_Cabin3",
+    "itemId": 1226452874,
+    "name": "Elizabeth Lake Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin7",
+    "itemId": 2813951711,
+    "name": "Seer Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R1A1_Cabin5",
+    "itemId": 1111806668,
+    "name": "Black Bear’s Den\\n",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin10",
+    "itemId": 1305258282,
+    "name": "Shabah el Raml Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": []
+  },
+  {
+    "id": "R1A2_Cabin9",
+    "itemId": 1923376065,
+    "name": "Whitecap Alpine Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "Kodiak Retreat",
+    "itemId": 1986760274,
+    "name": "Kodiak Retreat",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Cabin",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A1_Cabin1",
+    "itemId": 1101794939,
+    "name": "Pavilion Lake Cabin",
+    "isStartingCabin": true,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin5",
+    "itemId": 2084807922,
+    "name": "Mahrouqa Bivouac",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin2",
+    "itemId": 2176336079,
+    "name": "Ridgeline Rest",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin7",
+    "itemId": 2367972595,
+    "name": "Similkameen Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "East River Cabin",
+    "itemId": 1097445680,
+    "name": "East River Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Cabin",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin2",
+    "itemId": 1688272994,
+    "name": "Secluded Marsh Bunkie",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin5",
+    "itemId": 2612748625,
+    "name": "Rock Cradle Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin6",
+    "itemId": 1247617841,
+    "name": "Powder Creek Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin7",
+    "itemId": 1476983872,
+    "name": "Sama el Sakhr Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin9",
+    "itemId": 1531397391,
+    "name": "Gods’ Rest",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin7",
+    "itemId": 2090065507,
+    "name": "Tlata Qnater Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin1",
+    "itemId": 2274679499,
+    "name": "Porte du Désert Camp",
+    "isStartingCabin": true,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin8",
+    "itemId": 2889717940,
+    "name": "Eagle Perch Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R1A1_Cabin4",
+    "itemId": 1156766673,
+    "name": "Brew Hut",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A1_Cabin6",
+    "itemId": 1011907904,
+    "name": "Birch Grove Hut",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin5",
+    "itemId": 2196576037,
+    "name": "Valkyr Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin3",
+    "itemId": 1689746922,
+    "name": "Nerthus Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin4",
+    "itemId": 2542523183,
+    "name": "Shaka Bivouac",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "High Point Lookout",
+    "itemId": 1205274505,
+    "name": "High Point Lookout",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Cabin",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin1",
+    "itemId": 2024271429,
+    "name": "Shaughnessy Cabin",
+    "isStartingCabin": true,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R1A2_Cabin8",
+    "itemId": 1746949483,
+    "name": "Mount Gibson Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin3",
+    "itemId": 1749934660,
+    "name": "Oued el Ghubar Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin4",
+    "itemId": 1666318140,
+    "name": "Mjoll Basin Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin8",
+    "itemId": 2224015867,
+    "name": "Yamina Falls Rest",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "Sunrise Cabin",
+    "itemId": 1507407726,
+    "name": "Sunrise Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Cabin",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin8",
+    "itemId": 1017192020,
+    "name": "Thuban el Milh Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin6",
+    "itemId": 2576652318,
+    "name": "Taht el Borj Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin3",
+    "itemId": 2404909233,
+    "name": "Ajanib Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A2_Cabin1",
+    "itemId": 2731053245,
+    "name": "El Madraj Base Camp",
+    "isStartingCabin": true,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A3_Cabin6",
+    "itemId": 1950602491,
+    "name": "Twin Pools Cabin",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal",
+      "ItemRecovery"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin5",
+    "itemId": 1683286937,
+    "name": "Istirahat el Hajj Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R1A1_Cabin2",
+    "itemId": 1815311426,
+    "name": "Malachite Lodge",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  },
+  {
+    "id": "R2A1_Cabin9",
+    "itemId": 2024248428,
+    "name": "Forêt de Pierres Camp",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": []
+  },
+  {
+    "id": "Mountain View Lookout",
+    "itemId": 1884031063,
+    "name": "Mountain View Lookout",
+    "isStartingCabin": false,
+    "revealInner": 250.0,
+    "revealOuter": 400.0,
+    "poiTypesRevealed": [
+      "Generic",
+      "Cabin",
+      "Merchant",
+      "Scenic",
+      "Trail",
+      "Portal"
+    ]
+  }
+]

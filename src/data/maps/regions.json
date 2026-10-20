@@ -1,0 +1,599 @@
+[
+  {
+    "id": "canada",
+    "slug": "canada",
+    "title": "Canada",
+    "description": "Canada combines forest tracks, lakesides and mountain terrain, with cabins and viewpoints to discover between driving objectives.",
+    "category": "Region",
+    "image": "/images/game/screenshot-05.webp",
+    "imageAlt": "Over the Hill Canada landscape",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/announcements/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release, October 2026",
+    "lastVerifiedAt": "2026-10-16",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "The Valhallas",
+        "paragraphs": [
+          "Canada has three release areas: Emerald Lake, Gimli Ridge and Asgard Mountain. Lakeside tracks give way to steeper routes, cabins and challenge trails in the mountains."
+        ]
+      },
+      {
+        "heading": "Vehicle rewards",
+        "paragraphs": [
+          "Hermit Trail rewards the Burro and Windy Joe Trail rewards the Trail Burner in Emerald Lake. Further Canadian challenge rewards include the Brick, Bull, Polyana, Blast Wagon, Grand Woodman, Timberbox and Mammoth."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium",
+      "/vehicles",
+      "/maps#emerald-lake",
+      "/wiki/equipment#camp",
+      "/maps#algeria"
+    ],
+    "seo": {
+      "title": "Canada | Over the Hill Wiki",
+      "description": "Forests, lakeside tracks and mountain routes. Explore the Canadian wilderness one cabin, viewpoint and trail at a time."
+    },
+    "sourceIds": [
+      "steam",
+      "demo",
+      "canada",
+      "archive",
+      "camp",
+      "release-canada"
+    ],
+    "evidenceNote": "Release area names and named locations checked against independent release map records; game map textures retain their original appearance.",
+    "imageLabel": "",
+    "playerNotes": [
+      "Explore lakeside routes, forests and mountain terrain. Cabins and portals give you reasons to revisit the map as the trip opens up."
+    ],
+    "displayFacts": [],
+    "updatedAt": "2026-10-16"
+  },
+  {
+    "id": "algeria",
+    "slug": "algeria",
+    "title": "Algeria",
+    "description": "Algeria’s desert landscapes include dunes, rocky corridors, canyon ledges and natural arches.",
+    "category": "Region",
+    "image": "/images/game/screenshot-09.webp",
+    "imageAlt": "Over the Hill Algeria landscape",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/announcements/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release, October 2026",
+    "lastVerifiedAt": "2026-10-16",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Across Algeria",
+        "paragraphs": [
+          "Tassili n’Ajjer Desert and Aurès Mountains make up the Algerian release areas. The map lists camps, scenic points, challenge trails and desert wildlife photography targets."
+        ]
+      },
+      {
+        "heading": "Desert challenge rewards",
+        "paragraphs": [
+          "El Kalaa North Ascent rewards the Wombat; El Kalaa South Ascent rewards the Woodman. Tarfa Ascent rewards the Boar, while Shabah Ascent rewards the Marshal."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/collectibles#meteorites"
+    ],
+    "seo": {
+      "title": "Algeria | Over the Hill Wiki",
+      "description": "Dunes, canyon ledges and dramatic rock formations. Pack for gaps and recovery before heading into the desert."
+    },
+    "sourceIds": [
+      "steam",
+      "site",
+      "archive",
+      "demo",
+      "video-algeria",
+      "release-algeria"
+    ],
+    "facts": [
+      {
+        "label": "Visible terrain",
+        "value": "Dunes and sandy tracks",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 12
+      },
+      {
+        "label": "Landforms",
+        "value": "Rock corridors and natural arches",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 28
+      },
+      {
+        "label": "Equipment footage",
+        "value": "Plank supports at a rocky ledge",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 38
+      },
+      {
+        "label": "Time-of-day footage",
+        "value": "Night travel and campsites",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 4
+      }
+    ],
+    "imageLabel": "",
+    "playerNotes": [
+      "Take the trip into dunes, rocky corridors and canyon crossings. Bring planks and recovery equipment when planning around gaps and ledges."
+    ],
+    "displayFacts": [
+      {
+        "label": "Visible terrain",
+        "value": "Dunes and sandy tracks"
+      },
+      {
+        "label": "Landforms",
+        "value": "Rock corridors and natural arches"
+      },
+      {
+        "label": "Equipment footage",
+        "value": "Plank supports at a rocky ledge"
+      },
+      {
+        "label": "Time-of-day footage",
+        "value": "Night travel and campsites"
+      }
+    ],
+    "updatedAt": "2026-10-16",
+    "evidenceNote": "Release area names and named locations checked against independent release map records; game map textures retain their original appearance."
+  },
+  {
+    "id": "emerald-lake",
+    "slug": "emerald-lake",
+    "title": "Emerald Lake",
+    "description": "A lakeside Canadian area with six cabins, two watchtower viewpoints and three challenge trails. Windy Joe and Hermit Trail connect exploration to vehicle unlocks.",
+    "category": "Area",
+    "image": "/images/maps/release/emerald-lake__R1A1_MapTexture.webp",
+    "imageAlt": "Emerald Lake in-game topographic map",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-maps",
+      "patch-2026-10-16"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Emerald Lake",
+        "paragraphs": [
+          "A lakeside Canadian area with six cabins, two watchtower viewpoints and three challenge trails. Windy Joe and Hermit Trail connect exploration to vehicle unlocks."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Emerald Lake | Over the Hill Field Guide",
+      "description": "A lakeside Canadian area with six cabins, two watchtower viewpoints and three challenge trails. Windy Joe and Hermit Trail connect exploration to vehicle unlocks."
+    },
+    "playerNotes": [
+      "Cabins and camps: Pavilion Lake Cabin, Birch Grove Hut, Elizabeth Lake Cabin, Brew Hut, Black Bear's Den, Malachite Lodge.",
+      "Challenge trails: Windy Joe Trail, Elizabeth Oath Trail, Hermit Trail.",
+      "The October 16 update adjusted meteorite spawn points across all areas. Older meteorite routes may need revisiting."
+    ],
+    "displayFacts": [
+      {
+        "label": "Reward crates",
+        "value": "18"
+      },
+      {
+        "label": "Scenic points",
+        "value": "2"
+      },
+      {
+        "label": "Cabins / camps",
+        "value": "6"
+      },
+      {
+        "label": "Challenge trails",
+        "value": "3"
+      }
+    ],
+    "imageLabel": "In-game map",
+    "region": "canada",
+    "places": [
+      "Pavilion Lake Cabin",
+      "Birch Grove Hut",
+      "Elizabeth Lake Cabin",
+      "Brew Hut",
+      "Black Bear's Den",
+      "Malachite Lodge"
+    ],
+    "trails": [
+      "Windy Joe Trail",
+      "Elizabeth Oath Trail",
+      "Hermit Trail"
+    ],
+    "viewpoints": [
+      "Clark Watchtower",
+      "Harrison Watchtower"
+    ]
+  },
+  {
+    "id": "gimli-ridge",
+    "slug": "gimli-ridge",
+    "title": "Gimli Ridge",
+    "description": "The second Canadian area adds ridge routes, lakes and nine cabins. Its challenges include the unlocks for Blast Wagon, Brick and Polyana.",
+    "category": "Area",
+    "image": "/images/maps/release/gimli-ridge__R1A2_MapTexture.webp",
+    "imageAlt": "Gimli Ridge in-game topographic map",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-maps",
+      "patch-2026-10-16"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Gimli Ridge",
+        "paragraphs": [
+          "The second Canadian area adds ridge routes, lakes and nine cabins. Its challenges include the unlocks for Blast Wagon, Brick and Polyana."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Gimli Ridge | Over the Hill Field Guide",
+      "description": "The second Canadian area adds ridge routes, lakes and nine cabins. Its challenges include the unlocks for Blast Wagon, Brick and Polyana."
+    },
+    "playerNotes": [
+      "Cabins and camps: Sunset Landing Cabin, Nerthus Cabin, Secluded Marsh Bunkie, Valkyr Lodge, Lake View Cabin, Powder Creek Lodge, Seer Lodge, Mount Gibson Lodge, Whitecap Alpine Lodge.",
+      "Challenge trails: Fraser Research Boardwalk, Windcall Gorge Trail, Bridal Veil Falls Climb, Elvis Rim Trail, Waddington Scree Trail.",
+      "The October 16 update adjusted meteorite spawn points across all areas. Older meteorite routes may need revisiting."
+    ],
+    "displayFacts": [
+      {
+        "label": "Reward crates",
+        "value": "15"
+      },
+      {
+        "label": "Scenic points",
+        "value": "8"
+      },
+      {
+        "label": "Cabins / camps",
+        "value": "9"
+      },
+      {
+        "label": "Challenge trails",
+        "value": "5"
+      }
+    ],
+    "imageLabel": "In-game map",
+    "region": "canada",
+    "places": [
+      "Sunset Landing Cabin",
+      "Nerthus Cabin",
+      "Secluded Marsh Bunkie",
+      "Valkyr Lodge",
+      "Lake View Cabin",
+      "Powder Creek Lodge",
+      "Seer Lodge",
+      "Mount Gibson Lodge",
+      "Whitecap Alpine Lodge"
+    ],
+    "trails": [
+      "Fraser Research Boardwalk",
+      "Windcall Gorge Trail",
+      "Bridal Veil Falls Climb",
+      "Elvis Rim Trail",
+      "Waddington Scree Trail"
+    ],
+    "viewpoints": [
+      "Nerthus Observation Tower",
+      "Mount Robinson Viewpoint",
+      "Fisherman's Cove",
+      "Lucy Chapman Lake View",
+      "Mimisbrunnr Lake Overlook",
+      "Murray Peak",
+      "Beatrice Ridge",
+      "Clark Watchtower"
+    ]
+  },
+  {
+    "id": "asgard-mountain",
+    "slug": "asgard-mountain",
+    "title": "Asgard Mountain",
+    "description": "A higher mountain area with snowy ground and narrow climbing routes. Several challenge trails award vehicles, including Grand Woodman and Mammoth.",
+    "category": "Area",
+    "image": "/images/maps/release/asgard-mountain__R1A3_MapTexture.webp",
+    "imageAlt": "Asgard Mountain in-game topographic map",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-maps",
+      "patch-2026-10-16"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Asgard Mountain",
+        "paragraphs": [
+          "A higher mountain area with snowy ground and narrow climbing routes. Several challenge trails award vehicles, including Grand Woodman and Mammoth."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Asgard Mountain | Over the Hill Field Guide",
+      "description": "A higher mountain area with snowy ground and narrow climbing routes. Several challenge trails award vehicles, including Grand Woodman and Mammoth."
+    },
+    "playerNotes": [
+      "Cabins and camps: Shaughnessy Cabin, Ridgeline Rest, Eagle Perch Cabin, Twin Pools Cabin, Rock Cradle Cabin, Crossroads Shelter, Mjoll Basin Lodge, Similkameen Lodge, Gods' Rest.",
+      "Challenge trails: Blanshard Ridge Trail, Asulkan Lake Highline, Lower Midgar Trail, Midgar Ascent, Wakefield Switchback Climb.",
+      "The October 16 update adjusted meteorite spawn points across all areas. Older meteorite routes may need revisiting."
+    ],
+    "displayFacts": [
+      {
+        "label": "Reward crates",
+        "value": "15"
+      },
+      {
+        "label": "Scenic points",
+        "value": "8"
+      },
+      {
+        "label": "Cabins / camps",
+        "value": "9"
+      },
+      {
+        "label": "Challenge trails",
+        "value": "5"
+      }
+    ],
+    "imageLabel": "In-game map",
+    "region": "canada",
+    "places": [
+      "Shaughnessy Cabin",
+      "Ridgeline Rest",
+      "Eagle Perch Cabin",
+      "Twin Pools Cabin",
+      "Rock Cradle Cabin",
+      "Crossroads Shelter",
+      "Mjoll Basin Lodge",
+      "Similkameen Lodge",
+      "Gods' Rest"
+    ],
+    "trails": [
+      "Blanshard Ridge Trail",
+      "Asulkan Lake Highline",
+      "Lower Midgar Trail",
+      "Midgar Ascent",
+      "Wakefield Switchback Climb"
+    ],
+    "viewpoints": [
+      "Rock Cradle Weather Station",
+      "Eaglewing Ridge",
+      "Pemberton Point",
+      "Bighorn Lake",
+      "Heimdall Eye",
+      "Jormungandr's Coil",
+      "Headless Valley",
+      "Niflhel Bath"
+    ]
+  },
+  {
+    "id": "tassili-najjer-desert",
+    "slug": "tassili-najjer-desert",
+    "title": "Tassili n’Ajjer Desert",
+    "description": "The larger Algerian desert area combines sand, rock formations and canyon routes. Its ascents unlock Wombat, Woodman, Boar and Marshal.",
+    "category": "Area",
+    "image": "/images/maps/release/tassili-n-ajjer-desert__R2A1_MapTexture.webp",
+    "imageAlt": "Tassili n’Ajjer Desert in-game topographic map",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-maps",
+      "patch-2026-10-16"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Tassili n’Ajjer Desert",
+        "paragraphs": [
+          "The larger Algerian desert area combines sand, rock formations and canyon routes. Its ascents unlock Wombat, Woodman, Boar and Marshal."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Tassili n’Ajjer Desert | Over the Hill Field Guide",
+      "description": "The larger Algerian desert area combines sand, rock formations and canyon routes. Its ascents unlock Wombat, Woodman, Boar and Marshal."
+    },
+    "playerNotes": [
+      "Cabins and camps: Porte Du Desert Camp, Istirahat El Hajj Camp, Sama El Sakhr Camp, Gharib El Kathib Camp, Oued El Ghubar Camp, Shaka Bivouac, Thuban El Milh Camp, El Kalaa Outpost, Foret De Pierres Camp, Shabah El Raml Camp.",
+      "Challenge trails: El Kalaa North Ascent, La Cathedrale Climb, El Kalaa South Ascent, Tarfa Ascent, Shabah Ascent.",
+      "The October 16 update adjusted meteorite spawn points across all areas. Older meteorite routes may need revisiting."
+    ],
+    "displayFacts": [
+      {
+        "label": "Reward crates",
+        "value": "21"
+      },
+      {
+        "label": "Scenic points",
+        "value": "14"
+      },
+      {
+        "label": "Cabins / camps",
+        "value": "10"
+      },
+      {
+        "label": "Challenge trails",
+        "value": "5"
+      }
+    ],
+    "imageLabel": "In-game map",
+    "region": "algeria",
+    "places": [
+      "Porte Du Desert Camp",
+      "Istirahat El Hajj Camp",
+      "Sama El Sakhr Camp",
+      "Gharib El Kathib Camp",
+      "Oued El Ghubar Camp",
+      "Shaka Bivouac",
+      "Thuban El Milh Camp",
+      "El Kalaa Outpost",
+      "Foret De Pierres Camp",
+      "Shabah El Raml Camp"
+    ],
+    "trails": [
+      "El Kalaa North Ascent",
+      "La Cathedrale Climb",
+      "El Kalaa South Ascent",
+      "Tarfa Ascent",
+      "Shabah Ascent"
+    ],
+    "viewpoints": [
+      "Oued El Zumurrud",
+      "Bab El Hajj",
+      "Jisr El Ajib",
+      "Sama El Sakhr",
+      "Buried Giants I",
+      "Tariq El Qawafil",
+      "Jisr El Rai",
+      "Tahaddi El Saqr",
+      "Grand Erg Occidental",
+      "Buried Giants II",
+      "Qatrat El Sama",
+      "Buried Giants III: Overlook",
+      "El Kalaa Overlook",
+      "Thuban El Milh Overlook"
+    ]
+  },
+  {
+    "id": "aures-mountains",
+    "slug": "aures-mountains",
+    "title": "Aurès Mountains",
+    "description": "An Algerian mountain area with aqueduct scenery, five camps and two challenge trails. A tunnel links it to the desert area.",
+    "category": "Area",
+    "image": "/images/maps/release/aurès-mountains__R2A2_MapTexture.webp",
+    "imageAlt": "Aurès Mountains in-game topographic map",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-maps",
+      "patch-2026-10-16"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Aurès Mountains",
+        "paragraphs": [
+          "An Algerian mountain area with aqueduct scenery, five camps and two challenge trails. A tunnel links it to the desert area."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/wildlife"
+    ],
+    "seo": {
+      "title": "Aurès Mountains | Over the Hill Field Guide",
+      "description": "An Algerian mountain area with aqueduct scenery, five camps and two challenge trails. A tunnel links it to the desert area."
+    },
+    "playerNotes": [
+      "Cabins and camps: El Madraj Base Camp, Ajanib Camp, Great Aqueduct Camp, Hamra Plateau Camp, Taht El Borj Camp, Tlata Qnater Camp, Yamina Falls Rest, Mahrouqa Bivouac, Camp De La Trompe.",
+      "Challenge trails: Djebel Rahmani Trail, Kalaa Ulya Track, Ukhtayn Route, Jazira Ascent, Mahrouqa West Track.",
+      "The October 16 update adjusted meteorite spawn points across all areas. Older meteorite routes may need revisiting."
+    ],
+    "displayFacts": [
+      {
+        "label": "Reward crates",
+        "value": "16"
+      },
+      {
+        "label": "Scenic points",
+        "value": "8"
+      },
+      {
+        "label": "Cabins / camps",
+        "value": "9"
+      },
+      {
+        "label": "Challenge trails",
+        "value": "5"
+      }
+    ],
+    "imageLabel": "In-game map",
+    "region": "algeria",
+    "places": [
+      "El Madraj Base Camp",
+      "Ajanib Camp",
+      "Great Aqueduct Camp",
+      "Hamra Plateau Camp",
+      "Taht El Borj Camp",
+      "Tlata Qnater Camp",
+      "Yamina Falls Rest",
+      "Mahrouqa Bivouac",
+      "Camp De La Trompe"
+    ],
+    "trails": [
+      "Djebel Rahmani Trail",
+      "Kalaa Ulya Track",
+      "Ukhtayn Route",
+      "Jazira Ascent",
+      "Mahrouqa West Track"
+    ],
+    "viewpoints": [
+      "Bordj Lalla",
+      "Marcellian Aqueduct View",
+      "Sarw Wahid",
+      "Saturn's Column",
+      "Southwest Overlook",
+      "Marabout Hill",
+      "Ancient Beacons",
+      "Clock of Eternity"
+    ]
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "id": "t-shirts-and-vinyl",
+    "slug": "t-shirts-and-vinyl",
+    "title": "New T-shirts and Vinyl Announced",
+    "description": "Official merchandise news ahead of the Steam launch.",
+    "category": "Official News",
+    "image": "/images/home/forest.webp",
+    "imageAlt": "Original off-road concept illustration; not a game screenshot",
+    "sourceUrl": "https://steamcommunity.com/games/2929250/announcements/detail/1846018067927611",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-07",
+    "sections": [
+      {
+        "heading": "T-shirts",
+        "paragraphs": [
+          "The October 7 announcement introduced Over the Hill T-shirts made with Serenity Forge, with pre-orders opening ahead of the Steam launch."
+        ]
+      },
+      {
+        "heading": "Soundtrack vinyl",
+        "paragraphs": [
+          "Vinyl pre-orders were scheduled to open on October 14. The announcement concerned merchandise and the soundtrack; it did not add vehicles, regions or other playable content."
+        ]
+      }
+    ],
+    "related": ["/update", "/guides/pebbles-upgrade-order"],
+    "seo": {
+      "title": "New T-shirts and Vinyl Announced - Over The Hill News",
+      "description": "Catch up on the October 7 Over the Hill merchandise announcement, covering T-shirts and vinyl ahead of the game’s October 14 Steam release and its soundtrack."
+    },
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "last-stream-before-launch",
+    "slug": "last-stream-before-launch",
+    "title": "The Final Pre-launch Developer Stream",
+    "description": "An October 7 stream with Funselektor founder Dune.",
+    "category": "Official News",
+    "image": "/images/home/forest.webp",
+    "imageAlt": "Original off-road concept illustration; not a game screenshot",
+    "sourceUrl": "https://steamcommunity.com/games/2929250/announcements/detail/1846018067927012",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-07",
+    "sections": [
+      {
+        "heading": "The final pre-launch broadcast",
+        "paragraphs": [
+          "Funselektor founder Dune was announced as the guest for the October 7 stream, one week before the Steam release."
+        ]
+      },
+      {
+        "heading": "Scheduled programme",
+        "paragraphs": [
+          "The planned broadcast paired gameplay and questions from viewers with merchandise reveals and game key giveaways. It was scheduled for 1 PM PDT / 10 PM CEST on Twitch and Instagram."
+        ]
+      }
+    ],
+    "related": ["/update", "/guides/pebbles-upgrade-order"],
+    "seo": {
+      "title": "The Final Pre-launch Developer Stream - Over The Hill News",
+      "description": "Revisit the October 7 Over the Hill broadcast with Funselektor founder Dune, the final scheduled developer stream before the game’s October 14 Steam launch."
+    },
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "music-and-sound-stream",
+    "slug": "music-and-sound-stream",
+    "title": "Music and Sound Design Developer Stream",
+    "description": "The September 30 announcement focused on audio with director Michele.",
+    "category": "Official News",
+    "image": "/images/home/forest.webp",
+    "imageAlt": "Original off-road concept illustration; not a game screenshot",
+    "sourceUrl": "https://steamcommunity.com/games/2929250/announcements/detail/1845383656377948",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-09-30",
+    "sections": [
+      {
+        "heading": "Behind the sound",
+        "paragraphs": [
+          "The September 30 announcement invited players to a developer broadcast with audio director Michele, focused on the game’s music and sound design."
+        ]
+      },
+      {
+        "heading": "Broadcast details",
+        "paragraphs": [
+          "The stream was scheduled for 1 PM PDT / 10 PM CEST on Twitch and Instagram, with game key giveaways alongside the audio discussion. This was a pre-launch broadcast rather than a gameplay update."
+        ]
+      }
+    ],
+    "related": ["/update", "/guides/pebbles-upgrade-order"],
+    "seo": {
+      "title": "Music and Sound Design Developer Stream - Over The Hill News",
+      "description": "Revisit the September 30 Over the Hill stream with director Michele, covering the game’s music and sound design as the team prepared for its October launch."
+    },
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "release-date-announcement",
+    "slug": "release-date-announcement",
+    "title": "Steam Release Date & Console Schedule",
+    "description": "The August announcement schedules Steam for October 14 and console versions for 2027, with Canada and Algeria at launch.",
+    "category": "Official News",
+    "image": "/images/home/forest.webp",
+    "imageAlt": "Original concept illustration; not a game screenshot",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/allnews/?l=english",
+    "sourceIds": ["archive"],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Historical official announcement",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-08-10",
+    "sections": [
+      {
+        "heading": "Steam and launch regions",
+        "paragraphs": [
+          "The August announcement set October 14, 2026 as the Steam release date and named Canada and Algeria as the launch regions."
+        ]
+      },
+      {
+        "heading": "Console schedule",
+        "paragraphs": [
+          "PS5, Xbox Series X|S and Switch 2 versions were scheduled for 2027, replacing earlier plans for a 2026 console launch. An exact console release date was not given in this announcement."
+        ]
+      }
+    ],
+    "related": ["/update#price-and-supporter-pack", "/maps"],
+    "summary": "The August announcement schedules Steam for October 14 and console versions for 2027, with Canada and Algeria at launch.",
+    "evidenceNote": "Independent summary of the dated official announcement. Later announcements take precedence over historical plans.",
+    "seo": {
+      "title": "Steam Release Date & Console Schedule - Over The Hill News",
+      "description": "Read about the Over the Hill release-date announcement: October 14, 2026 on Steam, Canada and Algeria at launch, and console versions planned for 2027."
+    },
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "price-and-supporter-pack",
+    "slug": "price-and-supporter-pack",
+    "title": "Price Reveal & Supporter Pack Details",
+    "description": "The official pricing announcement gives US prices for the game, soundtrack, Supporter Pack and bundle, with no pre-orders.",
+    "category": "Official News",
+    "image": "/images/home/forest.webp",
+    "imageAlt": "Original concept illustration; not a game screenshot",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/allnews/?l=english",
+    "sourceIds": ["archive"],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Historical official announcement",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-08-24",
+    "sections": [
+      {
+        "heading": "Announced US prices",
+        "paragraphs": [
+          "The August pricing announcement listed the base game at $24.99 USD, the soundtrack and Supporter Pack at $9.99 each, and the combined bundle at $37.99. A launch discount was announced; regional prices and later promotions can differ."
+        ]
+      },
+      {
+        "heading": "What the Supporter Pack includes",
+        "paragraphs": [
+          "The announced extras were an in-game name tag, cosmetics, a campsite, printable maps and 4K wallpapers. The game was not offered for pre-order. These were the pre-launch purchase options, rather than additional regions or a new vehicle roster."
+        ]
+      }
+    ],
+    "related": [
+      "/update#price-and-supporter-pack",
+      "/wiki/upgrades#liveries-and-cosmetics"
+    ],
+    "summary": "The official pricing announcement gives US prices for the game, soundtrack, Supporter Pack and bundle, with no pre-orders.",
+    "evidenceNote": "Independent summary of the dated official announcement. Later announcements take precedence over historical plans.",
+    "seo": {
+      "title": "Price Reveal & Supporter Pack Details - Over The Hill News",
+      "description": "Revisit the August Over the Hill pricing and Supporter Pack announcement, including the launch plans discussed at the time and what the extra pack covers."
+    },
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "next-fest-demo-closed",
+    "slug": "next-fest-demo-closed",
+    "title": "Next Fest Demo Access Closed",
+    "description": "The June 30 official news confirms that public Demo access has closed; later news directs players to limited playtests.",
+    "category": "Official News",
+    "image": "/images/home/forest.webp",
+    "imageAlt": "Original concept illustration; not a game screenshot",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/allnews/?l=english",
+    "sourceIds": ["archive"],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Historical official announcement",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-06-30",
+    "sections": [
+      {
+        "heading": "The Demo window",
+        "paragraphs": [
+          "The June 30 announcement confirmed that public Demo access had ended. A June 24 extension had kept the Demo available through June 29. The full game subsequently launched on Steam on October 14."
+        ]
+      },
+      {
+        "heading": "Later playtests and saves",
+        "paragraphs": [
+          "An August update directed players to the official Discord for limited playtests. Demo save compatibility was planned but not guaranteed at the time. These access notices belong to the Demo period and do not describe a current public Demo."
+        ]
+      }
+    ],
+    "related": ["/update#next-fest-demo-closed"],
+    "summary": "The June 30 official news confirms that public Demo access has closed; later news directs players to limited playtests.",
+    "evidenceNote": "Independent summary of the dated official announcement. Later announcements take precedence over historical plans.",
+    "seo": {
+      "title": "Next Fest Demo Access Closed - Over The Hill News",
+      "description": "Look back at the Over the Hill Next Fest Demo closing announcement from June 2026, with the Demo’s original access period kept separate from the release game."
+    },
+    "updatedAt": "2026-10-20"
+  }
+]

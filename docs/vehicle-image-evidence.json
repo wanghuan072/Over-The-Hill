@@ -1,0 +1,123 @@
+[
+  {
+    "vehicleId": "bull",
+    "path": "/images/vehicles/garage/bull.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 305.5,
+    "frameSize": [1280, 720],
+    "captureRectangle": [75, 306, 64, 42],
+    "sha256": "60ace416b1f004ab7222f2feb8f4f5942fb20ddac9b8adc84e1c71d924f2617d",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "roamer",
+    "path": "/images/vehicles/garage/roamer.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 306.5,
+    "frameSize": [1280, 720],
+    "captureRectangle": [259, 306, 64, 42],
+    "sha256": "f31102d5345af395a7121d9562e32bae49d1f64dcf58c5935592447247c3f67e",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "woodman",
+    "path": "/images/vehicles/garage/woodman.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 298.5,
+    "frameSize": [1280, 720],
+    "captureRectangle": [167, 181, 64, 42],
+    "sha256": "b38be3d9bafa895442874f8a6a05425ec5ed65d434cfc6b9dbf8b655a9056ab1",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "grand-woodman",
+    "path": "/images/vehicles/garage/grand-woodman.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 299,
+    "frameSize": [1280, 720],
+    "captureRectangle": [259, 181, 64, 42],
+    "sha256": "0bbd38c978b30d19d0896a12e39ebf0783d7e3f0ee453de7428337afd13640ca",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "overlord",
+    "path": "/images/vehicles/garage/overlord.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 309,
+    "frameSize": [1280, 720],
+    "captureRectangle": [167, 374, 64, 42],
+    "sha256": "e4fbf3f342719b2370a94e6cf4aa8e1e8e0977dbef3830fd1976049f3cf4318e",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "rust-ox",
+    "path": "/images/vehicles/garage/rust-ox.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 311,
+    "frameSize": [1280, 720],
+    "captureRectangle": [75, 496, 64, 42],
+    "sha256": "abbdb5aa257f7e819e6a5a6912bfaddbd056bedcaedcbaa00c783c197d0126bb",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "blast-wagon",
+    "path": "/images/vehicles/garage/blast-wagon.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 311.5,
+    "frameSize": [1280, 720],
+    "captureRectangle": [259, 496, 64, 42],
+    "sha256": "27a2776ca6528826cba4b04a11183d932f97603d01c6dcb3239348a669ce1758",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "buzz-wagon",
+    "path": "/images/vehicles/garage/buzz-wagon.png",
+    "kind": "garage-icon",
+    "sourceId": "camodo-roster",
+    "timestampSeconds": 313,
+    "frameSize": [1280, 720],
+    "captureRectangle": [75, 588, 64, 42],
+    "sha256": "a9b3702037592200b777b6ab9b518e3181d3d6e570ddae9073ce39b64e673125",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "trailrat",
+    "path": "/images/vehicles/garage/trailrat.png",
+    "kind": "garage-icon",
+    "sourceId": "cation-burro",
+    "timestampSeconds": 1061,
+    "frameSize": [1920, 1080],
+    "captureRectangle": [527, 376, 96, 63],
+    "sha256": "20c0dbdd9f3cc43faecaf63be69fccdf27990bf770e7a24d7f3c3930d3c9c00a",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Tooltip names the highlighted slot. Only its glyph is captured, excluding the unrelated owned vehicle preview."
+  },
+  {
+    "vehicleId": "polyana",
+    "path": "/images/vehicles/garage/polyana.png",
+    "kind": "garage-icon",
+    "sourceId": "cation-burro",
+    "timestampSeconds": 1061,
+    "frameSize": [1920, 1080],
+    "captureRectangle": [390, 377, 96, 63],
+    "sha256": "b1dafe75bf8a805b7d230d74e5c9448971b9fa19bead04065c57878ee713a3ec",
+    "rights": "Player gameplay capture used for editorial identification. Copyright remains with the game owners and recording creator; not an official press-kit asset.",
+    "identity": "Unselected hatchback glyph captured at 1061 seconds without the cursor. Its same Trail slot is selected and explicitly named Polyana at 1064 seconds.",
+    "nameVerifiedAtSeconds": 1064
+  }
+]

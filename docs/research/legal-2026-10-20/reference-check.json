@@ -1,0 +1,39 @@
+{
+  "checkedOn": "2026-10-20",
+  "purpose": "Editorial references for expanded site information pages; no assertion of jurisdiction-specific certification or universal legal compliance.",
+  "sources": [
+    {
+      "title": "FTC: Privacy and Security",
+      "url": "https://www.ftc.gov/business-guidance/privacy-security",
+      "scope": "Describe actual information practices and avoid unsupported privacy promises."
+    },
+    {
+      "title": "ICO: Your data protection rights",
+      "url": "https://ico.org.uk/global/privacy-notice/your-data-protection-rights/",
+      "scope": "Privacy requests, applicable conditions and contact information; the policy does not assume that UK law applies to every visitor."
+    },
+    {
+      "title": "U.S. Copyright Office: Fair Use FAQ",
+      "url": "https://www.copyright.gov/help/faq/faq-fairuse.html",
+      "scope": "Source availability is not a blanket reuse licence."
+    },
+    {
+      "title": "U.S. Copyright Office: More Information on Fair Use",
+      "url": "https://www.copyright.gov/fair-use/more-info.html",
+      "scope": "No automatic word-count or percentage exception; the site does not claim a statutory notice registration."
+    }
+  ],
+  "projectFactsChecked": [
+    "Map progress and notes remain in browser localStorage under separate versioned keys.",
+    "Shared links contain an area and optional marker, not notes or discoveries.",
+    "The application has no accounts, payments, contact form, advertising integration or analytics integration.",
+    "The current three guides cover Pebbles/upgrades, Emerald Lake trails and Sasquatch photography.",
+    "Vehicle rows show stock model images and all engine/paint/unlock information without disclosures."
+  ],
+  "draftingConstraints": [
+    "No invented legal entity, physical address, jurisdiction, provider data-centre location, retention deadline or response SLA.",
+    "No claim that all third-party image redistribution permissions are confirmed.",
+    "No outside contact, messages, form submissions or deployment.",
+    "Published pages contain original English paragraphs with no external reading links."
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "oth-levels-en": [
+    {
+      "key": "R1A1_Valley",
+      "route": "overthehill-levels-R1A1_Valley",
+      "label": "Emerald Lake",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a1_valley.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A1_Valley/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A1_Valley/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 282
+    },
+    {
+      "key": "R1A2_Wetlands",
+      "route": "overthehill-levels-R1A2_Wetlands",
+      "label": "Gimli Ridge",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a2_wetlands.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A2_Wetlands/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A2_Wetlands/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 314
+    },
+    {
+      "key": "R1A3_Ridge",
+      "route": "overthehill-levels-R1A3_Ridge",
+      "label": "Asgard Mountain",
+      "region": "The Valhallas - Canada",
+      "regionKey": "oth/regions/canada/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r1a3_ridge.webp",
+      "regionPoster": "posters/r1_canada.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R1A3_Ridge/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R1A3_Ridge/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 320
+    },
+    {
+      "key": "R2A1_Desert",
+      "route": "overthehill-levels-R2A1_Desert",
+      "label": "Tassili n'Ajjer Desert",
+      "region": "Algeria",
+      "regionKey": "oth/regions/algeria/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r2a1_desert.webp",
+      "regionPoster": "posters/r2_algeria.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R2A1_Desert/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R2A1_Desert/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 259
+    },
+    {
+      "key": "R2A2_Canyon",
+      "route": "overthehill-levels-R2A2_Canyon",
+      "label": "Aurès Mountains",
+      "region": "Algeria",
+      "regionKey": "oth/regions/algeria/name",
+      "mapSize": {
+        "x": 4000,
+        "z": 4000,
+        "maxZoom": 8
+      },
+      "poster": "posters/r2a2_canyon.webp",
+      "regionPoster": "posters/r2_algeria.webp",
+      "layers": [
+        {
+          "dir": "overthehill/levels/R2A2_Canyon/satellite",
+          "label": "Satellite",
+          "folder": "/satellite",
+          "ext": "webp",
+          "maxZoom": 8,
+          "v": "25806963"
+        },
+        {
+          "dir": "overthehill/levels/R2A2_Canyon/topographic",
+          "label": "Topographic",
+          "folder": "/topographic",
+          "ext": "webp",
+          "maxZoom": 3,
+          "v": "25806963"
+        }
+      ],
+      "playable": true,
+      "markerCount": 361
+    }
+  ],
+  "oth-vehicles-en": [
+    {
+      "key": "Lynx",
+      "itemId": 3404874685,
+      "slug": "das-lynx",
+      "name": "Das Lynx",
+      "image": "vehicles/Lynx.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "DE",
+        "name": "Germany"
+      }
+    },
+    {
+      "key": "Mammoth",
+      "itemId": 1932033467,
+      "slug": "das-mammoth",
+      "name": "Das Mammoth",
+      "image": "vehicles/Mammoth.webp",
+      "category": {
+        "key": "CarCategory_04_Expedition",
+        "name": "Expedition"
+      },
+      "country": {
+        "code": "DE",
+        "name": "Germany"
+      }
+    },
+    {
+      "key": "RustOx",
+      "itemId": 1018520739,
+      "slug": "das-rust-ox",
+      "name": "Das Rust Ox",
+      "image": "vehicles/RustOx.webp",
+      "category": {
+        "key": "CarCategory_03_Workhorse",
+        "name": "Workhorse"
+      },
+      "country": {
+        "code": "DE",
+        "name": "Germany"
+      }
+    },
+    {
+      "key": "Wombat",
+      "itemId": 3658652804,
+      "slug": "das-wombat",
+      "name": "Das Wombat",
+      "image": "vehicles/Wombat.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "DE",
+        "name": "Germany"
+      }
+    },
+    {
+      "key": "BlastWagon",
+      "itemId": 1808898351,
+      "slug": "the-blast-wagon",
+      "name": "The Blast Wagon",
+      "image": "vehicles/BlastWagon.webp",
+      "category": {
+        "key": "CarCategory_03_Workhorse",
+        "name": "Workhorse"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "Boar",
+      "itemId": 2998940911,
+      "slug": "the-boar",
+      "name": "The Boar",
+      "image": "vehicles/Boar.webp",
+      "category": {
+        "key": "CarCategory_03_Workhorse",
+        "name": "Workhorse"
+      },
+      "country": {
+        "code": "SE",
+        "name": "Sweden"
+      }
+    },
+    {
+      "key": "Brick",
+      "itemId": 1691061460,
+      "slug": "the-brick",
+      "name": "The Brick",
+      "image": "vehicles/Brick.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "JP",
+        "name": "Japan"
+      }
+    },
+    {
+      "key": "Bull",
+      "itemId": 1236419262,
+      "slug": "the-bull-v1",
+      "name": "The Bull v1",
+      "image": "vehicles/Bull.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "Burro",
+      "itemId": 1260490138,
+      "slug": "the-burro",
+      "name": "The Burro",
+      "image": "vehicles/Burro.webp",
+      "category": {
+        "key": "CarCategory_03_Workhorse",
+        "name": "Workhorse"
+      },
+      "country": {
+        "code": "JP",
+        "name": "Japan"
+      }
+    },
+    {
+      "key": "Cumbre",
+      "itemId": 3847423181,
+      "slug": "the-cumbre",
+      "name": "The Cumbre",
+      "image": "vehicles/Cumbre.webp",
+      "category": {
+        "key": "CarCategory_02_Wagon",
+        "name": "Wagon"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "DingDing",
+      "itemId": 1461055881,
+      "slug": "the-ding",
+      "name": "The Ding",
+      "image": "vehicles/DingDing.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "JP",
+        "name": "Japan"
+      }
+    },
+    {
+      "key": "GrandWoodman",
+      "itemId": 2033237166,
+      "slug": "the-grand-woodman",
+      "name": "The Grand Woodman",
+      "image": "vehicles/GrandWoodman.webp",
+      "category": {
+        "key": "CarCategory_02_Wagon",
+        "name": "Wagon"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "Marshal",
+      "itemId": 2266109950,
+      "slug": "the-marshal",
+      "name": "The Marshal",
+      "image": "vehicles/Marshal.webp",
+      "category": {
+        "key": "CarCategory_04_Expedition",
+        "name": "Expedition"
+      },
+      "country": {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    },
+    {
+      "key": "Polyana",
+      "itemId": 3098383629,
+      "slug": "the-polyana",
+      "name": "The Polyana",
+      "image": "vehicles/Polyana.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "RU",
+        "name": "Russia"
+      }
+    },
+    {
+      "key": "Protector",
+      "itemId": 1046421331,
+      "slug": "the-protector",
+      "name": "The Protector",
+      "image": "vehicles/Protector.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    },
+    {
+      "key": "Roamer",
+      "itemId": 3262308567,
+      "slug": "the-roamer",
+      "name": "The Roamer",
+      "image": "vehicles/Roamer.webp",
+      "category": {
+        "key": "CarCategory_02_Wagon",
+        "name": "Wagon"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "Timberbox",
+      "itemId": 2098325991,
+      "slug": "the-timberbox",
+      "name": "The Timberbox",
+      "image": "vehicles/Timberbox.webp",
+      "category": {
+        "key": "CarCategory_03_Workhorse",
+        "name": "Workhorse"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "Tinny",
+      "itemId": 2047734690,
+      "slug": "the-tinny",
+      "name": "The Tinny",
+      "image": "vehicles/Tinny.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    },
+    {
+      "key": "TrailBurner",
+      "itemId": 2035762699,
+      "slug": "the-trail-burner",
+      "name": "The Trail Burner",
+      "image": "vehicles/TrailBurner.webp",
+      "category": {
+        "key": "CarCategory_02_Wagon",
+        "name": "Wagon"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "Trailrat",
+      "itemId": 1043242486,
+      "slug": "the-trailrat",
+      "name": "The Trailrat",
+      "image": "vehicles/Trailrat.webp",
+      "category": {
+        "key": "CarCategory_01_Trail",
+        "name": "Trail"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    },
+    {
+      "key": "Woodman",
+      "itemId": 1779250133,
+      "slug": "the-woodman",
+      "name": "The Woodman",
+      "image": "vehicles/Woodman.webp",
+      "category": {
+        "key": "CarCategory_02_Wagon",
+        "name": "Wagon"
+      },
+      "country": {
+        "code": "US",
+        "name": "United States"
+      }
+    }
+  ]
+}

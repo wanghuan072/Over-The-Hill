@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "equipment",
+    "name": "Equipment",
+    "title": "Over the Hill Equipment List | Recovery & Trail Gear",
+    "description": "Browse Over the Hill equipment, including the winch, jack, planks, repair kits and camping gear, with practical notes in one list.",
+    "intro": "Recovery and field tools, including the winch, planks, repair kit, jack and camping equipment.",
+    "eyebrow": "Recovery & field tools",
+    "topics": [
+      "Recovery tools",
+      "Field gear",
+      "Camping"
+    ],
+    "image": "/images/home-v3/equipment.webp"
+  },
+  {
+    "slug": "collectibles",
+    "name": "Collectibles",
+    "title": "Over the Hill Collectibles List | Meteorites & Pebbles",
+    "description": "Explore Over the Hill meteorites and Pebbles: what they do, how they connect to progression and the field notes worth keeping.",
+    "intro": "Meteorite recovery and Pebbles: exploration rewards, vehicle upgrades and changes to repeated objective payouts.",
+    "eyebrow": "Meteorites & upgrade currency",
+    "topics": [
+      "Meteorites",
+      "Pebbles",
+      "Exploration rewards"
+    ],
+    "image": "/images/home-v3/collectibles.webp"
+  },
+  {
+    "slug": "upgrades",
+    "name": "Upgrades",
+    "title": "Over the Hill Upgrades List | Parts, Tyres & Customization",
+    "description": "Browse Over the Hill engine, suspension, tyre and tool-slot upgrades, alongside vehicle customization and upgrade-system notes.",
+    "intro": "Sixteen purchases across seven systems, with all tier costs and the 675-Pebble full-build budget.",
+    "eyebrow": "Parts & customization",
+    "topics": [
+      "Mechanical parts",
+      "Tool capacity",
+      "Water resistance"
+    ],
+    "image": "/images/home-v3/upgrades.webp",
+    "note": "Prices are per tier and per vehicle. Displayed effects are relative to stock: a later tier replaces the earlier setting rather than adding its modifier again."
+  },
+  {
+    "slug": "wildlife",
+    "name": "Wildlife",
+    "title": "Over the Hill Wildlife List | Animals & Photo Journal",
+    "description": "Browse Over the Hill wildlife and animal-compendium notes, including bald eagles, black bears, moose, beavers, geese and coyotes.",
+    "intro": "27 animals with game models, rarity, habitats, activity times, weather conditions and first-photo rewards.",
+    "eyebrow": "Animals & photography",
+    "topics": [
+      "Animals",
+      "Photography",
+      "Field journal"
+    ],
+    "image": "/images/home-v3/wildlife.webp",
+    "note": "Match the area, habitat, time and weather before searching. An animal may move away from a spawn, and matching conditions do not guarantee a sighting. The Pebble reward is for the first registered photo of each species."
+  },
+  {
+    "slug": "achievements",
+    "name": "Achievements",
+    "title": "Over the Hill Achievements | All 62 Goals",
+    "description": "Browse 62 Over the Hill achievements with unlock requirements, artwork, hidden goal filters and groups for distance, recovery, wildlife and exploration.",
+    "intro": "Find all 62 achievement requirements, from your first trail to vehicle collections, wildlife photos and regional completion.",
+    "eyebrow": "Milestones & hidden goals",
+    "topics": [
+      "62 achievements",
+      "Unlock conditions",
+      "Hidden goals"
+    ],
+    "image": "/images/wiki/achievements/WelcomeToTheWild.webp",
+    "artLabel": "Game achievement artwork"
+  }
+]

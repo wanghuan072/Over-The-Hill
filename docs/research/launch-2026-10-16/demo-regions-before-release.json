@@ -1,0 +1,399 @@
+[
+  {
+    "id": "canada",
+    "slug": "canada",
+    "title": "Canada",
+    "description": "Canada combines forest tracks, lakesides and mountain terrain, with cabins and viewpoints to discover between driving objectives.",
+    "category": "Region",
+    "image": "/images/game/screenshot-05.webp",
+    "imageAlt": "Over the Hill Canada landscape",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/announcements/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Region overview",
+        "paragraphs": [
+          "The official August 10 release announcement confirms Canada as a launch region with several areas. The game presents biomes inspired by real-world locations rather than a recreation of a specific real-world road map."
+        ]
+      },
+      {
+        "heading": "Map overview",
+        "paragraphs": [
+          "Handcrafted areas are connected through portals. Emerald Lake is confirmed for the Demo, while other early preview names remain working titles. A calibrated Canada map is not yet available here."
+        ]
+      },
+      {
+        "heading": "Discoveries and wildlife",
+        "paragraphs": [
+          "The overall game includes cabins, viewpoints, natural landmarks, wildlife and meteorites. A verified region-specific checklist is still needed; those categories do not establish a particular location in Canada."
+        ]
+      },
+      {
+        "heading": "Exploration and vehicles",
+        "paragraphs": [
+          "Explore the published map guide to understand the area structure. Vehicle recommendations and routes will be added only after checking the relevant game build."
+        ]
+      },
+      {
+        "heading": "Canadian inspiration and early area plans",
+        "paragraphs": [
+          "Dune Casu’s January developer article describes inspiration from British Columbia’s Kootenay region. It uses Valley, Wetlands and Mountains as working area titles, contrasting guided lake approaches, boggy exploration and difficult alpine ascents. These are preview names, not a final menu-name table."
+        ],
+        "sourceIds": [
+          "canada"
+        ]
+      },
+      {
+        "heading": "The playable Demo area",
+        "paragraphs": [
+          "The June announcement later names Emerald Lake as the opening area of The Valhallas. Read that area guide for the confirmed Demo activity list; it is not a substitute for the entire Canada map."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium",
+      "/vehicles",
+      "/maps#emerald-lake",
+      "/wiki/equipment#camp",
+      "/maps#algeria"
+    ],
+    "seo": {
+      "title": "Canada | Over the Hill Wiki",
+      "description": "Forests, lakeside tracks and mountain routes. Explore the Canadian wilderness one cabin, viewpoint and trail at a time."
+    },
+    "sourceIds": [
+      "steam",
+      "demo",
+      "canada",
+      "archive",
+      "camp"
+    ],
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "imageLabel": "",
+    "playerNotes": [
+      "Explore lakeside routes, forests and mountain terrain. Cabins and portals give you reasons to revisit the map as the trip opens up."
+    ],
+    "displayFacts": []
+  },
+  {
+    "id": "algeria",
+    "slug": "algeria",
+    "title": "Algeria",
+    "description": "Algeria’s desert landscapes include dunes, rocky corridors, canyon ledges and natural arches.",
+    "category": "Region",
+    "image": "/images/game/screenshot-09.webp",
+    "imageAlt": "Over the Hill Algeria landscape",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/announcements/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Region overview",
+        "paragraphs": [
+          "The official release announcement confirms Algeria alongside Canada. An August development update also mentions work on the Algeria region."
+        ]
+      },
+      {
+        "heading": "Map overview",
+        "paragraphs": [
+          "The world uses handcrafted areas within regions. This site does not yet publish area names, portal coordinates or a navigable Algeria map."
+        ]
+      },
+      {
+        "heading": "Points of interest",
+        "paragraphs": [
+          "No specific Algeria discovery positions or collectible locations have been verified in our database. Region-themed artwork is illustrative and not a real game map."
+        ]
+      },
+      {
+        "heading": "Preparing to explore",
+        "paragraphs": [
+          "The announced dynamic weather and equipment systems apply to the game overall. Specific routes, upgrades and best-vehicle claims require region-specific driving evidence."
+        ]
+      },
+      {
+        "heading": "Launch status and research scope",
+        "paragraphs": [
+          "The August release announcement includes several areas across Canada and Algeria. The June public Demo covered Emerald Lake in Canada, so that Demo does not establish an Algeria objective route or item coordinate table."
+        ],
+        "sourceIds": [
+          "archive",
+          "demo"
+        ]
+      },
+      {
+        "heading": "Official footage reference",
+        "paragraphs": [
+          "The April 9 official Algeria trailer provides the region’s visual context. It does not supply a named area list, calibrated map or per-area discovery totals; those values are not extrapolated from the Canadian Demo."
+        ],
+        "sourceIds": [
+          "video-algeria"
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/collectibles#meteorites"
+    ],
+    "seo": {
+      "title": "Algeria | Over the Hill Wiki",
+      "description": "Dunes, canyon ledges and dramatic rock formations. Pack for gaps and recovery before heading into the desert."
+    },
+    "sourceIds": [
+      "steam",
+      "site",
+      "archive",
+      "demo",
+      "video-algeria"
+    ],
+    "facts": [
+      {
+        "label": "Visible terrain",
+        "value": "Dunes and sandy tracks",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 12
+      },
+      {
+        "label": "Landforms",
+        "value": "Rock corridors and natural arches",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 28
+      },
+      {
+        "label": "Equipment footage",
+        "value": "Plank supports at a rocky ledge",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 38
+      },
+      {
+        "label": "Time-of-day footage",
+        "value": "Night travel and campsites",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 4
+      }
+    ],
+    "imageLabel": "",
+    "playerNotes": [
+      "Take the trip into dunes, rocky corridors and canyon crossings. Bring planks and recovery equipment when planning around gaps and ledges."
+    ],
+    "displayFacts": [
+      {
+        "label": "Visible terrain",
+        "value": "Dunes and sandy tracks"
+      },
+      {
+        "label": "Landforms",
+        "value": "Rock corridors and natural arches"
+      },
+      {
+        "label": "Equipment footage",
+        "value": "Plank supports at a rocky ledge"
+      },
+      {
+        "label": "Time-of-day footage",
+        "value": "Night travel and campsites"
+      }
+    ]
+  },
+  {
+    "id": "emerald-lake",
+    "slug": "emerald-lake",
+    "title": "Emerald Lake",
+    "description": "Emerald Lake is the Canadian area used for the June Demo. Its map includes cabins, scenic points, trails and a merchant.",
+    "category": "Demo Area",
+    "image": "/images/game/screenshot-04.webp",
+    "imageAlt": "Over the Hill Emerald Lake landscape",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "camp",
+      "archive",
+      "ign-demo",
+      "camodo-upgrades",
+      "video-discovery",
+      "video-wildlife"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Where Emerald Lake fits",
+        "paragraphs": [
+          "The June announcement identifies Emerald Lake as the opening area of The Valhallas. It is one Demo area, not the whole Canada region or the combined Canada-and-Algeria launch world."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Things to do",
+        "paragraphs": [
+          "The official Demo checklist includes scenic points, reward crates, stranded off-roaders, challenge trails, animal photos and meteorites. It also includes three vehicles to unlock. These are activity types, not a verified total of every item on the map."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Return points and recovery",
+        "paragraphs": [
+          "Developer replies describe equipping tools at the merchant and travelling via the map to visited cabins. Those systems are useful context for an outing, but they do not provide calibrated cabin or merchant coordinates."
+        ],
+        "sourceIds": [
+          "camp",
+          "demo"
+        ]
+      },
+      {
+        "heading": "How to use this area guide",
+        "paragraphs": [
+          "Use the linked guides to understand recovery, photography and meteorites before a trip. For exact navigation, use your build’s map. This page’s artwork is illustrative; it is neither a navigable game map nor evidence of a spawn point."
+        ]
+      },
+      {
+        "heading": "Public Demo status",
+        "paragraphs": [
+          "The June public Demo access has closed. The official August update points to limited playtests through Discord. This area introduction remains a reference for the historical Demo rather than an access offer."
+        ],
+        "sourceIds": [
+          "archive"
+        ]
+      },
+      {
+        "heading": "Cabins as return points",
+        "paragraphs": [
+          "The June developer reply says a visited cabin can be selected on the map for immediate travel. Visit return points during an outing, then use the map if you need recovery or a merchant trip."
+        ],
+        "sourceIds": [
+          "camp"
+        ]
+      },
+      {
+        "heading": "Keep activity types distinct",
+        "paragraphs": [
+          "The Demo checklist includes reward crates, scenic points, rescue activities, challenge trails and meteorites. These are different kinds of exploration targets. Exact totals and coordinate lists need a matching build and calibrated map."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Reading the recorded map totals",
+        "paragraphs": [
+          "These totals are visible in the June Demo’s Emerald Lake panel at 4:10. They describe seven interface categories, not a coordinate dataset or a final launch checklist. Wildlife and randomized meteorites are not assumed to be additional fixed markers in that panel."
+        ],
+        "sourceIds": [
+          "ign-demo"
+        ]
+      },
+      {
+        "heading": "Named landmarks in the footage",
+        "paragraphs": [
+          "Crazy Gunther is identified as the merchant in IGN’s footage at 5:00. Bouldercrest Lodge is named on the map in the June 14 gameplay at 15:35. Both have site checklist IDs; their map coordinates remain uncalibrated."
+        ],
+        "sourceIds": [
+          "ign-demo",
+          "camodo-upgrades"
+        ]
+      }
+    ],
+    "related": [
+      "/maps#canada",
+      "/updates/next-fest-demo-closed",
+      "/maps",
+      "/wiki/collectibles#meteorites",
+      "/maps#algeria",
+      "/wiki/equipment#camp",
+      "/wiki/wildlife#bald-eagle",
+      "/wiki/wildlife#black-bear",
+      "/wiki/wildlife#moose"
+    ],
+    "summary": "Explore the confirmed June Demo area in Canada’s Valhallas: activities, return points and the limits of the current location guide.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Emerald Lake | Over the Hill Wiki",
+      "description": "A Canadian Demo area with cabins, trails, a merchant and scenic stops. Keep track of Crazy Gunther and Bouldercrest Lodge as you explore."
+    },
+    "facts": [
+      {
+        "label": "Point of Interest total",
+        "value": "18",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 250
+      },
+      {
+        "label": "Scenic Point total",
+        "value": "2",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 250
+      },
+      {
+        "label": "Cabin total",
+        "value": "6",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 250
+      },
+      {
+        "label": "Merchant total",
+        "value": "1",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 250
+      },
+      {
+        "label": "Portal total",
+        "value": "1",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 250
+      },
+      {
+        "label": "Designed Trail total",
+        "value": "3",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 250
+      },
+      {
+        "label": "Item Recovery total",
+        "value": "1",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 250
+      }
+    ],
+    "imageLabel": "",
+    "playerNotes": [
+      "Emerald Lake includes trails, cabins, scenic points and a merchant. The Demo map panel lists 18 points of interest, six cabins and three designed trails.",
+      "Crazy Gunther is the named merchant; Bouldercrest Lodge is one of the named cabins."
+    ],
+    "displayFacts": [
+      {
+        "label": "Point of Interest total",
+        "value": "18"
+      },
+      {
+        "label": "Scenic Point total",
+        "value": "2"
+      },
+      {
+        "label": "Cabin total",
+        "value": "6"
+      },
+      {
+        "label": "Merchant total",
+        "value": "1"
+      }
+    ]
+  }
+]

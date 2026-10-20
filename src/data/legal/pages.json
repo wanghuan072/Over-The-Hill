@@ -1,0 +1,403 @@
+{
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "description": "How browsing, search queries, hosting requests and email contact work on this independent Over the Hill fan site.",
+    "sections": [
+      {
+        "title": "1. Scope and contact",
+        "text": "This Privacy Policy explains how Over the Hill Hub handles information when you visit overthehillhub.com, search its content, use interactive maps or contact the site. Over the Hill Hub is an independent fan website. It does not operate the game, a storefront or a multiplayer account service.",
+        "paragraphs": [
+          "For privacy questions, contact support@overthehillhub.com. This notice covers this website’s activities. Independent services such as Steam, Discord and email providers apply their own policies when you use them."
+        ]
+      },
+      {
+        "title": "2. Technical information used to deliver the site",
+        "text": "A browser requesting a page, image or other file sends technical information needed for the connection. This can include an IP address, browser and device information, requested address, request time, referring information where supplied, and security or error information. Hosting infrastructure may process these requests to deliver pages, detect abuse and investigate faults.",
+        "paragraphs": [
+          "Reading the site does not require registration, a display name, a connected game account or a game save. The application does not ask for payment information. Information involved in ordinary browsing is separate from information you voluntarily include in an email."
+        ]
+      },
+      {
+        "title": "3. Search queries and browser history",
+        "text": "Site search matches a query against published content in your browser. Search submitted through the header puts the query in the search page address. That address can remain in browser history, copied links and routine hosting request records. List filters do not create a player profile.",
+        "paragraphs": [
+          "Use search for game topics rather than private information. Do not enter passwords, account recovery codes or payment details. Clearing an input removes the visible query; it does not automatically erase earlier browser history or infrastructure records containing a requested address."
+        ]
+      },
+      {
+        "title": "4. Map discoveries on your device",
+        "text": "The map saves the IDs of discoveries you mark as found in browser local storage under oth-map-progress-v1. These are records for the website’s checklist, not a copy of your game save. The application does not upload them, connect them to an account or synchronize them between devices.",
+        "paragraphs": [
+          "Use the map’s reset controls to clear supported progress records, or clear this site’s browser data to remove local records. Another browser profile, private browsing, blocked storage or cleared site data can show a different checklist. Anyone using the same browser profile may see the saved progress."
+        ]
+      },
+      {
+        "title": "5. Personal notes, measurements and shared links",
+        "text": "Map notes are stored separately under oth-map-notes-v1. They contain the note text, area and map position you choose and are not uploaded by the application. Individual notes can be deleted from the notebook. Clearing site data removes the stored notebook. Do not put passwords or other sensitive information in notes, especially on a shared device.",
+        "paragraphs": [
+          "Measurements are temporary and disappear on reload. A shared map link identifies the selected area and, where applicable, a marker. It does not contain your private notes or discovery checklist. If you send the link through another service, its address is visible to recipients and may be retained by that service."
+        ]
+      },
+      {
+        "title": "6. Cookies, analytics and advertising",
+        "text": "The current application has no advertising network, analytics integration or account cookies. Its map storage serves the limited local functions described above. The application does not connect map discoveries or notes to an email address or game identity, sell those local records or use them to build advertising audiences.",
+        "paragraphs": [
+          "Hosting infrastructure can still process technical requests for delivery, security and troubleshooting. No application analytics does not mean that network requests are anonymous or that infrastructure keeps no logs. New tracking or account features would require an updated explanation of the actual practices and any applicable choices or consent."
+        ]
+      },
+      {
+        "title": "7. Email correspondence",
+        "text": "When you contact support@overthehillhub.com, the message may include your email address, name or signature, text, attachments and ordinary email metadata. Relevant information is used to understand the issue, respond where appropriate, review corrections or rights concerns, and keep a record of how the matter was handled.",
+        "paragraphs": [
+          "A correction email does not subscribe you to a newsletter. Send only what is needed. Crop unrelated conversations and private account details out of screenshots. Do not send passwords, authentication codes, payment details or complete game saves. A page address, entry name, version and short explanation are usually a useful starting point."
+        ]
+      },
+      {
+        "title": "8. Purposes and applicable processing grounds",
+        "text": "Information is handled to deliver requested pages, protect service availability, maintain local map choices and address correspondence. Where applicable law requires a processing ground, routine delivery, security and correspondence may involve the legitimate interests of maintaining the website or steps needed to handle a request you make. Legal obligations may also require certain records.",
+        "paragraphs": [
+          "A future optional activity that requires consent must explain the relevant choice separately. Merely visiting this website is not presented as blanket consent to unrelated processing. This policy describes the current functions rather than claiming that every possible legal basis applies to every visitor."
+        ]
+      },
+      {
+        "title": "9. Providers, disclosures and processing locations",
+        "text": "Hosting and email services necessarily process information involved in their services. Relevant information may also need to be reviewed by an adviser or disclosed in response to a valid legal requirement. Such handling should be limited to the purpose or obligation concerned.",
+        "paragraphs": [
+          "Service providers may operate systems outside your country. The locations involved depend on the hosting and email services handling the request. Contact us with a specific privacy question if you need information about how a particular message or service is handled."
+        ]
+      },
+      {
+        "title": "10. Retention, deletion and security",
+        "text": "Local records remain until you delete them or the browser removes them. Correspondence is retained as reasonably needed to address the matter, maintain appropriate administrative records and meet applicable obligations. Retention varies with the request. Infrastructure log retention is managed by the provider and is separate from the local records held by this application.",
+        "paragraphs": [
+          "No website, email channel or local storage system can be described as completely secure. Protect access to your device and email account, and avoid supplying unnecessary information. Deleting map progress does not delete a separate email you previously sent; deleting browser history does not remove a message from an email service."
+        ]
+      },
+      {
+        "title": "11. Your choices and privacy requests",
+        "text": "Depending on applicable law and the information involved, you may have rights to request access, correction, deletion, restriction, an objection to processing or a portable copy of information you supplied. Where processing actually relies on consent, you may have a right to withdraw it. These rights have conditions and exceptions; not all apply to every record.",
+        "paragraphs": [
+          "Email support@overthehillhub.com with the information and action concerned. Reasonable information may be needed to locate correspondence or verify that the request concerns you. Do not send identity documents unless a specific need and appropriate method have been explained. Local map data cannot be retrieved remotely by emailing us. Where applicable, you may raise concerns with the relevant data protection authority."
+        ]
+      },
+      {
+        "title": "12. Children and policy changes",
+        "text": "This is a general-audience fan guide and its features do not require children to provide personal information. Contact us if you believe a child has sent information that should be removed, providing enough detail to locate it without adding unnecessary information about the child.",
+        "paragraphs": [
+          "Material changes to information practices will be reflected in this notice. The page’s last-updated date identifies its substantive revision. Review the current notice when using a new feature or when you have a question about how an existing feature handles information."
+        ]
+      }
+    ]
+  },
+  "terms-of-service": {
+    "title": "Terms of Service",
+    "description": "The terms that apply when you browse Over the Hill Hub, use its guides or follow links to other services.",
+    "sections": [
+      {
+        "title": "1. Scope of these terms",
+        "text": "These Terms of Service apply to overthehillhub.com and its published pages, guides, lists and interactive maps. Over the Hill Hub provides independent fan information about Over the Hill. The site’s name does not identify the game developer, publisher, storefront or multiplayer operator.",
+        "paragraphs": [
+          "Use the website in a manner permitted by applicable law and these terms. If you do not agree, discontinue use. Questions about these terms or a particular page can be sent to support@overthehillhub.com."
+        ]
+      },
+      {
+        "title": "2. What the website provides",
+        "text": "The site offers vehicle specifications, equipment and upgrade information, wildlife and achievement lists, map locations, focused guides and dated announcements. Maps and discovery checklists assist with planning and recording information on this website. They do not control the game, unlock content, alter a save or verify a game account’s progress.",
+        "paragraphs": [
+          "The current site has no paid membership, checkout, user account system or official support portal. No purchase or account connection is required to read it. These terms do not replace the licence, storefront agreement or other conditions that apply to the game itself."
+        ]
+      },
+      {
+        "title": "3. Gameplay information and version differences",
+        "text": "Game behaviour can change between a Demo, the release build, patches, platforms and individual sessions. Read a value or instruction labelled for a particular version in that context. A historical announcement records what was announced at that time; it does not guarantee that an earlier future plan remains unchanged.",
+        "paragraphs": [
+          "Vehicle settings are not independent performance tests. A speed cap does not guarantee that speed across rough terrain, and a potential wildlife or meteorite position does not guarantee an active spawn. Follow the game’s current prompts and conditions when making a decision that affects your session or save."
+        ]
+      },
+      {
+        "title": "4. Personal use and sharing",
+        "text": "You may browse the site, use its information for personal gameplay and share links to pages or map views. Ordinary linking does not require special permission. Limited quotation or other reuse may also be permitted by applicable law, subject to its conditions.",
+        "paragraphs": [
+          "These terms do not grant permission to republish complete original guides, mirror the website, remove ownership notices or present its branding as your own. Rights in game imagery, map renders and other third-party assets remain separate from rights in the site’s original text or design. See the Copyright page for reuse and ownership questions."
+        ]
+      },
+      {
+        "title": "5. Conduct and automated access",
+        "text": "Do not introduce malicious code, attempt to compromise the service, bypass access controls or deliberately overload delivery infrastructure. Do not use the site or its contact address for fraud, unlawful material, harassment or impersonation of the operator, contributors or the game’s creators.",
+        "paragraphs": [
+          "Automated access must not undermine availability or security. A publicly reachable page is not permission to evade technical restrictions or disregard content rights. Proportionate measures may be taken to limit abusive traffic or restrict access when necessary to protect the service."
+        ]
+      },
+      {
+        "title": "6. Local map records",
+        "text": "Discoveries and personal notes use local storage in your browser. The site does not back them up to an account. Clearing site data, changing browser profiles, blocking storage or changes to storage support may affect whether earlier records remain available.",
+        "paragraphs": [
+          "Keep information you need independently of the map interface. Do not use a local note as the only copy of important material or as a place to keep account credentials. Shared map links identify a view or marker; they do not transfer your notebook, checklist or game progress."
+        ]
+      },
+      {
+        "title": "7. Corrections and material you send",
+        "text": "Provide information you are entitled to share when submitting a correction. Include enough context to identify the entry and investigate the issue, such as the build, platform and what differs. Relevant factual information may be used to review and correct the site.",
+        "paragraphs": [
+          "A correction email does not transfer copyright in an attached photograph, video or article. If you want creative material published, explain what you own and the permission you offer. There is no promise to publish a submission, credit a particular identity or respond within a fixed time."
+        ]
+      },
+      {
+        "title": "8. Independent services and game support",
+        "text": "Stores, community platforms, email providers and the game’s own services operate independently of this website. Their terms, privacy practices and availability apply when you use them. Mentioning an announcement or community finding does not make the fan site responsible for the service involved.",
+        "paragraphs": [
+          "The site cannot issue a game refund, restore a save, recover a storefront account or inspect private multiplayer records. It does not act for the developer or publisher. Never send game credentials, recovery tokens or payment details to this website when seeking that kind of assistance."
+        ]
+      },
+      {
+        "title": "9. Availability and content changes",
+        "text": "Pages and features may be corrected, reorganized, temporarily unavailable or removed. Map records and local storage support can change as the website is maintained. We aim to preserve useful content but do not promise permanent hosting, uninterrupted access or that every earlier page address will remain available.",
+        "paragraphs": [
+          "Information is provided for general gameplay assistance. It may contain errors or become outdated. Where a known limitation materially changes how a record should be used, the page should explain that limitation. A page date does not promise that every fact has been retested in every build."
+        ]
+      },
+      {
+        "title": "10. Limitations and mandatory rights",
+        "text": "To the extent permitted by applicable law, the website is provided on an as-available basis without a guarantee of uninterrupted operation, perfect accuracy, suitability for a particular purpose or a particular gameplay outcome. Take reasonable care with your device, account and save, and check version-sensitive instructions before relying on them.",
+        "paragraphs": [
+          "Nothing in these terms excludes or limits a right, remedy or responsibility that cannot lawfully be excluded or limited. These terms do not remove mandatory consumer protections or prevent a complaint, report or other lawful exercise of your rights."
+        ]
+      },
+      {
+        "title": "11. Raising a concern",
+        "text": "Contact support@overthehillhub.com about the content or operation of this fan website. Identify the page and issue so a website error can be distinguished from a game bug, platform problem or difference between versions. Clarification may be needed before a correction or other action can be considered.",
+        "paragraphs": [
+          "Contacting the site does not require you to give up a legal remedy or prevent you from exercising rights available under applicable law. The site’s email review process is intended to help resolve concerns about its own content and operation."
+        ]
+      },
+      {
+        "title": "12. Changes to these terms",
+        "text": "The terms may be revised when the website or its operation changes. The current version will be published here with its substantive update date. Review the terms when using a new feature or when the conditions of use are relevant to your question.",
+        "paragraphs": [
+          "A revision does not give the site ownership of material previously supplied by someone else or automatically authorize a new use of personal information. The Privacy Policy and Copyright page address those matters separately."
+        ]
+      }
+    ]
+  },
+  "copyright": {
+    "title": "Copyright",
+    "description": "Ownership of original site content, game trademarks, screenshots and decorative illustrations on Over the Hill Hub.",
+    "sections": [
+      {
+        "title": "1. Original contributions and the copyright notice",
+        "text": "The footer copyright notice identifies Over the Hill Hub’s original contributions, including editorial writing, its independent identity and original design work to the extent those contributions are protected. It does not claim ownership of Over the Hill, the game’s underlying facts or every asset displayed on the website.",
+        "paragraphs": [
+          "A page can combine original explanation, factual information and an image owned by someone else. Different elements may have different rights holders. Permission to use one element does not automatically include the others."
+        ]
+      },
+      {
+        "title": "2. Game content and trademarks",
+        "text": "Over the Hill, its artwork, vehicle and animal models, achievements, screenshots and other game content remain subject to the rights of their respective owners. Game and company names identify the subjects being discussed. A fan-site domain containing a game title does not create an official relationship or transfer trademark rights.",
+        "paragraphs": [
+          "Over the Hill Hub is not operated by, affiliated with or endorsed by Funselektor or the game’s development and publishing partners. The site’s logo identifies the fan website and must not be used to suggest that another communication, service or product comes from the game’s creators."
+        ]
+      },
+      {
+        "title": "3. Screenshots, models and map artwork",
+        "text": "Game imagery identifies vehicles, equipment, wildlife and locations, and illustrates the subjects discussed in guides. The vehicle list displays matched default models. Interactive maps combine terrain or topographic artwork with separate marker information. Editorial images may originate in publisher media or community material.",
+        "paragraphs": [
+          "Recording an image’s origin is different from obtaining a transferable licence. The site does not grant visitors a general right to republish game assets, map renders or community screenshots. Establish the relevant rights or permission for your own intended use rather than assuming that display on a fan site makes an image freely reusable."
+        ]
+      },
+      {
+        "title": "4. Original illustrations and guide diagrams",
+        "text": "Decorative illustrations and explanatory diagrams serve different purposes from game screenshots or model renders. A decorative landscape is not proof of a particular map location or animal spawn. A guide diagram may explain a route, budget or mechanic without being a screenshot of an actual session.",
+        "paragraphs": [
+          "A description of original site artwork concerns the site’s own contribution. It does not assert exclusive rights over a general landscape idea, a common symbol, a gameplay fact or an element belonging to a third party. Underlying game material remains separate from the explanatory design."
+        ]
+      },
+      {
+        "title": "5. Links, quotations and republication",
+        "text": "Sharing a link to a page is welcome. When quoting original text, identify this site and use only material appropriate to the purpose and permitted by applicable law. Do not imply that a link or quotation makes another website, creator or product an official partner.",
+        "paragraphs": [
+          "Ask before substantial republication of original guides, mirroring pages or reusing the site’s branding and original artwork, unless your use is independently permitted by law. There is no universal word count or percentage that automatically makes copying lawful. Describe the material, format, audience, changes and distribution when requesting permission."
+        ]
+      },
+      {
+        "title": "6. Facts and independently written explanations",
+        "text": "A gameplay fact and the wording used to explain it are different things. You can investigate a specification, route or mechanic and write an independent explanation without presenting this site’s original paragraphs or illustrations as your own.",
+        "paragraphs": [
+          "An organized collection may involve additional protected material or third-party rights. This notice does not grant permission to copy an entire database, map artwork or substantial collection. Learning a fact is different from republishing the material in which it appears."
+        ]
+      },
+      {
+        "title": "7. Contributions and offered permissions",
+        "text": "When sending creative material, explain whether you created it, whether it contains someone else’s work, and what permission you offer. Sending a factual correction alone does not assign copyright in an attached screenshot, video or article to this website.",
+        "paragraphs": [
+          "A publicly visible post, username or absence of a watermark is not treated as a blanket grant of publication rights. If a credit, restriction or removal condition has been agreed, identify it in the correspondence so it can be considered with the material."
+        ]
+      },
+      {
+        "title": "8. Reporting an ownership or attribution concern",
+        "text": "Email support@overthehillhub.com with the affected page address, specific image or passage, the original work where identifiable, and whether you are the rights holder or authorized to act for them. Explain the concern and the correction, credit adjustment or removal you request.",
+        "paragraphs": [
+          "An original publication address or other clear identification can help locate the work. Send only relevant information, not passwords, unrelated private documents or unsolicited identity material. Reasonable clarification may be needed if a report does not identify the material or the reporting party’s authority."
+        ]
+      },
+      {
+        "title": "9. Review and possible action",
+        "text": "A concern may lead to correction, attribution changes, replacement, restriction or removal while the matter is reviewed. The appropriate action depends on the work and the issue. A report does not automatically establish ownership, and a page remaining visible does not declare that the concern has been legally resolved.",
+        "paragraphs": [
+          "The contact address provides a practical route for concerns about material on this website. Rights holders may also use procedures or remedies available under applicable law. Contacting the site does not require a rights holder to waive those rights."
+        ]
+      },
+      {
+        "title": "10. Further requests and updates",
+        "text": "Credits, asset descriptions and this notice may change as the site is maintained or a concern is resolved. The page’s last-updated date reflects substantive changes. Third-party rights continue to belong to their owners even if the material is later removed.",
+        "paragraphs": [
+          "For a reuse request concerning the site’s original work, specify exactly what you want to use and how. Any permission given is limited to what is stated and does not extend to rights the site does not control."
+        ]
+      }
+    ]
+  },
+  "about-us": {
+    "title": "About Us",
+    "description": "An independent fan guide to the vehicles, landscapes, equipment and discoveries in Over the Hill.",
+    "sections": [
+      {
+        "title": "1. A companion for the next drive",
+        "text": "Over the Hill Hub is an independent English-language fan website for players who want to spend less time searching through menus and more time exploring. It brings vehicles, equipment, wildlife, maps and a small collection of focused guides into one place. The aim is to answer practical questions: which trail unlocks a vehicle, what an upgrade costs, or where to begin a photography trip.",
+        "paragraphs": [
+          "Over the Hill rewards taking your time and choosing a route that suits your vehicle. The site follows that approach. A useful explanation should help you prepare for the next stretch of trail without pretending that one setup is best for every surface, condition or player."
+        ]
+      },
+      {
+        "title": "2. The garage",
+        "text": "The vehicle list covers 21 vehicles across Trail, Wagon, Workhorse and Expedition classes. Each entry uses its matched default game model and displays known stock specifications, engine tiers, factory colours, distance-based liveries and an unlock requirement. The information stays visible in the list so vehicles are easier to compare.",
+        "paragraphs": [
+          "Mass, torque, suspension and wheel values describe game settings. They are not presented as independently measured performance rankings. Vehicles in the same class can share engine settings without having the same bodywork, and an engine speed cap does not guarantee that speed on rough terrain."
+        ]
+      },
+      {
+        "title": "3. Maps for planning and discovery",
+        "text": "The maps cover five areas across Canada and Algeria. Satellite-style terrain and in-game topographic views help you read the landscape, while markers and ordered challenge checkpoints help identify the next objective. Category filters let you focus on the kind of stop you are looking for.",
+        "paragraphs": [
+          "Local discovery checklists, personal notes and temporary measurements support route planning. They stay separate from your actual game save. Potential wildlife and meteorite positions are also separate from a guarantee that a particular spawn will be active when you arrive."
+        ]
+      },
+      {
+        "title": "4. Equipment and the wider Wiki",
+        "text": "The Wiki separates equipment, collectibles, upgrades, wildlife and achievements. Equipment entries explain recovery and travel options. Upgrade entries distinguish stock settings from purchased tiers and costs. Collectible information explains how discoveries and recoveries connect with progression.",
+        "paragraphs": [
+          "Wildlife coverage includes 27 animals with matching game models and confirmed habitat, condition and first-photo information. The achievement list includes 62 goals, with hidden requirements separated for players avoiding spoilers. Each category is organized as a list for checking while planning or playing."
+        ]
+      },
+      {
+        "title": "5. Three guides with a clear purpose",
+        "text": "The guides have three defined topics: Pebbles, upgrade order and meteorite recovery; Emerald Lake challenge trails and their vehicle or Kayaks rewards; and a focused Sasquatch search and photography plan. The collection stays small so each article can address a concrete problem in detail.",
+        "paragraphs": [
+          "Route diagrams, checkpoint maps, tables and checklists appear where they help you make a decision. The guides distinguish a documented mechanic from practical advice, and a possible search area from a guaranteed encounter. Instructions should not depend on an invented shortcut, timer or personal gameplay result."
+        ]
+      },
+      {
+        "title": "6. How coverage is checked",
+        "text": "Information is checked against identifiable game material, developer announcements, public documentation, gameplay footage and community findings. Where accounts differ, the build, date, vehicle identity and type of evidence matter. An attractive screenshot by itself is not enough to establish a model’s identity or confirm a mechanic.",
+        "paragraphs": [
+          "Evidence and asset records are retained for maintenance. Public explanations focus on what a player needs to know. Editorial research is not presented as proof that every entry has been personally tested in the release build, and the site does not publish invented author credentials or claims about a team’s playtime."
+        ]
+      },
+      {
+        "title": "7. Versions and corrections",
+        "text": "Demo observations remain labelled where they help explain an older instruction or unlock. A later release change takes priority over an earlier plan when the two conflict. The Update page keeps original announcement dates so pre-launch news can be read in its proper context.",
+        "paragraphs": [
+          "Displayed update dates reflect substantive content changes rather than routine builds or unchanged source checks. If something differs in your game, email support@overthehillhub.com with the page, entry, build or platform and the difference you observed. That context makes an issue easier to investigate."
+        ]
+      },
+      {
+        "title": "8. Images and explanatory artwork",
+        "text": "Models help identify the vehicle, animal or item being discussed. Scenic game images provide context for an area or trip. Original illustrations support the site’s identity, while guide diagrams explain information. Decorative imagery is not a calibrated game map or a record of an actual animal spawn.",
+        "paragraphs": [
+          "Game artwork and community material have their own rights holders. The site’s identity does not claim ownership of those works. If an image is misidentified or raises an ownership concern, provide the relevant page and enough information to locate the material when contacting the site."
+        ]
+      },
+      {
+        "title": "9. Independence and service boundaries",
+        "text": "Over the Hill Hub is not the official game website and is not affiliated with, endorsed by or operated by Funselektor or its development partners. Names of the game and its creators identify the subject being covered; they do not represent an official relationship.",
+        "paragraphs": [
+          "The site does not sell game access, operate a payment or user account system, restore saves or provide private multiplayer support. Purchase, refund and game account matters need to be handled through the relevant game or storefront service."
+        ]
+      },
+      {
+        "title": "10. Contact and feedback",
+        "text": "Use support@overthehillhub.com for corrections, missing information, image concerns, accessibility problems or questions about the website. A precise message is more useful than a long one: identify the page and the detail you want reviewed.",
+        "paragraphs": [
+          "The Contact Us page explains what to include for different requests. Privacy and copyright matters have separate pages so you can understand the site’s practices and the information useful for a review before writing."
+        ]
+      }
+    ]
+  },
+  "contact-us": {
+    "title": "Contact Us",
+    "description": "Contact Over the Hill Hub about corrections, image rights, privacy or a problem using the site.",
+    "sections": [
+      {
+        "title": "1. Contact Over the Hill Hub",
+        "text": "Email support@overthehillhub.com about this website, including factual corrections, missing information, image or copyright concerns, privacy requests and accessibility problems. The site has no contact form, account portal or live chat.",
+        "paragraphs": [
+          "This is the address for an independent fan website, not a developer or storefront support service. Messages are handled by email. No live availability, fixed reply time or guaranteed outcome is advertised."
+        ]
+      },
+      {
+        "title": "2. Include the page and the issue",
+        "text": "Use a short subject line describing the request, such as a vehicle correction, map marker issue or privacy question. Include the page address, entry or section involved, and the detail you want reviewed. If an action causes the problem, explain the action and what happens next.",
+        "paragraphs": [
+          "An ordinary correction does not need a formal report. A few specific sentences can be enough to begin a review. Keep follow-up messages on the same email thread where possible so the relevant context remains together."
+        ]
+      },
+      {
+        "title": "3. Gameplay and specification corrections",
+        "text": "For a vehicle, equipment, upgrade, wildlife or achievement entry, identify the exact name and value or instruction that appears wrong. Add the game build or patch, platform, and whether the observation concerns the Demo or release game. Explain what the game shows instead.",
+        "paragraphs": [
+          "A relevant screenshot or video timestamp helps distinguish an error from a different build, setting or vehicle class. Crop private names, room codes, account details and unrelated conversations out of attachments. Identify someone else’s material when sharing it rather than implying you created it."
+        ]
+      },
+      {
+        "title": "4. Map locations and saved progress",
+        "text": "For a map problem, include the area, marker name or category, and selected map view. A map share link can help locate the same area or marker. Explain whether the concern involves a position, checkpoint order, expected reward or the behaviour of a map control.",
+        "paragraphs": [
+          "A share link does not include your personal notes or discovery checklist. Those records stay in local browser storage and cannot be recovered remotely by email. If progress disappears, mention whether you changed browser, used private browsing, cleared site data or blocked storage. Do not send a complete browser profile or game save."
+        ]
+      },
+      {
+        "title": "5. Display and accessibility problems",
+        "text": "For a layout, keyboard or display problem, include the device, browser, approximate screen size, page and steps needed to reproduce it. Describe what you expected and what actually happened. A screenshot can help explain clipped images, overlapping text or a control that is difficult to reach.",
+        "paragraphs": [
+          "For an accessibility concern, describe the task you could not complete and any assistive technology relevant to the issue. You do not need to disclose medical information or a disability. Avoid sending full browsing logs that could include unrelated private information."
+        ]
+      },
+      {
+        "title": "6. Images, ownership and reuse requests",
+        "text": "For an attribution or ownership concern, identify the page and specific material, the original work or publication where possible, and whether you are the rights holder or authorized representative. Describe the action requested, such as correction, attribution, replacement or removal.",
+        "paragraphs": [
+          "For permission to reuse the site’s original material, explain what you want to use, how it will appear, where it will be distributed and whether it will change. The site cannot grant rights in third-party game artwork or community material it does not own. Further information is available on the Copyright page."
+        ]
+      },
+      {
+        "title": "7. Privacy requests",
+        "text": "If your request concerns information you previously sent, identify the earlier conversation or approximate date and the action you want considered. Provide enough detail to locate the record without adding unnecessary personal information. Do not send a broad collection of private documents to establish a simple request.",
+        "paragraphs": [
+          "Local map notes and progress can be removed through the map controls or browser site-data settings. Email correspondence is separate from those local records. The Privacy Policy explains the distinction and the conditions that may apply to access, correction or deletion requests."
+        ]
+      },
+      {
+        "title": "8. Matters outside this website’s support scope",
+        "text": "The site cannot issue a game refund, restore a save, recover a storefront account, unlock a vehicle in your game or inspect private multiplayer records. It cannot make a purchase or account decision on behalf of Funselektor, a publisher or storefront.",
+        "paragraphs": [
+          "Never send passwords, authentication codes, payment card numbers or account recovery tokens. Use the appropriate game or storefront support service for a purchase, game account or private technical support case rather than giving credentials to a fan website."
+        ]
+      },
+      {
+        "title": "9. Review, follow-up and correspondence",
+        "text": "Messages are reviewed according to the issue and the information available. Clarification may be needed to identify material or understand a problem before a correction or other action can be considered. Some observations cannot be independently reproduced; a message does not guarantee publication, removal or a response by a particular date.",
+        "paragraphs": [
+          "Correspondence is handled to review and respond to the matter, subject to the Privacy Policy and applicable obligations. Sending a correction does not subscribe you to marketing emails or transfer ownership of an attachment. If you offer creative work for publication, state the permission clearly."
+        ]
+      }
+    ]
+  }
+}

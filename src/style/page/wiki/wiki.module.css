@@ -1,0 +1,1270 @@
+.page {
+  padding: 30px 0 58px;
+  background: #f1eee5;
+  min-height: 65vh;
+}
+.kicker {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  color: #aa673d;
+  margin-bottom: 11px;
+}
+.hubHero,
+.categoryHero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #263f34;
+  isolation: isolate;
+  margin: 22px 0 0;
+  color: #fff8e7;
+  border: 1px solid #2c433535;
+}
+.hubHero {
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+}
+.categoryHero {
+  min-height: 215px;
+  display: flex;
+  align-items: center;
+}
+.hubHero > img,
+.categoryHero > img {
+  object-fit: cover;
+  object-position: center 52%;
+  z-index: -2;
+}
+.heroShade {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, #152c25ed 0%, #193329c7 38%, #20383130 78%),
+    linear-gradient(0deg, #18302566, transparent);
+  z-index: -1;
+}
+.heroCopy {
+  padding: 38px 44px;
+  max-width: 780px;
+}
+.heroCopy .kicker {
+  color: #ebc596;
+}
+.heroCopy h1 {
+  font:
+    clamp(34px, 4vw, 57px)/1.08 Georgia,
+    serif;
+  letter-spacing: -1px;
+  margin: 0 0 17px;
+  color: #fff8e8;
+  text-shadow: 0 2px 8px #15241e33;
+}
+.categoryHero h1 {
+  font-size: clamp(31px, 3.2vw, 45px);
+}
+.heroCopy p {
+  font-size: 15px;
+  line-height: 1.8;
+  max-width: 630px;
+  color: #e3e8d6;
+  margin: 0 0 24px;
+}
+.categoryHero p {
+  font-size: 14px;
+  margin-bottom: 18px;
+  max-width: 650px;
+}
+.heroFacts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px 20px;
+  font-size: 11px;
+  color: #e6cfab;
+  align-items: center;
+}
+.heroFacts span + span {
+  border-left: 1px solid #e0dec340;
+  padding-left: 20px;
+}
+.heroCount {
+  font-size: 10px;
+  letter-spacing: 0.6px;
+  color: #ead6b8;
+}
+.heroScript {
+  position: absolute;
+  right: 38px;
+  bottom: 30px;
+  transform: rotate(-6deg);
+  font:
+    italic 25px Georgia,
+    serif;
+  color: #fff0c7;
+  text-shadow: 0 2px 8px #16291f80;
+}
+.sectionHeading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 20px;
+  margin: 34px 0 21px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #d4d5c7;
+}
+.sectionHeading h2 {
+  font:
+    28px Georgia,
+    serif;
+  margin: 0;
+  color: #243b2f;
+}
+.sectionHeading .kicker {
+  font-size: 9px;
+  margin-bottom: 8px;
+}
+.sectionHeading > p {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #7a816d;
+  margin: 0 0 2px;
+  max-width: 330px;
+}
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+.chapter {
+  display: block;
+  overflow: hidden;
+  border: 1px solid #d3d6c7;
+  border-radius: 8px;
+  background: #fffdf7;
+  box-shadow: 0 4px 13px #283d2f08;
+  transition:
+    transform 0.2s,
+    box-shadow 0.2s;
+}
+.chapter:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 22px #273c2c16;
+  text-decoration: none;
+}
+.chapterVisual {
+  position: relative;
+  height: 230px;
+  isolation: isolate;
+  background: #304a3b;
+  overflow: hidden;
+}
+.chapterVisual > img {
+  object-fit: cover;
+  transition: transform 0.35s;
+  z-index: -2;
+}
+.chapterVisual:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    0deg,
+    #122c24f5 0%,
+    #19372b55 43%,
+    transparent 75%
+  );
+  z-index: -1;
+}
+.chapter:hover .chapterVisual > img {
+  transform: scale(1.025);
+}
+.chapterBadge {
+  position: absolute;
+  top: 16px;
+  left: 18px;
+  background: #1d392bd9;
+  border: 1px solid #c9d6be55;
+  border-radius: 4px;
+  padding: 6px 10px;
+  color: #f4ecd7;
+  font-size: 10px;
+  letter-spacing: 0.5px;
+}
+.chapterTitle {
+  position: absolute;
+  bottom: 21px;
+  left: 24px;
+  right: 24px;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  color: #fff7e5;
+}
+.chapterTitle > svg {
+  width: 29px;
+  height: 31px;
+  color: #e6d1a7;
+  flex-shrink: 0;
+}
+.chapterTitle h3 {
+  font:
+    31px Georgia,
+    serif;
+  margin: 0;
+  letter-spacing: -0.4px;
+}
+.chapterTitle > span {
+  margin-left: auto;
+  font-size: 25px;
+  color: #edc08e;
+}
+.chapterCopy {
+  padding: 20px 24px 21px;
+}
+.chapterCopy p {
+  color: #647460;
+  font-size: 13px;
+  line-height: 1.75;
+  margin: 0 0 13px;
+  max-width: 570px;
+}
+.chapterCopy > span {
+  font-size: 11px;
+  font-weight: 700;
+  color: #a4532d;
+}
+.chapterCopy b {
+  margin-left: 6px;
+}
+.compact {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+.compact .chapterVisual {
+  height: 175px;
+}
+.compact .chapterTitle {
+  left: 17px;
+  right: 17px;
+  bottom: 17px;
+  gap: 8px;
+}
+.compact .chapterTitle h3 {
+  font-size: 23px;
+}
+.compact .chapterTitle > svg {
+  width: 22px;
+  height: 24px;
+}
+.compact .chapterTitle > span {
+  font-size: 20px;
+}
+.compact .chapterCopy {
+  padding: 16px 18px;
+}
+.compact .chapterCopy p {
+  font-size: 12px;
+  min-height: 64px;
+  line-height: 1.7;
+}
+.endNote {
+  margin-top: 28px;
+  padding: 25px 30px;
+  background: #e4e8d8;
+  border: 1px solid #ced7be;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+.endNote > div {
+  flex: 1;
+}
+.endNote .kicker {
+  font-size: 9px;
+  margin-bottom: 8px;
+}
+.endNote h2 {
+  font:
+    23px Georgia,
+    serif;
+  margin: 0;
+  color: #304735;
+}
+.endNote > a {
+  font-size: 12px;
+  color: #a05930;
+  white-space: nowrap;
+}
+.contentLayout {
+  display: grid;
+  grid-template-columns: 235px minmax(0, 1fr);
+  gap: 28px;
+  align-items: start;
+  margin-top: 28px;
+}
+.sidebar {
+  position: sticky;
+  top: 16px;
+  min-width: 0;
+}
+.desktopNav {
+  border: 1px solid #d1d8c5;
+  border-radius: 7px;
+  background: #faf9f1;
+  overflow: hidden;
+}
+.sidebarHeading {
+  background: #253f33;
+  color: #f9f0d7;
+  font:
+    19px Georgia,
+    serif;
+  padding: 20px 17px;
+  display: flex;
+  gap: 11px;
+  align-items: center;
+}
+.sidebarHeading > span {
+  color: #e4bf90;
+  font-size: 20px;
+}
+.sidebar nav {
+  padding: 7px;
+}
+.sidebar nav > a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 7px;
+  color: #475c43;
+  border-left: 3px solid transparent;
+  border-bottom: 1px solid #e2e5d8;
+  transition: background 0.15s;
+}
+.sidebar nav > a:last-child {
+  border-bottom: 0;
+}
+.sidebar nav > a:hover {
+  text-decoration: none;
+  background: #eeefdf;
+}
+.sidebar nav > a[aria-current] {
+  border-left-color: #b46f3f;
+  background: #e7ecdc;
+}
+.navImage {
+  width: 57px;
+  height: 43px;
+  position: relative;
+  flex-shrink: 0;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.navImage img {
+  object-fit: cover;
+}
+.sidebar nav strong {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.sidebar nav small {
+  display: block;
+  font-size: 10px;
+  color: #8b937e;
+}
+.sidebar nav b {
+  margin-left: auto;
+  font-size: 18px;
+  color: #ad8558;
+  font-weight: 400;
+}
+.overviewLink {
+  display: block;
+  margin: 6px 17px 18px;
+  padding-top: 13px;
+  border-top: 1px solid #dce1d1;
+  font-size: 10px;
+  color: #a06439;
+}
+.sidebarNote {
+  margin-top: 18px;
+  border-radius: 7px;
+  padding: 24px 20px;
+  background: #dfe5d4;
+  border: 1px solid #cbd5bc;
+}
+.sidebarNote > span {
+  font-size: 8px;
+  letter-spacing: 1.5px;
+  color: #7f846b;
+}
+.sidebarNote h2 {
+  font:
+    25px/1.2 Georgia,
+    serif;
+  margin: 12px 0;
+  color: #3f553b;
+}
+.sidebarNote p {
+  font-size: 12px;
+  line-height: 1.8;
+  color: #738066;
+  margin: 0 0 17px;
+}
+.sidebarNote a {
+  font-size: 11px;
+  font-weight: 600;
+  color: #a16235;
+}
+.mobileNav {
+  display: none;
+}
+.collection {
+  min-width: 0;
+}
+.toolbar {
+  display: flex;
+  align-items: end;
+  gap: 12px;
+  padding: 15px 18px;
+  background: #e4e8da;
+  border: 1px solid #d0d7c3;
+  border-radius: 7px;
+}
+.toolbar label {
+  flex: 1;
+  font-size: 11px;
+  font-weight: 600;
+  min-width: 0;
+  color: #4a6044;
+}
+.toolbar input,
+.toolbar select {
+  display: block;
+  width: 100%;
+  margin-top: 7px;
+  padding: 11px 13px;
+  font: inherit;
+  font-size: 13px;
+  color: #294531;
+  background: #fffdf6;
+  border: 1px solid #c5ceba;
+  border-radius: 4px;
+}
+.toolbar button,
+.empty button {
+  padding: 12px 17px;
+  white-space: nowrap;
+  border-radius: 4px;
+  background: #294637;
+  color: #fff4d9;
+  border: 0;
+  font: inherit;
+  font-size: 11px;
+  cursor: pointer;
+}
+.resultCount {
+  font-size: 10px;
+  color: #8a927c;
+  margin: 13px 0 17px;
+  letter-spacing: 0.3px;
+}
+.entries {
+  display: grid;
+  gap: 18px;
+}
+.entry {
+  display: grid;
+  grid-template-columns: 228px minmax(0, 1fr);
+  min-width: 0;
+  background: #fffdf7;
+  border: 1px solid #d1d7c4;
+  border-radius: 7px;
+  overflow: hidden;
+  scroll-margin-top: 100px;
+  box-shadow: 0 3px 9px #34452c05;
+}
+.entry:target {
+  border-color: #af7a43;
+  box-shadow: 0 0 0 3px #ad82462b;
+}
+.entryMedia {
+  grid-row: 1 / span 2;
+  position: relative;
+  min-height: 210px;
+  margin: 0;
+  background: #e8e5d5;
+  border-right: 1px solid #d9dbca;
+}
+.entryMedia img {
+  object-fit: contain;
+  padding: 8px 0 28px;
+}
+.entryMedia > span {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font:
+    80px Georgia,
+    serif;
+  color: #d6c49b;
+}
+.entryMedia figcaption {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 11px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  font-size: 8px;
+  color: #7d896b;
+}
+.entryCopy {
+  padding: 23px 25px 0;
+  min-width: 0;
+}
+.entryTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #ad855b;
+  font-size: 9px;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.entryTop > span:last-child {
+  font-size: 16px;
+}
+.entry h2 {
+  font:
+    27px/1.15 Georgia,
+    serif;
+  margin: 0 0 12px;
+  color: #293f30;
+}
+.entryCopy > p {
+  font-size: 13px;
+  line-height: 1.8;
+  color: #65725a;
+  margin: 0 0 16px;
+}
+.entryDetails {
+  grid-column: 2;
+  padding: 0 25px 19px;
+  min-width: 0;
+}
+.entry dl {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 26px;
+  padding: 13px 0 0;
+  border-top: 1px solid #e1e4d4;
+  margin: 0 0 15px;
+}
+.entry dl > div {
+  flex: 1;
+  min-width: 105px;
+}
+.entry dt {
+  font-size: 8px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: #8f987d;
+}
+.entry dd {
+  font-size: 11px;
+  line-height: 1.6;
+  color: #4c6546;
+  margin: 5px 0 0;
+  overflow-wrap: anywhere;
+}
+.entry details {
+  border-top: 1px solid #e2e5d8;
+  padding-top: 12px;
+}
+.entry summary {
+  font-size: 10px;
+  font-weight: 600;
+  color: #a16539;
+  cursor: pointer;
+}
+.entry summary > span {
+  float: right;
+}
+.entry details[open] summary > span {
+  transform: rotate(45deg);
+}
+.entry details p {
+  font-size: 12px;
+  line-height: 1.85;
+  color: #68775d;
+  margin: 15px 0 0;
+}
+.empty {
+  padding: 40px;
+  border: 1px dashed #b8c2a9;
+  border-radius: 8px;
+  text-align: center;
+  background: #f9f8ee;
+}
+.empty h2 {
+  font:
+    27px Georgia,
+    serif;
+  color: #405539;
+}
+.empty p {
+  font-size: 13px;
+  line-height: 1.8;
+  color: #7a856c;
+}
+.page a:focus-visible,
+.page button:focus-visible,
+.page input:focus-visible,
+.page summary:focus-visible,
+.chapter:focus-visible {
+  outline: 3px solid #c58b48;
+  outline-offset: 4px;
+}
+@media (max-width: 1024px) {
+  .compact {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .contentLayout {
+    grid-template-columns: 200px minmax(0, 1fr);
+    gap: 18px;
+  }
+  .entry {
+    grid-template-columns: 170px minmax(0, 1fr);
+  }
+  .entryCopy {
+    padding: 20px 20px 0;
+  }
+  .entryDetails {
+    padding: 0 20px 18px;
+  }
+  .navImage {
+    width: 45px;
+    height: 37px;
+  }
+  .sidebar nav strong {
+    font-size: 11px;
+  }
+  .heroScript {
+    display: none;
+  }
+  .sectionHeading > p {
+    max-width: 270px;
+    font-size: 11px;
+  }
+  .endNote {
+    flex-wrap: wrap;
+  }
+  .endNote > div {
+    flex-basis: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .page {
+    padding: 20px 0 38px;
+  }
+  .hubHero {
+    min-height: 270px;
+  }
+  .categoryHero {
+    min-height: 195px;
+  }
+  .heroCopy {
+    padding: 28px 24px;
+  }
+  .heroCopy h1 {
+    font-size: 36px;
+  }
+  .categoryHero h1 {
+    font-size: 30px;
+    letter-spacing: -0.5px;
+  }
+  .heroCopy p {
+    font-size: 13px;
+    line-height: 1.75;
+  }
+  .categoryHero p {
+    font-size: 12px;
+    margin-bottom: 14px;
+  }
+  .heroFacts {
+    font-size: 10px;
+    gap: 8px 14px;
+  }
+  .heroFacts span:last-child {
+    display: none;
+  }
+  .heroFacts span + span {
+    padding-left: 14px;
+  }
+  .heroCount {
+    font-size: 9px;
+  }
+  .categoryGrid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+  .compact {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .chapterVisual {
+    height: 195px;
+  }
+  .chapterCopy {
+    padding: 18px 20px;
+  }
+  .chapterCopy p {
+    font-size: 12px;
+  }
+  .chapterTitle {
+    left: 20px;
+    right: 20px;
+    bottom: 18px;
+  }
+  .chapterTitle h3 {
+    font-size: 29px;
+  }
+  .compact .chapterVisual {
+    height: 135px;
+  }
+  .compact .chapterTitle {
+    left: 12px;
+    right: 10px;
+    gap: 6px;
+    bottom: 14px;
+  }
+  .compact .chapterTitle h3 {
+    font-size: 18px;
+  }
+  .compact .chapterTitle > svg {
+    width: 17px;
+    height: 20px;
+  }
+  .compact .chapterTitle > span {
+    display: none;
+  }
+  .compact .chapterCopy {
+    padding: 13px;
+  }
+  .compact .chapterCopy p {
+    font-size: 11px;
+    min-height: 0;
+  }
+  .compact .chapterCopy > span {
+    font-size: 10px;
+  }
+  .compact .chapterBadge {
+    left: 11px;
+    top: 10px;
+    font-size: 8px;
+    padding: 4px 7px;
+  }
+  .sectionHeading {
+    display: block;
+    margin-top: 27px;
+  }
+  .sectionHeading h2 {
+    font-size: 26px;
+  }
+  .sectionHeading > p {
+    margin-top: 10px;
+    max-width: 100%;
+    font-size: 12px;
+  }
+  .endNote {
+    padding: 22px;
+    gap: 16px;
+  }
+  .endNote h2 {
+    font-size: 23px;
+  }
+  .contentLayout {
+    grid-template-columns: 1fr;
+    gap: 19px;
+    margin-top: 20px;
+  }
+  .sidebar {
+    position: static;
+  }
+  .desktopNav,
+  .sidebarNote {
+    display: none;
+  }
+  .mobileNav {
+    display: block;
+    border: 1px solid #cbd4be;
+    border-radius: 6px;
+    background: #f9f8ef;
+  }
+  .mobileNav summary {
+    padding: 14px 16px;
+    cursor: pointer;
+    color: #465c3e;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .mobileNav summary > span {
+    float: right;
+    color: #a07343;
+  }
+  .mobileNav[open] summary {
+    border-bottom: 1px solid #d6ddca;
+  }
+  .sidebar nav {
+    padding: 7px 10px;
+  }
+  .navImage {
+    width: 55px;
+    height: 39px;
+  }
+  .sidebar nav strong {
+    font-size: 12px;
+  }
+  .toolbar {
+    padding: 13px;
+    gap: 9px;
+  }
+  .toolbar input {
+    font-size: 12px;
+    padding: 10px 11px;
+  }
+  .toolbar button {
+    font-size: 10px;
+    padding: 11px 12px;
+  }
+  .entry {
+    grid-template-columns: 96px minmax(0, 1fr);
+    padding: 15px;
+    column-gap: 14px;
+    row-gap: 12px;
+  }
+  .entryMedia {
+    grid-row: 1;
+    min-height: 114px;
+    height: 114px;
+    border: 1px solid #d9dbca;
+    border-radius: 5px;
+  }
+  .entryMedia img {
+    padding: 4px 0 19px;
+  }
+  .entryMedia figcaption {
+    font-size: 5px;
+    letter-spacing: 0.7px;
+    bottom: 7px;
+  }
+  .entryCopy {
+    padding: 0;
+  }
+  .entryTop {
+    font-size: 7px;
+    margin-bottom: 9px;
+    letter-spacing: 0.5px;
+  }
+  .entry h2 {
+    font-size: 22px;
+    margin-bottom: 9px;
+  }
+  .entryCopy > p {
+    font-size: 12px;
+    line-height: 1.7;
+    margin: 0;
+  }
+  .entryDetails {
+    grid-column: 1/-1;
+    padding: 0;
+  }
+  .entry dl {
+    margin-bottom: 12px;
+    gap: 12px 18px;
+  }
+  .entry dl > div {
+    min-width: 110px;
+  }
+  .entry details p {
+    font-size: 12px;
+  }
+  .resultCount {
+    font-size: 9px;
+  }
+  .empty {
+    padding: 25px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .chapter,
+  .chapterVisual > img,
+  .sidebar nav > a {
+    transition: none;
+  }
+  .chapter:hover,
+  .chapter:hover .chapterVisual > img {
+    transform: none;
+  }
+}
+
+/* The field guide shares the homepage's type, palette and chapter artwork. */
+.page {
+  background: #f5f2e9;
+  padding-top: 26px;
+}
+.page h1,
+.page h2,
+.page h3 {
+  font-family: "Arial Black", "Arial Narrow", Arial, sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.9px;
+}
+.heroCopy h1 {
+  font-size: clamp(34px, 4vw, 55px);
+  line-height: 1.08;
+}
+.hubHero {
+  min-height: 315px;
+  border-radius: 6px;
+}
+.hubHero::after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  height: 15px;
+  left: 0;
+  right: 0;
+  background: #f5f2e9;
+  clip-path: polygon(
+    0 40%,
+    12% 80%,
+    25% 20%,
+    37% 70%,
+    51% 30%,
+    65% 85%,
+    79% 20%,
+    91% 70%,
+    100% 32%,
+    100% 100%,
+    0 100%
+  );
+}
+.heroCopy .kicker {
+  color: #eaca6c;
+}
+.heroFacts {
+  color: #dfcc8f;
+}
+.categoryHero {
+  min-height: 260px;
+  border-radius: 6px;
+  background: #263f2f;
+}
+.categoryHero .heroCopy {
+  position: relative;
+  max-width: 66%;
+  padding: 36px 40px;
+}
+.categoryHero .heroShade {
+  background: linear-gradient(90deg, #243e31, #243e31 52%, #243e3100 72%);
+}
+.categoryHero h1 {
+  font-size: clamp(30px, 3.4vw, 47px);
+}
+.categoryHero p {
+  font-size: 13px;
+}
+.categoryArt {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 39%;
+  background: #f4efe2;
+  overflow: hidden;
+  clip-path: polygon(13% 0, 100% 0, 100% 100%, 0 100%);
+}
+.categoryArt > img {
+  object-fit: contain;
+  padding: 10px;
+}
+.artLabel {
+  position: absolute;
+  bottom: 9px;
+  right: 15px;
+  font-size: 7px;
+  color: #869071;
+  letter-spacing: 0.5px;
+}
+.categoryGrid {
+  gap: 22px;
+}
+.chapter {
+  display: grid;
+  grid-template-columns: 0.95fr 1.1fr;
+  border-radius: 6px;
+  background: #fcfaf2;
+}
+.chapterVisual {
+  height: auto;
+  min-height: 265px;
+  background: #f4efe2;
+  border-right: 1px solid #e0e2d0;
+}
+.chapterVisual > img {
+  object-fit: contain;
+  z-index: 0;
+}
+.chapterVisual::after {
+  display: none;
+}
+.chapterBadge {
+  z-index: 1;
+  top: 12px;
+  left: 13px;
+  font-size: 8px;
+  background: #304b36;
+  color: #f2e8c5;
+  border-color: #687b54;
+  padding: 5px 8px;
+}
+.chapterArtLabel {
+  position: absolute;
+  bottom: 10px;
+  left: 13px;
+  font-size: 7px;
+  color: #8b947a;
+}
+.chapterCopy {
+  padding: 28px 25px;
+  display: flex;
+  flex-direction: column;
+}
+.chapterTitle {
+  position: static;
+  gap: 9px;
+  color: #2e4a34;
+  margin-bottom: 14px;
+}
+.chapterTitle > svg {
+  width: 22px;
+  height: 24px;
+  color: #a17d47;
+}
+.chapterTitle h3 {
+  font-size: 27px;
+}
+.chapterCopy p {
+  font-size: 12px;
+  line-height: 1.85;
+  color: #78846b;
+}
+.chapterTopics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin: 4px 0 18px;
+}
+.chapterTopics > span {
+  font-size: 8px;
+  color: #6f815b;
+  background: #e9eedc;
+  padding: 4px 6px;
+  border-radius: 3px;
+  border: 1px solid #d7e0c3;
+}
+.chapterCopy > span {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  color: #a5773c;
+}
+.chapterCopy b {
+  font-size: 20px;
+  font-weight: 400;
+}
+.sidebarHeading {
+  font-size: 17px;
+  background: #2d4734;
+}
+.sidebar {
+  top: 16px;
+}
+.navImage {
+  background: #f5f0e4;
+}
+.navImage img {
+  object-fit: contain;
+}
+.sidebarNote {
+  background: #e5ead8;
+}
+.sidebarNote h2 {
+  font-size: 24px;
+  line-height: 1.15;
+}
+.toolbar {
+  background: #e8eddf;
+  border-color: #ccd7ba;
+}
+.toolbar button,
+.empty button {
+  background: #304c35;
+  color: #f4e4b7;
+}
+.entry {
+  border-color: #d0dbc0;
+  border-radius: 5px;
+  background: #fcfaf2;
+}
+.entry h2 {
+  font-size: 26px;
+}
+.entryTop {
+  color: #aa854d;
+}
+.entryMedia {
+  background: #e9eddf;
+}
+.endNote {
+  background: #e8eddd;
+  border-color: #cbd8b7;
+}
+.endNote h2 {
+  font-size: 23px;
+}
+@media (max-width: 1024px) {
+  .chapter {
+    grid-template-columns: 1fr;
+  }
+  .chapterVisual {
+    height: 215px;
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid #e0e2d0;
+  }
+  .chapterCopy {
+    padding: 23px;
+  }
+  .categoryHero .heroCopy {
+    max-width: 68%;
+    padding: 30px;
+  }
+  .chapterCopy p {
+    min-height: 67px;
+  }
+}
+@media (max-width: 768px) {
+  .page {
+    padding-top: 22px;
+  }
+  .hubHero {
+    min-height: 325px;
+  }
+  .heroCopy h1 {
+    font-size: 34px;
+  }
+  .categoryHero {
+    min-height: 255px;
+  }
+  .categoryHero .heroCopy {
+    max-width: 100%;
+    padding: 28px 23px;
+  }
+  .categoryHero h1 {
+    font-size: 31px;
+  }
+  .categoryHero .heroShade {
+    background: linear-gradient(90deg, #243e31f5, #243e31bb 90%);
+  }
+  .categoryArt {
+    width: 62%;
+    opacity: 0.3;
+    clip-path: none;
+  }
+  .artLabel {
+    color: #c5ccad;
+    font-size: 6px;
+  }
+  .chapter {
+    grid-template-columns: 125px minmax(0, 1fr);
+  }
+  .chapterVisual {
+    height: auto;
+    min-height: 235px;
+    border-right: 1px solid #e0e2d0;
+    border-bottom: 0;
+  }
+  .chapterCopy {
+    padding: 20px 17px;
+  }
+  .chapterTitle h3 {
+    font-size: 22px;
+  }
+  .chapterTitle > svg {
+    display: none;
+  }
+  .chapterCopy p {
+    font-size: 11px;
+    min-height: 0;
+  }
+  .chapterBadge {
+    font-size: 7px;
+    padding: 4px 6px;
+    left: 9px;
+    top: 10px;
+  }
+  .chapterArtLabel {
+    font-size: 6px;
+    left: 9px;
+  }
+  .chapterTopics {
+    gap: 4px;
+    margin-bottom: 12px;
+  }
+  .chapterTopics > span {
+    font-size: 7px;
+    padding: 3px 5px;
+  }
+  .sidebar {
+    position: static;
+  }
+  .entry h2 {
+    font-size: 23px;
+  }
+}
+
+@media (max-width: 768px) {
+  .categoryArt {
+    width: 100%;
+    opacity: 0.18;
+    mask-image: linear-gradient(90deg, transparent 10%, #000 95%);
+  }
+  .categoryArt > img {
+    object-position: right center;
+  }
+}
+
+.entryMedia[data-kind="game-icon"] {
+  background: #2c4736;
+}
+.entryMedia[data-kind="game-icon"] img {
+  padding: 28px 22px 42px;
+}
+.entryMedia[data-kind="game-icon"] figcaption {
+  color: #e9e6cf;
+}
+.entryMedia[data-kind="game-model"] img {
+  padding: 20px 14px 35px;
+}

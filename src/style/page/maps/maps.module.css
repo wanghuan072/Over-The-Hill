@@ -1,0 +1,755 @@
+.page {
+  padding: 30px 0 58px;
+  min-height: 65vh;
+  background: #f1eee5;
+}
+.kicker {
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 1.8px;
+  font-size: 9px;
+  font-weight: 700;
+  color: #a96a40;
+  margin-bottom: 11px;
+}
+.hero {
+  position: relative;
+  min-height: 245px;
+  isolation: isolate;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #304a38;
+  display: flex;
+  align-items: center;
+  margin-top: 22px;
+  color: #fff7e7;
+}
+.hero > img {
+  object-fit: cover;
+  object-position: center 54%;
+  z-index: -2;
+}
+.shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, #172e26f0, #1b3628a8 45%, #1d34221a 85%);
+  z-index: -1;
+}
+.heroCopy {
+  padding: 28px 36px;
+  max-width: 720px;
+}
+.heroCopy .kicker {
+  color: #e9c49a;
+}
+.hero h1 {
+  font:
+    clamp(30px, 3.2vw, 46px)/1.04 Georgia,
+    serif;
+  letter-spacing: -0.9px;
+  margin: 0 0 18px;
+  color: #fff7e7;
+}
+.heroCopy > p {
+  font-size: 14px;
+  line-height: 1.8;
+  max-width: 520px;
+  color: #e0e7d4;
+  margin: 0 0 23px;
+}
+.jumpLinks {
+  display: flex;
+  gap: 9px;
+  flex-wrap: wrap;
+}
+.jumpLinks > a {
+  display: flex;
+  gap: 22px;
+  align-items: center;
+  border: 1px solid #ebdcba77;
+  padding: 9px 13px;
+  border-radius: 4px;
+  font-size: 11px;
+  background: #233f33b0;
+  color: #f6e6c6;
+}
+.jumpLinks > a:hover {
+  background: #a26138;
+  border-color: #bd7c4c;
+  text-decoration: none;
+}
+.script {
+  position: absolute;
+  right: 35px;
+  bottom: 26px;
+  transform: rotate(-5deg);
+  font:
+    italic 24px Georgia,
+    serif;
+  text-shadow: 0 2px 8px #182e24;
+  color: #f1dec0;
+}
+.sectionHeading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 25px;
+  border-bottom: 1px solid #d4d8c9;
+  margin: 34px 0 22px;
+  padding-bottom: 15px;
+}
+.sectionHeading h2 {
+  font:
+    29px Georgia,
+    serif;
+  color: #2b4332;
+  margin: 0;
+}
+.sectionHeading > p {
+  font-size: 12px;
+  line-height: 1.6;
+  color: #7a846d;
+  margin: 0;
+  max-width: 350px;
+}
+.regionGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px;
+}
+.region {
+  display: flex;
+  flex-direction: column;
+  background: #fffdf7;
+  border: 1px solid #d0d7c4;
+  border-radius: 8px;
+  overflow: hidden;
+  scroll-margin-top: 100px;
+  box-shadow: 0 4px 13px #334b2f08;
+}
+.region:target,
+.area:target {
+  outline: 2px solid #bc8e52;
+  outline-offset: 4px;
+}
+.regionImage {
+  flex-shrink: 0;
+  position: relative;
+  height: 280px;
+  isolation: isolate;
+  background: #35513d;
+  overflow: hidden;
+}
+.regionImage > img {
+  object-fit: cover;
+  z-index: -2;
+}
+.regionImage:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, #183328eb, transparent 70%);
+  z-index: -1;
+}
+.regionBadge {
+  position: absolute;
+  left: 21px;
+  top: 19px;
+  padding: 6px 10px;
+  font-size: 9px;
+  letter-spacing: 1.3px;
+  color: #f0e8cc;
+  border: 1px solid #d0d8bd77;
+  background: #263f31b8;
+  border-radius: 4px;
+}
+.regionTitle {
+  position: absolute;
+  bottom: 22px;
+  left: 26px;
+}
+.regionTitle > span {
+  font-size: 9px;
+  letter-spacing: 1.8px;
+  color: #e7c79e;
+}
+.regionTitle h3 {
+  font:
+    40px Georgia,
+    serif;
+  color: #fff7e5;
+  margin: 8px 0 0;
+}
+.regionCopy {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 25px 27px;
+}
+.regionCopy > p {
+  font-size: 14px;
+  line-height: 1.85;
+  color: #617458;
+  margin: 0 0 19px;
+  max-width: 560px;
+  min-height: 52px;
+}
+.tags {
+  display: flex;
+  gap: 7px;
+  flex-wrap: wrap;
+  margin-bottom: 22px;
+}
+.tags span {
+  background: #e9eddd;
+  color: #677654;
+  font-size: 10px;
+  padding: 6px 10px;
+  border-radius: 4px;
+}
+.fieldNote {
+  border-top: 1px solid #e1e4d5;
+  border-bottom: 1px solid #e1e4d5;
+  padding: 17px 0;
+  margin-bottom: 19px;
+}
+.fieldNote > span {
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 1.4px;
+  color: #a68458;
+}
+.fieldNote p {
+  font-size: 12px;
+  color: #7a846b;
+  line-height: 1.8;
+  margin: 8px 0 0;
+  max-width: 530px;
+}
+.regionCopy > a {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 600;
+  color: #a36134;
+}
+.regionCopy > a > span {
+  font-size: 20px;
+}
+.area {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+  background: #fffdf6;
+  border: 1px solid #d0d7c3;
+  border-radius: 8px;
+  overflow: hidden;
+  scroll-margin-top: 100px;
+}
+.areaImage {
+  position: relative;
+  isolation: isolate;
+  min-height: 430px;
+  background: #456748;
+}
+.areaImage > img {
+  object-fit: cover;
+  object-position: 57% center;
+  z-index: -2;
+}
+.areaImage:after {
+  position: absolute;
+  content: "";
+  inset: 0;
+  background: linear-gradient(0deg, #183629d6, transparent 65%);
+  z-index: -1;
+}
+.areaBadge {
+  position: absolute;
+  top: 22px;
+  left: 24px;
+  background: #254332c9;
+  border: 1px solid #e0debd66;
+  border-radius: 4px;
+  padding: 7px 10px;
+  font-size: 9px;
+  letter-spacing: 1.1px;
+  color: #f0e8c9;
+}
+.areaImageCaption {
+  position: absolute;
+  bottom: 26px;
+  left: 28px;
+  right: 20px;
+  color: #fff3d9;
+}
+.areaImageCaption > span {
+  font-size: 8px;
+  letter-spacing: 1.5px;
+  color: #edcd99;
+}
+.areaImageCaption p {
+  font:
+    italic 31px/1.25 Georgia,
+    serif;
+  margin: 12px 0 0;
+}
+.areaCopy {
+  padding: 31px 35px;
+}
+.areaCopy h2 {
+  font:
+    35px Georgia,
+    serif;
+  letter-spacing: -0.5px;
+  color: #314d37;
+  margin: 0 0 17px;
+}
+.areaCopy > p {
+  font-size: 13px;
+  color: #6c7b5f;
+  line-height: 1.85;
+  margin: 0 0 23px;
+  max-width: 570px;
+}
+.statsLabel {
+  font-size: 9px;
+  color: #8c947d;
+  letter-spacing: 0.8px;
+  margin-bottom: 12px;
+}
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  border-bottom: 1px solid #e2e5d5;
+  padding-bottom: 21px;
+  margin: 0 0 19px;
+}
+.stats > div {
+  display: flex;
+  flex-direction: column-reverse;
+  border-right: 1px solid #e1e5d4;
+  padding-right: 10px;
+}
+.stats > div:last-child {
+  border-right: 0;
+}
+.stats dd {
+  font:
+    32px Georgia,
+    serif;
+  color: #48613e;
+  margin: 0 0 7px;
+}
+.stats dt {
+  font-size: 9px;
+  color: #929981;
+  line-height: 1.5;
+}
+.areaNotes h3 {
+  font-size: 12px;
+  margin: 0 0 9px;
+  color: #536b45;
+}
+.areaNotes p {
+  font-size: 12px;
+  line-height: 1.85;
+  color: #7f896f;
+  margin: 0 0 22px;
+}
+.areaNotes strong {
+  font-weight: 600;
+  color: #627753;
+}
+.guideLink {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  font-weight: 600;
+  color: #a16436;
+  border-top: 1px solid #e0e5d2;
+  padding-top: 16px;
+}
+.travelNotes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px;
+  border-radius: 8px;
+  background: #294534;
+  color: #f5edd6;
+  padding: 29px 32px;
+  margin-top: 29px;
+}
+.travelNotes > div {
+  border-right: 1px solid #bac9a82e;
+  padding-right: 23px;
+}
+.travelNotes > div:last-child {
+  border-right: 0;
+}
+.travelNotes span {
+  font-size: 8px;
+  letter-spacing: 1.4px;
+  color: #c6ba8c;
+}
+.travelNotes h2 {
+  font:
+    23px Georgia,
+    serif;
+  margin: 12px 0;
+}
+.travelNotes p {
+  font-size: 12px;
+  line-height: 1.85;
+  color: #c1ceb1;
+  margin: 0;
+}
+.faq {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: 45px;
+  margin-top: 35px;
+  padding: 25px 0 0;
+}
+.faq h2 {
+  font:
+    28px Georgia,
+    serif;
+  color: #334d35;
+  margin: 0 0 12px;
+}
+.faq > div > p {
+  font-size: 12px;
+  color: #7d886e;
+}
+.faq details {
+  border-bottom: 1px solid #d8ddcb;
+  padding: 15px 0;
+}
+.faq summary {
+  font-size: 12px;
+  color: #546b45;
+  cursor: pointer;
+  font-weight: 600;
+}
+.faq summary > span {
+  float: right;
+  font-weight: 400;
+  color: #af8252;
+}
+.faq details[open] summary > span {
+  transform: rotate(45deg);
+}
+.faq details p {
+  font-size: 12px;
+  color: #7b886c;
+  line-height: 1.85;
+  max-width: 650px;
+}
+.page a:focus-visible,
+.page summary:focus-visible {
+  outline: 3px solid #c58a47;
+  outline-offset: 4px;
+}
+@media (max-width: 1024px) {
+  .heroCopy {
+    padding: 35px;
+  }
+  .script {
+    display: none;
+  }
+  .regionImage {
+    height: 235px;
+  }
+  .areaCopy {
+    padding: 26px;
+  }
+  .stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+  .stats > div:nth-child(2) {
+    border-right: 0;
+  }
+  .travelNotes {
+    gap: 20px;
+    padding: 25px;
+  }
+  .travelNotes h2 {
+    font-size: 21px;
+  }
+  .faq {
+    gap: 25px;
+  }
+}
+@media (max-width: 768px) {
+  .page {
+    padding: 20px 0 38px;
+  }
+  .hero {
+    min-height: 310px;
+  }
+  .heroCopy {
+    padding: 30px 24px;
+  }
+  .hero h1 {
+    font-size: 38px;
+  }
+  .heroCopy > p {
+    font-size: 13px;
+  }
+  .hero > img {
+    object-position: 65% center;
+  }
+  .jumpLinks {
+    gap: 7px;
+  }
+  .jumpLinks > a {
+    font-size: 10px;
+    padding: 8px 10px;
+    gap: 15px;
+  }
+  .sectionHeading {
+    display: block;
+    margin-top: 27px;
+  }
+  .sectionHeading h2 {
+    font-size: 27px;
+  }
+  .sectionHeading > p {
+    font-size: 11px;
+    margin-top: 10px;
+    max-width: none;
+  }
+  .regionGrid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  .regionImage {
+    height: 235px;
+  }
+  .regionTitle h3 {
+    font-size: 35px;
+  }
+  .regionCopy {
+    padding: 22px;
+  }
+  .regionCopy > p {
+    font-size: 13px;
+    min-height: 0;
+  }
+  .regionTitle {
+    left: 22px;
+  }
+  .area {
+    grid-template-columns: 1fr;
+  }
+  .areaImage {
+    min-height: 245px;
+  }
+  .areaImage > img {
+    object-position: center 55%;
+  }
+  .areaImageCaption {
+    left: 23px;
+    bottom: 23px;
+  }
+  .areaImageCaption p {
+    font-size: 26px;
+  }
+  .areaCopy {
+    padding: 24px 22px;
+  }
+  .areaCopy h2 {
+    font-size: 31px;
+  }
+  .stats {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 7px;
+  }
+  .stats > div {
+    padding-right: 5px;
+  }
+  .stats > div:nth-child(2) {
+    border-right: 1px solid #e1e5d4;
+  }
+  .stats dd {
+    font-size: 28px;
+  }
+  .stats dt {
+    font-size: 8px;
+  }
+  .travelNotes {
+    grid-template-columns: 1fr;
+    gap: 21px;
+    padding: 25px;
+  }
+  .travelNotes > div {
+    border-right: 0;
+    border-bottom: 1px solid #b5c4a133;
+    padding: 0 0 20px;
+  }
+  .travelNotes > div:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+  .travelNotes h2 {
+    font-size: 23px;
+    margin: 9px 0;
+  }
+  .faq {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-top: 27px;
+  }
+  .faq h2 {
+    font-size: 26px;
+  }
+  .faq summary {
+    font-size: 11px;
+    line-height: 1.8;
+  }
+}
+
+.page {
+  background: #f5f2e9;
+  padding-top: 26px;
+}
+.page h1,
+.page h2,
+.page h3 {
+  font-family: "Arial Black", "Arial Narrow", Arial, sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.9px;
+}
+.hero {
+  border-radius: 6px;
+  min-height: 245px;
+}
+.hero h1 {
+  font-size: clamp(34px, 4vw, 56px);
+  line-height: 1.06;
+}
+.hero::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 16px;
+  background: #f5f2e9;
+  clip-path: polygon(
+    0 50%,
+    10% 17%,
+    22% 75%,
+    37% 25%,
+    52% 85%,
+    68% 20%,
+    83% 70%,
+    95% 25%,
+    100% 65%,
+    100% 100%,
+    0 100%
+  );
+}
+.heroCopy .kicker {
+  color: #efce74;
+}
+.jumpLinks > a {
+  color: #f1e1b3;
+  border-color: #d6c37d77;
+  background: #2c4833a6;
+}
+.jumpLinks > a:hover {
+  color: #243c2c;
+  background: #edc664;
+  border-color: #ecd495;
+}
+.sectionHeading h2 {
+  font-size: 30px;
+}
+.region {
+  background: #fcfaf2;
+  border-radius: 6px;
+  border-color: #cfdbbf;
+}
+.regionTitle h3 {
+  font-size: 39px;
+  letter-spacing: -1.2px;
+}
+.regionTitle > span {
+  color: #efd597;
+}
+.regionImage:after {
+  background: linear-gradient(0deg, #193b2beb, transparent 70%);
+}
+.tags span {
+  background: #ecedda;
+  border: 1px solid #dce1c6;
+  color: #7a8159;
+  padding: 5px 9px;
+  font-size: 9px;
+}
+.fieldNote > span {
+  color: #a08045;
+}
+.area {
+  border-color: #cedbbc;
+  background: #fcfaf2;
+  border-radius: 6px;
+}
+.areaCopy h2 {
+  font-size: 31px;
+}
+.stats {
+  background: #edf0e1;
+  border-color: #cdd7ba;
+}
+.stats dd {
+  font-family: "Arial Black", Arial, sans-serif;
+  font-weight: 900;
+}
+.travelNotes {
+  background: #e9eddf;
+  border-color: #d0d8c0;
+}
+.travelNotes h2 {
+  font-size: 23px;
+}
+.faq h2 {
+  font-size: 28px;
+}
+.faq details {
+  background: #fcfaf2;
+  border-radius: 4px;
+}
+@media (max-width: 768px) {
+  .page {
+    padding-top: 22px;
+  }
+  .hero h1 {
+    font-size: 35px;
+  }
+  .sectionHeading h2 {
+    font-size: 27px;
+  }
+  .regionTitle h3 {
+    font-size: 35px;
+  }
+  .areaCopy h2 {
+    font-size: 28px;
+  }
+}
+
+.areaSection .area + .area {
+  margin-top: 24px;
+}
+.areaSection .areaImage > img {
+  object-fit: contain;
+  object-position: center;
+}
+.areaSection .areaImage {
+  background: #e6e5d8;
+}

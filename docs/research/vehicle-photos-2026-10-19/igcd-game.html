@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+	<html lang="en">
+    <head>
+    <meta charset="ISO-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>IGCD.net: Vehicles/Cars list for over the hill</title>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<link href="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/style.min.css" rel="stylesheet" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+        <link href="css/styles.css" rel="stylesheet" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.24/dist/fancybox.css" />
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.24/dist/fancybox.umd.js"></script>
+			<!--<script data-ad-client="ca-pub-8856685261376506" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+	<script async src="https://cdn.fuseplatform.net/publift/tags/2/2226/fuse.js"></script>
+<style>
+/* Correction pour éviter le mouvement du badge au hover */
+.badge-custom {
+    top: -8px !important;
+    right: -8px !important;
+    min-width: 20px;
+    height: 20px;
+    line-height: 20px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: none !important;
+    transition: none !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    font-size: 11px !important;
+    font-weight: bold !important;
+}
+
+/* Empêcher complètement les effets de hover sur le lien parent */
+.nav-item .nav-link.position-relative {
+    position: relative !important;
+}
+
+.nav-item .nav-link.position-relative:hover,
+.nav-item .nav-link.position-relative:focus,
+.nav-item .nav-link.position-relative:active {
+    transform: none !important;
+    animation: none !important;
+}
+
+.nav-item .nav-link.position-relative:hover .badge-custom,
+.nav-item .nav-link.position-relative:focus .badge-custom,
+.nav-item .nav-link.position-relative:active .badge-custom {
+    transform: none !important;
+    top: -8px !important;
+    right: -8px !important;
+    animation: none !important;
+    transition: none !important;
+}
+
+/* Alternative: forcer la position même au hover */
+.position-relative .badge-custom {
+    position: absolute !important;
+    top: -8px !important;
+    right: -8px !important;
+    transform: none !important;
+    animation: none !important;
+    transition: none !important;
+}
+
+/* Empêcher tous les effets sur le contenu du badge */
+.badge-custom,
+.badge-custom * {
+    pointer-events: none !important;
+    transform: none !important;
+    transition: none !important;
+    animation: none !important;
+    vertical-align: baseline !important;
+}
+
+/* Amélioration responsive pour mobile */
+@media (max-width: 767.98px) {
+    .navbar-brand {
+        max-width: calc(100% - 120px);
+    }
+    
+    .navbar-nav .nav-item .nav-link {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+    
+    .navbar-text-mobile {
+        display: block;
+    }
+    
+    .navbar-text-desktop {
+        display: none !important;
+    }
+    
+    .user-dropdown-mobile {
+        padding: 0.25rem 0.5rem !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-text-mobile {
+        display: none;
+    }
+    
+    .navbar-text-desktop {
+        display: inline !important;
+    }
+}
+</style>
+<script>
+function showSuggestions(query) {
+    const suggestionsBox = document.getElementById('suggestionsBox');
+    if (query.length === 0) {
+        suggestionsBox.innerHTML = '';
+        return;
+    }
+    
+    fetch(`search_suggestions.php?q=${query}`)
+        .then(response => response.json())
+        .then(data => {
+            let suggestions = '';
+            data.forEach(item => {
+                suggestions += `<li class="list-group-item" onclick="selectSuggestion('${item}')">${item}</li>`;
+            });
+            suggestionsBox.innerHTML = suggestions;
+        });
+}
+
+function selectSuggestion(suggestion) {
+    const searchInput = document.getElementById('search');
+    searchInput.value = suggestion;
+    
+    // Soumettre le formulaire de recherche
+    const searchForm = document.getElementById('Qsearch');
+    searchForm.submit();
+    
+    // Nettoyer les suggestions
+    const suggestionsBox = document.getElementById('suggestionsBox');
+    suggestionsBox.innerHTML = '';
+}
+</script>
+    </head>
+
+<body class="sb-nav-fixed">
+    <nav class="sb-topnav navbar navbar-expand navbar-dark bg-dark">
+        <!-- Navbar Brand -->
+        <a class="navbar-brand ps-3" href="index.php"><img src="images/logoigcd.png" height="34" width="138" alt="Logo"></a>
+        <!-- Sidebar Toggle -->
+        <button class="btn btn-link btn-sm order-1 order-lg-0 me-2" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
+        
+        <!-- Navbar Search (Desktop uniquement) -->
+        <form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0" action="search.php" method="get" id="Qsearch">
+            <div class="input-group">
+                <input class="form-control" type="text" name="title" id="search" placeholder="Enter your query..." aria-label="Search for..." autocomplete="off"/>
+                <button class="btn btn-primary" id="btnNavbarSearch" type="submit"><i class="fas fa-search"></i></button>
+            </div>
+        </form>
+        
+        <!-- Navbar -->
+        <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
+            <!-- Language Dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdownLang" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <i class="fas fa-globe"></i>
+                </a>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownLang">
+                    <li><a class="dropdown-item" href="/game.php?id=1000019103&amp;l=en"><img src="lang/uk.png" height="20" alt="English"> English</a></li>
+                    <li><a class="dropdown-item" href="/game.php?id=1000019103&amp;l=fr"><img src="lang/france.png" height="20" alt="French"> French</a></li>
+                </ul>
+            </li>
+                            <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" id="navbarDropdownGuest" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="fas fa-user"></i>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownGuest">
+                        <li><a class="dropdown-item" href="login.php">
+                            <i class="fas fa-sign-in-alt"></i> Login                        </a></li>
+                    </ul>
+                </li>
+                    </ul>
+    </nav>
+
+    <div id="layoutSidenav">
+        <div id="layoutSidenav_nav">
+            <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
+                <div class="sb-sidenav-menu">
+                    <div class="nav">
+                        <!-- Recherche en mobile -->
+                        <div class="d-md-none px-3 py-3">
+                            <form action="search.php" method="get">
+                                <div class="input-group">
+                                    <input class="form-control form-control-sm" type="text" name="title" placeholder="Rechercher..." aria-label="Search"/>
+                                    <button class="btn btn-primary btn-sm" type="submit"><i class="fas fa-search"></i></button>
+                                </div>
+                            </form>
+                        </div>
+                        
+                        <a class="nav-link " href="new.php?p=0">
+                            <div class="sb-nav-link-icon"><i class="fas fa-newspaper"></i></div>
+                            New                        </a>
+
+                        <a class="nav-link " href="games.php?p=1">
+                            <div class="sb-nav-link-icon"><i class="fas fa-gamepad"></i></div>
+                            Video Games                        </a>
+
+                        <a class="nav-link " href="marquespays.php?p=2">
+                            <div class="sb-nav-link-icon"><i class="fas fa-car"></i></div>
+                            Makes                        </a>
+
+                        <a class="nav-link " href="unknown.php?p=3">
+                            <div class="sb-nav-link-icon"><i class="fas fa-question-circle"></i></div>
+                            Unknown Vehicles                        </a>
+
+                        <a class="nav-link " href="circuitsl.php?p=8">
+                            <div class="sb-nav-link-icon"><i class="fas fa-map"></i></div>
+                            Tracks/Places                        </a>
+
+                        <a class="nav-link " href="stats.php?p=6">
+                            <div class="sb-nav-link-icon"><i class="fas fa-chart-line"></i></div>
+                            Statistics                        </a>
+
+                        <a class="nav-link " href="yourcomments.php?allcomments&amp;page=1&amp;p=4">
+                            <div class="sb-nav-link-icon"><i class="fas fa-comments"></i></div>
+                            Comments                        </a>
+
+                        <a class="nav-link " href="help.php?p=5">
+                            <div class="sb-nav-link-icon"><i class="fas fa-life-ring"></i></div>
+                            Help/FAQ                        </a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div id="layoutSidenav_content">
+          <link rel="image_src" href="http://www.igcd.net/covers/1000019103.jpg" /></link>
+<div class="container-fluid mb-4">
+    <div class="row">
+        <!-- Film Details Card -->
+        <div class="col-lg-5 mx-auto">
+            <div class="card-custom shadow">
+                <div class="card-header py-3">
+                    <center><h5 class="m-0 font-weight-bold">
+                        over the hill (2026)                    </h5></center>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-dark table-bordered">
+                            <thead>
+                                <tr>
+                                    <td class="text-center" style="width: 35%;">
+                                        <img class="img-fluid mb-3" width="150" height="150" src="covers/1000019103.jpg">                                    </td>
+                                    <td style="width: 65%;">
+                                        <b><u>Type:</u></b> Simulation<br><br><b><u>Developer:</u></b> Funselektor Labs<br><br><b><u>Publisher:</u></b> Funselektor Labs<br><br><b><u>Platforms:</u></b> Switch 2, PC, PlayStation 5, Xbox Series<br><br><b><u>Damageable vehicles:</u></b> No<br><br><b><u>Contributors (in progress): TBD</u></b><br><br>                                    </td>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Advertisement Section -->
+        <div class="col-lg-7">
+            <div class="card-custom shadow">
+                <div class="card-header py-3">
+                    <center><h5 class="m-0 font-weight-bold">Advertising</h5></center>
+                </div>
+                <div class="card-body">
+                    <div class="ad-container">
+                        <!-- Insert your advertisement code here -->
+                                             </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+<div class="horizontal-tabs clearfix align-items-start">
+    <ul class="nav nav-tabs">
+        <li class="nav-item">
+            <a class="nav-link active" href="game.php?id=1000019103&type=vehicules">Vehicles</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link " href="game.php?id=1000019103&type=circuits">Tracks/Places</a>
+ </li>         <li class="nav-item">
+            <a class="nav-link " href="game.php?id=1000019103&type=commentaires">Comments</a>
+        </li>
+</div>
+        <ul class="nav nav-pills mb-3 justify-content-center">
+    <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=asImages" class="nav-link active">
+            <i class="fas fa-th-large"></i> <span>A-Z</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=asDate" class="nav-link ">
+            <i class="fas fa-calendar-alt"></i> <span>Recently Updated</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=terre" class="nav-link ">
+            <i class="fas fa-car"></i> <span>Land</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=air" class="nav-link ">
+            <i class="fas fa-plane"></i> <span>Air/Space</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=eau" class="nav-link ">
+            <i class="fas fa-ship"></i> <span>Sea</span>
+        </a>
+    </li>
+    <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=jouable" class="nav-link ">
+            <i class="fas fa-gamepad"></i> <span>Playable vehicle</span>
+        </a>
+    </li>
+     <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=njouable" class="nav-link ">
+            <i class="fas fa-circle-xmark"></i> <span>Unplayable vehicle</span>
+        </a>
+    </li>
+     <li class="nav-item">
+        <a href="game.php?id=1000019103&type=vehicules&resultsStyle=telech" class="nav-link ">
+            <i class="fas fa-download"></i> <span>Downloadable vehicle</span>
+        </a>
+    </li>  	
+	   </ul>
+</div>		
+		
+		<div class="container-fluid mt-4"><div class="row">        <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423122"><img src="thumbnail.php?pic=423-122.jpg" class="card-img-top" alt="Chevrolet Blazer" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Chevrolet Blazer</b>
+                                                         <br><i>The Trail Burner</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423123"><img src="thumbnail.php?pic=423-123.jpg" class="card-img-top" alt="Dodge Power Wagon" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Dodge Power Wagon</b>
+                                                         <br><i>The Blast Wagon</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423124"><img src="thumbnail.php?pic=423-124.jpg" class="card-img-top" alt="Ford Bronco" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Ford Bronco</b>
+                                                         <br><i>The Bull V1</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423125"><img src="thumbnail.php?pic=423-125.jpg" class="card-img-top" alt="Ford Explorer" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Ford Explorer</b>
+                                                         <br><i>Roamer</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423139"><img src="thumbnail.php?pic=423-139.jpg" class="card-img-top" alt="GMC K-1500" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                GMC K-1500</b>
+                                                         <br><i>The Cumbre</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423126"><img src="thumbnail.php?pic=423-126.jpg" class="card-img-top" alt="International Harvester R-Series" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                International Harvester R-Series</b>
+                                                         <br><i>The Timberbox</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423120"><img src="thumbnail.php?pic=423-120.jpg" class="card-img-top" alt="International Harvester Scout" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                International Harvester Scout</b>
+                                                         <br><i>The Trailrat</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                                                                        							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423127"><img src="thumbnail.php?pic=423-127.jpg" class="card-img-top" alt="Jeep Wagoneer" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Jeep Wagoneer</b>
+                                                         <br><i>The Grand Woodman</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423128"><img src="thumbnail.php?pic=423-128.jpg" class="card-img-top" alt="Jeep Wagoneer" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Jeep Wagoneer</b>
+                                                         <br><i>The Woodman</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423129"><img src="thumbnail.php?pic=423-129.jpg" class="card-img-top" alt="Lada Niva" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Lada Niva</b>
+                                                         <br><i>The Polyana</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423131"><img src="thumbnail.php?pic=423-131.jpg" class="card-img-top" alt="Land-Rover 88''" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Land-Rover 88''</b>
+                                                         <br><i>The Tinny</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423107"><img src="thumbnail.php?pic=423-107.jpg" class="card-img-top" alt="Land-Rover Defender" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Land-Rover Defender</b>
+                                                         <br><i>The Protector</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                                                                        							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423130"><img src="thumbnail.php?pic=423-130.jpg" class="card-img-top" alt="Land-Rover Forward Control" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Land-Rover Forward Control</b>
+                                                         <br><i>The Marshal</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423132"><img src="thumbnail.php?pic=423-132.jpg" class="card-img-top" alt="Mercedes-Benz G-Klasse" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Mercedes-Benz G-Klasse</b>
+                                                         <br><i>Das Wombat</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423133"><img src="thumbnail.php?pic=423-133.jpg" class="card-img-top" alt="Mercedes-Benz T2" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Mercedes-Benz T2</b>
+                                                         <br><i>Das Rust OX</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423134"><img src="thumbnail.php?pic=423-134.jpg" class="card-img-top" alt="Mercedes-Benz Unimog" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Mercedes-Benz Unimog</b>
+                                                         <br><i>Das Mammoth</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423108"><img src="thumbnail.php?pic=423-108.jpg" class="card-img-top" alt="Toyota Land Cruiser" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Toyota Land Cruiser</b>
+                                                         <br><i>The Ding</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                                                                        							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423135"><img src="thumbnail.php?pic=423-135.jpg" class="card-img-top" alt="Toyota Land Cruiser" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Toyota Land Cruiser</b>
+                                                         <br><i>The Burro</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423136"><img src="thumbnail.php?pic=423-136.jpg" class="card-img-top" alt="Toyota Land Cruiser" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Toyota Land Cruiser</b>
+                                                         <br><i>The Brick</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423137"><img src="thumbnail.php?pic=423-137.jpg" class="card-img-top" alt="Volkswagen Iltis" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Volkswagen Iltis</b>
+                                                         <br><i>Das Lynx</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423138"><img src="thumbnail.php?pic=423-138.jpg" class="card-img-top" alt="Volvo TP 21" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Volvo TP 21</b>
+                                                         <br><i>The Boar</i>
+                            <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                            <button class="btn btn-danger btn-sm" title="Playable vehicle"><i class="fas fa-gamepad"></i></button>
+                                                                            <button class="btn btn-warning btn-sm" title=""><i class="fas fa-lock"></i></button>
+                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423145"><img src="thumbnail.php?pic=423-145.jpg" class="card-img-top" alt="Cessna unknown" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Cessna unknown</b>
+                         <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423117"><img src="thumbnail.php?pic=423-117.jpg" class="card-img-top" alt="Consolidated B-24 Liberator" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Consolidated B-24 Liberator</b>
+                         <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423140"><img src="thumbnail.php?pic=423-140.jpg" class="card-img-top" alt="Made for Game Rocket" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Made for Game Rocket</b>
+                         <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+                <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 mb-3">
+                            <div class="card card-custom2">
+                    <a href="vehicle.php?id=423109"><img src="thumbnail.php?pic=423-109.jpg" class="card-img-top" alt="Mercedes-Benz Unimog" />
+                    </a>
+					<div class="card-body">
+                        <h5 class="card-title" style="font-size: 0.9rem;"><b>
+                                Mercedes-Benz Unimog</b>
+                         <br><br>
+							                                                    <button class="btn btn-danger btn-sm" title="New"><i class="fas fa-star"></i></button>
+                        						                                                                                                							</h5>
+                    </div>
+                </div>
+        </div>
+        </div></div><footer class="py-4 bg-secondary mt-5">
+    <div class="container-fluid px-4">
+        <div class="d-flex align-items-center justify-content-between small">
+            <div class="text-muted">&copy; 2006-2026 IGCD.net</div>
+
+        </div>
+    </div>
+</footer>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
+        <script src="js/scripts.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js" crossorigin="anonymous"></script>
+        <script src="assets/demo/chart-area-demo.js"></script>
+        <script src="assets/demo/chart-bar-demo.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/simple-datatables@7.1.2/dist/umd/simple-datatables.min.js" crossorigin="anonymous"></script>
+        <script src="js/datatables-simple-demo.js"></script>
+		
+    <!-- Modale Bootstrap 5 -->
+    <div class="modal fade modal-dark" id="commentModal" tabindex="-1" aria-labelledby="commentModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="commentModalLabel">Add a comment</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="commentFormContainer">
+                    <!-- Le formulaire sera chargé ici dynamiquement -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+$(document).ready(function() {
+    $('#commentModal').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget);
+        var quoteId = button.data('quote-id') || 0; 
+        var vehicleId = button.data('vehicle-id') || 0;
+        var movieId = button.data('movie-id') || 0;
+        
+        console.log("Quote ID récupéré :", quoteId);  // Debug
+        console.log("Vehicle ID récupéré :", vehicleId);  // Debug
+        console.log("Movie ID récupéré :", movieId);  // Debug
+
+        $('#commentFormContainer').load('load_comment_form.php', {
+            movie_id: movieId,
+            vehicle_id: vehicleId,
+            replyto: quoteId
+        });
+    });
+});
+</script>
+    </body>
+</html>
+
+

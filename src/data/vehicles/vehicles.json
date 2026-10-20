@@ -1,0 +1,2537 @@
+[
+  {
+    "id": "protector",
+    "slug": "protector",
+    "title": "The Protector",
+    "description": "A British utility 4x4 with a tall cabin and squared bodywork. Engine, tyre, suspension and winch upgrades are available through the garage.",
+    "category": "Trail",
+    "image": "/images/game/screenshot-11.webp",
+    "imageAlt": "Protector climbing an Algerian rocky slope in Over the Hill",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-starters",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Protector",
+        "paragraphs": [
+          "A British utility 4x4 with a tall cabin and squared bodywork. Engine, tyre, suspension and winch upgrades are available through the garage."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Protector | Over the Hill Field Guide",
+      "description": "A British utility 4x4 with a tall cabin and squared bodywork. Engine, tyre, suspension and winch upgrades are available through the garage."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "United Kingdom"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "55 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Starting vehicle"
+      }
+    ],
+    "imageLabel": "",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "United Kingdom",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "55 cm",
+      "Wheel radius": "40 cm"
+    },
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Protector.webp",
+    "referenceImageAlt": "The Protector stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cyan, Green, Grey, Red, White, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "ding",
+    "slug": "ding",
+    "title": "The Ding",
+    "description": "A short, upright starter 4x4 with a flat roof and compact cabin. Its center of mass changed in the October 16 update, so earlier handling impressions may no longer apply.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/ding.webp",
+    "imageAlt": "The Ding in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-starters",
+      "patch-2026-10-16",
+      "photo-ding",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Ding",
+        "paragraphs": [
+          "A short, upright starter 4x4 with a flat roof and compact cabin. Its center of mass changed in the October 16 update, so earlier handling impressions may no longer apply."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Ding | Over the Hill Field Guide",
+      "description": "A short, upright off-roader with a flat roof and compact cabin. It is one of the vehicles shown in release-day driving and garage coverage."
+    },
+    "playerNotes": [
+      "The October 16 patch adjusted the center of mass; it did not publish a numeric handling bonus."
+    ],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "Japan"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "45 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Starting vehicle"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "Japan",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "45 cm",
+      "Wheel radius": "40 cm"
+    },
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/DingDing.webp",
+    "referenceImageAlt": "The Ding stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cream, Cyan, Green, Grey/Black, Grey/White, Red, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "trailrat",
+    "slug": "trailrat",
+    "title": "The Trailrat",
+    "description": "The open, simple American hardtop keeps a long hood ahead of a short cabin. Its shape is distinct from the enclosed utility bodies in Trail.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/trailrat.webp",
+    "imageAlt": "The Trailrat in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-starters",
+      "photo-trailrat",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Trailrat",
+        "paragraphs": [
+          "The open, simple American hardtop keeps a long hood ahead of a short cabin. Its shape is distinct from the enclosed utility bodies in Trail."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Trailrat | Over the Hill Field Guide",
+      "description": "The open, simple American hardtop keeps a long hood ahead of a short cabin. Its shape is distinct from the enclosed utility bodies in Trail."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "55 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Starting vehicle"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "United States",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "55 cm",
+      "Wheel radius": "40 cm"
+    },
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Trailrat.webp",
+    "referenceImageAlt": "The Trailrat stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cyan, Green, Red, White, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200, 250 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "brick",
+    "slug": "brick",
+    "title": "The Brick",
+    "description": "A boxy Japanese utility SUV with a high roof and nearly vertical tail. Complete Bridal Veil Falls Climb in Gimli Ridge for this vehicle.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/brick.webp",
+    "imageAlt": "The Brick in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "photo-brick",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Brick",
+        "paragraphs": [
+          "A boxy Japanese utility SUV with a high roof and nearly vertical tail. Complete Bridal Veil Falls Climb in Gimli Ridge for this vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Brick | Over the Hill Field Guide",
+      "description": "A boxy Japanese utility SUV with a high roof and nearly vertical tail. Complete Bridal Veil Falls Climb in Gimli Ridge for this vehicle."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "Japan"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "55 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Bridal Veil Falls Climb"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "Japan",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "55 cm",
+      "Wheel radius": "40 cm"
+    },
+    "unlock": "Complete Bridal Veil Falls Climb",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Brick.webp",
+    "referenceImageAlt": "The Brick stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Black, Blue, Cream, Grey, Red, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "bull",
+    "slug": "bull",
+    "title": "The Bull v1",
+    "description": "A broad American hardtop with a stepped hood. Blanshard Ridge Trail in Asgard Mountain awards this Trail-class vehicle.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/bull.webp",
+    "imageAlt": "The Bull v1 in an in-game screenshot",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "photo-bull",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Bull v1",
+        "paragraphs": [
+          "A broad American hardtop with a stepped hood. Blanshard Ridge Trail in Asgard Mountain awards this Trail-class vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Bull v1 | Over the Hill Field Guide",
+      "description": "A broad American hardtop with a stepped hood. Blanshard Ridge Trail in Asgard Mountain awards this Trail-class vehicle."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "55 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Blanshard Ridge Trail"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Player screenshot",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "United States",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "55 cm",
+      "Wheel radius": "40 cm"
+    },
+    "unlock": "Complete Blanshard Ridge Trail",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Bull.webp",
+    "referenceImageAlt": "The Bull v1 stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cyan, Cyan/White, Green, Green/White, Grey, Grey/Black, Grey/White, Orange, Orange/White, Red, Red/White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200, 250 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "polyana",
+    "slug": "polyana",
+    "title": "The Polyana",
+    "description": "A compact Russian SUV with a sloping rear body. Its release unlock is Elvis Rim Trail in Gimli Ridge.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/polyana.webp",
+    "imageAlt": "The Polyana in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "photo-polyana",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Polyana",
+        "paragraphs": [
+          "A compact Russian SUV with a sloping rear body. Its release unlock is Elvis Rim Trail in Gimli Ridge."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Polyana | Over the Hill Field Guide",
+      "description": "A compact Russian SUV with a sloping rear body. Its release unlock is Elvis Rim Trail in Gimli Ridge."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "Russia"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "40 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "35 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Elvis Rim Trail"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "Russia",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "40 cm",
+      "Wheel radius": "35 cm"
+    },
+    "unlock": "Complete Elvis Rim Trail",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Polyana.webp",
+    "referenceImageAlt": "The Polyana stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Blue, Green, Grey, Red, White, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "tinny",
+    "slug": "tinny",
+    "title": "The Tinny",
+    "description": "A narrow, canvas-backed Trail vehicle with a short cabin. Finish Ukhtayn Route in Aurès Mountains to unlock it.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/tinny.webp",
+    "imageAlt": "The Tinny in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-tinny",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Tinny",
+        "paragraphs": [
+          "A narrow, canvas-backed Trail vehicle with a short cabin. Finish Ukhtayn Route in Aurès Mountains to unlock it."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Tinny | Over the Hill Field Guide",
+      "description": "A small utility vehicle with a canvas-style rear cover and narrow cabin. It sits among the lighter Trail-class bodies."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "United Kingdom"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "55 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Ukhtayn Route"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "United Kingdom",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "55 cm",
+      "Wheel radius": "40 cm"
+    },
+    "unlock": "Complete Ukhtayn Route",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Tinny.webp",
+    "referenceImageAlt": "The Tinny stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Blue, Cream, Dark Green, Green, Grey"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200, 250, 300 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "lynx",
+    "slug": "lynx",
+    "title": "Das Lynx",
+    "description": "A compact, open-sided utility 4x4 with exposed wheel arches. Its reward trail is Mahrouqa West Track in Aurès Mountains.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/lynx.webp",
+    "imageAlt": "Das Lynx in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-lynx",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Das Lynx",
+        "paragraphs": [
+          "A compact, open-sided utility 4x4 with exposed wheel arches. Its reward trail is Mahrouqa West Track in Aurès Mountains."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "Das Lynx | Over the Hill Field Guide",
+      "description": "A short, upright utility 4x4 with exposed front wheel arches. The compact body differs from the longer Expedition trucks."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "Germany"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "35 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Mahrouqa West Track"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "Germany",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "35 cm",
+      "Wheel radius": "40 cm"
+    },
+    "unlock": "Complete Mahrouqa West Track",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Lynx.webp",
+    "referenceImageAlt": "Das Lynx stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Black, Blue, Brown, Cream, Green, Grey, Red, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "wombat",
+    "slug": "wombat",
+    "title": "Das Wombat",
+    "description": "A tall, enclosed hardtop with a flat roof and angular wheel arches. El Kalaa North Ascent in the Tassili desert awards this vehicle.",
+    "category": "Trail",
+    "image": "/images/vehicles/gameplay/wombat.webp",
+    "imageAlt": "Das Wombat in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-wombat",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Das Wombat",
+        "paragraphs": [
+          "A tall, enclosed hardtop with a flat roof and angular wheel arches. El Kalaa North Ascent in the Tassili desert awards this vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "Das Wombat | Over the Hill Field Guide",
+      "description": "A tall, enclosed hardtop with a flat roof and angular wheel arches. El Kalaa North Ascent in the Tassili desert awards this vehicle."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Trail"
+      },
+      {
+        "label": "Country",
+        "value": "Germany"
+      },
+      {
+        "label": "Stock mass",
+        "value": "1,600 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "100 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "27 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "38°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "55 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "43 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete El Kalaa North Ascent"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Trail",
+      "Country": "Germany",
+      "Stock mass": "1,600 kg",
+      "Stock torque": "100 N·m",
+      "Stock speed cap": "27 km/h",
+      "Steering angle": "38°",
+      "Suspension travel": "55 cm",
+      "Wheel radius": "43 cm"
+    },
+    "unlock": "Complete El Kalaa North Ascent",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 100,
+        "speedCap": 27
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 106,
+        "speedCap": 31
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 112,
+        "speedCap": 34
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Wombat.webp",
+    "referenceImageAlt": "Das Wombat stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Blue, Cyan, Green, Red, White, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "trail-burner",
+    "slug": "trail-burner",
+    "title": "The Trail Burner",
+    "description": "An American two-door SUV with a long hood and rear hardtop. Complete Windy Joe Trail in Emerald Lake to add it to the garage.",
+    "category": "Wagon",
+    "image": "/images/vehicles/trail-burner.webp",
+    "imageAlt": "Trail Burner in Over the Hill",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Trail Burner",
+        "paragraphs": [
+          "An American two-door SUV with a long hood and rear hardtop. Complete Windy Joe Trail in Emerald Lake to add it to the garage."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Trail Burner | Over the Hill Field Guide",
+      "description": "An American two-door SUV with a long hood and rear hardtop. Complete Windy Joe Trail in Emerald Lake to add it to the garage."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,000 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "125 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "29 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "33°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "50 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "44 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Windy Joe Trail"
+      }
+    ],
+    "imageLabel": "",
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Stock mass": "2,000 kg",
+      "Stock torque": "125 N·m",
+      "Stock speed cap": "29 km/h",
+      "Steering angle": "33°",
+      "Suspension travel": "50 cm",
+      "Wheel radius": "44 cm"
+    },
+    "unlock": "Complete Windy Joe Trail",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 125,
+        "speedCap": 29
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 138,
+        "speedCap": 32
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 151,
+        "speedCap": 36
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/TrailBurner.webp",
+    "referenceImageAlt": "The Trail Burner stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cyan, Cyan/White, Green, Green/White, Grey, Grey/Black, Grey/White, Orange, Orange/White, Red, Red/White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "roamer",
+    "slug": "roamer",
+    "title": "Roamer",
+    "description": "A long passenger wagon with an upright rear and enclosed cabin. Complete Kalaa Ulya Track in Aurès Mountains to unlock it.",
+    "category": "Wagon",
+    "image": "/images/vehicles/gameplay/roamer.webp",
+    "imageAlt": "Roamer in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-roamer",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Roamer",
+        "paragraphs": [
+          "A long passenger wagon with an upright rear and enclosed cabin. Complete Kalaa Ulya Track in Aurès Mountains to unlock it."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "Roamer | Over the Hill Field Guide",
+      "description": "A five-door wagon with a long passenger cabin and upright rear. It belongs to the Wagon group in the release garage."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,000 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "125 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "29 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "33°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "50 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "42 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Kalaa Ulya Track"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Stock mass": "2,000 kg",
+      "Stock torque": "125 N·m",
+      "Stock speed cap": "29 km/h",
+      "Steering angle": "33°",
+      "Suspension travel": "50 cm",
+      "Wheel radius": "42 cm"
+    },
+    "unlock": "Complete Kalaa Ulya Track",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 125,
+        "speedCap": 29
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 138,
+        "speedCap": 32
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 151,
+        "speedCap": 36
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Roamer.webp",
+    "referenceImageAlt": "The Roamer stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Blue, Cream, Cyan, Dark Blue, Grey, Red, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "woodman",
+    "slug": "woodman",
+    "title": "The Woodman",
+    "description": "A long-roof wagon with woodgrain side trim. Its release unlock is El Kalaa South Ascent in the Tassili desert.",
+    "category": "Wagon",
+    "image": "/images/vehicles/gameplay/woodman.webp",
+    "imageAlt": "The Woodman in an in-game screenshot",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-woodman",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Woodman",
+        "paragraphs": [
+          "A long-roof wagon with woodgrain side trim. Its release unlock is El Kalaa South Ascent in the Tassili desert."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Woodman | Over the Hill Field Guide",
+      "description": "A long-roof wagon with woodgrain side trim. Its release unlock is El Kalaa South Ascent in the Tassili desert."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,000 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "125 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "29 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "33°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "50 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "38 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete El Kalaa South Ascent"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Player screenshot",
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Stock mass": "2,000 kg",
+      "Stock torque": "125 N·m",
+      "Stock speed cap": "29 km/h",
+      "Steering angle": "33°",
+      "Suspension travel": "50 cm",
+      "Wheel radius": "38 cm"
+    },
+    "unlock": "Complete El Kalaa South Ascent",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 125,
+        "speedCap": 29
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 138,
+        "speedCap": 32
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 151,
+        "speedCap": 36
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Woodman.webp",
+    "referenceImageAlt": "The Woodman stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cream, Cyan, Green, Red, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200, 250 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "grand-woodman",
+    "slug": "grand-woodman",
+    "title": "The Grand Woodman",
+    "description": "A long passenger wagon with woodgrain side trim and a broad, vertical-bar grille. Complete Asulkan Lake Highline in Asgard Mountain to unlock it.",
+    "category": "Wagon",
+    "image": "/images/vehicles/gameplay/grand-woodman.webp",
+    "imageAlt": "The Grand Woodman in an in-game screenshot",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "photo-grand-woodman",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Grand Woodman",
+        "paragraphs": [
+          "A long passenger wagon with woodgrain side trim and a broad, vertical-bar grille. Complete Asulkan Lake Highline in Asgard Mountain to unlock it."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Grand Woodman | Over the Hill Field Guide",
+      "description": "The larger wood-trim wagon has a long passenger body and raised rear roofline. Complete Asulkan Lake Highline in Asgard Mountain to unlock it."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,000 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "125 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "29 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "33°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "50 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "38 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Asulkan Lake Highline"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Player screenshot",
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Stock mass": "2,000 kg",
+      "Stock torque": "125 N·m",
+      "Stock speed cap": "29 km/h",
+      "Steering angle": "33°",
+      "Suspension travel": "50 cm",
+      "Wheel radius": "38 cm"
+    },
+    "unlock": "Complete Asulkan Lake Highline",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 125,
+        "speedCap": 29
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 138,
+        "speedCap": 32
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 151,
+        "speedCap": 36
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/GrandWoodman.webp",
+    "referenceImageAlt": "The Grand Woodman stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Blue, Brown, Green, Red, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200, 250 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "cumbre",
+    "slug": "cumbre",
+    "title": "The Cumbre",
+    "description": "A single-cab pickup with an open cargo bed and a long hood. Jazira Ascent in Aurès Mountains awards this Wagon-class vehicle.",
+    "category": "Wagon",
+    "image": "/images/vehicles/gameplay/cumbre.webp",
+    "imageAlt": "The Cumbre in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-cumbre",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Cumbre",
+        "paragraphs": [
+          "A single-cab pickup with an open cargo bed and a long hood. Jazira Ascent in Aurès Mountains awards this Wagon-class vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Cumbre | Over the Hill Field Guide",
+      "description": "An open passenger utility with a long hood, roll bar and rear cargo space. Its low roofline contrasts with the enclosed wagons."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Wagon"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,000 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "125 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "29 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "33°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "50 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "44 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Jazira Ascent"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Wagon",
+      "Country": "United States",
+      "Stock mass": "2,000 kg",
+      "Stock torque": "125 N·m",
+      "Stock speed cap": "29 km/h",
+      "Steering angle": "33°",
+      "Suspension travel": "50 cm",
+      "Wheel radius": "44 cm"
+    },
+    "unlock": "Complete Jazira Ascent",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 125,
+        "speedCap": 29
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 138,
+        "speedCap": 32
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 151,
+        "speedCap": 36
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Cumbre.webp",
+    "referenceImageAlt": "The Cumbre stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Brown, Brown/White, Cyan, Cyan/White, Green, Green/White, Orange, Orange/White, Red, Red/White, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200, 250, 300 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "burro",
+    "slug": "burro",
+    "title": "The Burro",
+    "description": "A Japanese single-cab pickup with an open bed. The release reward is tied to Hermit Trail in Emerald Lake; Rocky Ascent belongs to the earlier Demo.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/burro.webp",
+    "imageAlt": "Burro in Over the Hill",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Burro",
+        "paragraphs": [
+          "A Japanese single-cab pickup with an open bed. The release reward is tied to Hermit Trail in Emerald Lake; Rocky Ascent belongs to the earlier Demo."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Burro | Over the Hill Field Guide",
+      "description": "A Japanese single-cab pickup with an open bed. The release reward is tied to Hermit Trail in Emerald Lake; Rocky Ascent belongs to the earlier Demo."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "Japan"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,800 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "175 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "22 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "28°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "45 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Hermit Trail"
+      }
+    ],
+    "imageLabel": "",
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "Japan",
+      "Stock mass": "2,800 kg",
+      "Stock torque": "175 N·m",
+      "Stock speed cap": "22 km/h",
+      "Steering angle": "28°",
+      "Suspension travel": "45 cm",
+      "Wheel radius": "40 cm"
+    },
+    "unlock": "Complete Hermit Trail",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 175,
+        "speedCap": 22
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 190,
+        "speedCap": 25
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 207,
+        "speedCap": 29
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Burro.webp",
+    "referenceImageAlt": "The Burro stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cream, Cyan, Green, Grey/Black, Grey/White, Red, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "blast-wagon",
+    "slug": "blast-wagon",
+    "title": "The Blast Wagon",
+    "description": "A conventional American pickup with a separate cab and long open cargo bed. Windcall Gorge Trail in Gimli Ridge awards this Workhorse.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/gameplay/blast-wagon.webp",
+    "imageAlt": "The Blast Wagon in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "photo-blast-wagon",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Blast Wagon",
+        "paragraphs": [
+          "A conventional American pickup with a separate cab and long open cargo bed. Windcall Gorge Trail in Gimli Ridge awards this Workhorse."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Blast Wagon | Over the Hill Field Guide",
+      "description": "A conventional American pickup with a separate cab and long open cargo bed. Windcall Gorge Trail in Gimli Ridge awards this Workhorse."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,800 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "175 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "22 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "28°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "45 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "48 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Windcall Gorge Trail"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "United States",
+      "Stock mass": "2,800 kg",
+      "Stock torque": "175 N·m",
+      "Stock speed cap": "22 km/h",
+      "Steering angle": "28°",
+      "Suspension travel": "45 cm",
+      "Wheel radius": "48 cm"
+    },
+    "unlock": "Complete Windcall Gorge Trail",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 175,
+        "speedCap": 22
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 190,
+        "speedCap": 25
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 207,
+        "speedCap": 29
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/BlastWagon.webp",
+    "referenceImageAlt": "The Blast Wagon stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Brown, Green, Grey, Red, Yellow"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "rust-ox",
+    "slug": "rust-ox",
+    "title": "Das Rust Ox",
+    "description": "An enclosed utility van with a tall, windowed body. Complete Waddington Scree Trail in Gimli Ridge to unlock it.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/gameplay/rust-ox.webp",
+    "imageAlt": "Das Rust Ox in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "player-rust-ox",
+      "photo-rust-ox",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Das Rust Ox",
+        "paragraphs": [
+          "An enclosed utility van with a tall, windowed body. Complete Waddington Scree Trail in Gimli Ridge to unlock it."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "Das Rust Ox | Over the Hill Field Guide",
+      "description": "A tall utility van with a fully enclosed, windowed body. Its body keeps the cargo space under the same roof as the cab."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "Germany"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,800 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "175 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "22 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "28°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "60 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "36 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Waddington Scree Trail"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "Germany",
+      "Stock mass": "2,800 kg",
+      "Stock torque": "175 N·m",
+      "Stock speed cap": "22 km/h",
+      "Steering angle": "28°",
+      "Suspension travel": "60 cm",
+      "Wheel radius": "36 cm"
+    },
+    "unlock": "Complete Waddington Scree Trail",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 175,
+        "speedCap": 22
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 190,
+        "speedCap": 25
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 207,
+        "speedCap": 29
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/RustOx.webp",
+    "referenceImageAlt": "Das Rust Ox stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Brown, Cyan, Green, Red, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "boar",
+    "slug": "boar",
+    "title": "The Boar",
+    "description": "A rounded, enclosed utility body with a tall hood and compact passenger cabin. Complete Tarfa Ascent in the Tassili desert to unlock it.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/gameplay/boar.webp",
+    "imageAlt": "The Boar in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-boar",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Boar",
+        "paragraphs": [
+          "A rounded, enclosed utility body with a tall hood and compact passenger cabin. Complete Tarfa Ascent in the Tassili desert to unlock it."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Boar | Over the Hill Field Guide",
+      "description": "A rounded-cab utility pickup with a separate open bed. Complete Tarfa Ascent in the Tassili desert to unlock it."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "Sweden"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,800 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "175 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "22 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "28°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "45 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "46 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Tarfa Ascent"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "Sweden",
+      "Stock mass": "2,800 kg",
+      "Stock torque": "175 N·m",
+      "Stock speed cap": "22 km/h",
+      "Steering angle": "28°",
+      "Suspension travel": "45 cm",
+      "Wheel radius": "46 cm"
+    },
+    "unlock": "Complete Tarfa Ascent",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 175,
+        "speedCap": 22
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 190,
+        "speedCap": 25
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 207,
+        "speedCap": 29
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Boar.webp",
+    "referenceImageAlt": "The Boar stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Blue, Brown, Cream, Green, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "timberbox",
+    "slug": "timberbox",
+    "title": "The Timberbox",
+    "description": "An enclosed utility wagon with a long row of side windows and wood-trim bodywork. Midgar Ascent in Asgard Mountain awards this vehicle.",
+    "category": "Workhorse",
+    "image": "/images/vehicles/gameplay/timberbox.webp",
+    "imageAlt": "The Timberbox in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "photo-timberbox",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Timberbox",
+        "paragraphs": [
+          "An enclosed utility wagon with a long row of side windows and wood-trim bodywork. Midgar Ascent in Asgard Mountain awards this vehicle."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Timberbox | Over the Hill Field Guide",
+      "description": "An enclosed utility wagon with a long row of side windows and wood-trim bodywork. Midgar Ascent in Asgard Mountain awards this vehicle."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Workhorse"
+      },
+      {
+        "label": "Country",
+        "value": "United States"
+      },
+      {
+        "label": "Stock mass",
+        "value": "2,800 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "175 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "22 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "28°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "45 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "40 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Midgar Ascent"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Workhorse",
+      "Country": "United States",
+      "Stock mass": "2,800 kg",
+      "Stock torque": "175 N·m",
+      "Stock speed cap": "22 km/h",
+      "Steering angle": "28°",
+      "Suspension travel": "45 cm",
+      "Wheel radius": "40 cm"
+    },
+    "unlock": "Complete Midgar Ascent",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 175,
+        "speedCap": 22
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 190,
+        "speedCap": 25
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 207,
+        "speedCap": 29
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Timberbox.webp",
+    "referenceImageAlt": "The Timberbox stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Black, Cyan, Green, Orange, Red"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "mammoth",
+    "slug": "mammoth",
+    "title": "Das Mammoth",
+    "description": "A long expedition truck with a tall cab and open cargo platform. Its release reward is Lower Midgar Trail in Asgard Mountain.",
+    "category": "Expedition",
+    "image": "/images/vehicles/gameplay/mammoth.webp",
+    "imageAlt": "Das Mammoth in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-canada",
+      "photo-mammoth",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Das Mammoth",
+        "paragraphs": [
+          "A long expedition truck with a tall cab and open cargo platform. Its release reward is Lower Midgar Trail in Asgard Mountain."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "Das Mammoth | Over the Hill Field Guide",
+      "description": "A long expedition truck with a tall cab and open cargo platform. Its release reward is Lower Midgar Trail in Asgard Mountain."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Expedition"
+      },
+      {
+        "label": "Country",
+        "value": "Germany"
+      },
+      {
+        "label": "Stock mass",
+        "value": "3,200 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "200 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "20 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "28°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "70 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "52 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Lower Midgar Trail"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Expedition",
+      "Country": "Germany",
+      "Stock mass": "3,200 kg",
+      "Stock torque": "200 N·m",
+      "Stock speed cap": "20 km/h",
+      "Steering angle": "28°",
+      "Suspension travel": "70 cm",
+      "Wheel radius": "52 cm"
+    },
+    "unlock": "Complete Lower Midgar Trail",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 200,
+        "speedCap": 20
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 227,
+        "speedCap": 23
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 256,
+        "speedCap": 27
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Mammoth.webp",
+    "referenceImageAlt": "Das Mammoth stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Cyan, Green, Orange, Red, White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150, 200, 250 km on this vehicle"
+      }
+    ]
+  },
+  {
+    "id": "marshal",
+    "slug": "marshal",
+    "title": "The Marshal",
+    "description": "A heavy utility body with a square cab and enclosed rear compartment. Shabah Ascent in the Tassili desert awards the Marshal.",
+    "category": "Expedition",
+    "image": "/images/vehicles/gameplay/marshal.webp",
+    "imageAlt": "The Marshal in gameplay with a player-made livery",
+    "sourceUrl": "https://funselektor.notion.site/over-the-hill-Modding-Documentation-3f184e36aaa080da83deeedc01b872ec",
+    "sourceIds": [
+      "release-modding",
+      "release-catalog",
+      "release-raptor",
+      "release-algeria",
+      "photo-marshal",
+      "maprunner-vehicles"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "The Marshal",
+        "paragraphs": [
+          "A heavy utility body with a square cab and enclosed rear compartment. Shabah Ascent in the Tassili desert awards the Marshal."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/upgrades"
+    ],
+    "seo": {
+      "title": "The Marshal | Over the Hill Field Guide",
+      "description": "A heavy utility body with a square cab and enclosed rear compartment. Shabah Ascent in the Tassili desert awards the Marshal."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Class",
+        "value": "Expedition"
+      },
+      {
+        "label": "Country",
+        "value": "United Kingdom"
+      },
+      {
+        "label": "Stock mass",
+        "value": "3,200 kg"
+      },
+      {
+        "label": "Stock torque",
+        "value": "200 N·m"
+      },
+      {
+        "label": "Stock speed cap",
+        "value": "20 km/h"
+      },
+      {
+        "label": "Steering angle",
+        "value": "28°"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "70 cm"
+      },
+      {
+        "label": "Wheel radius",
+        "value": "52 cm"
+      },
+      {
+        "label": "Unlock",
+        "value": "Complete Shabah Ascent"
+      }
+    ],
+    "imageKind": "game-screenshot",
+    "imageLabel": "Custom livery",
+    "specifications": {
+      "Class": "Expedition",
+      "Country": "United Kingdom",
+      "Stock mass": "3,200 kg",
+      "Stock torque": "200 N·m",
+      "Stock speed cap": "20 km/h",
+      "Steering angle": "28°",
+      "Suspension travel": "70 cm",
+      "Wheel radius": "52 cm"
+    },
+    "unlock": "Complete Shabah Ascent",
+    "engineStages": [
+      {
+        "stage": "Stock",
+        "torque": 200,
+        "speedCap": 20
+      },
+      {
+        "stage": "Stage 2",
+        "torque": 227,
+        "speedCap": 23
+      },
+      {
+        "stage": "Stage 3",
+        "torque": 256,
+        "speedCap": 27
+      }
+    ],
+    "referenceImage": "/images/vehicles/stock/Marshal.webp",
+    "referenceImageAlt": "The Marshal stock game model",
+    "detailFacts": [
+      {
+        "label": "Factory colours",
+        "value": "Blue, Cream, Cyan/White, Green, Green/White, Red/White, White, Yellow/White"
+      },
+      {
+        "label": "Distance liveries",
+        "value": "50, 100, 150 km on this vehicle"
+      }
+    ]
+  }
+]

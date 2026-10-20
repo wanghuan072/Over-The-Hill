@@ -1,0 +1,10 @@
+.breadcrumb {
+  font-size: 12px;
+  letter-spacing: 0.3px;
+  color: #6a756a;
+  margin-bottom: 24px;
+}
+.breadcrumb span > span {
+  margin: 0 10px;
+  color: #9a9d92;
+}

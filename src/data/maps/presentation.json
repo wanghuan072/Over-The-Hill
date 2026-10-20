@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "emerald-lake",
+    "satellite": "/images/maps/atlas/emerald-lake-satellite.webp",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/emerald-lake-ground.webp"
+      },
+      {
+        "key": "snow",
+        "label": "Deep snow",
+        "image": "/images/maps/atlas/emerald-lake-snow.webp"
+      },
+      {
+        "key": "ice",
+        "label": "Ice",
+        "image": "/images/maps/atlas/emerald-lake-ice.webp"
+      },
+      {
+        "key": "soft",
+        "label": "Soft ground",
+        "image": "/images/maps/atlas/emerald-lake-soft.webp"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/emerald-lake-water.webp"
+      }
+    ]
+  },
+  {
+    "slug": "gimli-ridge",
+    "satellite": "/images/maps/atlas/gimli-ridge-satellite.webp",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/gimli-ridge-ground.webp"
+      },
+      {
+        "key": "snow",
+        "label": "Deep snow",
+        "image": "/images/maps/atlas/gimli-ridge-snow.webp"
+      },
+      {
+        "key": "ice",
+        "label": "Ice",
+        "image": "/images/maps/atlas/gimli-ridge-ice.webp"
+      },
+      {
+        "key": "soft",
+        "label": "Soft ground",
+        "image": "/images/maps/atlas/gimli-ridge-soft.webp"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/gimli-ridge-water.webp"
+      }
+    ]
+  },
+  {
+    "slug": "asgard-mountain",
+    "satellite": "/images/maps/atlas/asgard-mountain-satellite.webp",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/asgard-mountain-ground.webp"
+      },
+      {
+        "key": "snow",
+        "label": "Deep snow",
+        "image": "/images/maps/atlas/asgard-mountain-snow.webp"
+      },
+      {
+        "key": "ice",
+        "label": "Ice",
+        "image": "/images/maps/atlas/asgard-mountain-ice.webp"
+      },
+      {
+        "key": "soft",
+        "label": "Soft ground",
+        "image": "/images/maps/atlas/asgard-mountain-soft.webp"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/asgard-mountain-water.webp"
+      }
+    ]
+  },
+  {
+    "slug": "tassili-najjer-desert",
+    "satellite": "/images/maps/atlas/tassili-najjer-desert-satellite.webp",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/tassili-najjer-desert-ground.webp"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/tassili-najjer-desert-water.webp"
+      }
+    ]
+  },
+  {
+    "slug": "aures-mountains",
+    "satellite": "/images/maps/atlas/aures-mountains-satellite.webp",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/aures-mountains-ground.webp"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/aures-mountains-water.webp"
+      }
+    ]
+  }
+]

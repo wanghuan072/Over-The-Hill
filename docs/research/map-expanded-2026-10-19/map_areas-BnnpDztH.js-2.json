@@ -1,0 +1,2973 @@
+{
+  "worldBounds": {
+    "minX": -2000.0,
+    "maxX": 2000.0,
+    "minZ": -2000.0,
+    "maxZ": 2000.0
+  },
+  "markers": [
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 96.5,
+        "y": 346.5,
+        "z": -1288.0
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1232.7,
+        "y": 81.9,
+        "z": -989.8
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 763.7,
+        "y": 294.6,
+        "z": -916.9
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -988.1,
+        "y": 479.8,
+        "z": -1271.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 47
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -327.3,
+        "y": 380.3,
+        "z": -805.2
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 19
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 93.8,
+        "y": 345.4,
+        "z": -1291.8
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -543.5,
+        "y": 350.6,
+        "z": -1336.5
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -465.2,
+        "y": 337.1,
+        "z": -986.0
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1221.4,
+        "y": 81.7,
+        "z": -1054.5
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 565.9,
+        "y": 262.7,
+        "z": -1697.2
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 605.0,
+        "y": 250.6,
+        "z": -1500.0
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 595.6,
+        "y": 442.3,
+        "z": 1120.3
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 36
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 629.2,
+        "y": 303.2,
+        "z": 395.3
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1441.4,
+        "y": 225.6,
+        "z": 260.7
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -246.0,
+        "y": 379.6,
+        "z": -1395.7
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 740.4,
+        "y": 224.8,
+        "z": -1216.4
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 24
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -846.1,
+        "y": 507.5,
+        "z": -1160.1
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -842.6,
+        "y": 507.5,
+        "z": -1165.8
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 769.4,
+        "y": 293.4,
+        "z": -906.2
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 162.1,
+        "y": 679.8,
+        "z": -850.0
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -676.7,
+        "y": 366.4,
+        "z": -1242.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 55
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 90.3,
+        "y": 345.6,
+        "z": -1289.2
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 997.6,
+        "y": 242.6,
+        "z": 345.6
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1048.1,
+        "y": 239.8,
+        "z": 357.2
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1203.0,
+        "y": 267.7,
+        "z": 268.3
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 284.1,
+        "y": 617.7,
+        "z": -931.7
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1287.7,
+        "y": 107.3,
+        "z": -499.1
+      },
+      "area": "R1A3",
+      "name": "GrayWolf",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1385.9,
+        "y": 116.7,
+        "z": -846.4
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 26
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 180.7,
+        "y": 320.9,
+        "z": -1470.8
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 17
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -1019.3,
+        "y": 353.6,
+        "z": 498.1
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1531.0,
+        "y": 123.8,
+        "z": -204.2
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1528.3,
+        "y": 125.6,
+        "z": -190.4
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 44.2,
+        "y": 318.1,
+        "z": -1583.4
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1050.7,
+        "y": 241.5,
+        "z": 351.3
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1342.8,
+        "y": 91.2,
+        "z": -797.8
+      },
+      "area": "R1A3",
+      "name": "GrayWolf",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 312.2,
+        "y": 251.1,
+        "z": -1368.3
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 853.2,
+        "y": 199.1,
+        "z": -1464.6
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 98.9,
+        "y": 346.1,
+        "z": -1291.9
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -840.7,
+        "y": 507.5,
+        "z": -1156.0
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1177.3,
+        "y": 83.5,
+        "z": -880.9
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1617.7,
+        "y": 147.1,
+        "z": 149.8
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 368.1,
+        "y": 390.8,
+        "z": -319.8
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -1338.9,
+        "y": 213.0,
+        "z": 168.0
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 12"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -380.0,
+        "y": 664.8,
+        "z": 737.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 7
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -108.7,
+        "y": 318.0,
+        "z": -1595.7
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 725.1,
+        "y": 297.0,
+        "z": -866.1
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -840.3,
+        "y": 507.5,
+        "z": -1161.3
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -757.8,
+        "y": 546.4,
+        "z": -987.5
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -1133.5,
+        "y": 449.5,
+        "z": -1068.5
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1330.4,
+        "y": 220.9,
+        "z": 381.6
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1553.0,
+        "y": 132.5,
+        "z": -164.7
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -21.4,
+        "y": 513.0,
+        "z": 1605.9
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 13"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1412.6,
+        "y": 115.5,
+        "z": -334.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1069.4,
+        "y": 248.8,
+        "z": 328.0
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 310.4,
+        "y": 264.2,
+        "z": -1447.6
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1059.7,
+        "y": 246.8,
+        "z": 331.0
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 98.9,
+        "y": 341.3,
+        "z": -1342.3
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 1445.8,
+        "y": 221.0,
+        "z": -28.2
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -86.4,
+        "y": 317.9,
+        "z": -1595.4
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 766.3,
+        "y": 294.5,
+        "z": -908.0
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 47.5,
+        "y": 317.7,
+        "z": -1585.5
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -585.4,
+        "y": 633.0,
+        "z": 524.2
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 15"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1217.9,
+        "y": 85.4,
+        "z": -1311.0
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 308.6,
+        "y": 263.3,
+        "z": -1443.8
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -79.0,
+        "y": 485.2,
+        "z": -432.9
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 6"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1366.2,
+        "y": 381.1,
+        "z": -374.9
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 37
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 860.9,
+        "y": 357.7,
+        "z": 699.7
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 33
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -96.1,
+        "y": 318.1,
+        "z": -1591.4
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 992.2,
+        "y": 135.3,
+        "z": -912.9
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 25
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 749.5,
+        "y": 353.5,
+        "z": 494.8
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1075.2,
+        "y": 244.0,
+        "z": 370.0
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1049.6,
+        "y": 402.5,
+        "z": 982.1
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 1
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 0.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1212.5,
+        "y": 80.6,
+        "z": -1126.5
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -194.6,
+        "y": 789.6,
+        "z": 279.0
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 12
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -3.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 601.4,
+        "y": 314.1,
+        "z": 475.6
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 9"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1205.8,
+        "y": 80.2,
+        "z": -1134.2
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 601.5,
+        "y": 250.6,
+        "z": -1503.1
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -318.0,
+        "y": 526.8,
+        "z": -552.8
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1353.5,
+        "y": 104.0,
+        "z": -467.6
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 691.9,
+        "y": 217.0,
+        "z": -1249.2
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1206.8,
+        "y": 80.1,
+        "z": -1137.0
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -769.7,
+        "y": 570.3,
+        "z": -944.3
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 572.3,
+        "y": 262.8,
+        "z": -1705.0
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -82.4,
+        "y": 541.3,
+        "z": -225.2
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1622.8,
+        "y": 146.7,
+        "z": 141.8
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1450.2,
+        "y": 99.7,
+        "z": -460.2
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 1331.3,
+        "y": 103.1,
+        "z": -511.2
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 7"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -678.6,
+        "y": 409.6,
+        "z": 37.9
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 41
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -9.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -6.0,
+        "y": 1000.1,
+        "z": 0.0
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -775.7,
+        "y": 436.0,
+        "z": -1335.2
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 883.5,
+        "y": 367.8,
+        "z": 1043.7
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 34
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 55.1,
+        "y": 323.1,
+        "z": -1611.5
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 22
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1523.2,
+        "y": 125.5,
+        "z": -194.3
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -8.4,
+        "y": 508.0,
+        "z": -588.1
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 20
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1344.4,
+        "y": 104.7,
+        "z": -460.2
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 567.0,
+        "y": 262.9,
+        "z": -1706.4
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 603.3,
+        "y": 250.6,
+        "z": -1508.3
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1265.7,
+        "y": 397.3,
+        "z": -923.5
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 49
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1589.8,
+        "y": 140.2,
+        "z": -39.5
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 197.9,
+        "y": 496.2,
+        "z": 1088.1
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 10
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1410.2,
+        "y": 116.5,
+        "z": -328.1
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -551.6,
+        "y": 404.4,
+        "z": 208.2
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 13
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1348.7,
+        "y": 91.3,
+        "z": -791.7
+      },
+      "area": "R1A3",
+      "name": "GrayWolf",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1184.8,
+        "y": 404.1,
+        "z": -947.9
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 48
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 954.2,
+        "y": 277.6,
+        "z": 245.5
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 31
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 551.9,
+        "y": 480.8,
+        "z": 1056.0
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1233.9,
+        "y": 111.7,
+        "z": -540.0
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 51.5,
+        "y": 317.8,
+        "z": -1583.6
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1575.7,
+        "y": 153.0,
+        "z": 192.1
+      },
+      "area": "R1A3",
+      "name": "GrayWolf",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 270.0,
+        "y": 289.5,
+        "z": -1537.3
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 2"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1365.9,
+        "y": 102.9,
+        "z": -474.9
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 676.5,
+        "y": 215.5,
+        "z": -1261.0
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1420.4,
+        "y": 116.6,
+        "z": -326.9
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -730.4,
+        "y": 502.6,
+        "z": -1004.1
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 56
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -208.4,
+        "y": 330.3,
+        "z": -1610.5
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -501.5,
+        "y": 333.4,
+        "z": -997.5
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -828.0,
+        "y": 480.0,
+        "z": -1623.1
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1433.8,
+        "y": 222.7,
+        "z": 256.5
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -103.0,
+        "y": 317.9,
+        "z": -1593.4
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1476.5,
+        "y": 203.0,
+        "z": 369.8
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -823.8,
+        "y": 580.2,
+        "z": -838.8
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -448.5,
+        "y": 336.4,
+        "z": -967.9
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 710.4,
+        "y": 298.5,
+        "z": 319.9
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 32
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1588.0,
+        "y": 142.0,
+        "z": -20.1
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -823.7,
+        "y": 480.0,
+        "z": -1625.7
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1207.8,
+        "y": 80.4,
+        "z": -1128.5
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 567.2,
+        "y": 262.9,
+        "z": -1699.1
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -678.9,
+        "y": 451.1,
+        "z": -1550.5
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 53
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 879.1,
+        "y": 359.3,
+        "z": 1006.1
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 1212.2,
+        "y": 99.0,
+        "z": -1323.1
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1359.2,
+        "y": 102.6,
+        "z": -486.5
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1055.8,
+        "y": 241.7,
+        "z": 366.4
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -704.4,
+        "y": 538.2,
+        "z": -387.8
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 40
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1530.8,
+        "y": 106.6,
+        "z": -431.4
+      },
+      "area": "R1A3",
+      "name": "GrayWolf",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1548.7,
+        "y": 106.9,
+        "z": -428.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 28
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 795.8,
+        "y": 444.4,
+        "z": -646.8
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1265.3,
+        "y": 280.0,
+        "z": 521.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1265.6,
+        "y": 461.3,
+        "z": -288.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 686.6,
+        "y": 402.5,
+        "z": -508.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -778.4,
+        "y": 475.3,
+        "z": -1559.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 362.6,
+        "y": 553.9,
+        "z": 176.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 824.1,
+        "y": 365.9,
+        "z": -334.2
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 873.8,
+        "y": 273.0,
+        "z": 242.6
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -349.2,
+        "y": 455.5,
+        "z": 1301.7
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 6
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 564.9,
+        "y": 262.7,
+        "z": -1693.6
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 769.0,
+        "y": 293.2,
+        "z": -912.9
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 364.6,
+        "y": 553.9,
+        "z": 181.1
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1260.6,
+        "y": 461.3,
+        "z": -288.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 691.6,
+        "y": 402.5,
+        "z": -508.1
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -773.6,
+        "y": 475.3,
+        "z": -1561.0
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1268.5,
+        "y": 280.0,
+        "z": 525.2
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -447.4,
+        "y": 519.7,
+        "z": 968.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 8
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -570.7,
+        "y": 573.9,
+        "z": 745.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 502.4,
+        "y": 255.0,
+        "z": -1507.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1103.0,
+        "y": 357.3,
+        "z": 786.5
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -567.8,
+        "y": 573.9,
+        "z": 741.5
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 499.6,
+        "y": 255.0,
+        "z": -1503.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1179.3,
+        "y": 214.3,
+        "z": 135.3
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 42
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -820.1,
+        "y": 495.8,
+        "z": -1635.2
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -576.4,
+        "y": 573.9,
+        "z": 741.5
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 508.2,
+        "y": 255.0,
+        "z": -1503.8
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -770.8,
+        "y": 435.7,
+        "z": -1339.8
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 545.0,
+        "y": 264.8,
+        "z": -1700.3
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 16
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1329.7,
+        "y": 112.0,
+        "z": -1140.4
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 838.4,
+        "y": 194.5,
+        "z": -1466.8
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -848.5,
+        "y": 478.0,
+        "z": -1372.0
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -846.7,
+        "y": 506.1,
+        "z": -1160.9
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 711.9,
+        "y": 297.0,
+        "z": -860.2
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -995.2,
+        "y": 453.2,
+        "z": -33.1
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 11"
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -44.8,
+        "y": 993.4,
+        "z": 380.0
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 317.5,
+        "y": 250.8,
+        "z": -1371.0
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 1544.1,
+        "y": 162.1,
+        "z": -1252.8
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 4"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1141.0,
+        "y": 428.9,
+        "z": -251.5
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 38
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 1263.2,
+        "y": 239.5,
+        "z": 399.0
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -907.3,
+        "y": 410.7,
+        "z": 739.8
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 2
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1097.3,
+        "y": 356.5,
+        "z": 786.1
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 505.5,
+        "y": 255.0,
+        "z": -1499.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -573.5,
+        "y": 573.9,
+        "z": 737.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -76.1,
+        "y": 516.9,
+        "z": 1672.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 9
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -5.2,
+        "y": 566.8,
+        "z": -96.8
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -191.3,
+        "y": 326.4,
+        "z": -1595.8
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 769.8,
+        "y": 217.6,
+        "z": -1440.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 23
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1043.2,
+        "y": 240.6,
+        "z": 372.6
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1263.1,
+        "y": 280.0,
+        "z": 529.7
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 691.0,
+        "y": 402.5,
+        "z": -501.2
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1260.5,
+        "y": 461.3,
+        "z": -281.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -771.4,
+        "y": 475.3,
+        "z": -1554.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 358.2,
+        "y": 553.9,
+        "z": 183.9
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1451.9,
+        "y": 116.9,
+        "z": -293.5
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -1265.5,
+        "y": 461.3,
+        "z": -281.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 686.0,
+        "y": 402.5,
+        "z": -501.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -776.1,
+        "y": 475.3,
+        "z": -1552.7
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 356.2,
+        "y": 553.9,
+        "z": 179.3
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1259.9,
+        "y": 280.0,
+        "z": 525.8
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -1292.0,
+        "y": 428.5,
+        "z": -787.3
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 753.0,
+        "y": 353.4,
+        "z": 495.1
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 728.1,
+        "y": 297.0,
+        "z": -855.3
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1064.8,
+        "y": 441.4,
+        "z": -127.7
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 39
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 305.3,
+        "y": 250.9,
+        "z": -1373.4
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -818.4,
+        "y": 495.8,
+        "z": -1634.1
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 883.0,
+        "y": 358.1,
+        "z": 1002.0
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 402.0,
+        "y": 538.0,
+        "z": 609.7
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 15
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -827.0,
+        "y": 491.3,
+        "z": -1636.1
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 95.4,
+        "y": 341.4,
+        "z": -1344.8
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 903.2,
+        "y": 356.5,
+        "z": 1010.6
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": 610.2,
+        "y": 277.8,
+        "z": -1706.4
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 37.6,
+        "y": 317.8,
+        "z": -1591.9
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 870.8,
+        "y": 270.6,
+        "z": 249.6
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 842.3,
+        "y": 193.7,
+        "z": -1461.7
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -504.2,
+        "y": 342.0,
+        "z": -976.8
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 765.4,
+        "y": 294.6,
+        "z": -910.1
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -824.4,
+        "y": 480.0,
+        "z": -1617.1
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1091.2,
+        "y": 356.0,
+        "z": 783.2
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -820.1,
+        "y": 480.0,
+        "z": -1619.7
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1357.5,
+        "y": 103.9,
+        "z": -457.8
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1245.2,
+        "y": 88.6,
+        "z": -1356.1
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 27
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 897.0,
+        "y": 358.0,
+        "z": 1016.3
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 996.3,
+        "y": 241.3,
+        "z": 357.7
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1110.0,
+        "y": 189.2,
+        "z": -394.2
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 30
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1224.6,
+        "y": 269.4,
+        "z": 282.0
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 989.9,
+        "y": 241.6,
+        "z": 357.7
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1142.1,
+        "y": 104.5,
+        "z": -1324.5
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1325.6,
+        "y": 117.8,
+        "z": -1125.7
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 42.6,
+        "y": 317.8,
+        "z": -1587.5
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1029.0,
+        "y": 369.7,
+        "z": -771.4
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 50
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -194.7,
+        "y": 327.9,
+        "z": -1603.5
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -524.3,
+        "y": 350.2,
+        "z": -1236.0
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 21
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 606.0,
+        "y": 250.6,
+        "z": -1505.1
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1548.9,
+        "y": 127.9,
+        "z": -174.2
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1437.7,
+        "y": 225.3,
+        "z": 265.4
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": 1417.2,
+        "y": 114.3,
+        "z": -341.7
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -1248.0,
+        "y": 394.8,
+        "z": -907.1
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 10"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 550.2,
+        "y": 440.8,
+        "z": 1195.2
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 14"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1000.7,
+        "y": 246.7,
+        "z": 326.6
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -689.8,
+        "y": 582.6,
+        "z": -650.7
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -29.8,
+        "y": 825.6,
+        "z": 217.7
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1198.1,
+        "y": 267.7,
+        "z": 265.5
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -174.6,
+        "y": 872.5,
+        "z": 456.4
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 11
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 1566.8,
+        "y": 143.4,
+        "z": -64.5
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 29
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -171.2,
+        "y": 326.0,
+        "z": -1582.3
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 1"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -99.3,
+        "y": 317.7,
+        "z": -1593.8
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -1002.1,
+        "y": 356.4,
+        "z": 508.8
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 749.3,
+        "y": 379.3,
+        "z": -352.0
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -1023.1,
+        "y": 354.2,
+        "z": 496.1
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 458.5,
+        "y": 257.3,
+        "z": -1439.2
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -30.3,
+        "y": 825.6,
+        "z": 222.6
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -694.6,
+        "y": 582.6,
+        "z": -652.1
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 747.8,
+        "y": 290.7,
+        "z": 244.8
+      },
+      "area": "R1A3",
+      "name": "RedFoxInfo",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 994.3,
+        "y": 242.4,
+        "z": 349.3
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -838.2,
+        "y": 492.3,
+        "z": -1632.5
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1049.8,
+        "y": 365.9,
+        "z": -592.7
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 51
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -505.1,
+        "y": 330.4,
+        "z": -1059.7
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1621.8,
+        "y": 148.6,
+        "z": 161.6
+      },
+      "area": "R1A3",
+      "name": "Beaver",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 443.6,
+        "y": 384.1,
+        "z": -373.0
+      },
+      "area": "R1A3",
+      "name": "GrayWolf",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -1052.5,
+        "y": 361.2,
+        "z": 494.9
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -92.8,
+        "y": 318.0,
+        "z": -1599.2
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 895.9,
+        "y": 357.1,
+        "z": 1008.8
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 563.6,
+        "y": 262.8,
+        "z": -1704.6
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -783.5,
+        "y": 563.2,
+        "z": -974.2
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -692.7,
+        "y": 582.6,
+        "z": -658.8
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -37.3,
+        "y": 825.6,
+        "z": 221.9
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -36.8,
+        "y": 825.6,
+        "z": 216.9
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "SpawnPoint",
+      "pos": {
+        "x": -687.9,
+        "y": 582.6,
+        "z": -657.4
+      },
+      "area": "R1A3"
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 563.1,
+        "y": 410.6,
+        "z": 924.6
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 35
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -309.3,
+        "y": 526.1,
+        "z": -545.7
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1285.1,
+        "y": 107.5,
+        "z": -498.2
+      },
+      "area": "R1A3",
+      "name": "GrayWolf",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 313.0,
+        "y": 250.7,
+        "z": -1376.5
+      },
+      "area": "R1A3",
+      "name": "KokaneeSalmon",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1160.0,
+        "y": 353.4,
+        "z": 744.4
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 3
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": 721.8,
+        "y": 297.0,
+        "z": -914.9
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 5"
+    },
+    {
+      "type": "Crate",
+      "pos": {
+        "x": -23.6,
+        "y": 565.2,
+        "z": -96.3
+      },
+      "area": "R1A3",
+      "reward": "R1A3_Generic 8"
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1599.6,
+        "y": 160.1,
+        "z": -52.0
+      },
+      "area": "R1A3",
+      "name": "CommonRaven",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 990.6,
+        "y": 246.7,
+        "z": 329.5
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -967.4,
+        "y": 352.3,
+        "z": 507.3
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 4
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": 9.0,
+        "y": 461.7,
+        "z": -338.8
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 14
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 679.9,
+        "y": 215.6,
+        "z": -1254.5
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": -460.0,
+        "y": 338.3,
+        "z": -982.1
+      },
+      "area": "R1A3",
+      "name": "MountainGoat",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -1179.0,
+        "y": 364.0,
+        "z": -726.1
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 52
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 721.3,
+        "y": 297.0,
+        "z": -859.9
+      },
+      "area": "R1A3",
+      "name": "BighornSheepMale",
+      "label": null
+    },
+    {
+      "type": "AlwaysAirborneAnimalSpawner",
+      "pos": {
+        "x": -1073.1,
+        "y": 390.6,
+        "z": -396.1
+      },
+      "area": "R1A3",
+      "name": "BaldEagle",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -721.6,
+        "y": 415.2,
+        "z": 1033.8
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 5
+    },
+    {
+      "type": "AnimalSpawner",
+      "pos": {
+        "x": 1333.9,
+        "y": 118.7,
+        "z": -1119.2
+      },
+      "area": "R1A3",
+      "name": "Elk",
+      "label": null
+    },
+    {
+      "type": "MeteoriteSpawnPoint",
+      "pos": {
+        "x": -308.8,
+        "y": 342.0,
+        "z": -991.3
+      },
+      "area": "R1A3",
+      "meteoriteIndex": 18
+    }
+  ]
+}

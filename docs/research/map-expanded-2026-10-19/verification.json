@@ -1,0 +1,37 @@
+{
+  "meteorites": [
+    {
+      "area": "emerald-lake",
+      "meteorites": 34,
+      "independentlyMatched": 34
+    },
+    {
+      "area": "gimli-ridge",
+      "meteorites": 31,
+      "independentlyMatched": 31
+    },
+    {
+      "area": "asgard-mountain",
+      "meteorites": 51,
+      "independentlyMatched": 47
+    },
+    {
+      "area": "tassili-najjer-desert",
+      "meteorites": 48,
+      "independentlyMatched": 48
+    },
+    {
+      "area": "aures-mountains",
+      "meteorites": 48,
+      "independentlyMatched": 48
+    }
+  ],
+  "counts": {
+    "Wildlife": 730,
+    "Crate": 86,
+    "Recovery": 14,
+    "Meteorite": 212
+  },
+  "trailCheckpoints": 404,
+  "independentlyMatchedRewardTables": 100
+}

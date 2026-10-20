@@ -1,0 +1,190 @@
+[
+  {
+    "slug": "emerald-lake",
+    "satellite": "/images/maps/atlas/emerald-lake-satellite.webp",
+    "width": 4096,
+    "height": 4096,
+    "source": "https://www.maprunner.info/overthehill/emerald-lake",
+    "renderVersion": "25806963",
+    "sha256": "9953a377ebcb1dc99b70388919c3a6e02b5b8536192f899672a086d9f34f5ee7",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/emerald-lake-ground.webp",
+        "version": "d282ed5a6198389d",
+        "sha256": "5cf6f2814f4cb24f94bd42af1429ba20e3feaa83bae3ed6ba13fc80f64b0c1a2"
+      },
+      {
+        "key": "snow",
+        "label": "Deep snow",
+        "image": "/images/maps/atlas/emerald-lake-snow.webp",
+        "version": "e4d3414bcc446914",
+        "sha256": "aeb72be53c901a992613d73be8ceb0765bb4bb56ba6965c47478561a98238980"
+      },
+      {
+        "key": "ice",
+        "label": "Ice",
+        "image": "/images/maps/atlas/emerald-lake-ice.webp",
+        "version": "94c05ef96db80c87",
+        "sha256": "0299526899d91f493377f299eaaf87f33c7b0983b966fc8c8ec5324caec4be9e"
+      },
+      {
+        "key": "soft",
+        "label": "Soft ground",
+        "image": "/images/maps/atlas/emerald-lake-soft.webp",
+        "version": "936048a6739df915",
+        "sha256": "d5bbb05d37df221ad5ef10f9126def2aba425b7b6fb0bd8541ff059a08ca4ac9"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/emerald-lake-water.webp",
+        "version": "79c55259ac23ec6e",
+        "sha256": "a39e603a928a717337dda3cc50be3ee430c4f6c0957a9848e232f2b593cf5640"
+      }
+    ]
+  },
+  {
+    "slug": "gimli-ridge",
+    "satellite": "/images/maps/atlas/gimli-ridge-satellite.webp",
+    "width": 4096,
+    "height": 4096,
+    "source": "https://www.maprunner.info/overthehill/gimli-ridge",
+    "renderVersion": "25806963",
+    "sha256": "9975ccae20983b8b908353a183467982dfb6188caf5cba54df742df292a9d35f",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/gimli-ridge-ground.webp",
+        "version": "061d4414d377d4be",
+        "sha256": "c3c60d4fd413515c410926a462efe2778183fc5858e9bc378f919e32875d409f"
+      },
+      {
+        "key": "snow",
+        "label": "Deep snow",
+        "image": "/images/maps/atlas/gimli-ridge-snow.webp",
+        "version": "4d42a3d919e3e031",
+        "sha256": "f211fc1f44f8d5437d4b18d947ed08060f9af4d1648f390cae98201fe4a023a1"
+      },
+      {
+        "key": "ice",
+        "label": "Ice",
+        "image": "/images/maps/atlas/gimli-ridge-ice.webp",
+        "version": "952cdbd708d25410",
+        "sha256": "d828807f4d5f09e74c22347c8c625b44c9ff747850de4c339a2281ccb197b892"
+      },
+      {
+        "key": "soft",
+        "label": "Soft ground",
+        "image": "/images/maps/atlas/gimli-ridge-soft.webp",
+        "version": "9f76e22c4b8a7576",
+        "sha256": "5257bfcf5ad33c0e1f89a53f298d6d1ccf7b5b89df439009199d083d38c15b41"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/gimli-ridge-water.webp",
+        "version": "b5ebb0bb0ada57bb",
+        "sha256": "d2d7359ee813d9daf56500d555702c98bf1eb36a0c7423070597619170eef329"
+      }
+    ]
+  },
+  {
+    "slug": "asgard-mountain",
+    "satellite": "/images/maps/atlas/asgard-mountain-satellite.webp",
+    "width": 4096,
+    "height": 4096,
+    "source": "https://www.maprunner.info/overthehill/asgard-mountain",
+    "renderVersion": "25806963",
+    "sha256": "a38306484820e42506eb1db8f557063801cf76a92b83c061574b2bed7b86d1ad",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/asgard-mountain-ground.webp",
+        "version": "1715988fb6ec76a1",
+        "sha256": "8e90074eebc32dc0768bba84638ee0b03bdd9643e1a60a775669c00e23cf9194"
+      },
+      {
+        "key": "snow",
+        "label": "Deep snow",
+        "image": "/images/maps/atlas/asgard-mountain-snow.webp",
+        "version": "dc196665694a9d74",
+        "sha256": "66b9723ddb827fde61ea21f89f4883b9ce548ad78671b01decba453e8e830dbc"
+      },
+      {
+        "key": "ice",
+        "label": "Ice",
+        "image": "/images/maps/atlas/asgard-mountain-ice.webp",
+        "version": "456f1a4f20b31987",
+        "sha256": "d0c8838c656ef87691a2fa420c5585f6af3dbb9fa3d6a6c877f2c0417cd02aff"
+      },
+      {
+        "key": "soft",
+        "label": "Soft ground",
+        "image": "/images/maps/atlas/asgard-mountain-soft.webp",
+        "version": "56919c5c3d7f43b5",
+        "sha256": "5a37e423af000dc99519c546b04de45faf92e1fb1528c5a8ccb32d1daa9708b3"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/asgard-mountain-water.webp",
+        "version": "4d146988a9f15180",
+        "sha256": "60e6ecb07474b22b0aab570a9519dec906eb5f1710076ccd0a0aa2103b952e5e"
+      }
+    ]
+  },
+  {
+    "slug": "tassili-najjer-desert",
+    "satellite": "/images/maps/atlas/tassili-najjer-desert-satellite.webp",
+    "width": 4096,
+    "height": 4096,
+    "source": "https://www.maprunner.info/overthehill/tassili-n-ajjer-desert",
+    "renderVersion": "25806963",
+    "sha256": "f81d436c37c67be0c963e2883563c300323eccc1386ea147340e12fb90b6aa18",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/tassili-najjer-desert-ground.webp",
+        "version": "f2befc344325b39a",
+        "sha256": "1f523e2ea4fc62218315ad7c14792e2626ca521339d675f6c20b759931f8abc7"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/tassili-najjer-desert-water.webp",
+        "version": "4e574d0603b07fd3",
+        "sha256": "c4008af955db581f15f3c1d055355a8de3b343a47cf42b4144838065152c053a"
+      }
+    ]
+  },
+  {
+    "slug": "aures-mountains",
+    "satellite": "/images/maps/atlas/aures-mountains-satellite.webp",
+    "width": 4096,
+    "height": 4096,
+    "source": "https://www.maprunner.info/overthehill/aures-mountains",
+    "renderVersion": "25806963",
+    "sha256": "58600323ab0d907439fcedf82112cf9ac78266bfd8751eb262026cb0ef44fb8a",
+    "hazards": [
+      {
+        "key": "ground",
+        "label": "Terrain hazards",
+        "image": "/images/maps/atlas/aures-mountains-ground.webp",
+        "version": "f60fd96552d6542c",
+        "sha256": "9efa8b98c6c478dabfc326f29c7d69906ebaa00dfa9ce96333f1c0d3fe8906da"
+      },
+      {
+        "key": "water",
+        "label": "Water",
+        "image": "/images/maps/atlas/aures-mountains-water.webp",
+        "version": "7923291d0f402b5d",
+        "sha256": "7169fd536b701a0bdc83daa82e78a7bb8390765f013fd8c64d90b3a1225e8b09"
+      }
+    ]
+  }
+]

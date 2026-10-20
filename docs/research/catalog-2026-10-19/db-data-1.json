@@ -1,0 +1,930 @@
+[
+  {
+    "id": "Beaver",
+    "itemId": 2419144249,
+    "name": "Beaver",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Uncommon",
+    "areas": [
+      "R1A1_Valley",
+      "R1A2_Wetlands",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry",
+      "Wet"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "River"
+    ]
+  },
+  {
+    "id": "LannerFalcon",
+    "itemId": 2341432011,
+    "name": "Lanner Falcon",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Uncommon",
+    "areas": [
+      "R2A1_Desert",
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Mountain",
+      "Cliff"
+    ]
+  },
+  {
+    "id": "MountainGoat",
+    "itemId": 2624703975,
+    "name": "Mountain Goat",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R1A2_Wetlands",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Mountain"
+    ]
+  },
+  {
+    "id": "FlyingFish",
+    "itemId": 2001288496,
+    "name": "Flying Fish",
+    "description": null,
+    "class": "Fish",
+    "rarity": "Uncommon",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Sea"
+    ]
+  },
+  {
+    "id": "EgyptianVulture",
+    "itemId": 2014276128,
+    "name": "Egyptian Vulture",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Rare",
+    "areas": [
+      "R2A1_Desert",
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Rare",
+    "habitat": [
+      "Cliff",
+      "Sand"
+    ]
+  },
+  {
+    "id": "SeaTurtle",
+    "itemId": 2213760183,
+    "name": "Sea Turtle",
+    "description": null,
+    "class": "Reptile",
+    "rarity": "Rare",
+    "areas": [],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Rare",
+    "habitat": [
+      "Sea",
+      "Sand"
+    ]
+  },
+  {
+    "id": "CommonRaven",
+    "itemId": 2225123386,
+    "name": "Common Raven",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Common",
+    "areas": [
+      "R1A1_Valley",
+      "R1A2_Wetlands",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Forest",
+      "Mountain"
+    ]
+  },
+  {
+    "id": "HoaryMarmot",
+    "itemId": 2033316461,
+    "name": "Hoary Marmot",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Mountain"
+    ]
+  },
+  {
+    "id": "DorcasGazelle",
+    "itemId": 2477274988,
+    "name": "Dorcas Gazelle",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "River",
+      "Oasis",
+      "Sand"
+    ]
+  },
+  {
+    "id": "Flamingo",
+    "itemId": 2152802977,
+    "name": "Flamingo",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Oasis"
+    ]
+  },
+  {
+    "id": "Jackal",
+    "itemId": 2183602026,
+    "name": "Jackal",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Uncommon",
+    "areas": [
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Clearing",
+      "Sand"
+    ]
+  },
+  {
+    "id": "Elk",
+    "itemId": 2572388347,
+    "name": "Elk",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R1A1_Valley",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry",
+      "Wet"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Forest",
+      "Mountain"
+    ]
+  },
+  {
+    "id": "BaldEagle",
+    "itemId": 2330246028,
+    "name": "Bald Eagle",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Uncommon",
+    "areas": [
+      "R1A2_Wetlands",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Lake",
+      "Cliff"
+    ]
+  },
+  {
+    "id": "Fennec FoxI",
+    "itemId": 1850872898,
+    "name": "Fennec Fox",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Uncommon",
+    "areas": [
+      "R2A1_Desert"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "River",
+      "Sand"
+    ]
+  },
+  {
+    "id": "WaterMonitorLizard",
+    "itemId": 2060363479,
+    "name": "Water Monitor Lizard",
+    "description": null,
+    "class": "Reptile",
+    "rarity": "Uncommon",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry",
+      "Wet"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Wetlands",
+      "River"
+    ]
+  },
+  {
+    "id": "GreenBirdwingButterfly",
+    "itemId": 1553026685,
+    "name": "Green Birdwing Butterfly",
+    "description": null,
+    "class": "Insect",
+    "rarity": "Uncommon",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Forest",
+      "Clearing"
+    ]
+  },
+  {
+    "id": "RedFoxInfo",
+    "itemId": 2005722174,
+    "name": "Red Fox",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R1A1_Valley",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Forest",
+      "Clearing"
+    ]
+  },
+  {
+    "id": "GrizzlyBear",
+    "itemId": 2229541244,
+    "name": "Grizzly Bear",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Rare",
+    "areas": [
+      "R1A2_Wetlands",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Rare",
+    "habitat": [
+      "RemoteForest",
+      "River",
+      "Lake"
+    ]
+  },
+  {
+    "id": "AlpineButterflies",
+    "itemId": 2185598326,
+    "name": "Alpine Butterflies",
+    "description": null,
+    "class": "Insect",
+    "rarity": "Common",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Mountain"
+    ]
+  },
+  {
+    "id": "MuleDeerMale",
+    "itemId": 1951397390,
+    "name": "Mule Deer",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R1A1_Valley",
+      "R1A2_Wetlands"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry",
+      "Wet"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Forest",
+      "Clearing"
+    ]
+  },
+  {
+    "id": "WaterBuffalo",
+    "itemId": 2106968383,
+    "name": "Water Buffalo",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Wetlands",
+      "Clearing",
+      "River"
+    ]
+  },
+  {
+    "id": "GrayWolf",
+    "itemId": 3000190931,
+    "name": "Gray Wolf",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Uncommon",
+    "areas": [
+      "R1A1_Valley",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry",
+      "Wet"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Forest"
+    ]
+  },
+  {
+    "id": "Desert SparrowInfo",
+    "itemId": 1925770050,
+    "name": "Desert Sparrow",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Common",
+    "areas": [
+      "R2A1_Desert",
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Oasis",
+      "Sand"
+    ]
+  },
+  {
+    "id": "KokaneeSalmon",
+    "itemId": 2561404324,
+    "name": "Kokanee Salmon",
+    "description": null,
+    "class": "Fish",
+    "rarity": "Uncommon",
+    "areas": [
+      "R1A1_Valley",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "River",
+      "Lake"
+    ]
+  },
+  {
+    "id": "Sasquatch",
+    "itemId": 2289752720,
+    "name": "Sasquatch",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "VeryRare",
+    "areas": [
+      "R1A1_Valley"
+    ],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_VeryRare",
+    "habitat": [
+      "RemoteForest"
+    ]
+  },
+  {
+    "id": "BarbarySheepAoudad",
+    "itemId": 3021150937,
+    "name": "Barbary Sheep (Aoudad)",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R2A1_Desert",
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Mountain",
+      "Rocks"
+    ]
+  },
+  {
+    "id": "BlackBear",
+    "itemId": 2542451225,
+    "name": "Black Bear",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Rare",
+    "areas": [
+      "R1A1_Valley",
+      "R1A2_Wetlands"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Rare",
+    "habitat": [
+      "Forest"
+    ]
+  },
+  {
+    "id": "WhiteBelliedSeaEagle",
+    "itemId": 2322781427,
+    "name": "White-bellied Sea Eagle",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Rare",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Rare",
+    "habitat": [
+      "Lake",
+      "Cliff"
+    ]
+  },
+  {
+    "id": "WildBoar",
+    "itemId": 2452945745,
+    "name": "Wild Boar",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Forest",
+      "Clearing"
+    ]
+  },
+  {
+    "id": "Coyote",
+    "itemId": 2048460572,
+    "name": "Coyote",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Uncommon",
+    "areas": [
+      "R1A1_Valley",
+      "R1A2_Wetlands"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Forest",
+      "Clearing"
+    ]
+  },
+  {
+    "id": "Moose",
+    "itemId": 2180040503,
+    "name": "Moose",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Uncommon",
+    "areas": [
+      "R1A1_Valley",
+      "R1A2_Wetlands"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry",
+      "Wet"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Forest",
+      "Wetlands"
+    ]
+  },
+  {
+    "id": "SaharanCheetah",
+    "itemId": 2783000462,
+    "name": "Saharan Cheetah",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "VeryRare",
+    "areas": [
+      "R2A1_Desert"
+    ],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_VeryRare",
+    "habitat": [
+      "Sand"
+    ]
+  },
+  {
+    "id": "DromedaryCamel",
+    "itemId": 2361259004,
+    "name": "Dromedary Camel",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Uncommon",
+    "areas": [
+      "R2A1_Desert"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Oasis",
+      "Sand"
+    ]
+  },
+  {
+    "id": "CanadaGoose",
+    "itemId": 2415360431,
+    "name": "Canada Goose",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Common",
+    "areas": [
+      "R1A1_Valley",
+      "R1A2_Wetlands"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Wetlands",
+      "Lake"
+    ]
+  },
+  {
+    "id": "StripedHyenaInfo",
+    "itemId": 2128302049,
+    "name": "Striped Hyena",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Rare",
+    "areas": [
+      "R2A1_Desert",
+      "R2A2_Canyon"
+    ],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Rare",
+    "habitat": [
+      "Rocks",
+      "Grassland"
+    ]
+  },
+  {
+    "id": "DesertOrangeTipButterfly",
+    "itemId": 2773577260,
+    "name": "Desert Orange Tip Butterfly",
+    "description": null,
+    "class": "Insect",
+    "rarity": "Uncommon",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Oasis"
+    ]
+  },
+  {
+    "id": "GreatHornedOwl",
+    "itemId": 2492531899,
+    "name": "Great Horned Owl",
+    "description": null,
+    "class": "Bird",
+    "rarity": "Uncommon",
+    "areas": [],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Forest"
+    ]
+  },
+  {
+    "id": "Dragonflies",
+    "itemId": 2136724065,
+    "name": "Dragonflies",
+    "description": null,
+    "class": "Insect",
+    "rarity": "Common",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Wetlands",
+      "Oasis"
+    ]
+  },
+  {
+    "id": "CoralReefFish",
+    "itemId": 1336303943,
+    "name": "Coral Reef Fish",
+    "description": null,
+    "class": "Fish",
+    "rarity": "Common",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime",
+      "Night"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Common",
+    "habitat": [
+      "Sea"
+    ]
+  },
+  {
+    "id": "BighornSheepMale",
+    "itemId": 1725686174,
+    "name": "Bighorn Sheep",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "Common",
+    "areas": [
+      "R1A2_Wetlands",
+      "R1A3_Ridge"
+    ],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": "Canada_Reward_Animal_Uncommon",
+    "habitat": [
+      "Forest",
+      "Mountain"
+    ]
+  },
+  {
+    "id": "BalineseTiger",
+    "itemId": 1307307096,
+    "name": "Balinese Tiger",
+    "description": null,
+    "class": "Mammal",
+    "rarity": "VeryRare",
+    "areas": [],
+    "timeOfDay": [
+      "Night"
+    ],
+    "weather": [
+      "Dry",
+      "Wet"
+    ],
+    "reward": "Canada_Reward_Animal_VeryRare",
+    "habitat": [
+      "RemoteForest"
+    ]
+  },
+  {
+    "id": "Bee",
+    "itemId": 2020909927,
+    "name": "Bee",
+    "description": null,
+    "class": "Cosmetic",
+    "rarity": "Common",
+    "areas": [],
+    "timeOfDay": [
+      "Daytime"
+    ],
+    "weather": [
+      "Dry"
+    ],
+    "reward": null,
+    "habitat": [
+      "Forest",
+      "RemoteForest",
+      "Clearing",
+      "Oasis"
+    ]
+  }
+]

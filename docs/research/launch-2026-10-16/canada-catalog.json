@@ -1,0 +1,3133 @@
+{
+  "map_id": 516,
+  "guide_id": 503,
+  "title": "The Valhallas - Canada",
+  "status": "1",
+  "zoom_levels": 6,
+  "width": 10000,
+  "height": 10000,
+  "filename": "",
+  "padding": 500,
+  "focus_x": 5085,
+  "focus_y": 4986,
+  "focus_zoom": 14.75,
+  "fn_pattern": "{z}/{x}-{y}.png",
+  "max_zoom": 18,
+  "attr_text": "",
+  "attr_url": "",
+  "tile_size": 256,
+  "marker_scale": 100,
+  "published": {
+    "date": "2026-10-14 21:32:00.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Berlin"
+  },
+  "bgcolor": "#fff9ee",
+  "mbcolor": "#000000",
+  "description": "Over the hill Interactive map of The Valhallas - Canada. Explore Emerald Lake, Gimli Ridge, & Asgard Mountain & find all Points of Interest & Animals.",
+  "open_3d": "0",
+  "field_filters": "0",
+  "guide_title": "Over the Hill",
+  "layers": [
+    {
+      "layer_id": 836,
+      "weight": 0,
+      "is_default": true,
+      "title": "Emerald Lake"
+    },
+    {
+      "layer_id": 837,
+      "weight": 1,
+      "is_default": false,
+      "title": "Gimli Ridge"
+    },
+    {
+      "layer_id": 838,
+      "weight": 2,
+      "is_default": false,
+      "title": "Asgard Mountain"
+    }
+  ],
+  "map_slug": "the-valhallas-canada",
+  "guide_slug": "over-the-hill",
+  "seo_title": "The Valhallas - Canada",
+  "title_suffix_id": "2",
+  "suffix": " Interactive Map - {guideTitle} | Gamer Guides®",
+  "tag_id": null,
+  "updated": {
+    "date": "2026-10-15 12:29:33.000000",
+    "timezone_type": 3,
+    "timezone": "Europe/Berlin"
+  },
+  "metadata_entity_id": 516,
+  "metadata_title": "The Valhallas - Canada",
+  "metadata_desc": "Over the hill Interactive map of The Valhallas - Canada. Explore Emerald Lake, Gimli Ridge, & Asgard Mountain & find all Points of Interest & Animals.",
+  "metadata_img_filename": "thumb-516-f0bf67ac.png",
+  "metadata_img_w": 1920,
+  "metadata_img_h": 1080,
+  "metadata_entity_type": 6,
+  "default_layer_id": 836,
+  "entity_type": 6,
+  "newTitle": "The Valhallas - Canada Interactive Map - Over the Hill | Gamer Guides®",
+  "marker_counts": {
+    "db-117801": 6,
+    "db-117794": 18,
+    "db-117804": 1,
+    "db-117810": 3,
+    "db-117814": 1,
+    "db-117797": 2,
+    "db-117816": 13,
+    "db-117807": 1,
+    "db-117802": 9,
+    "db-117806": 2,
+    "db-117796": 16,
+    "db-117799": 8,
+    "db-117811": 5,
+    "db-117805": 1,
+    "db-117813": 2,
+    "db-117808": 1,
+    "db-117800": 9,
+    "db-117803": 1,
+    "db-117809": 5,
+    "db-117795": 15,
+    "db-117798": 8,
+    "db-117812": 2
+  },
+  "cats": [
+    {
+      "id": 117791,
+      "marker_cat_id": "db-117791",
+      "parent": "0",
+      "weight": 0,
+      "title": "Emerald Lake",
+      "icon_filename": "13_3b1e56d7-3b1e56d7.png",
+      "icon_w": 208,
+      "icon_h": 208,
+      "pin_color": "#ffd763",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 32,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": true,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117791/13_3b1e56d7-3b1e56d7.png.png",
+      "children": [
+        {
+          "id": 117794,
+          "marker_cat_id": "db-117794",
+          "parent": "db-117791",
+          "weight": 1,
+          "title": "Point of Interest",
+          "icon_filename": "13-3b1e56d7.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 18,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117794/13-3b1e56d7.png.png",
+          "items": [
+            {
+              "title": "Crate 1",
+              "item_id": 690184,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 2",
+              "item_id": 690250,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 3",
+              "item_id": 690251,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 4",
+              "item_id": 690252,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 5",
+              "item_id": 690253,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 6",
+              "item_id": 690254,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 7",
+              "item_id": 690255,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 8",
+              "item_id": 690256,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 9",
+              "item_id": 690257,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 10",
+              "item_id": 690258,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 11",
+              "item_id": 690259,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 12",
+              "item_id": 690260,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 13",
+              "item_id": 690261,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 14",
+              "item_id": 690262,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 15",
+              "item_id": 690263,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 16",
+              "item_id": 690264,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 17",
+              "item_id": 690265,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 18",
+              "item_id": 690266,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117797,
+          "marker_cat_id": "db-117797",
+          "parent": "db-117791",
+          "weight": 2,
+          "title": "Scenic Point",
+          "icon_filename": "18-99022753.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 2,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117797/18-99022753.png.png",
+          "items": [
+            {
+              "title": "Clark Watchtower",
+              "item_id": 690187,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Harrison Watchtower",
+              "item_id": 690188,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117801,
+          "marker_cat_id": "db-117801",
+          "parent": "db-117791",
+          "weight": 3,
+          "title": "Cabin",
+          "icon_filename": "14-036b19f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 6,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117801/14-036b19f6.png.png",
+          "items": [
+            {
+              "title": "Pavilion Lake Cabin",
+              "item_id": 690189,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Birch Grove Hut",
+              "item_id": 690190,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Elizabeth Lake Cabin",
+              "item_id": 690191,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Brew Hut",
+              "item_id": 690192,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Black Bear's Den",
+              "item_id": 690193,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Malachite Lodge",
+              "item_id": 690194,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117804,
+          "marker_cat_id": "db-117804",
+          "parent": "db-117791",
+          "weight": 4,
+          "title": "Mechanic",
+          "icon_filename": "20-da8b74f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117804/20-da8b74f6.png.png",
+          "items": [
+            {
+              "title": "Crazy Gunther",
+              "item_id": 690212,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117807,
+          "marker_cat_id": "db-117807",
+          "parent": "db-117791",
+          "weight": 5,
+          "title": "Portal",
+          "icon_filename": "22-690a57df.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117807/22-690a57df.png.png",
+          "items": [
+            {
+              "title": "Ferry to the Ridge",
+              "item_id": 690213,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117810,
+          "marker_cat_id": "db-117810",
+          "parent": "db-117791",
+          "weight": 6,
+          "title": "Challenge Trail",
+          "icon_filename": "21-f6e262e8.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 3,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117810/21-f6e262e8.png.png",
+          "items": [
+            {
+              "title": "Windy Joe Trail",
+              "item_id": 690214,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Elizabeth Oath Trail",
+              "item_id": 690215,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Hermit Trail",
+              "item_id": 690216,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117814,
+          "marker_cat_id": "db-117814",
+          "parent": "db-117791",
+          "weight": 7,
+          "title": "Item Recovery",
+          "icon_filename": "11-6523b480.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117814/11-6523b480.png.png",
+          "items": [
+            {
+              "title": "Elizabeth Lake Recovery",
+              "item_id": 690217,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117888,
+      "marker_cat_id": "db-117888",
+      "parent": "0",
+      "weight": 0,
+      "title": "Aures Mountain",
+      "icon_filename": "13_3b1e56d7-3b1e56d7.png",
+      "icon_w": 208,
+      "icon_h": 208,
+      "pin_color": "#ffffff",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 0,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": true,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117888/13_3b1e56d7-3b1e56d7.png.png",
+      "children": [
+        {
+          "id": 117889,
+          "marker_cat_id": "db-117889",
+          "parent": "db-117888",
+          "weight": 33,
+          "title": "Point of Interest",
+          "icon_filename": "over_hill_crate_icon-3b1e56d7.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117889/over_hill_crate_icon-3b1e56d7.png.png",
+          "items": []
+        },
+        {
+          "id": 117892,
+          "marker_cat_id": "db-117892",
+          "parent": "db-117888",
+          "weight": 34,
+          "title": "Scenic Point",
+          "icon_filename": "over_hill_scenic_point_icon-99022753.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117892/over_hill_scenic_point_icon-99022753.png.png",
+          "items": []
+        },
+        {
+          "id": 117893,
+          "marker_cat_id": "db-117893",
+          "parent": "db-117888",
+          "weight": 35,
+          "title": "Cabin",
+          "icon_filename": "over_hill_cabin_icon-036b19f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117893/over_hill_cabin_icon-036b19f6.png.png",
+          "items": []
+        },
+        {
+          "id": 117894,
+          "marker_cat_id": "db-117894",
+          "parent": "db-117888",
+          "weight": 36,
+          "title": "Mechanic",
+          "icon_filename": "over_hill_mechanic_icon-da8b74f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117894/over_hill_mechanic_icon-da8b74f6.png.png",
+          "items": []
+        },
+        {
+          "id": 117895,
+          "marker_cat_id": "db-117895",
+          "parent": "db-117888",
+          "weight": 37,
+          "title": "Portal",
+          "icon_filename": "over_hill_portal_icon-690a57df.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117895/over_hill_portal_icon-690a57df.png.png",
+          "items": []
+        },
+        {
+          "id": 117896,
+          "marker_cat_id": "db-117896",
+          "parent": "db-117888",
+          "weight": 38,
+          "title": "Challenge Trail",
+          "icon_filename": "over_hill_challenge_trail_icon-f6e262e8.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117896/over_hill_challenge_trail_icon-f6e262e8.png.png",
+          "items": []
+        },
+        {
+          "id": 117897,
+          "marker_cat_id": "db-117897",
+          "parent": "db-117888",
+          "weight": 39,
+          "title": "Item Recovery",
+          "icon_filename": "over_hill_item_recovery_icon-6523b480.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117897/over_hill_item_recovery_icon-6523b480.png.png",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 117877,
+      "marker_cat_id": "db-117877",
+      "parent": "0",
+      "weight": 1,
+      "title": "Tassili N'ajjer Desert",
+      "icon_filename": "13_3b1e56d7-3b1e56d7.png",
+      "icon_w": 208,
+      "icon_h": 208,
+      "pin_color": "#ffffff",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 0,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": true,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117877/13_3b1e56d7-3b1e56d7.png.png",
+      "children": [
+        {
+          "id": 117878,
+          "marker_cat_id": "db-117878",
+          "parent": "db-117877",
+          "weight": 25,
+          "title": "Point of Interest",
+          "icon_filename": "over_hill_crate_icon-3b1e56d7.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117878/over_hill_crate_icon-3b1e56d7.png.png",
+          "items": []
+        },
+        {
+          "id": 117879,
+          "marker_cat_id": "db-117879",
+          "parent": "db-117877",
+          "weight": 26,
+          "title": "Scenic Point",
+          "icon_filename": "over_hill_scenic_point_icon-99022753.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117879/over_hill_scenic_point_icon-99022753.png.png",
+          "items": []
+        },
+        {
+          "id": 117880,
+          "marker_cat_id": "db-117880",
+          "parent": "db-117877",
+          "weight": 27,
+          "title": "Cabin",
+          "icon_filename": "over_hill_cabin_icon-036b19f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117880/over_hill_cabin_icon-036b19f6.png.png",
+          "items": []
+        },
+        {
+          "id": 117881,
+          "marker_cat_id": "db-117881",
+          "parent": "db-117877",
+          "weight": 28,
+          "title": "Mechanic",
+          "icon_filename": "over_hill_mechanic_icon-da8b74f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117881/over_hill_mechanic_icon-da8b74f6.png.png",
+          "items": []
+        },
+        {
+          "id": 117882,
+          "marker_cat_id": "db-117882",
+          "parent": "db-117877",
+          "weight": 29,
+          "title": "Portal",
+          "icon_filename": "over_hill_portal_icon-690a57df.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117882/over_hill_portal_icon-690a57df.png.png",
+          "items": []
+        },
+        {
+          "id": 117883,
+          "marker_cat_id": "db-117883",
+          "parent": "db-117877",
+          "weight": 30,
+          "title": "Challenge Trail",
+          "icon_filename": "over_hill_challenge_trail_icon-f6e262e8.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117883/over_hill_challenge_trail_icon-f6e262e8.png.png",
+          "items": []
+        },
+        {
+          "id": 117884,
+          "marker_cat_id": "db-117884",
+          "parent": "db-117877",
+          "weight": 31,
+          "title": "Item Recovery",
+          "icon_filename": "over_hill_item_recovery_icon-6523b480.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117884/over_hill_item_recovery_icon-6523b480.png.png",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 117792,
+      "marker_cat_id": "db-117792",
+      "parent": "0",
+      "weight": 2,
+      "title": "Gimli Ridge",
+      "icon_filename": "13_3b1e56d7-3b1e56d7.png",
+      "icon_w": 208,
+      "icon_h": 208,
+      "pin_color": "#a0ff61",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 42,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": true,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117792/13_3b1e56d7-3b1e56d7.png.png",
+      "children": [
+        {
+          "id": 117796,
+          "marker_cat_id": "db-117796",
+          "parent": "db-117792",
+          "weight": 9,
+          "title": "Point of Interest",
+          "icon_filename": "13-3b1e56d7.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 15,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117796/13-3b1e56d7.png.png",
+          "items": [
+            {
+              "title": "Crate 1",
+              "item_id": 690185,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 2",
+              "item_id": 691279,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 3",
+              "item_id": 691280,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 4",
+              "item_id": 691281,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 5",
+              "item_id": 691282,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 6",
+              "item_id": 691283,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 7",
+              "item_id": 691284,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 8",
+              "item_id": 691285,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 9",
+              "item_id": 691286,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 10",
+              "item_id": 691287,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 11",
+              "item_id": 691288,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 12",
+              "item_id": 691289,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 13",
+              "item_id": 691290,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 14",
+              "item_id": 691291,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 15",
+              "item_id": 691292,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117799,
+          "marker_cat_id": "db-117799",
+          "parent": "db-117792",
+          "weight": 10,
+          "title": "Scenic Point",
+          "icon_filename": "18-99022753.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 8,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117799/18-99022753.png.png",
+          "items": [
+            {
+              "title": "Nerthus Observation Tower",
+              "item_id": 691297,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mount Robinson Viewpoint",
+              "item_id": 691302,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Fisherman's Cove",
+              "item_id": 691589,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Lucy Chapman Lake View",
+              "item_id": 691593,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mimisbrunnr Lake Overlook",
+              "item_id": 691633,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Murray Peak",
+              "item_id": 691634,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Beatrice Ridge",
+              "item_id": 691641,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Clark Watchtower",
+              "item_id": 691642,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117802,
+          "marker_cat_id": "db-117802",
+          "parent": "db-117792",
+          "weight": 11,
+          "title": "Cabin",
+          "icon_filename": "14-036b19f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 9,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117802/14-036b19f6.png.png",
+          "items": [
+            {
+              "title": "Sunset Landing Cabin",
+              "item_id": 691277,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Nerthus Cabin",
+              "item_id": 691294,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Secluded Marsh Bunkie",
+              "item_id": 691296,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Valkyr Lodge",
+              "item_id": 691301,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Lake View Cabin",
+              "item_id": 691590,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Powder Creek Lodge",
+              "item_id": 691592,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Seer Lodge",
+              "item_id": 691594,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mount Gibson Lodge",
+              "item_id": 691595,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Whitecap Alpine Lodge",
+              "item_id": 691596,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117805,
+          "marker_cat_id": "db-117805",
+          "parent": "db-117792",
+          "weight": 12,
+          "title": "Mechanic",
+          "icon_filename": "20-da8b74f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117805/20-da8b74f6.png.png",
+          "items": [
+            {
+              "title": "Crazy Gunther",
+              "item_id": 691300,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117806,
+          "marker_cat_id": "db-117806",
+          "parent": "db-117792",
+          "weight": 13,
+          "title": "Portal",
+          "icon_filename": "22-690a57df.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 2,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117806/22-690a57df.png.png",
+          "items": [
+            {
+              "title": "Ferry to the Mountain",
+              "item_id": 691278,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Tunnel to Asgard Mountain",
+              "item_id": 691639,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117811,
+          "marker_cat_id": "db-117811",
+          "parent": "db-117792",
+          "weight": 14,
+          "title": "Challenge Trail",
+          "icon_filename": "21-f6e262e8.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 5,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117811/21-f6e262e8.png.png",
+          "items": [
+            {
+              "title": "Fraser Research Boardwalk",
+              "item_id": 691298,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Windcall Gorge Trail",
+              "item_id": 691299,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bridal Veil Falls Climb",
+              "item_id": 691591,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Elvis Rim Trail",
+              "item_id": 691632,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Waddington Scree Trail",
+              "item_id": 691637,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117813,
+          "marker_cat_id": "db-117813",
+          "parent": "db-117792",
+          "weight": 15,
+          "title": "Item Recovery",
+          "icon_filename": "11-6523b480.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 2,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117813/11-6523b480.png.png",
+          "items": [
+            {
+              "title": "Nerthus Marsh Recovery",
+              "item_id": 691303,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Glasir Wood Recovery",
+              "item_id": 691588,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117793,
+      "marker_cat_id": "db-117793",
+      "parent": "0",
+      "weight": 3,
+      "title": "Asgard Mountain",
+      "icon_filename": "13_3b1e56d7-3b1e56d7.png",
+      "icon_w": 208,
+      "icon_h": 208,
+      "pin_color": "#61e5ff",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 41,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": true,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117793/13_3b1e56d7-3b1e56d7.png.png",
+      "children": [
+        {
+          "id": 117795,
+          "marker_cat_id": "db-117795",
+          "parent": "db-117793",
+          "weight": 17,
+          "title": "Point of Interest",
+          "icon_filename": "13-3b1e56d7.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 15,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117795/13-3b1e56d7.png.png",
+          "items": [
+            {
+              "title": "Crate 1",
+              "item_id": 690186,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 2",
+              "item_id": 691690,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 3",
+              "item_id": 691691,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 4",
+              "item_id": 691692,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 5",
+              "item_id": 691693,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 6",
+              "item_id": 691694,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 7",
+              "item_id": 691695,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 8",
+              "item_id": 691696,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 9",
+              "item_id": 691697,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 10",
+              "item_id": 691698,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 11",
+              "item_id": 691699,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 12",
+              "item_id": 691700,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 13",
+              "item_id": 691701,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 14",
+              "item_id": 691702,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crate 15",
+              "item_id": 691703,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117798,
+          "marker_cat_id": "db-117798",
+          "parent": "db-117793",
+          "weight": 18,
+          "title": "Scenic Point",
+          "icon_filename": "18-99022753.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 8,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117798/18-99022753.png.png",
+          "items": [
+            {
+              "title": "Rock Cradle Weather Station",
+              "item_id": 691712,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Eaglewing Ridge",
+              "item_id": 691857,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Pemberton Point",
+              "item_id": 691865,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bighorn Lake",
+              "item_id": 691872,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Heimdall Eye",
+              "item_id": 691912,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Jormungandr's Coil",
+              "item_id": 691915,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Headless Valley",
+              "item_id": 691918,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Niflhel Bath",
+              "item_id": 691919,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117800,
+          "marker_cat_id": "db-117800",
+          "parent": "db-117793",
+          "weight": 19,
+          "title": "Cabin",
+          "icon_filename": "14-036b19f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 9,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117800/14-036b19f6.png.png",
+          "items": [
+            {
+              "title": "Shaughnessy Cabin",
+              "item_id": 691683,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Ridgeline Rest",
+              "item_id": 691689,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Eagle Perch Cabin",
+              "item_id": 691704,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Twin Pools Cabin",
+              "item_id": 691708,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Rock Cradle Cabin",
+              "item_id": 691709,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Crossroads Shelter",
+              "item_id": 691852,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mjoll Basin Lodge",
+              "item_id": 691853,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Similkameen Lodge",
+              "item_id": 691888,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Gods' Rest",
+              "item_id": 691910,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117803,
+          "marker_cat_id": "db-117803",
+          "parent": "db-117793",
+          "weight": 20,
+          "title": "Mechanic",
+          "icon_filename": "20-da8b74f6.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117803/20-da8b74f6.png.png",
+          "items": [
+            {
+              "title": "Crazy Gunther",
+              "item_id": 691685,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117808,
+          "marker_cat_id": "db-117808",
+          "parent": "db-117793",
+          "weight": 21,
+          "title": "Portal",
+          "icon_filename": "22-690a57df.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117808/22-690a57df.png.png",
+          "items": [
+            {
+              "title": "Tunnel to Gimli Ridge",
+              "item_id": 691684,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117809,
+          "marker_cat_id": "db-117809",
+          "parent": "db-117793",
+          "weight": 22,
+          "title": "Challenge Trail",
+          "icon_filename": "21-f6e262e8.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 5,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117809/21-f6e262e8.png.png",
+          "items": [
+            {
+              "title": "Blanshard Ridge Trail",
+              "item_id": 691686,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Asulkan Lake Highline",
+              "item_id": 691705,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Lower Midgar Trail",
+              "item_id": 691891,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Midgar Ascent",
+              "item_id": 691911,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Wakefield Switchback Climb",
+              "item_id": 691913,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117812,
+          "marker_cat_id": "db-117812",
+          "parent": "db-117793",
+          "weight": 23,
+          "title": "Item Recovery",
+          "icon_filename": "11-6523b480.png",
+          "icon_w": 208,
+          "icon_h": 208,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 2,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117812/11-6523b480.png.png",
+          "items": [
+            {
+              "title": "Upland Carmanah Recovery",
+              "item_id": 691850,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Midgar Way Recovery",
+              "item_id": 691855,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117815,
+      "marker_cat_id": "db-117815",
+      "parent": "0",
+      "weight": 4,
+      "title": "Animal Compendium",
+      "icon_filename": "23_88cb1c49-88cb1c49.png",
+      "icon_w": 277,
+      "icon_h": 278,
+      "pin_color": "#ff61a0",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 13,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": false,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117815/23_88cb1c49-88cb1c49.png.png",
+      "children": [
+        {
+          "id": 117816,
+          "marker_cat_id": "db-117816",
+          "parent": "db-117815",
+          "weight": 41,
+          "title": "The Valhallas - Canada",
+          "icon_filename": "23-88cb1c49.png",
+          "icon_w": 277,
+          "icon_h": 278,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 13,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117816/23-88cb1c49.png.png",
+          "items": [
+            {
+              "title": "Bald Eagle",
+              "item_id": 690195,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Beaver",
+              "item_id": 690196,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bighorn Sheep",
+              "item_id": 690197,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Canada Goose",
+              "item_id": 690199,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Common Raven",
+              "item_id": 690200,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Coyote",
+              "item_id": 690201,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Elk",
+              "item_id": 690202,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Grizzly Bear",
+              "item_id": 690205,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Kokanee Salmon",
+              "item_id": 690206,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Moose",
+              "item_id": 690207,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mountain Goat",
+              "item_id": 690208,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mule Deer",
+              "item_id": 690209,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Red Fox",
+              "item_id": 690210,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117817,
+          "marker_cat_id": "db-117817",
+          "parent": "db-117815",
+          "weight": 42,
+          "title": "Algeria",
+          "icon_filename": "23-88cb1c49.png",
+          "icon_w": 277,
+          "icon_h": 278,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117817/23-88cb1c49.png.png",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 117839,
+      "marker_cat_id": "db-117839",
+      "parent": "0",
+      "weight": 5,
+      "title": "Miscellaneous",
+      "icon_filename": "25_e6859641-e6859641.png",
+      "icon_w": 188,
+      "icon_h": 188,
+      "pin_color": "#e79e5a",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 9,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": false,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117839/25_e6859641-e6859641.png.png",
+      "children": [
+        {
+          "id": 117842,
+          "marker_cat_id": "db-117842",
+          "parent": "db-117839",
+          "weight": 44,
+          "title": "Currency",
+          "icon_filename": "25-e6859641.png",
+          "icon_w": 188,
+          "icon_h": 188,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 9,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117842/25-e6859641.png.png",
+          "items": [
+            {
+              "title": "Pebbles",
+              "item_id": 690404,
+              "image": null,
+              "count": 9,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117841,
+          "marker_cat_id": "db-117841",
+          "parent": "db-117839",
+          "weight": 45,
+          "title": "Meteorite",
+          "icon_filename": "24-27adf599.png",
+          "icon_w": 331,
+          "icon_h": 331,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117841/24-27adf599.png.png",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 117818,
+      "marker_cat_id": "db-117818",
+      "parent": "0",
+      "weight": 6,
+      "title": "Vehicle",
+      "icon_filename": "over_the_hill_expedition-78409ba2.png",
+      "icon_w": 128,
+      "icon_h": 128,
+      "pin_color": "#a3a3a3",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 9,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": false,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117818/over_the_hill_expedition-78409ba2.png.png",
+      "children": [
+        {
+          "id": 117819,
+          "marker_cat_id": "db-117819",
+          "parent": "db-117818",
+          "weight": 47,
+          "title": "Wagon",
+          "icon_filename": "over_the_hill_wagon-5287c7f0.png",
+          "icon_w": 128,
+          "icon_h": 128,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 2,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117819/over_the_hill_wagon-5287c7f0.png.png",
+          "items": [
+            {
+              "title": "The Grand Woodman",
+              "item_id": 690219,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690219/over_the_hill_wagon-5287c7f0.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            },
+            {
+              "title": "The Trail Burner",
+              "item_id": 690221,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690221/over_the_hill_wagon-5287c7f0.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 117820,
+          "marker_cat_id": "db-117820",
+          "parent": "db-117818",
+          "weight": 48,
+          "title": "Trail",
+          "icon_filename": "tab_vehicle-d5167409.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 3,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117820/tab_vehicle-d5167409.png.png",
+          "items": [
+            {
+              "title": "The Brick",
+              "item_id": 690223,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690223/over_the_hill_trail-78409ba2.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            },
+            {
+              "title": "The Bull V1",
+              "item_id": 690224,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690224/over_the_hill_trail-78409ba2-78409ba2.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            },
+            {
+              "title": "The Polyana",
+              "item_id": 690227,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690227/over_the_hill_trail-78409ba2-78409ba2.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 117821,
+          "marker_cat_id": "db-117821",
+          "parent": "db-117818",
+          "weight": 49,
+          "title": "Expedition",
+          "icon_filename": "over_the_hill_expedition-78409ba2.png",
+          "icon_w": 128,
+          "icon_h": 128,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117821/over_the_hill_expedition-78409ba2.png.png",
+          "items": [
+            {
+              "title": "Das Mammoth",
+              "item_id": 690233,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690233/over_the_hill_expedition-78409ba2.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            }
+          ]
+        },
+        {
+          "id": 117822,
+          "marker_cat_id": "db-117822",
+          "parent": "db-117818",
+          "weight": 50,
+          "title": "Workhorse",
+          "icon_filename": "over_the_hill_workhorse-9c46ff97.png",
+          "icon_w": 128,
+          "icon_h": 128,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 3,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117822/over_the_hill_workhorse-9c46ff97.png.png",
+          "items": [
+            {
+              "title": "The Blast Wagon",
+              "item_id": 690234,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690234/over_the_hill_workhorse-9c46ff97.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            },
+            {
+              "title": "The Burro",
+              "item_id": 690236,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690236/over_the_hill_workhorse-9c46ff97-9c46ff97.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            },
+            {
+              "title": "The Timberbox",
+              "item_id": 690237,
+              "image": null,
+              "count": 1,
+              "unpublished": false,
+              "customIcon": {
+                "path": "/images/map-marker-icon/15/690237/over_the_hill_workhorse-9c46ff97-9c46ff97.png.png",
+                "w": 128,
+                "h": 128,
+                "color": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117823,
+      "marker_cat_id": "db-117823",
+      "parent": "0",
+      "weight": 7,
+      "title": "Cosmetics",
+      "icon_filename": "tab_cosmetics_029ddb8f-029ddb8f.png",
+      "icon_w": 256,
+      "icon_h": 256,
+      "pin_color": "#ff6161",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 54,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": true,
+      "is_container": false,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": "/images/db-cat-icon/16/117823/tab_cosmetics_029ddb8f-029ddb8f.png.png",
+      "children": [
+        {
+          "id": 117899,
+          "marker_cat_id": "db-117899",
+          "parent": "db-117823",
+          "weight": 0,
+          "title": "Roof",
+          "icon_filename": "tab_cosmetics_029ddb8f_029ddb8f-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117899/tab_cosmetics_029ddb8f_029ddb8f-029ddb8f.png.png",
+          "items": []
+        },
+        {
+          "id": 117824,
+          "marker_cat_id": "db-117824",
+          "parent": "db-117823",
+          "weight": 52,
+          "title": "Front Section",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 6,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117824/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Bull Bar Type 1 - Black",
+              "item_id": 690267,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bull Bar Type 2 - Black",
+              "item_id": 690268,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bull Bar Type 5 - Black",
+              "item_id": 690271,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bull Bar Type 6 - Black",
+              "item_id": 690272,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bull Bar Type 4 - White",
+              "item_id": 690273,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bear Plushie",
+              "item_id": 690276,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117836,
+          "marker_cat_id": "db-117836",
+          "parent": "db-117823",
+          "weight": 53,
+          "title": "Front Bumper",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 3,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117836/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Low Bull Bar",
+              "item_id": 690279,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Festive Lights",
+              "item_id": 690280,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Skid Plate - Black",
+              "item_id": 690286,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117825,
+          "marker_cat_id": "db-117825",
+          "parent": "db-117823",
+          "weight": 54,
+          "title": "Bush Cables",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117825/tab_cosmetics-029ddb8f.png.png",
+          "items": []
+        },
+        {
+          "id": 117826,
+          "marker_cat_id": "db-117826",
+          "parent": "db-117823",
+          "weight": 55,
+          "title": "Horn",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 8,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117826/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Bald Eagle Horn",
+              "item_id": 690288,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Elk Horn",
+              "item_id": 690289,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Wolf Horn",
+              "item_id": 690291,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Squeeky Horn",
+              "item_id": 690295,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bike Horn",
+              "item_id": 690305,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Ferry Horn",
+              "item_id": 690307,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Old Boat Horn",
+              "item_id": 690309,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Train Horn",
+              "item_id": 690312,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117827,
+          "marker_cat_id": "db-117827",
+          "parent": "db-117823",
+          "weight": 56,
+          "title": "Hood",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 3,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117827/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Bull Horns",
+              "item_id": 690313,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Ram Skull",
+              "item_id": 690315,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Hood-Mounted Spare Wheel",
+              "item_id": 690316,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117828,
+          "marker_cat_id": "db-117828",
+          "parent": "db-117823",
+          "weight": 57,
+          "title": "Side Step",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 3,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117828/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Side Festive Lights",
+              "item_id": 690320,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Side Steps - Black",
+              "item_id": 690321,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Side Steps - Silver",
+              "item_id": 690322,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117829,
+          "marker_cat_id": "db-117829",
+          "parent": "db-117823",
+          "weight": 58,
+          "title": "Bed",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 9,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117829/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Boat",
+              "item_id": 690324,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Camping Gear",
+              "item_id": 690325,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Canoe",
+              "item_id": 690326,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Festive Tree",
+              "item_id": 690327,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Kayaks",
+              "item_id": 690329,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mountain Rescue",
+              "item_id": 690333,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Surfboards",
+              "item_id": 690334,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Expedition Tent",
+              "item_id": 690335,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Hot Dog",
+              "item_id": 691851,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117830,
+          "marker_cat_id": "db-117830",
+          "parent": "db-117823",
+          "weight": 59,
+          "title": "Side Section",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 5,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117830/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Jerry Cans",
+              "item_id": 690337,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Axe",
+              "item_id": 690339,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Ice Picks",
+              "item_id": 690342,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Traction Boards",
+              "item_id": 690348,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Wreath",
+              "item_id": 690349,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117831,
+          "marker_cat_id": "db-117831",
+          "parent": "db-117823",
+          "weight": 60,
+          "title": "Rear Bumper",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 1,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117831/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Ropes",
+              "item_id": 690354,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117832,
+          "marker_cat_id": "db-117832",
+          "parent": "db-117823",
+          "weight": 61,
+          "title": "Rear Section",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 5,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117832/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Ladder",
+              "item_id": 690361,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Rear-Mounted Grill",
+              "item_id": 690362,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Frying Pan",
+              "item_id": 690363,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Trailblazer Spare Wheel",
+              "item_id": 690364,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Traveler's Spare Wheel",
+              "item_id": 690367,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117833,
+          "marker_cat_id": "db-117833",
+          "parent": "db-117823",
+          "weight": 62,
+          "title": "Fenders",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 2,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117833/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Mudflaps - Black",
+              "item_id": 690370,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Mudflaps - Yellow",
+              "item_id": 690373,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117834,
+          "marker_cat_id": "db-117834",
+          "parent": "db-117823",
+          "weight": 63,
+          "title": "Antenna",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 4,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117834/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Lucky Charm Antenna",
+              "item_id": 690378,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Plane Antenna",
+              "item_id": 690380,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Bear Plushie Antenna",
+              "item_id": 690381,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Sasquatch Antenna",
+              "item_id": 690406,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117835,
+          "marker_cat_id": "db-117835",
+          "parent": "db-117823",
+          "weight": 64,
+          "title": "Roof Lights",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 5,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117835/tab_cosmetics-029ddb8f.png.png",
+          "items": [
+            {
+              "title": "Rooftop Air Horns",
+              "item_id": 690387,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Beacon Bar - Red",
+              "item_id": 690390,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Beacon Bar - Red & Blue",
+              "item_id": 690391,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Beacons - Amber",
+              "item_id": 690392,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            },
+            {
+              "title": "Square Lights",
+              "item_id": 690399,
+              "image": null,
+              "count": 1,
+              "unpublished": false
+            }
+          ]
+        },
+        {
+          "id": 117837,
+          "marker_cat_id": "db-117837",
+          "parent": "db-117823",
+          "weight": 65,
+          "title": "Livery",
+          "icon_filename": "tab_cosmetics-029ddb8f.png",
+          "icon_w": 256,
+          "icon_h": 256,
+          "pin_color": null,
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": true,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/db-cat-icon/16/117837/tab_cosmetics-029ddb8f.png.png",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": 8193,
+      "marker_cat_id": "map-8193",
+      "parent": null,
+      "weight": 8,
+      "title": "Notes",
+      "icon_filename": null,
+      "icon_w": "0",
+      "icon_h": "0",
+      "pin_color": "#808080",
+      "collectible": 1,
+      "user_submittable": true,
+      "count": 0,
+      "cat_marker_count": 0,
+      "tags": null,
+      "entity_item_id": null,
+      "is_item_cat": false,
+      "is_container": false,
+      "disable_dropdown": false,
+      "is_hidden_level": false,
+      "icon": null,
+      "children": [
+        {
+          "id": 8194,
+          "marker_cat_id": "map-8194",
+          "parent": "map-8193",
+          "weight": 0,
+          "title": "Note",
+          "icon_filename": "note8.png",
+          "icon_w": 116,
+          "icon_h": 112,
+          "pin_color": "#808080",
+          "collectible": 1,
+          "user_submittable": true,
+          "count": 0,
+          "cat_marker_count": 0,
+          "tags": null,
+          "entity_item_id": null,
+          "is_item_cat": false,
+          "is_container": false,
+          "disable_dropdown": false,
+          "is_hidden_level": false,
+          "icon": "/images/map-cat-icon/note8.png.png"
+        }
+      ]
+    }
+  ],
+  "structure_count": 0,
+  "generated": "2026-10-15T21:51:49+02:00"
+}

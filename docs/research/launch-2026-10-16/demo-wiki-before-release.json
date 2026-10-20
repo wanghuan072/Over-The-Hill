@@ -1,0 +1,2182 @@
+[
+  {
+    "id": "winch",
+    "slug": "winch",
+    "title": "Winch",
+    "description": "Use the winch to pull a stuck vehicle toward a tree, another vehicle or a portable anchor.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://store.steampowered.com/app/2929250/over_the_hill/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Steam confirms winches as equipment used for recovering vehicles and navigating difficult terrain."
+        ]
+      },
+      {
+        "heading": "Limitations",
+        "paragraphs": [
+          "Attachment rules, cable range and specific vehicle compatibility are not yet published here."
+        ]
+      },
+      {
+        "heading": "Documented Demo recovery",
+        "paragraphs": [
+          "Developer replies identify trees, teammate vehicles and portable anchors as recovery options. A jack can reposition the vehicle, and map travel to a cabin or merchant is a fallback."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Documented menu access",
+        "paragraphs": [
+          "The July developer demonstration uses the radial menu to select the winch, then selects a vehicle anchor point and another attachment before pulling. Cable length and compatible targets still need build-specific data."
+        ],
+        "sourceIds": [
+          "video-winch"
+        ]
+      }
+    ],
+    "related": [
+      "/guides/how-to-use-the-winch",
+      "/wiki/equipment#winch-anchor"
+    ],
+    "seo": {
+      "title": "Winch | Over the Hill Wiki",
+      "description": "Your first recovery option when the tyres stop finding traction. Choose a vehicle attachment point, connect to a suitable target and pull."
+    },
+    "sourceIds": [
+      "steam",
+      "demo",
+      "ama",
+      "video-winch"
+    ],
+    "facts": [
+      {
+        "label": "Access",
+        "value": "Radial menu → Winch",
+        "sourceId": "video-winch",
+        "timestampSeconds": 9
+      },
+      {
+        "label": "Sequence",
+        "value": "Choose vehicle anchor point, select a tree or another attachment, then pull",
+        "sourceId": "video-winch",
+        "timestampSeconds": 10
+      }
+    ],
+    "playerNotes": [
+      "In the Demo, open the winch from the radial menu, choose an attachment point on your vehicle, then select the target.",
+      "If a cable pull leaves you on your side, a jack provides another recovery option."
+    ],
+    "displayFacts": [
+      {
+        "label": "Access",
+        "value": "Radial menu → Winch"
+      },
+      {
+        "label": "Attachment",
+        "value": "Tree, another vehicle or portable anchor"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "planks",
+    "slug": "planks",
+    "title": "Planks",
+    "description": "Planks bridge gaps in the terrain. Line up your vehicle before committing to the crossing.",
+    "category": "equipment",
+    "image": "/images/game/screenshot-12.webp",
+    "imageAlt": "Over the Hill plank crossing between canyon ledges",
+    "sourceUrl": "https://store.steampowered.com/app/2929250/over_the_hill/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The official Steam description identifies planks as a way to cross gaps along your journey."
+        ]
+      },
+      {
+        "heading": "How to use planks",
+        "paragraphs": [
+          "Placement controls, quantity limits and retrieval rules require in-game verification. Use the prompts in your current build."
+        ]
+      },
+      {
+        "heading": "Related equipment",
+        "paragraphs": [
+          "Winches serve recovery needs, while planks help bridge gaps. No numerical equipment effects have been confirmed here."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/equipment#winch"
+    ],
+    "seo": {
+      "title": "Planks | Over the Hill Wiki",
+      "description": "Bridge a gap when there is no clean line through it. Planks are equipment for the obstacle, not a reason to rush the crossing."
+    },
+    "sourceIds": [
+      "steam",
+      "faq",
+      "video-algeria"
+    ],
+    "facts": [
+      {
+        "label": "Purpose",
+        "value": "Support crossing gaps",
+        "sourceId": "steam"
+      },
+      {
+        "label": "Official footage",
+        "value": "Plank supports shown at a rock ledge",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 38
+      }
+    ],
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Purpose",
+        "value": "Support crossing gaps"
+      },
+      {
+        "label": "Crossing",
+        "value": "Gaps and rock ledges"
+      }
+    ],
+    "imageLabel": "Plank crossing"
+  },
+  {
+    "id": "repair-kit",
+    "slug": "repair-kit",
+    "title": "Repair Kit",
+    "description": "A repair kit restores vehicle health and can also be used on a friend’s vehicle.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/discussions/0/554627937323741779/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The official FAQ describes repair kits as a limited supply for repairing your own vehicle or another player’s vehicle."
+        ]
+      },
+      {
+        "heading": "Vehicle health",
+        "paragraphs": [
+          "Damage is described as affecting vehicle appearance and performance. Repair amounts and supply replenishment need verification."
+        ]
+      },
+      {
+        "heading": "Availability",
+        "paragraphs": [
+          "Acquisition locations and prices have not been checked in-game and are not listed."
+        ]
+      },
+      {
+        "heading": "After recovery",
+        "paragraphs": [
+          "Editorial checklist: inspect the condition indicator, check your remaining repair supply, and decide whether to continue or return. Exact repair amounts and damage thresholds are not published in the checked material."
+        ]
+      }
+    ],
+    "related": [
+      "/guides/multiplayer-guide",
+      "/guides/how-to-use-the-winch",
+      "/wiki/equipment#winch-anchor",
+      "/wiki/equipment#jack"
+    ],
+    "seo": {
+      "title": "Repair Kit | Over the Hill Wiki",
+      "description": "Bring a repair kit for outings where a rough landing or damaged vehicle could cut the trip short."
+    },
+    "sourceIds": [
+      "steam",
+      "faq",
+      "demo"
+    ],
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "facts": [
+      {
+        "label": "Purpose",
+        "value": "Repair vehicle health",
+        "sourceId": "faq"
+      },
+      {
+        "label": "Co-op use",
+        "value": "Repair your own or a friend’s vehicle using a limited supply",
+        "sourceId": "faq"
+      }
+    ],
+    "playerNotes": [
+      "Repair supplies are limited in the Demo. Keep track of what remains after helping another driver."
+    ],
+    "displayFacts": [
+      {
+        "label": "Purpose",
+        "value": "Repair vehicle health"
+      },
+      {
+        "label": "Co-op use",
+        "value": "Repair your own or a friend’s vehicle using a limited supply"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "meteorites",
+    "slug": "meteorites",
+    "title": "Meteorites",
+    "description": "Recover meteorites with a winch to earn Pebbles in the Demo.",
+    "category": "collectibles",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://store.steampowered.com/app/2929250/over_the_hill/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "paragraphs": [
+          "Meteorite recovery is part of the Demo’s Pebbles-and-upgrades loop. The developer AMA also describes it as an activity designed for continued play beyond ordinary discoveries."
+        ],
+        "sourceIds": [
+          "demo",
+          "ama"
+        ]
+      },
+      {
+        "heading": "Extraction",
+        "paragraphs": [
+          "Attach the rear of your vehicle directly to the meteorite and use throttle while winching. In multiplayer, additional vehicles may be needed and each should attach directly to the meteorite."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      },
+      {
+        "heading": "Locations and size",
+        "paragraphs": [
+          "The AMA describes randomized sizes and extraction needs influenced by the number of players in the server. We do not label any unverified rock position as a permanent collectible or quote one bug report’s payout as the standard reward."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Developer extraction procedure",
+        "paragraphs": [
+          "The June 19 developer reply explains the attachment and pulling procedure below. These are Demo instructions; use the controls shown by your build."
+        ],
+        "steps": [
+          "Attach one end of the winch cable to the rear of your vehicle.",
+          "Attach the other end directly to the meteorite.",
+          "Apply throttle while operating the winch pull.",
+          "If playing together and the meteorite is large, have helpers attach their own cables directly to the meteorite."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      },
+      {
+        "heading": "Why one vehicle may not be enough",
+        "paragraphs": [
+          "In the developer AMA, meteorite size is described as randomized and extraction can require one to four players, limited by the number present on the server. In the follow-up Steam reply, helpers must attach directly rather than form a chain of vehicles."
+        ],
+        "sourceIds": [
+          "ama",
+          "meteor"
+        ]
+      },
+      {
+        "heading": "If the meteorite will not move",
+        "paragraphs": [
+          "First check each attachment target and whether enough players are helping. If the setup appears correct but extraction still fails, the developer requests the exact location and screenshots of both the area and map; the June reply also mentions the Demo’s Ctrl+F report shortcut."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles#pebbles",
+      "/wiki/equipment#meteorite-radar",
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Meteorites | Over the Hill Wiki",
+      "description": "Find a meteorite, plan a pulling line and put the winch to work. Recoveries are part of the Pebbles progression loop."
+    },
+    "sourceIds": [
+      "demo",
+      "meteor",
+      "ama"
+    ],
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "playerNotes": [
+      "Connect the rear of your vehicle directly to the meteorite, then drive away while pulling.",
+      "For a group recovery in the Demo, each helper should attach directly to the rock. Gather the players involved before starting."
+    ],
+    "displayFacts": [],
+    "imageLabel": ""
+  },
+  {
+    "id": "winch-anchor",
+    "slug": "winch-anchor",
+    "title": "Portable Winch / Anchor",
+    "description": "A portable anchor gives the winch an attachment point where no tree or teammate is within reach.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "faq",
+      "ign-demo"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "paragraphs": [
+          "The developer’s recovery reply identifies the winch anchor as a tool that can help pull a vehicle out when a natural target is unavailable. It is an alternative to relying on a nearby tree or another player."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Where to equip it",
+        "paragraphs": [
+          "The June reply says the anchor and jack are tools equipped at the merchant. Equip recovery gear before leaving if you want to avoid using map travel when stranded."
+        ]
+      },
+      {
+        "heading": "Choose between recovery tools",
+        "paragraphs": [
+          "Use the recovery guide to distinguish pulling from repositioning. The anchor provides a winch target; the jack addresses positioning. A repair kit belongs to the health system. Exact tool charges, costs and attachment controls need the description in your current build."
+        ]
+      },
+      {
+        "heading": "Choose the recovery method for your situation",
+        "paragraphs": [
+          "A developer reply to a flipped vehicle in water describes several recovery options. Use the nearby options first if you want to continue the route; map travel is the documented fallback when no usable anchor is available."
+        ],
+        "table": {
+          "headers": [
+            "Situation",
+            "Documented option"
+          ],
+          "rows": [
+            [
+              "A tree is nearby",
+              "Winch to the tree"
+            ],
+            [
+              "A teammate can help",
+              "Winch to a friend’s vehicle"
+            ],
+            [
+              "No natural anchor",
+              "Use the winch-anchor tool"
+            ],
+            [
+              "Vehicle needs repositioning",
+              "Use the jack"
+            ],
+            [
+              "No usable recovery option",
+              "Open the map and spawn at a cabin or merchant"
+            ]
+          ]
+        },
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Recover without leaving the outing",
+        "paragraphs": [
+          "Check your surroundings and equipped tools before repeatedly accelerating. The developer confirms anchor and jack tools can be equipped at a merchant. A tree, another vehicle and a portable anchor are alternative recovery targets; they are not a guarantee that any pull angle will succeed."
+        ]
+      },
+      {
+        "heading": "Menu terminology",
+        "paragraphs": [
+          "The June footage calls the hook-icon tool Portable Winch. The developer recovery reply uses the term winch anchor. This record preserves both pieces of terminology; it does not count them as two independently verified inventory items."
+        ],
+        "sourceIds": [
+          "ign-demo",
+          "demo"
+        ]
+      }
+    ],
+    "related": [
+      "/guides/how-to-use-the-winch",
+      "/wiki/equipment#jack",
+      "/wiki/equipment#repair-kit"
+    ],
+    "summary": "A portable recovery option from the June Demo: what the developer confirms, where to equip it and when to consider it.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Portable Winch & Anchor | Equipment",
+      "description": "The portable winch gives you a recovery option when there is no convenient tree or teammate to pull against."
+    },
+    "facts": [
+      {
+        "label": "Recorded menu label",
+        "value": "Portable Winch",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 310
+      },
+      {
+        "label": "Access",
+        "value": "Merchant tool menu",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 310
+      }
+    ],
+    "playerNotes": [
+      "Look for Portable Winch in the merchant’s Demo tool menu."
+    ],
+    "displayFacts": [
+      {
+        "label": "Access",
+        "value": "Merchant tool menu"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "jack",
+    "slug": "jack",
+    "title": "Jack",
+    "description": "Use a jack to right an overturned vehicle and reposition it nearby.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "faq",
+      "camodo-roster"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "What the jack is for",
+        "paragraphs": [
+          "In the June recovery reply, the developer suggests a jack to reposition a vehicle. This is relevant when the vehicle’s orientation is the problem rather than simply the distance to a winch target."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Equip it at the merchant",
+        "paragraphs": [
+          "The same developer reply identifies the merchant as the place to equip this tool. It does not give a universal keybind, fixed capacity or full launch price table."
+        ]
+      },
+      {
+        "heading": "Repositioning versus restoring health",
+        "paragraphs": [
+          "The public damage FAQ separately identifies repair kits as the resource for restoring a damaged vehicle. A repositioning action is not evidence of a free repair. Inspect condition after recovery before continuing."
+        ],
+        "sourceIds": [
+          "faq"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/equipment#winch-anchor",
+      "/wiki/equipment#repair-kit"
+    ],
+    "summary": "Learn the documented role of the jack in vehicle repositioning and how it differs from a winch anchor or repair kit.",
+    "evidenceNote": "Checked against the linked developer statements. Demo instructions describe the June 2026 build; release behavior may differ. Editorial checklists are advice, not tested game features.",
+    "seo": {
+      "title": "Over the Hill Jack | Over the Hill Wiki",
+      "description": "The tool to reach for when a vehicle is on its side or needs repositioning before you can continue."
+    },
+    "facts": [
+      {
+        "label": "Menu name",
+        "value": "Jack",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 335
+      },
+      {
+        "label": "Stated action",
+        "value": "Right an overturned vehicle and reposition it nearby",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 335
+      }
+    ],
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Use",
+        "value": "Right an overturned vehicle and reposition it nearby"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "camp",
+    "slug": "camp",
+    "title": "Camp Tool",
+    "description": "Set up camp to make time pass more quickly.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/discussions/1/573794228177518436/",
+    "sourceIds": [
+      "camp",
+      "camp-cancel",
+      "ama",
+      "ign-demo"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Use and access",
+        "paragraphs": [
+          "The June developer reply says the camp tool advances time to pass night or bad weather, and can be equipped at a merchant. A later August reply confirms camping can be cancelled early."
+        ],
+        "sourceIds": [
+          "camp",
+          "camp-cancel"
+        ]
+      },
+      {
+        "heading": "A cabin is a travel destination",
+        "paragraphs": [
+          "The June reply describes map travel to a previously visited cabin. It does not describe sleeping inside one. The AMA offers a merchant camping trip followed by travel back to the cabin as an alternative."
+        ],
+        "sourceIds": [
+          "camp",
+          "ama"
+        ]
+      },
+      {
+        "heading": "Plan a trip around the capability",
+        "paragraphs": [
+          "If you want to continue an outing without map travel, consider carrying the camp tool. If you want to choose a precise hour or summon rain, the checked replies do not document those selectors. Use the current build’s description for charges and placement restrictions."
+        ]
+      },
+      {
+        "heading": "How to pass time",
+        "paragraphs": [
+          "Equip the camp tool at a merchant, then use it when you want time to pass faster. Follow the action prompts in your build. The checked source does not establish a fixed wake-up hour or a universal keyboard shortcut."
+        ],
+        "steps": [
+          "Equip the camp tool at the merchant.",
+          "Use the equipped tool to fast-forward time.",
+          "Stop camping when the conditions suit your outing; an August developer reply confirms it can be cancelled early."
+        ],
+        "sourceIds": [
+          "camp",
+          "camp-cancel"
+        ]
+      },
+      {
+        "heading": "How to travel to a cabin",
+        "paragraphs": [
+          "The developer’s Demo procedure is to open the map and select a cabin you have already visited. This immediately moves the vehicle there. Discover the cabin first; an unvisited building in scenery is not automatically a travel destination."
+        ],
+        "sourceIds": [
+          "camp"
+        ]
+      },
+      {
+        "heading": "If you did not bring a camp tool",
+        "paragraphs": [
+          "The developer AMA suggests returning to Gunther, camping there and travelling back to the cabin. This gives a documented alternative to carrying the tool. Finish or leave your current activity deliberately before travelling; preserving a particular active challenge was not tested here."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Can you select the weather?",
+        "paragraphs": [
+          "An August reply says weather changes over time and camping can be ended early. It does not announce a menu for selecting rain or a specific hour. Waiting for a change and choosing a weather state are different capabilities."
+        ],
+        "sourceIds": [
+          "camp-cancel"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/upgrades#tyres",
+      "/wiki/equipment#winch-anchor"
+    ],
+    "summary": "Advance time with the documented Demo camping tool, cancel camping early and distinguish it from cabin fast travel.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Camp Tool | Over the Hill Wiki",
+      "description": "Turn a stop into a campsite and let time pass more quickly. A good excuse to pause after a long trail."
+    },
+    "facts": [
+      {
+        "label": "Menu label",
+        "value": "Camp Tool",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 312
+      },
+      {
+        "label": "Co-op placement condition",
+        "value": "All players must be grouped together",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 312
+      },
+      {
+        "label": "Effect",
+        "value": "Time passes quickly while camping",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 312
+      }
+    ],
+    "playerNotes": [
+      "In Demo co-op, gather all players before placing the campsite."
+    ],
+    "displayFacts": [
+      {
+        "label": "Co-op camping",
+        "value": "All players must be grouped together"
+      },
+      {
+        "label": "Effect",
+        "value": "Time passes quickly while camping"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "meteorite-radar",
+    "slug": "meteorite-radar",
+    "title": "Meteorite Radar",
+    "description": "The meteorite radar helps locate meteorites. Bring a winch as well if you intend to recover what you find.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "meteor",
+      "camodo-roster"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Confirmed Demo equipment",
+        "paragraphs": [
+          "The June official checklist names meteorite radar as an available tool alongside camping, winch anchors and repair kits. This establishes its presence in the Demo; it does not establish the launch range, price or signal interface."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Discovery and extraction are separate",
+        "paragraphs": [
+          "After finding a meteorite, the developer’s extraction procedure uses a direct winch attachment to the vehicle rear and throttle while pulling. Larger multiplayer meteorites can need additional directly attached vehicles."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      },
+      {
+        "heading": "Read the current tool description",
+        "paragraphs": [
+          "Before spending currency, inspect the item description in your build for signal behavior and capacity. We do not infer a range in metres, guaranteed spawn timer or complete meteorite map from the tool’s name."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles#meteorites"
+    ],
+    "summary": "The radar is named in the official Demo tool checklist; learn its research scope and follow the verified extraction guide.",
+    "evidenceNote": "Checked against the linked developer statements. Demo instructions describe the June 2026 build; release behavior may differ. Editorial checklists are advice, not tested game features.",
+    "seo": {
+      "title": "Over the Hill Meteorite Radar | Over the Hill Wiki",
+      "description": "Bring the radar when meteorite hunting is the goal of the trip. It helps with finding the next discovery."
+    },
+    "facts": [
+      {
+        "label": "Menu name",
+        "value": "Meteorite Radar",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 334
+      },
+      {
+        "label": "Purpose",
+        "value": "Helps find meteorites",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 334
+      }
+    ],
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Purpose",
+        "value": "Helps find meteorites"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "pebbles",
+    "slug": "pebbles",
+    "title": "Pebbles Currency",
+    "description": "Pebbles pay for vehicle upgrades and extra tool capacity in the Demo.",
+    "category": "collectibles",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "meteor",
+      "ama"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "What Pebbles buy",
+        "paragraphs": [
+          "The June Demo announcement names Pebbles as in-game currency associated with unlocking available upgrades. It also places meteorite recovery in that progression loop."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Earn and spend with a purpose",
+        "paragraphs": [
+          "Use the meteorite guide for the documented recovery procedure. Editorial advice: check the next available upgrade and your current balance before heading out, so the activity serves a specific vehicle goal."
+        ]
+      },
+      {
+        "heading": "Reward values remain build-dependent",
+        "paragraphs": [
+          "A number mentioned in one player’s bug report is not a universal payout. Meteorite sizes and multiplayer requirements vary in the developer’s description. This page does not publish a fixed earnings-per-minute route or assign random spawns permanent coordinates."
+        ],
+        "sourceIds": [
+          "meteor",
+          "ama"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles#meteorites",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "summary": "Understand the Demo’s upgrade currency and its link to meteorite recovery without assuming fixed payouts or farming routes.",
+    "evidenceNote": "Checked against the linked developer statements. Demo instructions describe the June 2026 build; release behavior may differ. Editorial checklists are advice, not tested game features.",
+    "seo": {
+      "title": "Over the Hill Pebbles Currency | Over the Hill Wiki",
+      "description": "Keep some Pebbles in reserve for the next garage visit. Upgrades and extra equipment capacity compete for the same budget."
+    },
+    "playerNotes": [
+      "Meteorite recovery is one way to earn them. Check the available parts at the merchant before spending."
+    ],
+    "displayFacts": [],
+    "imageLabel": ""
+  },
+  {
+    "id": "upgrade-system",
+    "slug": "upgrade-system",
+    "title": "Upgrade System",
+    "description": "The garage separates mechanical upgrades, tool capacity and cosmetic changes.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "site",
+      "ama",
+      "ign-demo",
+      "overtake-demo"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Progression and currency",
+        "paragraphs": [
+          "The Demo announcement connects Pebbles with upgrades. The public overview describes objectives unlocking vehicles, equipment and customization. Read the in-game offer for the particular part and build rather than assuming all rewards use the same unlock rule."
+        ],
+        "sourceIds": [
+          "demo",
+          "site"
+        ]
+      },
+      {
+        "heading": "Mounting and removing upgrades",
+        "paragraphs": [
+          "The June AMA confirms upgrades can be mounted and removed. This can help experienced players choose an appropriate setup when joining someone who has made less progress."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Visible accessories versus mechanics",
+        "paragraphs": [
+          "The developer AMA explains that mechanical upgrades were not all represented visually at that stage. A roof rack or cosmetic snorkel is therefore not a measured handling attribute. Inspect the upgrade description and compare the same route before deciding what helped."
+        ]
+      },
+      {
+        "heading": "Comparisons need a known baseline",
+        "paragraphs": [
+          "A reliable comparison needs vehicle name, installed parts, build and the tested surface. The current site does not combine unknown stats into performance bars. The equipment wiki explains recovery tools separately from permanent vehicle changes."
+        ]
+      },
+      {
+        "heading": "Upgrades can be removed",
+        "paragraphs": [
+          "The developer AMA confirms mounting and unmounting upgrades. This matters when playing with a new friend: using an unmodified car or removing upgrades is a documented way to change your setup, without relying on a separate save slot."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Cosmetics do not prove mechanical upgrades",
+        "paragraphs": [
+          "The June team discussion says upgrades were not visually represented on the car at that stage, partly to keep the treatment consistent. A snorkel or roof attachment in an image is therefore not sufficient evidence of a particular mechanical bonus. Read the in-game upgrade description."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Menu groups visible in the Demo",
+        "paragraphs": [
+          "Recorded menus group upgrades under Engine, Inventory, Suspension, Water Resistance, Tires, Winch and Protection. The dated item records give named options and specific vehicle-price evidence; the group list is not a quantified upgrade tree."
+        ],
+        "sourceIds": [
+          "ign-demo",
+          "overtake-demo"
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#tyres",
+      "/wiki/upgrades#liveries-and-cosmetics",
+      "/wiki/upgrades#upgrade-system",
+      "/wiki/collectibles#meteorites"
+    ],
+    "summary": "Explore objective rewards, Pebbles, removable upgrades and the distinction between mechanical changes and cosmetic attachments.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Upgrade System | Over the Hill Wiki",
+      "description": "Spend Pebbles on the parts that fit your next outing. Mechanical upgrades, equipment capacity and cosmetics are separate choices."
+    },
+    "playerNotes": [
+      "In the Demo, upgrades can be mounted and removed. You can change your setup when joining friends with less-upgraded vehicles."
+    ],
+    "displayFacts": [],
+    "imageLabel": ""
+  },
+  {
+    "id": "tyres",
+    "slug": "tyres",
+    "title": "Tyres & Grip",
+    "description": "Tyre upgrades improve grip. The available stages depend on the vehicle’s upgrade menu.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/discussions/0/554627937323741779/",
+    "sourceIds": [
+      "faq",
+      "ama",
+      "camp",
+      "camp-cancel"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "The public grip model",
+        "paragraphs": [
+          "The developer FAQ confirms parts and tyre upgrades, and says terrain type, tyre condition and weather affect grip. That is a qualitative system description, not a complete numeric tyre comparison."
+        ],
+        "sourceIds": [
+          "faq"
+        ]
+      },
+      {
+        "heading": "Pressure and differential controls",
+        "paragraphs": [
+          "The June AMA says pressure adjustment and differential locks are not present in that development state. Do not import a real-world tyre-pressure procedure into this game or assume a trailer proves such a control."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "How to compare a change",
+        "paragraphs": [
+          "Editorial method: use the same vehicle, loadout, route and weather where possible. Note which tyre upgrade changed and what happened on the surface. A different vehicle or wet route makes a tyre-only conclusion unreliable. The developer describes terrain balance as ongoing, so include the build in any result."
+        ]
+      },
+      {
+        "heading": "Mud, sand and changing balance",
+        "paragraphs": [
+          "The June AMA confirms mud and sand while describing terrain grip as a balancing topic. Treat route difficulty as build-dependent. A successful old Demo ascent is not a measured tyre ranking for launch."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/equipment#winch",
+      "/wiki/upgrades#upgrade-system",
+      "/guides/how-to-use-the-winch",
+      "/wiki/equipment#camp"
+    ],
+    "summary": "See what the FAQ confirms about tyre upgrades, tyre condition, terrain and weather, with no invented grip coefficients.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Tyres & Grip | Over the Hill Wiki",
+      "description": "Grip matters when a climb gets slippery. Tyres belong on the mechanical side of your vehicle build."
+    },
+    "playerNotes": [],
+    "displayFacts": [],
+    "imageLabel": ""
+  },
+  {
+    "id": "liveries-and-cosmetics",
+    "slug": "liveries-and-cosmetics",
+    "title": "Liveries & Cosmetics",
+    "description": "Change colours, liveries and accessories at merchants and cabins.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "site",
+      "ama",
+      "faq"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Personalize the vehicle",
+        "paragraphs": [
+          "The Demo checklist confirms unlockable liveries and cosmetics. The official overview also describes customization through merchants and cabins. A visual attachment should not be treated as proof of a mechanical bonus."
+        ],
+        "sourceIds": [
+          "demo",
+          "site"
+        ]
+      },
+      {
+        "heading": "Mechanical changes may be invisible",
+        "paragraphs": [
+          "The June AMA explains the team’s then-current approach of not displaying every mechanical upgrade on the vehicle. Visible cosmetics and installed mechanical parts are separate pieces of information."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Custom liveries are a development goal",
+        "paragraphs": [
+          "The FAQ prioritizes livery mod support, while the AMA says it need not be through Workshop. Until released tooling is documented, there is no basis here for a guaranteed install folder or a custom-map workflow."
+        ],
+        "sourceIds": [
+          "faq",
+          "ama"
+        ]
+      },
+      {
+        "heading": "Custom livery support comes first",
+        "paragraphs": [
+          "The FAQ prioritizes livery mod support for the initial release. The June AMA discusses eventual mod support, starting with liveries, while explicitly saying it need not use Steam Workshop. Neither statement is an installation guide for a released mod system."
+        ],
+        "sourceIds": [
+          "faq",
+          "ama"
+        ]
+      },
+      {
+        "heading": "What has not been promised as a launch toolset",
+        "paragraphs": [
+          "A livery system does not by itself establish a custom-map editor, vehicle importer, Workshop integration or supported save editor. Wait for the released documentation before downloading a tool that claims official compatibility."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/upgrades#upgrade-system",
+      "/updates/price-and-supporter-pack",
+      "/guides/multiplayer-guide",
+      "/updates"
+    ],
+    "summary": "Separate unlocked visual customization, mechanical upgrades and the developer’s plans for custom livery support.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Liveries & Cosmetics | Over the Hill Wiki",
+      "description": "Make the rig feel like yours with colours, liveries and accessories before heading back into the wilderness."
+    },
+    "playerNotes": [
+      "Cosmetic choices change the vehicle’s appearance; mechanical upgrades are listed separately."
+    ],
+    "displayFacts": [],
+    "imageLabel": ""
+  },
+  {
+    "id": "animal-compendium",
+    "slug": "animal-compendium",
+    "title": "Animal Compendium",
+    "description": "Photograph animals with the in-game camera to add them to the wildlife compendium.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "ama",
+      "video-wildlife",
+      "video-journal"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "The documented photography activity",
+        "paragraphs": [
+          "The official Demo checklist asks players to photograph wild animals with Polaroids to populate the Compendium. It separately offers photo mode for scenic memories. Recording an animal entry and saving a screenshot are different objectives."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Check the result in your build",
+        "paragraphs": [
+          "Editorial workflow: take the wildlife photo using the build’s prompts, then inspect the Compendium entry. Record the animal’s actual in-game name rather than identifying it solely from artwork or a real-world species list."
+        ]
+      },
+      {
+        "heading": "Why there is no assumed spawn table",
+        "paragraphs": [
+          "A reliable species record requires the in-game label, build and direct evidence of the relevant behavior. Fixed coordinates, active hours, weather requirements and payouts cannot be inferred from the fact that wildlife photography exists. Use the photography guide for the known capture and storage distinctions."
+        ]
+      },
+      {
+        "heading": "How to open photo mode",
+        "paragraphs": [
+          "The June developer AMA answers two players with the same access route: photo mode is available from the pause menu, not just scenic lookout activities. No exact button or shortcut is established by that answer."
+        ],
+        "steps": [
+          "Pause the game.",
+          "Choose photo mode in the pause menu.",
+          "Follow that build’s camera and capture prompts."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Where the pictures go",
+        "paragraphs": [
+          "The June Demo FAQ places in-game photos with the Windows game data in Documents\\My Games\\over the hill. Steam’s own screenshots use Steam’s separate screenshot storage. Look in the location associated with the capture method you used."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Developer-named wildlife",
+        "paragraphs": [
+          "The August clip names bald eagles, black bears, moose, beavers, Canada geese and coyotes. The species records preserve the named area or habitat cue without inventing a complete journal total."
+        ],
+        "sourceIds": [
+          "video-wildlife"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/equipment#camp",
+      "/wiki/wildlife#bald-eagle",
+      "/wiki/wildlife#black-bear",
+      "/wiki/wildlife#moose",
+      "/wiki/wildlife#beaver",
+      "/wiki/wildlife#canada-goose",
+      "/wiki/wildlife#coyote"
+    ],
+    "summary": "Learn the confirmed wildlife Polaroid journal, how it differs from scenic photo mode and what is needed for a species record.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Animal Compendium | Over the Hill Wiki",
+      "description": "Keep the camera handy. Photograph wildlife as you explore to build up the animal compendium."
+    },
+    "playerNotes": [
+      "The habitat notes below identify areas or terrain types. They do not mark fixed spawns or specify active hours."
+    ],
+    "displayFacts": [],
+    "imageLabel": ""
+  },
+  {
+    "id": "cloud-clearing-bell",
+    "slug": "cloud-clearing-bell",
+    "title": "Cloud Clearing Bell",
+    "description": "The cloud clearing bell clears bad weather for a limited time.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster",
+      "video-weather"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "paragraphs": [
+          "The June Demo menu names the item Cloud Clearing Bell and describes a temporary clearing of bad weather. The May developer demonstration shows the bell being selected during dusty conditions and the sky clearing."
+        ],
+        "sourceIds": [
+          "camodo-roster",
+          "video-weather"
+        ]
+      },
+      {
+        "heading": "Bell and camping are different",
+        "paragraphs": [
+          "The bell acts on weather. Camping advances time and lets conditions pass. The demonstrated bell is not evidence of an exact-hour selector or an on-demand rain setting."
+        ],
+        "sourceIds": [
+          "video-weather"
+        ]
+      },
+      {
+        "heading": "Duration",
+        "paragraphs": [
+          "The menu says the effect lasts for a set amount of time but does not show a numeric duration in the reviewed frame. No duration, cooldown or multiplayer voting rule is added here."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu name",
+        "value": "Cloud Clearing Bell",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 330
+      },
+      {
+        "label": "Effect",
+        "value": "Temporarily clears bad weather",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 330
+      },
+      {
+        "label": "Selection and result",
+        "value": "Bell selection followed by clearer skies",
+        "sourceId": "video-weather",
+        "timestampSeconds": 11
+      }
+    ],
+    "related": [
+      "/wiki/equipment#camp"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Cloud Clearing Bell | Over the Hill Wiki",
+      "description": "Clear bad weather for a limited period when you want a break in the conditions."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Effect",
+        "value": "Temporarily clears bad weather"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "engine-stage-2",
+    "slug": "engine-stage-2",
+    "title": "Engine Stage 2",
+    "description": "A second-stage engine upgrade available for the Protector in the Demo.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=YBfx4K1K3Zs",
+    "sourceIds": [
+      "ign-demo"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded upgrade",
+        "paragraphs": [
+          "The footage shows the Engine Stage 2 option on Protector. The item description supports higher engine performance; no numeric gain shown. It does not provide a measured handling improvement or a launch-build coefficient."
+        ],
+        "sourceIds": [
+          "ign-demo"
+        ]
+      },
+      {
+        "heading": "Price scope",
+        "paragraphs": [
+          "The observed price is 25 Pebbles — Protector in IGN Demo footage. Preserve the vehicle and session context when comparing prices; these footage samples are not a final global upgrade-price table."
+        ],
+        "sourceIds": [
+          "ign-demo"
+        ]
+      },
+      {
+        "heading": "Compatibility",
+        "paragraphs": [
+          "This observation establishes the option on Protector. Compatibility with another vehicle should be checked in that vehicle’s own menu rather than inferred from a shared icon."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu group",
+        "value": "Engine",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 321
+      },
+      {
+        "label": "Stated effect",
+        "value": "Higher engine performance; no numeric gain shown",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 321
+      },
+      {
+        "label": "Observed price",
+        "value": "25 Pebbles — Protector in IGN Demo footage",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 321
+      },
+      {
+        "label": "Observed vehicle",
+        "value": "Protector",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 321
+      }
+    ],
+    "related": [
+      "/vehicles#protector",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Engine Stage 2 | Over the Hill Wiki",
+      "description": "A second-stage engine option in the Protector upgrade menu. Check the current shop price before spending your Pebbles."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Upgrade type",
+        "value": "Engine"
+      },
+      {
+        "label": "Effect",
+        "value": "Higher engine performance"
+      },
+      {
+        "label": "Demo price",
+        "value": "25 Pebbles - Protector Demo"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "tool-slots",
+    "slug": "tool-slots",
+    "title": "Tool Slot Upgrade",
+    "description": "Increase the number of tools you can equip on the vehicle.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=YBfx4K1K3Zs",
+    "sourceIds": [
+      "ign-demo"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded upgrade",
+        "paragraphs": [
+          "The footage shows the Tool Slot Upgrade option on Protector. The item description supports carry additional equipped tools. It does not provide a measured handling improvement or a launch-build coefficient."
+        ],
+        "sourceIds": [
+          "ign-demo"
+        ]
+      },
+      {
+        "heading": "Price scope",
+        "paragraphs": [
+          "The observed price is 25 Pebbles — two-slot option on Protector in IGN footage. Preserve the vehicle and session context when comparing prices; these footage samples are not a final global upgrade-price table."
+        ],
+        "sourceIds": [
+          "ign-demo"
+        ]
+      },
+      {
+        "heading": "Compatibility",
+        "paragraphs": [
+          "This observation establishes the option on Protector. Compatibility with another vehicle should be checked in that vehicle’s own menu rather than inferred from a shared icon."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu group",
+        "value": "Inventory",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 325
+      },
+      {
+        "label": "Stated effect",
+        "value": "Carry additional equipped tools",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 325
+      },
+      {
+        "label": "Observed price",
+        "value": "25 Pebbles — two-slot option on Protector in IGN footage",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 325
+      },
+      {
+        "label": "Observed vehicle",
+        "value": "Protector",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 325
+      },
+      {
+        "label": "Visible capacity options",
+        "value": "Icons marked 2, 3 and 4; only the first option is priced in this frame",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 325
+      }
+    ],
+    "related": [
+      "/vehicles#protector",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Tool Slot Upgrade | Over the Hill Wiki",
+      "description": "Extra equipment capacity gives you more room to pack for recovery and exploration."
+    },
+    "playerNotes": [
+      "The two-slot option is purchasable in the Protector Demo menu. Higher-capacity options appear locked in that build."
+    ],
+    "displayFacts": [
+      {
+        "label": "Upgrade type",
+        "value": "Inventory"
+      },
+      {
+        "label": "Effect",
+        "value": "Carry additional equipped tools"
+      },
+      {
+        "label": "Demo price",
+        "value": "25 Pebbles - two slots, Protector Demo"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "suspension-level-2",
+    "slug": "suspension-level-2",
+    "title": "Suspension Level 2",
+    "description": "Suspension Level 2 increases the Protector’s suspension height in the Demo.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=EgdNIgAEILo",
+    "sourceIds": [
+      "overtake-demo"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded upgrade",
+        "paragraphs": [
+          "The footage shows the Suspension Level 2 option on Protector. The item description supports increased suspension height. It does not provide a measured handling improvement or a launch-build coefficient."
+        ],
+        "sourceIds": [
+          "overtake-demo"
+        ]
+      },
+      {
+        "heading": "Price scope",
+        "paragraphs": [
+          "The observed price is 20 Pebbles — Protector in OverTake Demo footage. Preserve the vehicle and session context when comparing prices; these footage samples are not a final global upgrade-price table."
+        ],
+        "sourceIds": [
+          "overtake-demo"
+        ]
+      },
+      {
+        "heading": "Compatibility",
+        "paragraphs": [
+          "This observation establishes the option on Protector. Compatibility with another vehicle should be checked in that vehicle’s own menu rather than inferred from a shared icon."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu group",
+        "value": "Suspension",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 70
+      },
+      {
+        "label": "Stated effect",
+        "value": "Increased suspension height",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 70
+      },
+      {
+        "label": "Observed price",
+        "value": "20 Pebbles — Protector in OverTake Demo footage",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 70
+      },
+      {
+        "label": "Observed vehicle",
+        "value": "Protector",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 70
+      }
+    ],
+    "related": [
+      "/vehicles#protector",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Suspension Level 2 | Over the Hill Wiki",
+      "description": "Raise the vehicle with a suspension upgrade when you are planning a rougher route."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Upgrade type",
+        "value": "Suspension"
+      },
+      {
+        "label": "Effect",
+        "value": "Increased suspension height"
+      },
+      {
+        "label": "Demo price",
+        "value": "20 Pebbles - Protector Demo"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "tyres-stage-2",
+    "slug": "tyres-stage-2",
+    "title": "Tires Stage 2",
+    "description": "The Protector’s second-stage tyre upgrade improves grip in the Demo.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=EgdNIgAEILo",
+    "sourceIds": [
+      "overtake-demo"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Recorded upgrade",
+        "paragraphs": [
+          "The footage shows the Tires Stage 2 option on Protector. The item description supports increased tyre grip. It does not provide a measured handling improvement or a launch-build coefficient."
+        ],
+        "sourceIds": [
+          "overtake-demo"
+        ]
+      },
+      {
+        "heading": "Price scope",
+        "paragraphs": [
+          "The observed price is 20 Pebbles — Protector in OverTake Demo footage. Preserve the vehicle and session context when comparing prices; these footage samples are not a final global upgrade-price table."
+        ],
+        "sourceIds": [
+          "overtake-demo"
+        ]
+      },
+      {
+        "heading": "Compatibility",
+        "paragraphs": [
+          "This observation establishes the option on Protector. Compatibility with another vehicle should be checked in that vehicle’s own menu rather than inferred from a shared icon."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu group",
+        "value": "Tires",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 755
+      },
+      {
+        "label": "Stated effect",
+        "value": "Increased tyre grip",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 755
+      },
+      {
+        "label": "Observed price",
+        "value": "20 Pebbles — Protector in OverTake Demo footage",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 755
+      },
+      {
+        "label": "Observed vehicle",
+        "value": "Protector",
+        "sourceId": "overtake-demo",
+        "timestampSeconds": 755
+      }
+    ],
+    "related": [
+      "/vehicles#protector",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Tires Stage 2 | Over the Hill Wiki",
+      "description": "A second-stage grip upgrade in the Protector menu. A useful part to compare alongside suspension."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Upgrade type",
+        "value": "Tires"
+      },
+      {
+        "label": "Effect",
+        "value": "Increased tyre grip"
+      },
+      {
+        "label": "Demo price",
+        "value": "20 Pebbles - Protector Demo"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "bald-eagle",
+    "slug": "bald-eagle",
+    "title": "Bald Eagle",
+    "description": "The bald eagle is associated with Emerald Lake. Photograph it for the animal compendium.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=Qsem4loPmmc",
+    "sourceIds": [
+      "video-wildlife",
+      "video-journal"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Developer confirmation",
+        "paragraphs": [
+          "Funselektor’s August 28 wildlife clip explicitly names Bald Eagle. The narration associates it with Emerald Lake."
+        ],
+        "sourceIds": [
+          "video-wildlife"
+        ]
+      },
+      {
+        "heading": "Photography activity",
+        "paragraphs": [
+          "The July journal demonstration explains photographing encountered animals to add them to the journal. This page records the developer’s species name, not a real-world list substituted for game data."
+        ],
+        "sourceIds": [
+          "video-journal"
+        ]
+      },
+      {
+        "heading": "Location scope",
+        "paragraphs": [
+          "A habitat cue is not a coordinate or a guarantee that the animal appears at every matching location. The clip does not establish fixed spawn positions, active hours, weather requirements or an exact payout."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Developer-named animal",
+        "value": "Bald Eagle",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 4
+      },
+      {
+        "label": "Activity",
+        "value": "Photograph for the animal journal",
+        "sourceId": "video-journal",
+        "timestampSeconds": 16
+      },
+      {
+        "label": "Named area",
+        "value": "Emerald Lake",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 4
+      }
+    ],
+    "related": [
+      "/wiki/wildlife#animal-compendium",
+      "/maps#emerald-lake"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Bald Eagle | Over the Hill Wiki",
+      "description": "Keep an eye out for bald eagle while exploring emerald lake. A photograph adds to your wildlife compendium."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Look around",
+        "value": "Emerald Lake"
+      },
+      {
+        "label": "Activity",
+        "value": "Wildlife photography"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "black-bear",
+    "slug": "black-bear",
+    "title": "Black Bear",
+    "description": "Black bear is one of the animals linked to Emerald Lake in the wildlife notes.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=Qsem4loPmmc",
+    "sourceIds": [
+      "video-wildlife",
+      "video-journal"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Developer confirmation",
+        "paragraphs": [
+          "Funselektor’s August 28 wildlife clip explicitly names Black Bear. The narration associates it with Emerald Lake."
+        ],
+        "sourceIds": [
+          "video-wildlife"
+        ]
+      },
+      {
+        "heading": "Photography activity",
+        "paragraphs": [
+          "The July journal demonstration explains photographing encountered animals to add them to the journal. This page records the developer’s species name, not a real-world list substituted for game data."
+        ],
+        "sourceIds": [
+          "video-journal"
+        ]
+      },
+      {
+        "heading": "Location scope",
+        "paragraphs": [
+          "A habitat cue is not a coordinate or a guarantee that the animal appears at every matching location. The clip does not establish fixed spawn positions, active hours, weather requirements or an exact payout."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Developer-named animal",
+        "value": "Black Bear",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 5
+      },
+      {
+        "label": "Activity",
+        "value": "Photograph for the animal journal",
+        "sourceId": "video-journal",
+        "timestampSeconds": 16
+      },
+      {
+        "label": "Named area",
+        "value": "Emerald Lake",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 5
+      }
+    ],
+    "related": [
+      "/wiki/wildlife#animal-compendium",
+      "/maps#emerald-lake"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Black Bear | Over the Hill Wiki",
+      "description": "Keep an eye out for black bear while exploring emerald lake. A photograph adds to your wildlife compendium."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Look around",
+        "value": "Emerald Lake"
+      },
+      {
+        "label": "Activity",
+        "value": "Wildlife photography"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "moose",
+    "slug": "moose",
+    "title": "Moose",
+    "description": "Moose is another Emerald Lake photography target for the animal compendium.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=Qsem4loPmmc",
+    "sourceIds": [
+      "video-wildlife",
+      "video-journal"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Developer confirmation",
+        "paragraphs": [
+          "Funselektor’s August 28 wildlife clip explicitly names Moose. The narration associates it with Emerald Lake."
+        ],
+        "sourceIds": [
+          "video-wildlife"
+        ]
+      },
+      {
+        "heading": "Photography activity",
+        "paragraphs": [
+          "The July journal demonstration explains photographing encountered animals to add them to the journal. This page records the developer’s species name, not a real-world list substituted for game data."
+        ],
+        "sourceIds": [
+          "video-journal"
+        ]
+      },
+      {
+        "heading": "Location scope",
+        "paragraphs": [
+          "A habitat cue is not a coordinate or a guarantee that the animal appears at every matching location. The clip does not establish fixed spawn positions, active hours, weather requirements or an exact payout."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Developer-named animal",
+        "value": "Moose",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 6
+      },
+      {
+        "label": "Activity",
+        "value": "Photograph for the animal journal",
+        "sourceId": "video-journal",
+        "timestampSeconds": 16
+      },
+      {
+        "label": "Named area",
+        "value": "Emerald Lake",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 6
+      }
+    ],
+    "related": [
+      "/wiki/wildlife#animal-compendium",
+      "/maps#emerald-lake"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Moose | Over the Hill Wiki",
+      "description": "Keep an eye out for moose while exploring emerald lake. A photograph adds to your wildlife compendium."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Look around",
+        "value": "Emerald Lake"
+      },
+      {
+        "label": "Activity",
+        "value": "Wildlife photography"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "beaver",
+    "slug": "beaver",
+    "title": "Beaver",
+    "description": "Look around river habitats when searching for a beaver to photograph.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=Qsem4loPmmc",
+    "sourceIds": [
+      "video-wildlife",
+      "video-journal"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Developer confirmation",
+        "paragraphs": [
+          "Funselektor’s August 28 wildlife clip explicitly names Beaver. The narration gives the habitat cue: near rivers, without naming an exact area."
+        ],
+        "sourceIds": [
+          "video-wildlife"
+        ]
+      },
+      {
+        "heading": "Photography activity",
+        "paragraphs": [
+          "The July journal demonstration explains photographing encountered animals to add them to the journal. This page records the developer’s species name, not a real-world list substituted for game data."
+        ],
+        "sourceIds": [
+          "video-journal"
+        ]
+      },
+      {
+        "heading": "Location scope",
+        "paragraphs": [
+          "A habitat cue is not a coordinate or a guarantee that the animal appears at every matching location. The clip does not establish fixed spawn positions, active hours, weather requirements or an exact payout."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Developer-named animal",
+        "value": "Beaver",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 10
+      },
+      {
+        "label": "Activity",
+        "value": "Photograph for the animal journal",
+        "sourceId": "video-journal",
+        "timestampSeconds": 16
+      },
+      {
+        "label": "Developer habitat cue",
+        "value": "Near rivers",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 10
+      }
+    ],
+    "related": [
+      "/wiki/wildlife#animal-compendium",
+      "/maps#emerald-lake"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Beaver | Over the Hill Wiki",
+      "description": "Keep an eye out for beaver while exploring rivers. A photograph adds to your wildlife compendium."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Look around",
+        "value": "Rivers"
+      },
+      {
+        "label": "Activity",
+        "value": "Wildlife photography"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "canada-goose",
+    "slug": "canada-goose",
+    "title": "Canada Goose",
+    "description": "Swamps are the habitat cue for Canada goose photography.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=Qsem4loPmmc",
+    "sourceIds": [
+      "video-wildlife",
+      "video-journal"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Developer confirmation",
+        "paragraphs": [
+          "Funselektor’s August 28 wildlife clip explicitly names Canada Goose. The narration gives the habitat cue: swamps, without naming an exact area."
+        ],
+        "sourceIds": [
+          "video-wildlife"
+        ]
+      },
+      {
+        "heading": "Photography activity",
+        "paragraphs": [
+          "The July journal demonstration explains photographing encountered animals to add them to the journal. This page records the developer’s species name, not a real-world list substituted for game data."
+        ],
+        "sourceIds": [
+          "video-journal"
+        ]
+      },
+      {
+        "heading": "Location scope",
+        "paragraphs": [
+          "A habitat cue is not a coordinate or a guarantee that the animal appears at every matching location. The clip does not establish fixed spawn positions, active hours, weather requirements or an exact payout."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Developer-named animal",
+        "value": "Canada Goose",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 12
+      },
+      {
+        "label": "Activity",
+        "value": "Photograph for the animal journal",
+        "sourceId": "video-journal",
+        "timestampSeconds": 16
+      },
+      {
+        "label": "Developer habitat cue",
+        "value": "Swamps",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 12
+      }
+    ],
+    "related": [
+      "/wiki/wildlife#animal-compendium",
+      "/maps#emerald-lake"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Canada Goose | Over the Hill Wiki",
+      "description": "Keep an eye out for canada goose while exploring swamps. A photograph adds to your wildlife compendium."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Look around",
+        "value": "Swamps"
+      },
+      {
+        "label": "Activity",
+        "value": "Wildlife photography"
+      }
+    ],
+    "imageLabel": ""
+  },
+  {
+    "id": "coyote",
+    "slug": "coyote",
+    "title": "Coyote",
+    "description": "Clearings are the habitat cue for coyotes. Look beyond the wooded stretches of your route.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.youtube.com/watch?v=Qsem4loPmmc",
+    "sourceIds": [
+      "video-wildlife",
+      "video-journal"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Public pre-release footage",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Developer confirmation",
+        "paragraphs": [
+          "Funselektor’s August 28 wildlife clip explicitly names Coyote. The narration gives the habitat cue: clearings, without naming an exact area."
+        ],
+        "sourceIds": [
+          "video-wildlife"
+        ]
+      },
+      {
+        "heading": "Photography activity",
+        "paragraphs": [
+          "The July journal demonstration explains photographing encountered animals to add them to the journal. This page records the developer’s species name, not a real-world list substituted for game data."
+        ],
+        "sourceIds": [
+          "video-journal"
+        ]
+      },
+      {
+        "heading": "Location scope",
+        "paragraphs": [
+          "A habitat cue is not a coordinate or a guarantee that the animal appears at every matching location. The clip does not establish fixed spawn positions, active hours, weather requirements or an exact payout."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Developer-named animal",
+        "value": "Coyote",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 14
+      },
+      {
+        "label": "Activity",
+        "value": "Photograph for the animal journal",
+        "sourceId": "video-journal",
+        "timestampSeconds": 16
+      },
+      {
+        "label": "Developer habitat cue",
+        "value": "Clearings",
+        "sourceId": "video-wildlife",
+        "timestampSeconds": 14
+      }
+    ],
+    "related": [
+      "/wiki/wildlife#animal-compendium",
+      "/maps#emerald-lake"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Coyote | Over the Hill Wiki",
+      "description": "Keep an eye out for coyote while exploring clearings. A photograph adds to your wildlife compendium."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Look around",
+        "value": "Clearings"
+      },
+      {
+        "label": "Activity",
+        "value": "Wildlife photography"
+      }
+    ],
+    "imageLabel": ""
+  }
+]

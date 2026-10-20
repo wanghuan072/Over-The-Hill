@@ -1,0 +1,152 @@
+{
+  "id": "vehicle-systems",
+  "slug": "vehicle-systems",
+  "title": "Over the Hill Vehicle Systems",
+  "description": "Get to know the classic 4x4 garage, objective unlocks, customization and equipment before choosing your next vehicle.",
+  "category": "Vehicle Basics",
+  "image": "/images/game/screenshot-03.webp",
+  "imageAlt": "Customized off-road vehicle in an autumn landscape",
+  "sourceUrl": "https://store.steampowered.com/app/2929250/over_the_hill/",
+  "sourceType": "official",
+  "verificationStatus": "confirmed",
+  "gameVersion": "Steam release, October 2026; historical mechanics labelled separately",
+  "lastVerifiedAt": "2026-10-16",
+  "publishedAt": "2026-10-10",
+  "sections": [
+    {
+      "heading": "The vehicle era",
+      "paragraphs": [
+        "The official Steam description features iconic 4x4 vehicles from the 1960s through the 1980s. That period describes the fleet’s theme; it is not a verified year or manufacturer for any particular vehicle."
+      ]
+    },
+    {
+      "heading": "How vehicles are unlocked",
+      "paragraphs": [
+        "Challenge trails can reward a new vehicle. Hermit Trail in Emerald Lake unlocks the Burro; Windy Joe Trail rewards the Trail Burner. Each named reward in the list is tied to its area and challenge trail."
+      ]
+    },
+    {
+      "heading": "Equipment and upgrades",
+      "paragraphs": [
+        "Steam describes finding equipment and upgrades throughout the world. Its description also names merchants and cabins as places to customize colours, accessories and cosmetics."
+      ]
+    },
+    {
+      "heading": "The release garage",
+      "paragraphs": [
+        "The release roster contains 21 named vehicles, from the Tinny and Trailrat to the Mammoth and Timberbox. Filter by Wagon, Trail, Expedition or Workhorse to browse the garage."
+      ],
+      "sourceIds": [
+        "release-modding"
+      ]
+    },
+    {
+      "heading": "Upgrades can be removed",
+      "paragraphs": [
+        "The developer AMA confirms mounting and unmounting upgrades. This matters when playing with a new friend: using an unmodified car or removing upgrades is a documented way to change your setup, without relying on a separate save slot."
+      ],
+      "sourceIds": [
+        "ama"
+      ]
+    },
+    {
+      "heading": "Cosmetics do not prove mechanical upgrades",
+      "paragraphs": [
+        "The June team discussion says upgrades were not visually represented on the car at that stage, partly to keep the treatment consistent. A snorkel or roof attachment in an image is therefore not sufficient evidence of a particular mechanical bonus. Read the in-game upgrade description."
+      ],
+      "sourceIds": [
+        "ama"
+      ]
+    },
+    {
+      "heading": "Gearbox, differential locks and tyre pressure",
+      "paragraphs": [
+        "The FAQ describes a streamlined low/high-gear arrangement without differential locking. During the June AMA, developers discussed a two-gear manual solution that might become three, and said tyre-pressure adjustment was not present. These are dated development statements, not a full launch transmission specification."
+      ],
+      "sourceIds": [
+        "faq",
+        "ama"
+      ]
+    },
+    {
+      "heading": "Vehicle pictures and unlocks",
+      "paragraphs": [
+        "Every vehicle has a matching gameplay picture. Images marked Custom livery show player-made paint and accessories, so they should not be read as the default setup or as proof of mechanical upgrades. Named unlock trails stay attached to the vehicle."
+      ],
+      "sourceIds": [
+        "release-modding",
+        "release-canada",
+        "release-algeria"
+      ]
+    }
+  ],
+  "related": [
+    "/vehicles",
+    "/wiki/upgrades#upgrade-system",
+    "/wiki/upgrades#tyres",
+    "/wiki/collectibles#meteorites",
+    "/wiki/upgrades#liveries-and-cosmetics"
+  ],
+  "seo": {
+    "title": "Over the Hill Vehicles - Garage and Upgrade Basics",
+    "description": "Explore the Over the Hill garage: 21 named vehicles, four classes, challenge-trail unlocks and upgrades, with release and Demo differences kept clear."
+  },
+  "sourceUrls": [
+    "https://steamcommunity.com/app/2929250/discussions/0/554627937323741779/",
+    "https://www.funselektor.com/overthehill"
+  ],
+  "sourceIds": [
+    "ama",
+    "demo",
+    "faq",
+    "steam",
+    "ign-demo",
+    "video-classes",
+    "video-gears",
+    "camodo-roster",
+    "release-modding",
+    "release-canada",
+    "release-algeria",
+    "release-raptor"
+  ],
+  "evidenceNote": "Official modding identifiers establish the roster. Release map reward records corroborate 13 unlock trails. Release footage verifies selected first-tier upgrade prices; development-only mechanics remain dated.",
+  "summary": "Browse 21 named vehicles, challenge-trail rewards and garage upgrades.",
+  "facts": [
+    {
+      "label": "Menu categories",
+      "value": "Wagon · Trail · Expedition · Workhorse",
+      "sourceId": "ign-demo",
+      "timestampSeconds": 305
+    },
+    {
+      "label": "Release garage",
+      "value": "21 named vehicles",
+      "sourceId": "release-modding"
+    },
+    {
+      "label": "Input modes",
+      "value": "Manual and automatic transmission demonstrated",
+      "sourceId": "video-gears",
+      "timestampSeconds": 3
+    }
+  ],
+  "imageLabel": "",
+  "playerNotes": [
+    "Explore objectives to unlock vehicles, spend Pebbles on upgrades, and customize at merchants and cabins."
+  ],
+  "displayFacts": [
+    {
+      "label": "Menu categories",
+      "value": "Wagon · Trail · Expedition · Workhorse"
+    },
+    {
+      "label": "Release garage",
+      "value": "21 named vehicles"
+    },
+    {
+      "label": "Input modes",
+      "value": "Manual and automatic transmission demonstrated"
+    }
+  ],
+  "updatedAt": "2026-10-16"
+}

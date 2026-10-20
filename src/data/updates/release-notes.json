@@ -1,0 +1,62 @@
+{
+  "id": "october-16-update",
+  "slug": "october-16-update",
+  "title": "October 16 Update: Rewards, Recovery and Co-op Fixes",
+  "description": "Repeated challenge rewards, meteorite spawns, camping weather and The Ding receive changes in the first post-launch patch.",
+  "category": "Patch Notes",
+  "image": "/images/game/screenshot-26.webp",
+  "imageAlt": "Sunset over the Over the Hill landscape",
+  "sourceUrl": "https://steamcommunity.com/games/2929250/announcements/detail/713415392836453283",
+  "sourceIds": ["patch-2026-10-16"],
+  "sourceType": "official",
+  "verificationStatus": "confirmed",
+  "gameVersion": "26.10.16_57fb763",
+  "publishedAt": "2026-10-16",
+  "updatedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-10-19",
+  "sections": [
+    {
+      "heading": "Pebbles & meteorites",
+      "paragraphs": [
+        "Repeat objectives are worth revisiting, and meteorite searches need the current spawn positions."
+      ],
+      "bullets": [
+        "Recovery missions and challenge trails pay Pebbles on repeat completions again. A bug had prevented subsequent payouts.",
+        "Meteorite spawn points were adjusted across every area. A location shown in an older screenshot may no longer match the current target."
+      ]
+    },
+    {
+      "heading": "Camping & co-op",
+      "paragraphs": [
+        "The patch fixes two problems around camping and adds a way to keep your room code off a broadcast."
+      ],
+      "bullets": [
+        "Weather speeds up correctly while camping.",
+        "A client taking a portal after camping in the same session no longer hits the reported infinite-loading case.",
+        "Streamer mode in HUD settings hides the room code in the lobby and pause menu."
+      ]
+    },
+    {
+      "heading": "Handling, display & achievements",
+      "paragraphs": [
+        "Vehicle behaviour, camera collision and several release-build problems receive fixes."
+      ],
+      "bullets": [
+        "The Ding has an adjusted center of mass.",
+        "Camera collision has been reworked.",
+        "The invisible-terrain issue on some older GPUs has a built-in fix. The earlier launch-option workaround is no longer required.",
+        "Several achievements that could not be unlocked by Next Fest Demo players have been fixed."
+      ]
+    }
+  ],
+  "related": [
+    "/vehicles#ding",
+    "/wiki/collectibles#meteorites",
+    "/wiki/equipment#camp"
+  ],
+  "seo": {
+    "title": "Over The Hill October 16 Update - Rewards and Fixes",
+    "description": "Check the Over the Hill October 16 update: repeat Pebble rewards, meteorite spawn changes, camping weather, Ding handling and co-op portal fixes explained."
+  },
+  "playerNotes": []
+}

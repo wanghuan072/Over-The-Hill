@@ -1,0 +1,1970 @@
+[
+  {
+    "id": "BlastWagon_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 1163493961,
+    "price": 0,
+    "icon": "BlastWagon_skin_special02"
+  },
+  {
+    "id": "Baguette_livery_02",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 3369691194,
+    "price": 0,
+    "icon": "Baguette_green"
+  },
+  {
+    "id": "DingDing_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2595525562,
+    "price": 0,
+    "icon": "DingDing_skin_special03"
+  },
+  {
+    "id": "Bull_livery_10",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 1934394798,
+    "price": 0,
+    "icon": "BullV1_grey"
+  },
+  {
+    "id": "DingDing_livery_03",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1557458582,
+    "price": 0,
+    "icon": "DingDing_red"
+  },
+  {
+    "id": "Wombat_livery_03",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2260998702,
+    "price": 0,
+    "icon": "Wombat_green"
+  },
+  {
+    "id": "TrailBurner_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2918626659,
+    "price": 0,
+    "icon": "TrailBurner_skin_special01"
+  },
+  {
+    "id": "Woodman_livery_00",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 1104482154,
+    "price": 0,
+    "icon": "Woodman_white"
+  },
+  {
+    "id": "GrandWoodman_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 2206800295,
+    "price": 0,
+    "icon": "GrandWoodman_skin_special04"
+  },
+  {
+    "id": "Burro_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2349923154,
+    "price": 0,
+    "icon": "Burro_skin_special03"
+  },
+  {
+    "id": "Woodman_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 1614773797,
+    "price": 0,
+    "icon": "Woodman_skin_special04"
+  },
+  {
+    "id": "RustOx_livery_01",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2803314740,
+    "price": 0,
+    "icon": "RustOx_red"
+  },
+  {
+    "id": "Lynx_livery_01",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1716378335,
+    "price": 0,
+    "icon": "Lynx_red-white"
+  },
+  {
+    "id": "Mammoth_livery_03",
+    "name": "Orange Livery",
+    "description": null,
+    "itemId": 3611916875,
+    "price": 0,
+    "icon": "Mammoth_orange"
+  },
+  {
+    "id": "BlastWagon_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2136243728,
+    "price": 0,
+    "icon": "BlastWagon_skin_special01"
+  },
+  {
+    "id": "Protector_livery_01",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 4232459476,
+    "price": 0,
+    "icon": "Protector_cyan"
+  },
+  {
+    "id": "Cumbre_livery_01",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2212426393,
+    "price": 0,
+    "icon": "Cumbre_red"
+  },
+  {
+    "id": "Baguette_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1868156044,
+    "price": 0,
+    "icon": "Baguette_skin_special03"
+  },
+  {
+    "id": "Lynx_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 1325666292,
+    "price": 0,
+    "icon": "Lynx_skin_special02"
+  },
+  {
+    "id": "Mammoth_livery_04",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 2321843384,
+    "price": 0,
+    "icon": "Mammoth_white"
+  },
+  {
+    "id": "BlastWagon_livery_04",
+    "name": "Brown Livery",
+    "description": null,
+    "itemId": 3381292179,
+    "price": 0,
+    "icon": "BlastWagon_brown"
+  },
+  {
+    "id": "Wombat_livery_00",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 2117484372,
+    "price": 0,
+    "icon": "Wombat_white"
+  },
+  {
+    "id": "BlastWagon_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2554661106,
+    "price": 0,
+    "icon": "BlastWagon_skin_special03"
+  },
+  {
+    "id": "GrandWoodman_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 3530246617,
+    "price": 0,
+    "icon": "GrandWoodman_skin_special03"
+  },
+  {
+    "id": "TrailBurner_livery_04",
+    "name": "Grey/Black Livery",
+    "description": null,
+    "itemId": 1997068835,
+    "price": 0,
+    "icon": "TrailBurner_grey-black"
+  },
+  {
+    "id": "Marshal_livery_00",
+    "name": "Yellow/White Livery",
+    "description": null,
+    "itemId": 3639681206,
+    "price": 0,
+    "icon": "Marshal_yellow-white"
+  },
+  {
+    "id": "Protector_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2139069014,
+    "price": 0,
+    "icon": "Protector_skin_special01"
+  },
+  {
+    "id": "Tinny_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2330051645,
+    "price": 0,
+    "icon": "Tinny_skin_special03"
+  },
+  {
+    "id": "Marshal_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1700324749,
+    "price": 0,
+    "icon": "Marshal_skin_special03"
+  },
+  {
+    "id": "TrailBurner_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2010711267,
+    "price": 0,
+    "icon": "TrailBurner_skin_special03"
+  },
+  {
+    "id": "RustOx_livery_03",
+    "name": "Brown Livery",
+    "description": null,
+    "itemId": 2471331052,
+    "price": 0,
+    "icon": "RustOx_brown"
+  },
+  {
+    "id": "BlastWagon_livery_00",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2477248735,
+    "price": 0,
+    "icon": "BlastWagon_red"
+  },
+  {
+    "id": "Brick_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1724792549,
+    "price": 0,
+    "icon": "Brick_skin_special03"
+  },
+  {
+    "id": "Woodman_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3511995447,
+    "price": 0,
+    "icon": "Woodman_skin_special01"
+  },
+  {
+    "id": "Mammoth_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1562316510,
+    "price": 0,
+    "icon": "Mammoth_skin_special03"
+  },
+  {
+    "id": "Baguette_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 1641156905,
+    "price": 0,
+    "icon": "Baguette_skin_special04"
+  },
+  {
+    "id": "Wombat_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 1417041415,
+    "price": 0,
+    "icon": "Wombat_skin_special_02"
+  },
+  {
+    "id": "Marshal_livery_02",
+    "name": "Green/White Livery",
+    "description": null,
+    "itemId": 3435630699,
+    "price": 0,
+    "icon": "Marshal_green-white"
+  },
+  {
+    "id": "Lynx_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2612977966,
+    "price": 0,
+    "icon": "Lynx_skin_special01"
+  },
+  {
+    "id": "TrailBurner_livery_02",
+    "name": "Orange/White Livery",
+    "description": null,
+    "itemId": 3059672672,
+    "price": 0,
+    "icon": "TrailBurner_orange-white"
+  },
+  {
+    "id": "Roamer_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2818982035,
+    "price": 0,
+    "icon": "Roamer_skin_special03"
+  },
+  {
+    "id": "Tinny_livery_00",
+    "name": "Dark Green Livery",
+    "description": null,
+    "itemId": 1824000033,
+    "price": 0,
+    "icon": "Tinny_darkgreen"
+  },
+  {
+    "id": "Cumbre_livery_08",
+    "name": "Orange/White Livery",
+    "description": null,
+    "itemId": 2646044164,
+    "price": 0,
+    "icon": "Cumbre_orange-white"
+  },
+  {
+    "id": "Trailrat_livery_04",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 3072972691,
+    "price": 0,
+    "icon": "TrailRat_yellow"
+  },
+  {
+    "id": "Burro_livery_05",
+    "name": "Grey/White Livery",
+    "description": null,
+    "itemId": 1483202830,
+    "price": 0,
+    "icon": "Burro_grey"
+  },
+  {
+    "id": "Protector_livery_04",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 1662228670,
+    "price": 0,
+    "icon": "Protector_white"
+  },
+  {
+    "id": "Protector_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 3636510377,
+    "price": 0,
+    "icon": "Protector_skin_special02"
+  },
+  {
+    "id": "Grizzly_livery_04",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 1991372013,
+    "price": 0,
+    "icon": "Grizzly_grey"
+  },
+  {
+    "id": "Brick_livery_02",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 3830253939,
+    "price": 0,
+    "icon": "Brick_blue"
+  },
+  {
+    "id": "Polyana_livery_00",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 3847819741,
+    "price": 0,
+    "icon": "Polyana_green"
+  },
+  {
+    "id": "Wombat_livery_02",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 1774842218,
+    "price": 0,
+    "icon": "Wombat_yellow"
+  },
+  {
+    "id": "Trailrat_livery_00",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1643097761,
+    "price": 0,
+    "icon": "TrailRat_red"
+  },
+  {
+    "id": "RustOx_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 1533660873,
+    "price": 0,
+    "icon": "RustOx_skin_special04"
+  },
+  {
+    "id": "Woodman_livery_04",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 1903048376,
+    "price": 0,
+    "icon": "Woodman_green"
+  },
+  {
+    "id": "Lynx_livery_07",
+    "name": "Black Livery",
+    "description": null,
+    "itemId": 3474325967,
+    "price": 0,
+    "icon": "Lynx_blue"
+  },
+  {
+    "id": "Marshal_livery_01",
+    "name": "Cyan/White Livery",
+    "description": null,
+    "itemId": 3061761927,
+    "price": 0,
+    "icon": "Marshal_cyan-white"
+  },
+  {
+    "id": "Timberbox_livery_04",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 4058963269,
+    "price": 0,
+    "icon": "Timberbox_cyan"
+  },
+  {
+    "id": "Cumbre_livery_10",
+    "name": "Brown/White Livery",
+    "description": null,
+    "itemId": 2144552014,
+    "price": 0,
+    "icon": "Cumbre_brown-white"
+  },
+  {
+    "id": "Tinny_livery_03",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 2899026130,
+    "price": 0,
+    "icon": "Tinny_cream"
+  },
+  {
+    "id": "DingDing_livery_00",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 3244179884,
+    "price": 0,
+    "icon": "DingDing_cream"
+  },
+  {
+    "id": "Boar_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 1997366077,
+    "price": 0,
+    "icon": "Boar_skin_special01"
+  },
+  {
+    "id": "Bull_livery_09",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2095582912,
+    "price": 0,
+    "icon": "BullV1_green"
+  },
+  {
+    "id": "Polyana_livery_04",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 2829933510,
+    "price": 0,
+    "icon": "Polyana_yellow"
+  },
+  {
+    "id": "Boar_livery_01",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 1979720445,
+    "price": 0,
+    "icon": "Boar_green"
+  },
+  {
+    "id": "Tinny_livery_02",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 2505731905,
+    "price": 0,
+    "icon": "Tinny_blue"
+  },
+  {
+    "id": "Polyana_livery_05",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 1984323755,
+    "price": 0,
+    "icon": "Polyana_darkblue"
+  },
+  {
+    "id": "Timberbox_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 3621507897,
+    "price": 0,
+    "icon": "Timberbox_skin_special03"
+  },
+  {
+    "id": "Grizzly_livery_06",
+    "name": "Cyan/Black Livery",
+    "description": null,
+    "itemId": 2739363202,
+    "price": 0,
+    "icon": "Grizzly_cyan-black"
+  },
+  {
+    "id": "Brick_livery_03",
+    "name": "Black Livery",
+    "description": null,
+    "itemId": 3584816870,
+    "price": 0,
+    "icon": "Brick_black"
+  },
+  {
+    "id": "Mammoth_livery_00",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 1888853090,
+    "price": 0,
+    "icon": "Mammoth_green"
+  },
+  {
+    "id": "Burro_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2884567928,
+    "price": 0,
+    "icon": "Burro_skin_special01"
+  },
+  {
+    "id": "Lynx_livery_02",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 1718836730,
+    "price": 0,
+    "icon": "Lynx_blue-white"
+  },
+  {
+    "id": "Boar_livery_04",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 2347598393,
+    "price": 0,
+    "icon": "Boar_cream"
+  },
+  {
+    "id": "Wombat_livery_05",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 2008370876,
+    "price": 0,
+    "icon": "Wombat_blue"
+  },
+  {
+    "id": "Protector_livery_05",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 3536791118,
+    "price": 0,
+    "icon": "Protector_grey"
+  },
+  {
+    "id": "Cumbre_livery_05",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 3777353195,
+    "price": 0,
+    "icon": "Cumbre_white"
+  },
+  {
+    "id": "RustOx_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2554469294,
+    "price": 0,
+    "icon": "RustOx_skin_special02"
+  },
+  {
+    "id": "Cumbre_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2919928036,
+    "price": 0,
+    "icon": "Cumbre_skin_special02"
+  },
+  {
+    "id": "Baguette_livery_03",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 3217732323,
+    "price": 0,
+    "icon": "Baguette_cyan"
+  },
+  {
+    "id": "Polyana_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3257033042,
+    "price": 0,
+    "icon": "Polyana_skin_special01"
+  },
+  {
+    "id": "Mammoth_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 2054724237,
+    "price": 0,
+    "icon": "Mammoth_skin_special04"
+  },
+  {
+    "id": "Grizzly_livery_00",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2472716106,
+    "price": 0,
+    "icon": "Grizzly_green"
+  },
+  {
+    "id": "Bull_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 3225767200,
+    "price": 0,
+    "icon": "BullV1_skin_special03"
+  },
+  {
+    "id": "Bull_livery_08",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 2824883463,
+    "price": 0,
+    "icon": "BullV1_cyan"
+  },
+  {
+    "id": "Mammoth_livery_01",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 2534887916,
+    "price": 0,
+    "icon": "Mammoth_blue"
+  },
+  {
+    "id": "Grizzly_livery_02",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2509530124,
+    "price": 0,
+    "icon": "Grizzly_red"
+  },
+  {
+    "id": "Wombat_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1618303459,
+    "price": 0,
+    "icon": "Wombat_skin_special_03"
+  },
+  {
+    "id": "Bull_livery_06",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2913593056,
+    "price": 0,
+    "icon": "BullV1_red"
+  },
+  {
+    "id": "RustOx_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3223640206,
+    "price": 0,
+    "icon": "RustOx_skin_special01"
+  },
+  {
+    "id": "GrandWoodman_livery_01",
+    "name": "Brown Livery",
+    "description": null,
+    "itemId": 2127523166,
+    "price": 0,
+    "icon": "GrandWoodman_brown"
+  },
+  {
+    "id": "TrailBurner_livery_10",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 3782773271,
+    "price": 0,
+    "icon": "TrailBurner_grey"
+  },
+  {
+    "id": "Tinny_livery_special_05",
+    "name": "Special Livery Type E",
+    "description": null,
+    "itemId": 1385817506,
+    "price": 0,
+    "icon": "Tinny_skin_special05"
+  },
+  {
+    "id": "Timberbox_livery_02",
+    "name": "Orange Livery",
+    "description": null,
+    "itemId": 2910013139,
+    "price": 0,
+    "icon": "Timberbox_orange"
+  },
+  {
+    "id": "Cumbre_livery_special_05",
+    "name": "Special Livery Type E",
+    "description": null,
+    "itemId": 3548374153,
+    "price": 0,
+    "icon": "Cumbre_skin_special05"
+  },
+  {
+    "id": "TrailBurner_livery_07",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 3531198763,
+    "price": 0,
+    "icon": "TrailBurner_red"
+  },
+  {
+    "id": "Woodman_livery_01",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 4085037239,
+    "price": 0,
+    "icon": "Woodman_cream"
+  },
+  {
+    "id": "DingDing_livery_01",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 2314833769,
+    "price": 0,
+    "icon": "DingDing_cyan"
+  },
+  {
+    "id": "Marshal_livery_05",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2763961366,
+    "price": 0,
+    "icon": "Marshal_green"
+  },
+  {
+    "id": "TrailBurner_livery_05",
+    "name": "Grey/White Livery",
+    "description": null,
+    "itemId": 3475261298,
+    "price": 0,
+    "icon": "TrailBurner_grey-white"
+  },
+  {
+    "id": "Timberbox_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 1496383571,
+    "price": 0,
+    "icon": "Timberbox_skin_special02"
+  },
+  {
+    "id": "Burro_livery_04",
+    "name": "Grey/Black Livery",
+    "description": null,
+    "itemId": 3561780446,
+    "price": 0,
+    "icon": "Burro_grey-black"
+  },
+  {
+    "id": "Trailrat_livery_special_05",
+    "name": "Special Livery Type E",
+    "description": null,
+    "itemId": 3456449300,
+    "price": 0,
+    "icon": "TrailRat_skin_special05"
+  },
+  {
+    "id": "Lynx_livery_05",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2885578813,
+    "price": 0,
+    "icon": "Lynx_green"
+  },
+  {
+    "id": "Brick_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 3163445225,
+    "price": 0,
+    "icon": "Brick_skin_special04"
+  },
+  {
+    "id": "Marshal_livery_07",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 3700850015,
+    "price": 0,
+    "icon": "Marshal_blue"
+  },
+  {
+    "id": "Polyana_livery_02",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 2443512768,
+    "price": 0,
+    "icon": "Polyana_white"
+  },
+  {
+    "id": "Burro_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2649216672,
+    "price": 0,
+    "icon": "Burro_skin_special02"
+  },
+  {
+    "id": "RustOx_livery_04",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 3683935241,
+    "price": 0,
+    "icon": "RustOx_white"
+  },
+  {
+    "id": "BlastWagon_livery_01",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2961872425,
+    "price": 0,
+    "icon": "BlastWagon_green"
+  },
+  {
+    "id": "TrailBurner_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 3684904945,
+    "price": 0,
+    "icon": "TrailBurner_skin_special04"
+  },
+  {
+    "id": "Bull_livery_01",
+    "name": "Orange/White Livery",
+    "description": null,
+    "itemId": 2231566118,
+    "price": 0,
+    "icon": "BullV1_orange-white"
+  },
+  {
+    "id": "TrailBurner_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2555100622,
+    "price": 0,
+    "icon": "TrailBurner_skin_special02"
+  },
+  {
+    "id": "Baguette_livery_01",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2094786110,
+    "price": 0,
+    "icon": "Baguette_red"
+  },
+  {
+    "id": "Mammoth_livery_special_05",
+    "name": "Special Livery Type E",
+    "description": null,
+    "itemId": 2464223023,
+    "price": 0,
+    "icon": "Mammoth_skin_special05"
+  },
+  {
+    "id": "Grizzly_livery_08",
+    "name": "White/Black Livery",
+    "description": null,
+    "itemId": 2381714421,
+    "price": 0,
+    "icon": "Grizzly_white-black"
+  },
+  {
+    "id": "Polyana_livery_01",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 3172624252,
+    "price": 0,
+    "icon": "Polyana_blue"
+  },
+  {
+    "id": "Bull_livery_07",
+    "name": "Orange Livery",
+    "description": null,
+    "itemId": 1940718070,
+    "price": 0,
+    "icon": "BullV1_orange"
+  },
+  {
+    "id": "Cumbre_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 3755154512,
+    "price": 0,
+    "icon": "Cumbre_skin_special03"
+  },
+  {
+    "id": "Lynx_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1219341139,
+    "price": 0,
+    "icon": "Lynx_skin_special03"
+  },
+  {
+    "id": "RustOx_livery_02",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2292781653,
+    "price": 0,
+    "icon": "RustOx_green"
+  },
+  {
+    "id": "Grizzly_livery_03",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 2260005901,
+    "price": 0,
+    "icon": "Grizzly_white"
+  },
+  {
+    "id": "Trailrat_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2147042830,
+    "price": 0,
+    "icon": "TrailRat_skin_special02"
+  },
+  {
+    "id": "Bull_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2468171090,
+    "price": 0,
+    "icon": "BullV1_skin_special02"
+  },
+  {
+    "id": "Protector_livery_03",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2583392445,
+    "price": 0,
+    "icon": "Protector_red"
+  },
+  {
+    "id": "Timberbox_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 1507714834,
+    "price": 0,
+    "icon": "Timberbox_skin_special01"
+  },
+  {
+    "id": "Bull_livery_02",
+    "name": "Cyan/White Livery",
+    "description": null,
+    "itemId": 1290852116,
+    "price": 0,
+    "icon": "BullV1_cyan-white"
+  },
+  {
+    "id": "Bull_livery_00",
+    "name": "Red/White Livery",
+    "description": null,
+    "itemId": 2906456756,
+    "price": 0,
+    "icon": "BullV1_red-white"
+  },
+  {
+    "id": "Bull_livery_04",
+    "name": "Grey/Black Livery",
+    "description": null,
+    "itemId": 2685785274,
+    "price": 0,
+    "icon": "BullV1_grey-black"
+  },
+  {
+    "id": "Brick_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2953068362,
+    "price": 0,
+    "icon": "Brick_skin_special01"
+  },
+  {
+    "id": "Trailrat_livery_01",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 1983944321,
+    "price": 0,
+    "icon": "TrailRat_white"
+  },
+  {
+    "id": "Boar_livery_02",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 2974107206,
+    "price": 0,
+    "icon": "Boar_blue"
+  },
+  {
+    "id": "DingDing_livery_05",
+    "name": "Grey/White Livery",
+    "description": null,
+    "itemId": 3723162231,
+    "price": 0,
+    "icon": "DingDing_grey"
+  },
+  {
+    "id": "Tinny_livery_04",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 3417998908,
+    "price": 0,
+    "icon": "Tinny_grey"
+  },
+  {
+    "id": "Boar_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 3642683219,
+    "price": 0,
+    "icon": "Boar_skin_special04"
+  },
+  {
+    "id": "BlastWagon_livery_03",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 2406863427,
+    "price": 0,
+    "icon": "BlastWagon_yellow"
+  },
+  {
+    "id": "Timberbox_livery_00",
+    "name": "Black Livery",
+    "description": null,
+    "itemId": 2139080881,
+    "price": 0,
+    "icon": "Timberbox_black"
+  },
+  {
+    "id": "GrandWoodman_livery_04",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 3047415015,
+    "price": 0,
+    "icon": "GrandWoodman_green"
+  },
+  {
+    "id": "Timberbox_livery_01",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1357647058,
+    "price": 0,
+    "icon": "Timberbox_red"
+  },
+  {
+    "id": "Grizzly_livery_01",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 3054423176,
+    "price": 0,
+    "icon": "Grizzly_cyan"
+  },
+  {
+    "id": "Marshal_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 3155171411,
+    "price": 0,
+    "icon": "Marshal_skin_special02"
+  },
+  {
+    "id": "TrailBurner_livery_00",
+    "name": "Cyan/White Livery",
+    "description": null,
+    "itemId": 2184111609,
+    "price": 0,
+    "icon": "TrailBurner_cyan-white"
+  },
+  {
+    "id": "Roamer_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2196445673,
+    "price": 0,
+    "icon": "Roamer_skin_special02"
+  },
+  {
+    "id": "Lynx_livery_03",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 2101157999,
+    "price": 0,
+    "icon": "Lynx_yellow-white"
+  },
+  {
+    "id": "Brick_livery_00",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 3497363950,
+    "price": 0,
+    "icon": "Brick_white"
+  },
+  {
+    "id": "Baguette_livery_04",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 2412240884,
+    "price": 0,
+    "icon": "Baguette_grey"
+  },
+  {
+    "id": "BlastWagon_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 3930023914,
+    "price": 0,
+    "icon": "BlastWagon_skin_special04"
+  },
+  {
+    "id": "Mammoth_livery_02",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1538835823,
+    "price": 0,
+    "icon": "Mammoth_red"
+  },
+  {
+    "id": "Baguette_livery_00",
+    "name": "Orange Livery",
+    "description": null,
+    "itemId": 2947283903,
+    "price": 0,
+    "icon": "Baguette_yellow"
+  },
+  {
+    "id": "Tinny_livery_01",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 4188801127,
+    "price": 0,
+    "icon": "Tinny_green"
+  },
+  {
+    "id": "Cumbre_livery_03",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2653491666,
+    "price": 0,
+    "icon": "Cumbre_green"
+  },
+  {
+    "id": "Mammoth_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2526516994,
+    "price": 0,
+    "icon": "Mammoth_skin_special02"
+  },
+  {
+    "id": "Tinny_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 1991787712,
+    "price": 0,
+    "icon": "Tinny_skin_special02"
+  },
+  {
+    "id": "TrailBurner_livery_01",
+    "name": "Red/White Livery",
+    "description": null,
+    "itemId": 1611133275,
+    "price": 0,
+    "icon": "TrailBurner_red-white"
+  },
+  {
+    "id": "Bull_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 2609773275,
+    "price": 0,
+    "icon": "BullV1_skin_special04"
+  },
+  {
+    "id": "Trailrat_livery_02",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 3128133653,
+    "price": 0,
+    "icon": "TrailRat_cyan"
+  },
+  {
+    "id": "Marshal_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 1316682062,
+    "price": 0,
+    "icon": "Marshal_skin_special01"
+  },
+  {
+    "id": "Boar_livery_00",
+    "name": "Brown Livery",
+    "description": null,
+    "itemId": 3028500080,
+    "price": 0,
+    "icon": "Boar_brown"
+  },
+  {
+    "id": "Tinny_livery_special_06",
+    "name": "Special Livery Type F",
+    "description": null,
+    "itemId": 3627697637,
+    "price": 0,
+    "icon": "Tinny_skin_special06"
+  },
+  {
+    "id": "GrandWoodman_livery_03",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 3430512458,
+    "price": 0,
+    "icon": "GrandWoodman_red"
+  },
+  {
+    "id": "Brick_livery_05",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2280563890,
+    "price": 0,
+    "icon": "Brick_red"
+  },
+  {
+    "id": "Lynx_livery_06",
+    "name": "Brown Livery",
+    "description": null,
+    "itemId": 2021624273,
+    "price": 0,
+    "icon": "Lynx_brown"
+  },
+  {
+    "id": "Cumbre_livery_09",
+    "name": "Green/White Livery",
+    "description": null,
+    "itemId": 2253201829,
+    "price": 0,
+    "icon": "Cumbre_green-white"
+  },
+  {
+    "id": "Woodman_livery_03",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1464289042,
+    "price": 0,
+    "icon": "Woodman_red"
+  },
+  {
+    "id": "TrailBurner_livery_09",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2801464093,
+    "price": 0,
+    "icon": "TrailBurner_green"
+  },
+  {
+    "id": "Cumbre_livery_02",
+    "name": "Orange Livery",
+    "description": null,
+    "itemId": 2316272864,
+    "price": 0,
+    "icon": "Cumbre_orange"
+  },
+  {
+    "id": "Cumbre_livery_06",
+    "name": "Cyan/White Livery",
+    "description": null,
+    "itemId": 2453349591,
+    "price": 0,
+    "icon": "Cumbre_cyan-white"
+  },
+  {
+    "id": "Mammoth_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 1181257047,
+    "price": 0,
+    "icon": "Mammoth_skin_special01"
+  },
+  {
+    "id": "Boar_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 3024034243,
+    "price": 0,
+    "icon": "Boar_skin_special02"
+  },
+  {
+    "id": "Roamer_livery_01",
+    "name": "Dark Blue Livery",
+    "description": null,
+    "itemId": 3448882955,
+    "price": 0,
+    "icon": "Roamer_darkblue"
+  },
+  {
+    "id": "DingDing_livery_04",
+    "name": "Grey/Black Livery",
+    "description": null,
+    "itemId": 2954409659,
+    "price": 0,
+    "icon": "DingDing_grey-black"
+  },
+  {
+    "id": "TrailBurner_livery_08",
+    "name": "Orange Livery",
+    "description": null,
+    "itemId": 2785079511,
+    "price": 0,
+    "icon": "TrailBurner_orange"
+  },
+  {
+    "id": "GrandWoodman_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3079609046,
+    "price": 0,
+    "icon": "GrandWoodman_skin_special01"
+  },
+  {
+    "id": "Roamer_livery_04",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 3038961225,
+    "price": 0,
+    "icon": "Roamer_cyan"
+  },
+  {
+    "id": "Cumbre_livery_00",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 2051941546,
+    "price": 0,
+    "icon": "Cumbre_cyan"
+  },
+  {
+    "id": "Brick_livery_01",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 2198386952,
+    "price": 0,
+    "icon": "Brick_cream"
+  },
+  {
+    "id": "Boar_livery_03",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 3523823524,
+    "price": 0,
+    "icon": "Boar_white"
+  },
+  {
+    "id": "RustOx_livery_00",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 3129201758,
+    "price": 0,
+    "icon": "RustOx_cyan"
+  },
+  {
+    "id": "Wombat_livery_01",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2682271193,
+    "price": 0,
+    "icon": "Wombat_red"
+  },
+  {
+    "id": "Trailrat_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 3256874061,
+    "price": 0,
+    "icon": "TrailRat_skin_special04"
+  },
+  {
+    "id": "Protector_livery_00",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 2571447340,
+    "price": 0,
+    "icon": "Protector_yellow"
+  },
+  {
+    "id": "Lynx_livery_08",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 2200845751,
+    "price": 0,
+    "icon": "Lynx_grey"
+  },
+  {
+    "id": "Roamer_livery_05",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 2861481540,
+    "price": 0,
+    "icon": "Roamer_cream"
+  },
+  {
+    "id": "TrailBurner_livery_06",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 3011726014,
+    "price": 0,
+    "icon": "TrailBurner_cyan"
+  },
+  {
+    "id": "Trailrat_livery_03",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2990121487,
+    "price": 0,
+    "icon": "TrailRat_green"
+  },
+  {
+    "id": "Protector_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 2687146775,
+    "price": 0,
+    "icon": "Protector_skin_special04"
+  },
+  {
+    "id": "Roamer_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2291467738,
+    "price": 0,
+    "icon": "Roamer_skin_special01"
+  },
+  {
+    "id": "Woodman_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 3643103654,
+    "price": 0,
+    "icon": "Woodman_skin_special02"
+  },
+  {
+    "id": "Baguette_livery_05",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 3819272937,
+    "price": 0,
+    "icon": "Baguette_white"
+  },
+  {
+    "id": "Burro_livery_03",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1680865840,
+    "price": 0,
+    "icon": "Burro_red"
+  },
+  {
+    "id": "Roamer_livery_03",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 1959543895,
+    "price": 0,
+    "icon": "Roamer_blue"
+  },
+  {
+    "id": "Polyana_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2255705991,
+    "price": 0,
+    "icon": "Polyana_skin_special02"
+  },
+  {
+    "id": "Woodman_livery_02",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 4054159076,
+    "price": 0,
+    "icon": "Woodman_cyan"
+  },
+  {
+    "id": "Tinny_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 2554187733,
+    "price": 0,
+    "icon": "Tinny_skin_special04"
+  },
+  {
+    "id": "Burro_livery_02",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 1438776179,
+    "price": 0,
+    "icon": "Burro_green"
+  },
+  {
+    "id": "Burro_livery_01",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 2354843984,
+    "price": 0,
+    "icon": "Burro_cyan"
+  },
+  {
+    "id": "Tinny_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3149012294,
+    "price": 0,
+    "icon": "Tinny_skin_special01"
+  },
+  {
+    "id": "DingDing_livery_02",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2908729048,
+    "price": 0,
+    "icon": "DingDing_green"
+  },
+  {
+    "id": "Baguette_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2005397288,
+    "price": 0,
+    "icon": "Baguette_skin_special02"
+  },
+  {
+    "id": "Bull_livery_special_05",
+    "name": "Special Livery Type E",
+    "description": null,
+    "itemId": 3323683313,
+    "price": 0,
+    "icon": "BullV1_skin_special05"
+  },
+  {
+    "id": "Bull_livery_05",
+    "name": "Grey/White Livery",
+    "description": null,
+    "itemId": 2264157187,
+    "price": 0,
+    "icon": "BullV1_grey-white"
+  },
+  {
+    "id": "Cumbre_livery_04",
+    "name": "Brown Livery",
+    "description": null,
+    "itemId": 2951810007,
+    "price": 0,
+    "icon": "Cumbre_brown"
+  },
+  {
+    "id": "GrandWoodman_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 1335842935,
+    "price": 0,
+    "icon": "GrandWoodman_skin_special02"
+  },
+  {
+    "id": "TrailBurner_livery_03",
+    "name": "Green/White Livery",
+    "description": null,
+    "itemId": 3033067303,
+    "price": 0,
+    "icon": "TrailBurner_green-white"
+  },
+  {
+    "id": "DingDing_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2214942937,
+    "price": 0,
+    "icon": "DingDing_skin_special02"
+  },
+  {
+    "id": "Brick_livery_04",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 1432542299,
+    "price": 0,
+    "icon": "Brick_grey"
+  },
+  {
+    "id": "GrandWoodman_livery_special_05",
+    "name": "Special Livery Type E",
+    "description": null,
+    "itemId": 3203707636,
+    "price": 0,
+    "icon": "GrandWoodman_skin_special05"
+  },
+  {
+    "id": "Cumbre_livery_07",
+    "name": "Red/White Livery",
+    "description": null,
+    "itemId": 2026666727,
+    "price": 0,
+    "icon": "Cumbre_red-white"
+  },
+  {
+    "id": "Cumbre_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3115144410,
+    "price": 0,
+    "icon": "Cumbre_skin_special01"
+  },
+  {
+    "id": "Roamer_livery_00",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 2405557195,
+    "price": 0,
+    "icon": "Roamer_white"
+  },
+  {
+    "id": "BlastWagon_livery_02",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 2641351917,
+    "price": 0,
+    "icon": "BlastWagon_grey"
+  },
+  {
+    "id": "Burro_livery_06",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 2242175661,
+    "price": 0,
+    "icon": "Burro_yellow"
+  },
+  {
+    "id": "Boar_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1722926278,
+    "price": 0,
+    "icon": "Boar_skin_special03"
+  },
+  {
+    "id": "Timberbox_livery_03",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 1959791956,
+    "price": 0,
+    "icon": "Timberbox_green"
+  },
+  {
+    "id": "DingDing_livery_06",
+    "name": "Yellow Livery",
+    "description": null,
+    "itemId": 2005708399,
+    "price": 0,
+    "icon": "DingDing_yellow"
+  },
+  {
+    "id": "Protector_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2955655635,
+    "price": 0,
+    "icon": "Protector_skin_special03"
+  },
+  {
+    "id": "RustOx_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 3399821445,
+    "price": 0,
+    "icon": "RustOx_skin_special03"
+  },
+  {
+    "id": "Marshal_livery_03",
+    "name": "Red/White Livery",
+    "description": null,
+    "itemId": 1112008688,
+    "price": 0,
+    "icon": "Marshal_red-white"
+  },
+  {
+    "id": "Bull_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2446745296,
+    "price": 0,
+    "icon": "BullV1_skin_special01"
+  },
+  {
+    "id": "Grizzly_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3462820641,
+    "price": 0,
+    "icon": "Grizzly_skin_special01"
+  },
+  {
+    "id": "Marshal_livery_06",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 2342846289,
+    "price": 0,
+    "icon": "Marshal_cream"
+  },
+  {
+    "id": "Marshal_livery_04",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 1691372918,
+    "price": 0,
+    "icon": "Marshal_white"
+  },
+  {
+    "id": "Wombat_livery_04",
+    "name": "Cyan Livery",
+    "description": null,
+    "itemId": 2347175516,
+    "price": 0,
+    "icon": "Wombat_cyan"
+  },
+  {
+    "id": "Bull_livery_03",
+    "name": "Green/White Livery",
+    "description": null,
+    "itemId": 1395515260,
+    "price": 0,
+    "icon": "BullV1_green-white"
+  },
+  {
+    "id": "Polyana_livery_03",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 2480558827,
+    "price": 0,
+    "icon": "Polyana_red"
+  },
+  {
+    "id": "Brick_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 3593689764,
+    "price": 0,
+    "icon": "Brick_skin_special02"
+  },
+  {
+    "id": "Baguette_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 3010585919,
+    "price": 0,
+    "icon": "Baguette_skin_special01"
+  },
+  {
+    "id": "Wombat_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2600190689,
+    "price": 0,
+    "icon": "Wombat_skin_special_01"
+  },
+  {
+    "id": "Grizzly_livery_07",
+    "name": "Red/Black Livery",
+    "description": null,
+    "itemId": 3348439796,
+    "price": 0,
+    "icon": "Grizzly_red-black"
+  },
+  {
+    "id": "Protector_livery_02",
+    "name": "Green Livery",
+    "description": null,
+    "itemId": 2894585347,
+    "price": 0,
+    "icon": "Protector_green"
+  },
+  {
+    "id": "Cumbre_livery_special_06",
+    "name": "Special Livery Type F",
+    "description": null,
+    "itemId": 3474367421,
+    "price": 0,
+    "icon": "Cumbre_skin_special06"
+  },
+  {
+    "id": "Cumbre_livery_special_04",
+    "name": "Special Livery Type D",
+    "description": null,
+    "itemId": 2399693420,
+    "price": 0,
+    "icon": "Cumbre_skin_special04"
+  },
+  {
+    "id": "Lynx_livery_00",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 2460516010,
+    "price": 0,
+    "icon": "Lynx_cream-white"
+  },
+  {
+    "id": "Woodman_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 3387358526,
+    "price": 0,
+    "icon": "Woodman_skin_special03"
+  },
+  {
+    "id": "Roamer_livery_06",
+    "name": "Grey Livery",
+    "description": null,
+    "itemId": 3102610784,
+    "price": 0,
+    "icon": "Roamer_grey"
+  },
+  {
+    "id": "GrandWoodman_livery_02",
+    "name": "Blue Livery",
+    "description": null,
+    "itemId": 2312010646,
+    "price": 0,
+    "icon": "GrandWoodman_blue"
+  },
+  {
+    "id": "Trailrat_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 2183866382,
+    "price": 0,
+    "icon": "TrailRat_skin_special03"
+  },
+  {
+    "id": "Burro_livery_00",
+    "name": "Cream Livery",
+    "description": null,
+    "itemId": 3230293184,
+    "price": 0,
+    "icon": "Burro_cream"
+  },
+  {
+    "id": "Woodman_livery_special_05",
+    "name": "Special Livery Type E",
+    "description": null,
+    "itemId": 3087107545,
+    "price": 0,
+    "icon": "Woodman_skin_special05"
+  },
+  {
+    "id": "Grizzly_livery_09",
+    "name": "Grey/Black Livery",
+    "description": null,
+    "itemId": 2909727666,
+    "price": 0,
+    "icon": "Grizzly_grey-black"
+  },
+  {
+    "id": "GrandWoodman_livery_00",
+    "name": "White Livery",
+    "description": null,
+    "itemId": 3131996757,
+    "price": 0,
+    "icon": "GrandWoodman_white"
+  },
+  {
+    "id": "DingDing_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2387146449,
+    "price": 0,
+    "icon": "DingDing_skin_special01"
+  },
+  {
+    "id": "Roamer_livery_02",
+    "name": "Red Livery",
+    "description": null,
+    "itemId": 1365869262,
+    "price": 0,
+    "icon": "Roamer_red"
+  },
+  {
+    "id": "Grizzly_livery_special_03",
+    "name": "Special Livery Type C",
+    "description": null,
+    "itemId": 1365386991,
+    "price": 0,
+    "icon": "Grizzly_skin_special03"
+  },
+  {
+    "id": "Grizzly_livery_special_02",
+    "name": "Special Livery Type B",
+    "description": null,
+    "itemId": 2053102110,
+    "price": 0,
+    "icon": "Grizzly_skin_special02"
+  },
+  {
+    "id": "Trailrat_livery_special_01",
+    "name": "Special Livery Type A",
+    "description": null,
+    "itemId": 2912951097,
+    "price": 0,
+    "icon": "TrailRat_skin_special01"
+  },
+  {
+    "id": "Grizzly_livery_05",
+    "name": "Green/Black Livery",
+    "description": null,
+    "itemId": 2709091061,
+    "price": 0,
+    "icon": "Grizzly_green-black"
+  }
+]

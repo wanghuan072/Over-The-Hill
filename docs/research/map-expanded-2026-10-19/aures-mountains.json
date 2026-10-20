@@ -1,0 +1,7217 @@
+{
+  "name": "Aurès Mountains",
+  "region": "Algeria",
+  "mapSize": {
+    "x": 4000,
+    "z": 4000,
+    "maxZoom": 8
+  },
+  "layers": [
+    {
+      "dir": "overthehill/levels/R2A2_Canyon/satellite",
+      "label": "Satellite",
+      "folder": "/satellite",
+      "ext": "webp",
+      "maxZoom": 8,
+      "v": "25806963"
+    },
+    {
+      "dir": "overthehill/levels/R2A2_Canyon/topographic",
+      "label": "Topographic",
+      "folder": "/topographic",
+      "ext": "webp",
+      "maxZoom": 3,
+      "v": "25806963"
+    }
+  ],
+  "overlays": [
+    {
+      "label": "_HAZARDS",
+      "key": "_HAZARDS",
+      "kind": "ground",
+      "dir": "overthehill/levels/R2A2_Canyon/hazards/ground",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "f60fd96552d6542c",
+      "index": "tiles.json"
+    },
+    {
+      "label": "_HZ_WATER",
+      "key": "_HZ_WATER",
+      "kind": "water",
+      "dir": "overthehill/levels/R2A2_Canyon/hazards/water",
+      "ext": "webp",
+      "maxZoom": 4,
+      "v": "7923291d0f402b5d",
+      "index": "tiles.json"
+    }
+  ],
+  "hazardsVersion": "623be47761f82b5c",
+  "pinSize": {
+    "w": 44,
+    "h": 54
+  },
+  "refs": {
+    "animal:LannerFalcon": {
+      "type": "animal",
+      "animalKey": "LannerFalcon",
+      "itemId": 2341432011,
+      "name": "Lanner Falcon",
+      "icon": "icons/animals/LannerFalcon.webp",
+      "pin": "pins/animal_LannerFalcon.webp",
+      "image": "animals/LannerFalcon.webp",
+      "class": "Bird",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Mountain, Cliff",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Desert SparrowInfo": {
+      "type": "animal",
+      "animalKey": "Desert SparrowInfo",
+      "itemId": 1925770050,
+      "name": "Desert Sparrow",
+      "icon": "icons/animals/Desert SparrowInfo.webp",
+      "pin": "pins/animal_Desert SparrowInfo.webp",
+      "image": "animals/Desert SparrowInfo.webp",
+      "class": "Bird",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Oasis, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:BarbarySheepAoudad": {
+      "type": "animal",
+      "animalKey": "BarbarySheepAoudad",
+      "itemId": 3021150937,
+      "name": "Barbary Sheep (Aoudad)",
+      "icon": "icons/animals/BarbarySheepAoudad.webp",
+      "pin": "pins/animal_BarbarySheepAoudad.webp",
+      "image": "animals/BarbarySheepAoudad.webp",
+      "class": "Mammal",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Mountain, Rocks",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Jackal": {
+      "type": "animal",
+      "animalKey": "Jackal",
+      "itemId": 2183602026,
+      "name": "Jackal",
+      "icon": "icons/animals/Jackal.webp",
+      "pin": "pins/animal_Jackal.webp",
+      "image": "animals/Jackal.webp",
+      "class": "Mammal",
+      "rarity": "Uncommon",
+      "rarityKey": "uncommon",
+      "areas": "Aurès Mountains",
+      "habitat": "Clearing, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 20,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:Flamingo": {
+      "type": "animal",
+      "animalKey": "Flamingo",
+      "itemId": 2152802977,
+      "name": "Flamingo",
+      "icon": "icons/animals/Flamingo.webp",
+      "pin": "pins/animal_Flamingo.webp",
+      "image": "animals/Flamingo.webp",
+      "class": "Mammal",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Aurès Mountains",
+      "habitat": "Oasis",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:DorcasGazelle": {
+      "type": "animal",
+      "animalKey": "DorcasGazelle",
+      "itemId": 2477274988,
+      "name": "Dorcas Gazelle",
+      "icon": "icons/animals/DorcasGazelle.webp",
+      "pin": "pins/animal_DorcasGazelle.webp",
+      "image": "animals/DorcasGazelle.webp",
+      "class": "Mammal",
+      "rarity": "Common",
+      "rarityKey": "common",
+      "areas": "Aurès Mountains",
+      "habitat": "River, Oasis, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime, Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:StripedHyenaInfo": {
+      "type": "animal",
+      "animalKey": "StripedHyenaInfo",
+      "itemId": 2128302049,
+      "name": "Striped Hyena",
+      "icon": "icons/animals/StripedHyenaInfo.webp",
+      "pin": "pins/animal_StripedHyenaInfo.webp",
+      "image": "animals/StripedHyenaInfo.webp",
+      "class": "Mammal",
+      "rarity": "Rare",
+      "rarityKey": "rare",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Rocks, Grassland",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Night",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 50,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "animal:EgyptianVulture": {
+      "type": "animal",
+      "animalKey": "EgyptianVulture",
+      "itemId": 2014276128,
+      "name": "Egyptian Vulture",
+      "icon": "icons/animals/EgyptianVulture.webp",
+      "pin": "pins/animal_EgyptianVulture.webp",
+      "image": "animals/EgyptianVulture.webp",
+      "class": "Bird",
+      "rarity": "Rare",
+      "rarityKey": "rare",
+      "areas": "Tassili n'Ajjer Desert, Aurès Mountains",
+      "habitat": "Cliff, Sand",
+      "weather": "Dry",
+      "weatherFinds": [
+        {
+          "label": "Dry",
+          "items": [
+            "Clear",
+            "Mostly Clear",
+            "Cirrus Clouds",
+            "Contrails",
+            "Partly Cloudy",
+            "Mixed Clouds",
+            "Mostly Cloudy",
+            "Overcast",
+            "Sand Storm"
+          ]
+        }
+      ],
+      "timeOfDay": "Daytime",
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 50,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin1": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin1",
+      "name": "El Madraj Base Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin2": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin2",
+      "name": "Hamra Plateau Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin3": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin3",
+      "name": "Ajanib Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin4": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin4",
+      "name": "Great Aqueduct Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin5": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin5",
+      "name": "Mahrouqa Bivouac",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin6": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin6",
+      "name": "Taht el Borj Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin7": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin7",
+      "name": "Tlata Qnater Camp",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin8": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin8",
+      "name": "Yamina Falls Rest",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:poi_cabin_scene_R2A2_Cabin9": {
+      "type": "cabin",
+      "poiKey": "poi_cabin_scene_R2A2_Cabin9",
+      "name": "Camp de la Trompe",
+      "mechanics": [
+        "save_game",
+        "fast_travel",
+        "merchant_access",
+        "reveal_map"
+      ],
+      "reveal": {
+        "inner": 250,
+        "outer": 400
+      },
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_1": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_1",
+      "name": "Crate: Camp Lantern",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "CampingLantern",
+          "name": "Camp Lantern",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3098014576",
+          "icon": "icons/cosmetics/CampLantern.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_10": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_10",
+      "name": "Crate: Rear Wing",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "RearWing",
+          "name": "Rear Wing",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2249697169",
+          "icon": "icons/cosmetics/Rear_Wing.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_11": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_11",
+      "name": "Crate: Taxi Sign",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "TaxiSign",
+          "name": "Taxi Sign",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3812523733",
+          "icon": "icons/cosmetics/TaxiSign.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_12": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_12",
+      "name": "Crate: Crown",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Crown",
+          "name": "Crown",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3461162295",
+          "icon": "icons/cosmetics/Crown.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_13": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_13",
+      "name": "Crate: Expedition Gear",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Overlander",
+          "name": "Expedition Gear",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3277887484",
+          "icon": "icons/cosmetics/Roofrack_Overlander.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        },
+        {
+          "key": "Overlander_Bed",
+          "name": "Expedition Gear",
+          "count": 1,
+          "hidden": true,
+          "progress": "cosmetic:3774652086",
+          "icon": "icons/cosmetics/PickupBed_Overlander.webp",
+          "image": null,
+          "type": "Bed",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_14": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_14",
+      "name": "Crate: Front Tube Bumper",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "BashBar_01",
+          "name": "Front Tube Bumper",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3024677586",
+          "icon": "icons/cosmetics/Front-Bumper_Bash_Bar_Type_1.webp",
+          "image": null,
+          "type": "Front Bumper",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_15": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_15",
+      "name": "Crate: Round Light Covers - Black",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Lights_Black",
+          "name": "Round Light Covers - Black",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3191874815",
+          "icon": "icons/cosmetics/Rooflights_Cover.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_16": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_16",
+      "name": "Crate: Hood Wreath",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Wreath_Front",
+          "name": "Hood Wreath",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2393730593",
+          "icon": "icons/cosmetics/Hood_Wreath.webp",
+          "image": null,
+          "type": "Hood",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_2": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_2",
+      "name": "Crate: Flip Flop Flaps",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "FlipFlopFlaps",
+          "name": "Flip Flop Flaps",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3270168488",
+          "icon": "icons/cosmetics/FlipFlopFlaps.webp",
+          "image": null,
+          "type": "Fenders",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_3": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_3",
+      "name": "Crate: Smiley Round Light Covers",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Lights_Smiley",
+          "name": "Smiley Round Light Covers",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3825002035",
+          "icon": "icons/cosmetics/Rooflights_Smiley_cover.webp",
+          "image": null,
+          "type": "Roof Lights",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_4": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_4",
+      "name": "Crate: Fishing Boat",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Fisher",
+          "name": "Fishing Boat",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3561647872",
+          "icon": "icons/cosmetics/Fisher.webp",
+          "image": null,
+          "type": "Roof",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        },
+        {
+          "key": "Fisher_Bed",
+          "name": "Fishing Boat",
+          "count": 1,
+          "hidden": true,
+          "progress": "cosmetic:2235095428",
+          "icon": "icons/cosmetics/Fisher.webp",
+          "image": null,
+          "type": "Bed",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_5": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_5",
+      "name": "Crate: Round Hood Vents",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "VentsOval",
+          "name": "Round Hood Vents",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2417968644",
+          "icon": "icons/cosmetics/Round_Hood_Vents.webp",
+          "image": null,
+          "type": "Hood",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_6": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_6",
+      "name": "Crate: Old Car Horn",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Vehicle_OldCar",
+          "name": "Old Car Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2833792802",
+          "icon": "icons/cosmetics/OldCar_Horn.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_7": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_7",
+      "name": "Crate: Bull Bar Type 6 - White",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Bullbar_02_LightsSquare",
+          "name": "Bull Bar Type 6 - White",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2263838515",
+          "icon": "icons/cosmetics/Bullbar_type_2_Square_Lights.webp",
+          "image": null,
+          "type": "Front Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_8": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_8",
+      "name": "Crate: UFO Antenna",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "AntennaUfo",
+          "name": "UFO Antenna",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1791770205",
+          "icon": "icons/cosmetics/Antenna_UFO.webp",
+          "image": null,
+          "type": "Antenna",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_generic_R2A2_Generic_9": {
+      "type": "crate",
+      "poiKey": "mission_generic_R2A2_Generic_9",
+      "name": "Crate: Ahooga Horn",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Funny_Ahooga",
+          "name": "Ahooga Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3697646922",
+          "icon": "icons/cosmetics/Ahooga.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_trail_2633272869": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2633272869",
+      "totalCheckpoints": 31,
+      "name": "Ukhtayn Route",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Tinny",
+          "name": "The Tinny",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:2047734690",
+          "icon": null,
+          "image": "vehicles/Tinny.webp",
+          "slug": "the-tinny",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_2073309612": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2073309612",
+      "totalCheckpoints": 30,
+      "name": "Kalaa Ulya Track",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Roamer",
+          "name": "The Roamer",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:3262308567",
+          "icon": null,
+          "image": "vehicles/Roamer.webp",
+          "slug": "the-roamer",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_2728409084": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2728409084",
+      "totalCheckpoints": 30,
+      "name": "Djebel Rahmani Ascent",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "WhipLights_04",
+          "name": "Whip Lights - Pink",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:1157697193",
+          "icon": "icons/cosmetics/Whip_Lights_2.webp",
+          "image": null,
+          "type": "Rear Section",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_2452553039": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_2452553039",
+      "totalCheckpoints": 27,
+      "name": "Jazira Ascent",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Cumbre",
+          "name": "The Cumbre",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:3847423181",
+          "icon": null,
+          "image": "vehicles/Cumbre.webp",
+          "slug": "the-cumbre",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 40,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 8,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_trail_1984922832": {
+      "type": "trail_checkpoint",
+      "poiKey": "mission_trail_1984922832",
+      "totalCheckpoints": 29,
+      "name": "Mahrouqa West Track",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Lynx",
+          "name": "Das Lynx",
+          "count": 1,
+          "hidden": false,
+          "progress": "vehicle:3404874685",
+          "icon": null,
+          "image": "vehicles/Lynx.webp",
+          "slug": "das-lynx",
+          "type": "Vehicle",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 40,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 8,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "meteorite": {
+      "type": "meteorite",
+      "description": "An object fallen from the sky. \nIt seems to be stuck on the ground.",
+      "tip": "Explore the world in search of meteorites. At night you can see their glow from afar. \nExtract them with the winch to earn Pebbles and upgrade your vehicle.",
+      "sizes": [
+        {
+          "name": "Very small meteorite",
+          "pebbles": 15,
+          "players": 1,
+          "spawn": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Small meteorite",
+          "pebbles": 20,
+          "players": 1,
+          "spawn": [
+            1,
+            1
+          ]
+        },
+        {
+          "name": "Medium meteorite",
+          "pebbles": 30,
+          "players": 1,
+          "spawn": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Large meteorite",
+          "pebbles": 40,
+          "players": 2,
+          "spawn": [
+            2,
+            3
+          ]
+        },
+        {
+          "name": "Very large meteorite",
+          "pebbles": 50,
+          "players": 2,
+          "spawn": [
+            2,
+            4
+          ]
+        },
+        {
+          "name": "Huge meteorite",
+          "pebbles": 60,
+          "players": 3,
+          "spawn": [
+            3,
+            4
+          ]
+        },
+        {
+          "name": "Very huge meteorite",
+          "pebbles": 80,
+          "players": 4,
+          "spawn": [
+            4,
+            4
+          ]
+        }
+      ],
+      "video": "videos/meteorite",
+      "radar": {
+        "name": "Meteorite Radar",
+        "description": "The meteorite radar can help you find meteorites!",
+        "icon": "icons/tools/radar.webp"
+      }
+    },
+    "poi:mission_scenic_R2A2_Scenic 1": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 1",
+      "name": "Southwest Overlook",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A2_Scenic 2": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 2",
+      "name": "Marcellian Aqueduct View",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A2_Scenic 3": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 3",
+      "name": "Sarw Wahid",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A2_Scenic 4": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 4",
+      "name": "Ancient Beacons",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A2_Scenic 5": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 5",
+      "name": "Clock of Eternity",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A2_Scenic 6": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 6",
+      "name": "Bordj Lalla",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A2_Scenic 7": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 7",
+      "name": "Saturn’s Column",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_scenic_R2A2_Scenic 8": {
+      "type": "scenic",
+      "poiKey": "mission_scenic_R2A2_Scenic 8",
+      "name": "Marabout Hill",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 15,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:mission_recovery_R2A2_Recovery 1": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A2_Recovery 1",
+      "name": "North Jazira Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Horn_Funny_RChicken",
+          "name": "Rubber Chicken Horn",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:3250223662",
+          "icon": "icons/cosmetics/RubberChicken_Horn.webp",
+          "image": null,
+          "type": "Horn",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:mission_recovery_R2A2_Recovery 2": {
+      "type": "recovery",
+      "poiKey": "mission_recovery_R2A2_Recovery 2",
+      "name": "High Mahrouqa Recovery",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "BashBar_01_Rear",
+          "name": "Rear Tube Bumper",
+          "count": 1,
+          "hidden": false,
+          "progress": "cosmetic:2268347193",
+          "icon": "icons/cosmetics/Rear-Bumper_Bash_Bar_Type_1.webp",
+          "image": null,
+          "type": "Rear Bumper",
+          "description": ""
+        },
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 25,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 5,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ]
+    },
+    "poi:merchant_R2A2_Canyon": {
+      "type": "merchant",
+      "poiKey": "merchant_R2A2_Canyon",
+      "name": "Crazy Günther",
+      "mechanics": [],
+      "rewards": [
+        {
+          "key": "Money",
+          "name": "Pebbles",
+          "count": 10,
+          "hidden": false,
+          "progress": null,
+          "icon": "icons/tools/Pebble.webp",
+          "image": null,
+          "type": "Money",
+          "description": ""
+        }
+      ],
+      "repeatRewards": []
+    },
+    "poi:portal_R2A2_EntryPortal": {
+      "type": "portal",
+      "poiKey": "portal_R2A2_EntryPortal",
+      "name": "Tunnel to the Desert",
+      "mechanics": [],
+      "rewards": [],
+      "repeatRewards": [],
+      "destination": {
+        "key": "R2A1_Desert",
+        "label": "Tassili n'Ajjer Desert",
+        "route": "overthehill-levels-R2A1_Desert",
+        "loc": "2413673284"
+      }
+    }
+  },
+  "markerLayers": [
+    {
+      "id": "animal",
+      "label": "Animals",
+      "icon": "icons/polaroid.webp",
+      "pin": "pins/polaroid.webp",
+      "markers": [
+        {
+          "key": "animal_R2A2_Canyon_4239086419",
+          "position": {
+            "x": -1126.92,
+            "y": 42.55,
+            "z": 959.87
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3150611300",
+          "position": {
+            "x": 907.29,
+            "y": 10.5,
+            "z": 170.97
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1610746550",
+          "position": {
+            "x": -345.97,
+            "y": 83.15,
+            "z": 927.53
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2186830992",
+          "position": {
+            "x": 860,
+            "y": 6.75,
+            "z": -60.24
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_852403596",
+          "position": {
+            "x": 832.92,
+            "y": 7.04,
+            "z": -77.41
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3202212480",
+          "position": {
+            "x": 948.41,
+            "y": 146.01,
+            "z": 645.24
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_759999427",
+          "position": {
+            "x": 608.42,
+            "y": 9.13,
+            "z": -580.89
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_283401003",
+          "position": {
+            "x": 118.8,
+            "y": 33.77,
+            "z": -153.12
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1536608583",
+          "position": {
+            "x": 160.2,
+            "y": 6.23,
+            "z": -878.99
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_42608663",
+          "position": {
+            "x": 72.12,
+            "y": 6.05,
+            "z": -1014.79
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_430030287",
+          "position": {
+            "x": 68.8,
+            "y": 6.17,
+            "z": -982
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2818725612",
+          "position": {
+            "x": -119.71,
+            "y": 13.07,
+            "z": 117.86
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2451233177",
+          "position": {
+            "x": 494.59,
+            "y": 226.9,
+            "z": 1120.59
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_316897968",
+          "position": {
+            "x": 949.34,
+            "y": 7.89,
+            "z": 183.56
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2523229713",
+          "position": {
+            "x": -1001.24,
+            "y": 16.82,
+            "z": 845.39
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_457366721",
+          "position": {
+            "x": 531.89,
+            "y": 7.48,
+            "z": -635.66
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2975029613",
+          "position": {
+            "x": -1326.18,
+            "y": 6.91,
+            "z": 605.18
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3436475035",
+          "position": {
+            "x": 18.93,
+            "y": 11.12,
+            "z": -891.98
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_593308404",
+          "position": {
+            "x": 521.09,
+            "y": 7.04,
+            "z": -652.33
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1859985574",
+          "position": {
+            "x": 1000.32,
+            "y": 7.33,
+            "z": 309.58
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2732633344",
+          "position": {
+            "x": 71.27,
+            "y": 6.04,
+            "z": -970.16
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3542347172",
+          "position": {
+            "x": 461.55,
+            "y": 216.51,
+            "z": 1123.44
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4144627748",
+          "position": {
+            "x": -286.31,
+            "y": 165.72,
+            "z": -348.54
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_744299602",
+          "position": {
+            "x": 373.6,
+            "y": 108.3,
+            "z": -1488.1
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3896322570",
+          "position": {
+            "x": 476.97,
+            "y": 205.56,
+            "z": 961.13
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1953612559",
+          "position": {
+            "x": 436.13,
+            "y": 7.22,
+            "z": -149.43
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3457742540",
+          "position": {
+            "x": 71.06,
+            "y": 6.17,
+            "z": -973.23
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2546257843",
+          "position": {
+            "x": -650.71,
+            "y": 144.42,
+            "z": 270.18
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1388578093",
+          "position": {
+            "x": -352.26,
+            "y": 8.35,
+            "z": 485.51
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2969511426",
+          "position": {
+            "x": 65.17,
+            "y": 6.23,
+            "z": -979.68
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2097263591",
+          "position": {
+            "x": -1332.64,
+            "y": 200.94,
+            "z": -69.83
+          },
+          "ref": {
+            "id": "animal:StripedHyenaInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1302341795",
+          "position": {
+            "x": -461.81,
+            "y": 187.88,
+            "z": -208.58
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_592770167",
+          "position": {
+            "x": -47.74,
+            "y": 30.72,
+            "z": -58.3
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2894649051",
+          "position": {
+            "x": 801.15,
+            "y": 6.86,
+            "z": -226.34
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2764953873",
+          "position": {
+            "x": -902.79,
+            "y": 313.78,
+            "z": -910.46
+          },
+          "ref": {
+            "id": "animal:EgyptianVulture"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3592357106",
+          "position": {
+            "x": -1001.9,
+            "y": 16.64,
+            "z": 864.59
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2131626569",
+          "position": {
+            "x": 70.42,
+            "y": 6.1,
+            "z": -1007.05
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2197210585",
+          "position": {
+            "x": -864.04,
+            "y": 45.94,
+            "z": 603.95
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4016335302",
+          "position": {
+            "x": 834.52,
+            "y": 218.66,
+            "z": 1165.71
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1437907494",
+          "position": {
+            "x": -969.41,
+            "y": 22.76,
+            "z": 867.78
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2096336946",
+          "position": {
+            "x": -104.68,
+            "y": 9.6,
+            "z": 146.66
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_252889885",
+          "position": {
+            "x": 524.1,
+            "y": 7.66,
+            "z": -649.16
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1284052495",
+          "position": {
+            "x": -1324.99,
+            "y": 6.84,
+            "z": 626.11
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3848744969",
+          "position": {
+            "x": 59.3,
+            "y": 47.6,
+            "z": -406.9
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3010720153",
+          "position": {
+            "x": -543.82,
+            "y": 47.97,
+            "z": 459.14
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1359553125",
+          "position": {
+            "x": 119.58,
+            "y": 6.1,
+            "z": -886.19
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4284597651",
+          "position": {
+            "x": -1334.94,
+            "y": 7.44,
+            "z": 592.85
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3638365349",
+          "position": {
+            "x": 902.82,
+            "y": 7.96,
+            "z": 255.51
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_819122375",
+          "position": {
+            "x": -532.55,
+            "y": 64.41,
+            "z": 471.41
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1001180515",
+          "position": {
+            "x": 460.3,
+            "y": 203.75,
+            "z": 1034.49
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2040622051",
+          "position": {
+            "x": 342.89,
+            "y": 13.3,
+            "z": -146.27
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2849575088",
+          "position": {
+            "x": -223.34,
+            "y": 169.68,
+            "z": -369.65
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2143760553",
+          "position": {
+            "x": 921.44,
+            "y": 114,
+            "z": -314.06
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_984665125",
+          "position": {
+            "x": -273.78,
+            "y": 7.29,
+            "z": 388.58
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3284443456",
+          "position": {
+            "x": 920.26,
+            "y": 8.4,
+            "z": 256.82
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1719682546",
+          "position": {
+            "x": -47.74,
+            "y": 50.65,
+            "z": -989.05
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2390455236",
+          "position": {
+            "x": 847.84,
+            "y": 84.6,
+            "z": 352.71
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3668010582",
+          "position": {
+            "x": -642.72,
+            "y": 144.4,
+            "z": 269.15
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1820530224",
+          "position": {
+            "x": -1345.57,
+            "y": 8.4,
+            "z": 589.8
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3529517714",
+          "position": {
+            "x": -278.09,
+            "y": 7.46,
+            "z": 378.87
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_895530309",
+          "position": {
+            "x": -92.91,
+            "y": 7.06,
+            "z": 103.35
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3004893943",
+          "position": {
+            "x": 162.8,
+            "y": 6.17,
+            "z": -881.76
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3355594402",
+          "position": {
+            "x": -1013.71,
+            "y": 14.25,
+            "z": 844.61
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_168387099",
+          "position": {
+            "x": -652.82,
+            "y": 7.5,
+            "z": 551.16
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_876743651",
+          "position": {
+            "x": -373.05,
+            "y": 11.86,
+            "z": 403.63
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2895058827",
+          "position": {
+            "x": 537.31,
+            "y": 6.88,
+            "z": -665.62
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2308866257",
+          "position": {
+            "x": 914.75,
+            "y": 8.99,
+            "z": 249.53
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_748674464",
+          "position": {
+            "x": 124.79,
+            "y": 7.34,
+            "z": -976.28
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4145078284",
+          "position": {
+            "x": 719.5,
+            "y": 196.67,
+            "z": 1022.77
+          },
+          "ref": {
+            "id": "animal:StripedHyenaInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3605979826",
+          "position": {
+            "x": 928.04,
+            "y": 7.35,
+            "z": 129.07
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2532365793",
+          "position": {
+            "x": 88.34,
+            "y": 32.22,
+            "z": -184.28
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_436772139",
+          "position": {
+            "x": -634.22,
+            "y": 47.95,
+            "z": 881.72
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3136013722",
+          "position": {
+            "x": 897.62,
+            "y": 13.94,
+            "z": 143.97
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2993905695",
+          "position": {
+            "x": 0.35,
+            "y": 26.92,
+            "z": 110.43
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3782094060",
+          "position": {
+            "x": 133.16,
+            "y": 6.42,
+            "z": -932.07
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2125943635",
+          "position": {
+            "x": 820.93,
+            "y": 6.92,
+            "z": -80.25
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_118106829",
+          "position": {
+            "x": -470.3,
+            "y": 187.83,
+            "z": -149.47
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1517431733",
+          "position": {
+            "x": -979.08,
+            "y": 21.56,
+            "z": 867.6
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2103805492",
+          "position": {
+            "x": 688.15,
+            "y": 216.05,
+            "z": 1083.99
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1022494360",
+          "position": {
+            "x": -84.64,
+            "y": 58.19,
+            "z": -737
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2415400584",
+          "position": {
+            "x": 687.99,
+            "y": 215.97,
+            "z": 1072.13
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2651733170",
+          "position": {
+            "x": -602.65,
+            "y": 146.63,
+            "z": 253.21
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1322017383",
+          "position": {
+            "x": -1333.78,
+            "y": 7.04,
+            "z": 601.85
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3387172406",
+          "position": {
+            "x": -535.77,
+            "y": 7.01,
+            "z": 572.24
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1284604149",
+          "position": {
+            "x": -1348.85,
+            "y": 8.3,
+            "z": 590.65
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3170177519",
+          "position": {
+            "x": -272.05,
+            "y": 164.6,
+            "z": -344.06
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1401725324",
+          "position": {
+            "x": 731.76,
+            "y": 214.47,
+            "z": 1093.33
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3701692199",
+          "position": {
+            "x": -596.62,
+            "y": 74.31,
+            "z": 972.68
+          },
+          "ref": {
+            "id": "animal:EgyptianVulture"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1248898094",
+          "position": {
+            "x": -593.72,
+            "y": 133.02,
+            "z": 274.22
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1245729861",
+          "position": {
+            "x": 506.43,
+            "y": 7.55,
+            "z": -127.08
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3757947780",
+          "position": {
+            "x": -630.34,
+            "y": 47.42,
+            "z": 880.91
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2298186685",
+          "position": {
+            "x": 935.06,
+            "y": 8.21,
+            "z": 261.14
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1158498778",
+          "position": {
+            "x": 143.78,
+            "y": 39.77,
+            "z": -101.88
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_49826610",
+          "position": {
+            "x": 70.74,
+            "y": 6.08,
+            "z": -1000.7
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2455114735",
+          "position": {
+            "x": -316.13,
+            "y": 6.6,
+            "z": 470.27
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4201327968",
+          "position": {
+            "x": -545.7,
+            "y": 48.13,
+            "z": 459.64
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1539599968",
+          "position": {
+            "x": -7.19,
+            "y": 13.16,
+            "z": 91.66
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_766169180",
+          "position": {
+            "x": -662.7,
+            "y": 133.59,
+            "z": 293.33
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_62305696",
+          "position": {
+            "x": -274.52,
+            "y": 7.07,
+            "z": 344.94
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3549577930",
+          "position": {
+            "x": 527.48,
+            "y": 7.16,
+            "z": -628.71
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2124451541",
+          "position": {
+            "x": -1333.76,
+            "y": 8.09,
+            "z": 614.54
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3286030668",
+          "position": {
+            "x": -205.89,
+            "y": 16.55,
+            "z": 246.24
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1585966482",
+          "position": {
+            "x": 529.33,
+            "y": 6.73,
+            "z": -111.73
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2774742895",
+          "position": {
+            "x": 964.99,
+            "y": 7.43,
+            "z": 296.1
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2341589694",
+          "position": {
+            "x": 938.32,
+            "y": 145.86,
+            "z": 650.3
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1070505224",
+          "position": {
+            "x": 224.7,
+            "y": 96.1,
+            "z": 94.1
+          },
+          "ref": {
+            "id": "animal:LannerFalcon"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1543060155",
+          "position": {
+            "x": -608.83,
+            "y": 155.45,
+            "z": 212.59
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1025829336",
+          "position": {
+            "x": 134.62,
+            "y": 6.14,
+            "z": -939.76
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3275604374",
+          "position": {
+            "x": 114.03,
+            "y": 6.14,
+            "z": -887.82
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4211303317",
+          "position": {
+            "x": 1354.7,
+            "y": 157.37,
+            "z": 238.8
+          },
+          "ref": {
+            "id": "animal:EgyptianVulture"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_932043933",
+          "position": {
+            "x": 1002.85,
+            "y": 7.67,
+            "z": 311.04
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_639414596",
+          "position": {
+            "x": -303.61,
+            "y": 173.66,
+            "z": -443.04
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_825675928",
+          "position": {
+            "x": -724.04,
+            "y": 13.54,
+            "z": 526.97
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2306984847",
+          "position": {
+            "x": 19.67,
+            "y": 11.25,
+            "z": -888.75
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4192375868",
+          "position": {
+            "x": 920.9,
+            "y": 8.06,
+            "z": 246.83
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2395465774",
+          "position": {
+            "x": -642.6,
+            "y": 8.76,
+            "z": 499.77
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1946467782",
+          "position": {
+            "x": 124.77,
+            "y": 6.1,
+            "z": -928.26
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_3925729661",
+          "position": {
+            "x": -508.03,
+            "y": 6.79,
+            "z": 551.12
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_400516300",
+          "position": {
+            "x": -1010.44,
+            "y": 15.59,
+            "z": 865.56
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2045467575",
+          "position": {
+            "x": -55.17,
+            "y": 31.05,
+            "z": -60.4
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1276191496",
+          "position": {
+            "x": 72.59,
+            "y": 6.46,
+            "z": -1020.16
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_4027760910",
+          "position": {
+            "x": 538.6,
+            "y": 6.99,
+            "z": -650.94
+          },
+          "ref": {
+            "id": "animal:DorcasGazelle"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_776869888",
+          "position": {
+            "x": -387.69,
+            "y": 176.53,
+            "z": -241
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_621756279",
+          "position": {
+            "x": 428.79,
+            "y": 7.39,
+            "z": -129.19
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1017772377",
+          "position": {
+            "x": 468.59,
+            "y": 205.03,
+            "z": 950.22
+          },
+          "ref": {
+            "id": "animal:BarbarySheepAoudad"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2220693279",
+          "position": {
+            "x": -632.57,
+            "y": 47.61,
+            "z": 879.08
+          },
+          "ref": {
+            "id": "animal:Jackal"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_882165950",
+          "position": {
+            "x": 66.84,
+            "y": 6.23,
+            "z": -1003.3
+          },
+          "ref": {
+            "id": "animal:Flamingo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_1014443807",
+          "position": {
+            "x": -630.9,
+            "y": 13.68,
+            "z": 522.25
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        },
+        {
+          "key": "animal_R2A2_Canyon_2886492174",
+          "position": {
+            "x": 124.65,
+            "y": 6.76,
+            "z": -973.28
+          },
+          "ref": {
+            "id": "animal:Desert SparrowInfo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cabin",
+      "label": "Cabin",
+      "icon": "icons/cabin.webp",
+      "pin": "pins/cabin.webp",
+      "markers": [
+        {
+          "key": "2731053245",
+          "itemId": 2731053245,
+          "position": {
+            "x": -1746.25,
+            "y": 87.22,
+            "z": 655.28
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin1"
+          }
+        },
+        {
+          "key": "1749856058",
+          "itemId": 1749856058,
+          "position": {
+            "x": -216.5,
+            "y": 161.51,
+            "z": -166.9
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin2"
+          }
+        },
+        {
+          "key": "2404909233",
+          "itemId": 2404909233,
+          "position": {
+            "x": -293.2,
+            "y": 80.91,
+            "z": 1012.9
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin3"
+          }
+        },
+        {
+          "key": "2668121946",
+          "itemId": 2668121946,
+          "position": {
+            "x": 356.44,
+            "y": 81.56,
+            "z": 58.87
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin4"
+          }
+        },
+        {
+          "key": "2084807922",
+          "itemId": 2084807922,
+          "position": {
+            "x": 1194.76,
+            "y": 100.37,
+            "z": 470.07
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin5"
+          }
+        },
+        {
+          "key": "2576652318",
+          "itemId": 2576652318,
+          "position": {
+            "x": -1443.8,
+            "y": 284.3,
+            "z": -689
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin6"
+          }
+        },
+        {
+          "key": "2090065507",
+          "itemId": 2090065507,
+          "position": {
+            "x": -835.57,
+            "y": 272.06,
+            "z": -1574.64
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin7"
+          }
+        },
+        {
+          "key": "2224015867",
+          "itemId": 2224015867,
+          "position": {
+            "x": 208.1,
+            "y": 11,
+            "z": -1211.3
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin8"
+          }
+        },
+        {
+          "key": "2160233880",
+          "itemId": 2160233880,
+          "position": {
+            "x": 1103.04,
+            "y": 159.55,
+            "z": -546.23
+          },
+          "ref": {
+            "id": "poi:poi_cabin_scene_R2A2_Cabin9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crate",
+      "label": "Point of Interest",
+      "icon": "icons/generic_poi.webp",
+      "pin": "pins/generic_poi.webp",
+      "markers": [
+        {
+          "key": "2081507819",
+          "itemId": 2081507819,
+          "position": {
+            "x": -684.68,
+            "y": 45.73,
+            "z": 836.32
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_1"
+          }
+        },
+        {
+          "key": "2295750295",
+          "itemId": 2295750295,
+          "position": {
+            "x": -472.8,
+            "y": 192.04,
+            "z": -796.6
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_10"
+          }
+        },
+        {
+          "key": "2078326098",
+          "itemId": 2078326098,
+          "position": {
+            "x": 701.16,
+            "y": 43.03,
+            "z": -51.2
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_11"
+          }
+        },
+        {
+          "key": "2110270902",
+          "itemId": 2110270902,
+          "position": {
+            "x": -1410.44,
+            "y": 194.03,
+            "z": -155.28
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_12"
+          }
+        },
+        {
+          "key": "2116477254",
+          "itemId": 2116477254,
+          "position": {
+            "x": -261.86,
+            "y": 97.25,
+            "z": 679.31
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_13"
+          }
+        },
+        {
+          "key": "1915386031",
+          "itemId": 1915386031,
+          "position": {
+            "x": -790.61,
+            "y": 111.2,
+            "z": 1120.83
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_14"
+          }
+        },
+        {
+          "key": "2889717837",
+          "itemId": 2889717837,
+          "position": {
+            "x": -1451.11,
+            "y": 24.72,
+            "z": 1252.17
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_15"
+          }
+        },
+        {
+          "key": "1745298177",
+          "itemId": 1745298177,
+          "position": {
+            "x": -124.34,
+            "y": 180.05,
+            "z": 1061.76
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_16"
+          }
+        },
+        {
+          "key": "2139665709",
+          "itemId": 2139665709,
+          "position": {
+            "x": -631.61,
+            "y": 122.02,
+            "z": 330.97
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_2"
+          }
+        },
+        {
+          "key": "1080927363",
+          "itemId": 1080927363,
+          "position": {
+            "x": -479,
+            "y": 195.39,
+            "z": -65.6
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_3"
+          }
+        },
+        {
+          "key": "2639272041",
+          "itemId": 2639272041,
+          "position": {
+            "x": -131.15,
+            "y": 8.42,
+            "z": -732.6
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_4"
+          }
+        },
+        {
+          "key": "2838104606",
+          "itemId": 2838104606,
+          "position": {
+            "x": 210.2,
+            "y": 143.47,
+            "z": -1672.51
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_5"
+          }
+        },
+        {
+          "key": "2450765315",
+          "itemId": 2450765315,
+          "position": {
+            "x": -1475.54,
+            "y": 146.48,
+            "z": 268.49
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_6"
+          }
+        },
+        {
+          "key": "2251053426",
+          "itemId": 2251053426,
+          "position": {
+            "x": -13.13,
+            "y": 29.75,
+            "z": -254.23
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_7"
+          }
+        },
+        {
+          "key": "1731185913",
+          "itemId": 1731185913,
+          "position": {
+            "x": 554.85,
+            "y": 174.18,
+            "z": -1129.43
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_8"
+          }
+        },
+        {
+          "key": "2710211854",
+          "itemId": 2710211854,
+          "position": {
+            "x": 1164.62,
+            "y": 149.96,
+            "z": -884.17
+          },
+          "ref": {
+            "id": "poi:mission_generic_R2A2_Generic_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trail",
+      "label": "Challenge trail",
+      "icon": "icons/trail.webp",
+      "pin": "pins/trail.webp",
+      "routes": [
+        {
+          "key": "mission_trail_2633272869",
+          "itemId": 2633272869,
+          "name": "Ukhtayn Route",
+          "waypoints": [
+            {
+              "key": "2633272869",
+              "position": {
+                "x": -790.41,
+                "y": 238.22,
+                "z": -1420.9
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_1",
+              "position": {
+                "x": -792.15,
+                "y": 241.19,
+                "z": -1377.17
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_2",
+              "position": {
+                "x": -795.91,
+                "y": 241.06,
+                "z": -1316.05
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_3",
+              "position": {
+                "x": -752.8,
+                "y": 240.21,
+                "z": -1300.98
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_4",
+              "position": {
+                "x": -739.28,
+                "y": 251.14,
+                "z": -1335.45
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_5",
+              "position": {
+                "x": -719.85,
+                "y": 262.26,
+                "z": -1405.97
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_6",
+              "position": {
+                "x": -610.67,
+                "y": 262.85,
+                "z": -1433.93
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_7",
+              "position": {
+                "x": -489.04,
+                "y": 256.5,
+                "z": -1475.44
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_8",
+              "position": {
+                "x": -416.07,
+                "y": 259.21,
+                "z": -1393.51
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_9",
+              "position": {
+                "x": -360.5,
+                "y": 260.22,
+                "z": -1350.83
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_10",
+              "position": {
+                "x": -347.87,
+                "y": 277.65,
+                "z": -1313.8
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_11",
+              "position": {
+                "x": -291.9,
+                "y": 271.54,
+                "z": -1313.4
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_12",
+              "position": {
+                "x": -240.66,
+                "y": 265.16,
+                "z": -1290.76
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_13",
+              "position": {
+                "x": -298.87,
+                "y": 269.56,
+                "z": -1246.39
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_14",
+              "position": {
+                "x": -344.86,
+                "y": 263.52,
+                "z": -1185.29
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_15",
+              "position": {
+                "x": -418.37,
+                "y": 273.89,
+                "z": -1196
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_16",
+              "position": {
+                "x": -462.72,
+                "y": 281.14,
+                "z": -1223.3
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_17",
+              "position": {
+                "x": -421.85,
+                "y": 289.86,
+                "z": -1252.79
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_18",
+              "position": {
+                "x": -450.4,
+                "y": 313.26,
+                "z": -1299.51
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_19",
+              "position": {
+                "x": -481.45,
+                "y": 319.16,
+                "z": -1310.1
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_20",
+              "position": {
+                "x": -487.66,
+                "y": 319.62,
+                "z": -1359.35
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_21",
+              "position": {
+                "x": -509.67,
+                "y": 320.33,
+                "z": -1386.83
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_22",
+              "position": {
+                "x": -542.47,
+                "y": 321.92,
+                "z": -1399.42
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_23",
+              "position": {
+                "x": -598.41,
+                "y": 328.47,
+                "z": -1385.1
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_24",
+              "position": {
+                "x": -615.13,
+                "y": 334.32,
+                "z": -1373.32
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_25",
+              "position": {
+                "x": -659.45,
+                "y": 330.01,
+                "z": -1341.05
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_26",
+              "position": {
+                "x": -673.61,
+                "y": 336.98,
+                "z": -1272
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_27",
+              "position": {
+                "x": -624.61,
+                "y": 346.74,
+                "z": -1221.44
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_28",
+              "position": {
+                "x": -568.8,
+                "y": 356.86,
+                "z": -1236.29
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_29",
+              "position": {
+                "x": -580.56,
+                "y": 362.06,
+                "z": -1279.85
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2633272869_30",
+              "position": {
+                "x": -642.22,
+                "y": 365.9,
+                "z": -1255.98
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_2073309612",
+          "itemId": 2073309612,
+          "name": "Kalaa Ulya Track",
+          "waypoints": [
+            {
+              "key": "2073309612",
+              "position": {
+                "x": -1291.11,
+                "y": 284.26,
+                "z": -652.8
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_1",
+              "position": {
+                "x": -1256.17,
+                "y": 295.11,
+                "z": -682.18
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_2",
+              "position": {
+                "x": -1229.58,
+                "y": 309.15,
+                "z": -708.33
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_3",
+              "position": {
+                "x": -1201.47,
+                "y": 307.38,
+                "z": -685.33
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_4",
+              "position": {
+                "x": -1218.45,
+                "y": 291.41,
+                "z": -636.53
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_5",
+              "position": {
+                "x": -1182.91,
+                "y": 294.28,
+                "z": -610.74
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_6",
+              "position": {
+                "x": -1117.95,
+                "y": 299.94,
+                "z": -593.77
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_7",
+              "position": {
+                "x": -1127.31,
+                "y": 307.37,
+                "z": -631.9
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_8",
+              "position": {
+                "x": -1141.04,
+                "y": 317.36,
+                "z": -680.36
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_9",
+              "position": {
+                "x": -1099.08,
+                "y": 319.06,
+                "z": -684.12
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_10",
+              "position": {
+                "x": -1054.88,
+                "y": 320.91,
+                "z": -699.04
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_11",
+              "position": {
+                "x": -1007.08,
+                "y": 324.79,
+                "z": -729.19
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_12",
+              "position": {
+                "x": -960.04,
+                "y": 312.91,
+                "z": -764.02
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_13",
+              "position": {
+                "x": -977.71,
+                "y": 318.96,
+                "z": -802.36
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_14",
+              "position": {
+                "x": -997.95,
+                "y": 306.23,
+                "z": -855.11
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_15",
+              "position": {
+                "x": -1056.8,
+                "y": 298.69,
+                "z": -865.55
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_16",
+              "position": {
+                "x": -1120.09,
+                "y": 296.27,
+                "z": -892.18
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_17",
+              "position": {
+                "x": -1156.73,
+                "y": 292.44,
+                "z": -918.26
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_18",
+              "position": {
+                "x": -1197.64,
+                "y": 299.45,
+                "z": -868.78
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_19",
+              "position": {
+                "x": -1270.03,
+                "y": 309.5,
+                "z": -870.1
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_20",
+              "position": {
+                "x": -1320.74,
+                "y": 324.88,
+                "z": -898.45
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_21",
+              "position": {
+                "x": -1373.61,
+                "y": 336.13,
+                "z": -909.3
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_22",
+              "position": {
+                "x": -1356.52,
+                "y": 340.85,
+                "z": -855.82
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_23",
+              "position": {
+                "x": -1331.8,
+                "y": 337.78,
+                "z": -803.55
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_24",
+              "position": {
+                "x": -1287.24,
+                "y": 345.8,
+                "z": -799.99
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_25",
+              "position": {
+                "x": -1257.6,
+                "y": 348.46,
+                "z": -815.25
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_26",
+              "position": {
+                "x": -1226.17,
+                "y": 350.88,
+                "z": -807.29
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_27",
+              "position": {
+                "x": -1172.44,
+                "y": 359.61,
+                "z": -789.87
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_28",
+              "position": {
+                "x": -1124.25,
+                "y": 363.33,
+                "z": -786.62
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2073309612_29",
+              "position": {
+                "x": -1058.71,
+                "y": 366.52,
+                "z": -777.3
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_2728409084",
+          "itemId": 2728409084,
+          "name": "Djebel Rahmani Ascent",
+          "waypoints": [
+            {
+              "key": "2728409084",
+              "position": {
+                "x": -1722.21,
+                "y": 41.96,
+                "z": 404.95
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_1",
+              "position": {
+                "x": -1722.69,
+                "y": 50.6,
+                "z": 363.96
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_2",
+              "position": {
+                "x": -1714.02,
+                "y": 54.94,
+                "z": 309.44
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_3",
+              "position": {
+                "x": -1649,
+                "y": 69.56,
+                "z": 349.09
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_4",
+              "position": {
+                "x": -1620.41,
+                "y": 81.68,
+                "z": 388.04
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_5",
+              "position": {
+                "x": -1576.19,
+                "y": 95.72,
+                "z": 388.8
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_6",
+              "position": {
+                "x": -1526.91,
+                "y": 97.02,
+                "z": 389.45
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_7",
+              "position": {
+                "x": -1462.99,
+                "y": 97.5,
+                "z": 354.81
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_8",
+              "position": {
+                "x": -1423.1,
+                "y": 102.85,
+                "z": 343.15
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_9",
+              "position": {
+                "x": -1393.65,
+                "y": 96.78,
+                "z": 379.18
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_10",
+              "position": {
+                "x": -1354.45,
+                "y": 105.96,
+                "z": 372.04
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_11",
+              "position": {
+                "x": -1339.46,
+                "y": 111.26,
+                "z": 395.98
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_12",
+              "position": {
+                "x": -1273.61,
+                "y": 124.82,
+                "z": 378.45
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_13",
+              "position": {
+                "x": -1251.05,
+                "y": 133.57,
+                "z": 413.86
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_14",
+              "position": {
+                "x": -1218.42,
+                "y": 139.74,
+                "z": 438.58
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_15",
+              "position": {
+                "x": -1172.01,
+                "y": 154.78,
+                "z": 424.89
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_16",
+              "position": {
+                "x": -1141.5,
+                "y": 149.34,
+                "z": 491.4
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_17",
+              "position": {
+                "x": -1084.76,
+                "y": 156.8,
+                "z": 492.86
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_18",
+              "position": {
+                "x": -1037.17,
+                "y": 159.4,
+                "z": 478.55
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_19",
+              "position": {
+                "x": -1014.84,
+                "y": 160.02,
+                "z": 438.77
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_20",
+              "position": {
+                "x": -1032.3,
+                "y": 175.59,
+                "z": 416.82
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_21",
+              "position": {
+                "x": -979.18,
+                "y": 186.96,
+                "z": 373.54
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_22",
+              "position": {
+                "x": -951.35,
+                "y": 195.71,
+                "z": 337.98
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_23",
+              "position": {
+                "x": -942.91,
+                "y": 199.16,
+                "z": 298.85
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_24",
+              "position": {
+                "x": -983.47,
+                "y": 204.85,
+                "z": 270.49
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_25",
+              "position": {
+                "x": -1043.05,
+                "y": 222.47,
+                "z": 200.26
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_26",
+              "position": {
+                "x": -1030.81,
+                "y": 234.95,
+                "z": 145.15
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_27",
+              "position": {
+                "x": -982.99,
+                "y": 246.19,
+                "z": 127.69
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_28",
+              "position": {
+                "x": -949.44,
+                "y": 253.71,
+                "z": 133.57
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2728409084_29",
+              "position": {
+                "x": -917.56,
+                "y": 254.64,
+                "z": 147.58
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_2452553039",
+          "itemId": 2452553039,
+          "name": "Jazira Ascent",
+          "waypoints": [
+            {
+              "key": "2452553039",
+              "position": {
+                "x": 430.89,
+                "y": 23.29,
+                "z": -665.6
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_1",
+              "position": {
+                "x": 406.37,
+                "y": 30.21,
+                "z": -713.74
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_2",
+              "position": {
+                "x": 356.45,
+                "y": 46.44,
+                "z": -724.61
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_3",
+              "position": {
+                "x": 352.54,
+                "y": 56.07,
+                "z": -794.59
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_4",
+              "position": {
+                "x": 277.77,
+                "y": 66.08,
+                "z": -818.98
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_5",
+              "position": {
+                "x": 220.54,
+                "y": 82.68,
+                "z": -801.03
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_6",
+              "position": {
+                "x": 187.47,
+                "y": 83.32,
+                "z": -790.04
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_7",
+              "position": {
+                "x": 160.12,
+                "y": 76.17,
+                "z": -755.33
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_8",
+              "position": {
+                "x": 132.5,
+                "y": 75.27,
+                "z": -715.01
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_9",
+              "position": {
+                "x": 139.1,
+                "y": 83.95,
+                "z": -696.53
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_10",
+              "position": {
+                "x": 172.82,
+                "y": 92.33,
+                "z": -739.15
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_11",
+              "position": {
+                "x": 217.09,
+                "y": 90.99,
+                "z": -787.37
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_12",
+              "position": {
+                "x": 269.3,
+                "y": 102.01,
+                "z": -747.32
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_13",
+              "position": {
+                "x": 287.17,
+                "y": 119.54,
+                "z": -704.72
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_14",
+              "position": {
+                "x": 251,
+                "y": 127.25,
+                "z": -642.31
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_15",
+              "position": {
+                "x": 207.35,
+                "y": 144.53,
+                "z": -633.97
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_16",
+              "position": {
+                "x": 253.92,
+                "y": 153.21,
+                "z": -578.77
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_17",
+              "position": {
+                "x": 298.21,
+                "y": 152.68,
+                "z": -530.05
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_18",
+              "position": {
+                "x": 336.63,
+                "y": 153.07,
+                "z": -520.44
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_19",
+              "position": {
+                "x": 315.81,
+                "y": 152.74,
+                "z": -570.8
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_20",
+              "position": {
+                "x": 343.64,
+                "y": 154.47,
+                "z": -600.66
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_21",
+              "position": {
+                "x": 291.97,
+                "y": 158.82,
+                "z": -596.85
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_22",
+              "position": {
+                "x": 243.47,
+                "y": 166.08,
+                "z": -633.57
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_23",
+              "position": {
+                "x": 175.87,
+                "y": 170.62,
+                "z": -647.17
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_24",
+              "position": {
+                "x": 148.79,
+                "y": 169.67,
+                "z": -613.37
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_25",
+              "position": {
+                "x": 173.28,
+                "y": 176.06,
+                "z": -545.69
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_2452553039_26",
+              "position": {
+                "x": 228.65,
+                "y": 183.4,
+                "z": -529.57
+              }
+            }
+          ]
+        },
+        {
+          "key": "mission_trail_1984922832",
+          "itemId": 1984922832,
+          "name": "Mahrouqa West Track",
+          "waypoints": [
+            {
+              "key": "1984922832",
+              "position": {
+                "x": 690.18,
+                "y": 130.57,
+                "z": 661.24
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_1",
+              "position": {
+                "x": 669.97,
+                "y": 132.1,
+                "z": 624.27
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_2",
+              "position": {
+                "x": 647.01,
+                "y": 129.39,
+                "z": 574.16
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_3",
+              "position": {
+                "x": 616.86,
+                "y": 124.43,
+                "z": 539.39
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_4",
+              "position": {
+                "x": 569.71,
+                "y": 130.9,
+                "z": 534.67
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_5",
+              "position": {
+                "x": 535.19,
+                "y": 131.39,
+                "z": 549.05
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_6",
+              "position": {
+                "x": 531.34,
+                "y": 132.27,
+                "z": 610.08
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_7",
+              "position": {
+                "x": 574.82,
+                "y": 147.86,
+                "z": 667.99
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_8",
+              "position": {
+                "x": 590.08,
+                "y": 161.02,
+                "z": 711.33
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_9",
+              "position": {
+                "x": 561.03,
+                "y": 177.53,
+                "z": 751.49
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_10",
+              "position": {
+                "x": 514.36,
+                "y": 188.81,
+                "z": 730.61
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_11",
+              "position": {
+                "x": 479.14,
+                "y": 183.31,
+                "z": 790.5
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_12",
+              "position": {
+                "x": 415.42,
+                "y": 182.2,
+                "z": 777.63
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_13",
+              "position": {
+                "x": 328.16,
+                "y": 184.84,
+                "z": 741.84
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_14",
+              "position": {
+                "x": 287.75,
+                "y": 188.68,
+                "z": 720.01
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_15",
+              "position": {
+                "x": 250.7,
+                "y": 192.23,
+                "z": 722.87
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_16",
+              "position": {
+                "x": 218.48,
+                "y": 198.91,
+                "z": 728.4
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_17",
+              "position": {
+                "x": 150.95,
+                "y": 195.11,
+                "z": 721.7
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_18",
+              "position": {
+                "x": 154.58,
+                "y": 196.19,
+                "z": 694.25
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_19",
+              "position": {
+                "x": 183,
+                "y": 198.01,
+                "z": 642.27
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_20",
+              "position": {
+                "x": 162.46,
+                "y": 190.98,
+                "z": 606.38
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_21",
+              "position": {
+                "x": 185.69,
+                "y": 202.26,
+                "z": 594.65
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_22",
+              "position": {
+                "x": 207.41,
+                "y": 205.28,
+                "z": 575.61
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_23",
+              "position": {
+                "x": 182.76,
+                "y": 201.76,
+                "z": 514.22
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_24",
+              "position": {
+                "x": 245.97,
+                "y": 208.05,
+                "z": 480.31
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_25",
+              "position": {
+                "x": 232.06,
+                "y": 220.48,
+                "z": 530.86
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_26",
+              "position": {
+                "x": 261.69,
+                "y": 224.56,
+                "z": 513.36
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_27",
+              "position": {
+                "x": 277.06,
+                "y": 218.66,
+                "z": 439.44
+              }
+            },
+            {
+              "key": "checkpoint_R2A2_Canyon_1984922832_28",
+              "position": {
+                "x": 267.6,
+                "y": 219.12,
+                "z": 409.69
+              }
+            }
+          ]
+        }
+      ],
+      "markers": [
+        {
+          "key": "2633272869",
+          "position": {
+            "x": -790.41,
+            "y": 238.22,
+            "z": -1420.9
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_1",
+          "position": {
+            "x": -792.15,
+            "y": 241.19,
+            "z": -1377.17
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_2",
+          "position": {
+            "x": -795.91,
+            "y": 241.06,
+            "z": -1316.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_3",
+          "position": {
+            "x": -752.8,
+            "y": 240.21,
+            "z": -1300.98
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_4",
+          "position": {
+            "x": -739.28,
+            "y": 251.14,
+            "z": -1335.45
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_5",
+          "position": {
+            "x": -719.85,
+            "y": 262.26,
+            "z": -1405.97
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_6",
+          "position": {
+            "x": -610.67,
+            "y": 262.85,
+            "z": -1433.93
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_7",
+          "position": {
+            "x": -489.04,
+            "y": 256.5,
+            "z": -1475.44
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_8",
+          "position": {
+            "x": -416.07,
+            "y": 259.21,
+            "z": -1393.51
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_9",
+          "position": {
+            "x": -360.5,
+            "y": 260.22,
+            "z": -1350.83
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_10",
+          "position": {
+            "x": -347.87,
+            "y": 277.65,
+            "z": -1313.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_11",
+          "position": {
+            "x": -291.9,
+            "y": 271.54,
+            "z": -1313.4
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_12",
+          "position": {
+            "x": -240.66,
+            "y": 265.16,
+            "z": -1290.76
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_13",
+          "position": {
+            "x": -298.87,
+            "y": 269.56,
+            "z": -1246.39
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 13
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_14",
+          "position": {
+            "x": -344.86,
+            "y": 263.52,
+            "z": -1185.29
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 14
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_15",
+          "position": {
+            "x": -418.37,
+            "y": 273.89,
+            "z": -1196
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 15
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_16",
+          "position": {
+            "x": -462.72,
+            "y": 281.14,
+            "z": -1223.3
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 16
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_17",
+          "position": {
+            "x": -421.85,
+            "y": 289.86,
+            "z": -1252.79
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 17
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_18",
+          "position": {
+            "x": -450.4,
+            "y": 313.26,
+            "z": -1299.51
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 18
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_19",
+          "position": {
+            "x": -481.45,
+            "y": 319.16,
+            "z": -1310.1
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 19
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_20",
+          "position": {
+            "x": -487.66,
+            "y": 319.62,
+            "z": -1359.35
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 20
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_21",
+          "position": {
+            "x": -509.67,
+            "y": 320.33,
+            "z": -1386.83
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 21
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_22",
+          "position": {
+            "x": -542.47,
+            "y": 321.92,
+            "z": -1399.42
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 22
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_23",
+          "position": {
+            "x": -598.41,
+            "y": 328.47,
+            "z": -1385.1
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 23
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_24",
+          "position": {
+            "x": -615.13,
+            "y": 334.32,
+            "z": -1373.32
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 24
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_25",
+          "position": {
+            "x": -659.45,
+            "y": 330.01,
+            "z": -1341.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 25
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_26",
+          "position": {
+            "x": -673.61,
+            "y": 336.98,
+            "z": -1272
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 26
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_27",
+          "position": {
+            "x": -624.61,
+            "y": 346.74,
+            "z": -1221.44
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 27
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_28",
+          "position": {
+            "x": -568.8,
+            "y": 356.86,
+            "z": -1236.29
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 28
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_29",
+          "position": {
+            "x": -580.56,
+            "y": 362.06,
+            "z": -1279.85
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 29
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2633272869_30",
+          "position": {
+            "x": -642.22,
+            "y": 365.9,
+            "z": -1255.98
+          },
+          "ref": {
+            "id": "poi:mission_trail_2633272869",
+            "order": 30
+          }
+        },
+        {
+          "key": "2073309612",
+          "position": {
+            "x": -1291.11,
+            "y": 284.26,
+            "z": -652.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_1",
+          "position": {
+            "x": -1256.17,
+            "y": 295.11,
+            "z": -682.18
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_2",
+          "position": {
+            "x": -1229.58,
+            "y": 309.15,
+            "z": -708.33
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_3",
+          "position": {
+            "x": -1201.47,
+            "y": 307.38,
+            "z": -685.33
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_4",
+          "position": {
+            "x": -1218.45,
+            "y": 291.41,
+            "z": -636.53
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_5",
+          "position": {
+            "x": -1182.91,
+            "y": 294.28,
+            "z": -610.74
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_6",
+          "position": {
+            "x": -1117.95,
+            "y": 299.94,
+            "z": -593.77
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_7",
+          "position": {
+            "x": -1127.31,
+            "y": 307.37,
+            "z": -631.9
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_8",
+          "position": {
+            "x": -1141.04,
+            "y": 317.36,
+            "z": -680.36
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_9",
+          "position": {
+            "x": -1099.08,
+            "y": 319.06,
+            "z": -684.12
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_10",
+          "position": {
+            "x": -1054.88,
+            "y": 320.91,
+            "z": -699.04
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_11",
+          "position": {
+            "x": -1007.08,
+            "y": 324.79,
+            "z": -729.19
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_12",
+          "position": {
+            "x": -960.04,
+            "y": 312.91,
+            "z": -764.02
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_13",
+          "position": {
+            "x": -977.71,
+            "y": 318.96,
+            "z": -802.36
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 13
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_14",
+          "position": {
+            "x": -997.95,
+            "y": 306.23,
+            "z": -855.11
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 14
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_15",
+          "position": {
+            "x": -1056.8,
+            "y": 298.69,
+            "z": -865.55
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 15
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_16",
+          "position": {
+            "x": -1120.09,
+            "y": 296.27,
+            "z": -892.18
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 16
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_17",
+          "position": {
+            "x": -1156.73,
+            "y": 292.44,
+            "z": -918.26
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 17
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_18",
+          "position": {
+            "x": -1197.64,
+            "y": 299.45,
+            "z": -868.78
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 18
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_19",
+          "position": {
+            "x": -1270.03,
+            "y": 309.5,
+            "z": -870.1
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 19
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_20",
+          "position": {
+            "x": -1320.74,
+            "y": 324.88,
+            "z": -898.45
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 20
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_21",
+          "position": {
+            "x": -1373.61,
+            "y": 336.13,
+            "z": -909.3
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 21
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_22",
+          "position": {
+            "x": -1356.52,
+            "y": 340.85,
+            "z": -855.82
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 22
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_23",
+          "position": {
+            "x": -1331.8,
+            "y": 337.78,
+            "z": -803.55
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 23
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_24",
+          "position": {
+            "x": -1287.24,
+            "y": 345.8,
+            "z": -799.99
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 24
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_25",
+          "position": {
+            "x": -1257.6,
+            "y": 348.46,
+            "z": -815.25
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 25
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_26",
+          "position": {
+            "x": -1226.17,
+            "y": 350.88,
+            "z": -807.29
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 26
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_27",
+          "position": {
+            "x": -1172.44,
+            "y": 359.61,
+            "z": -789.87
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 27
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_28",
+          "position": {
+            "x": -1124.25,
+            "y": 363.33,
+            "z": -786.62
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 28
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2073309612_29",
+          "position": {
+            "x": -1058.71,
+            "y": 366.52,
+            "z": -777.3
+          },
+          "ref": {
+            "id": "poi:mission_trail_2073309612",
+            "order": 29
+          }
+        },
+        {
+          "key": "2728409084",
+          "position": {
+            "x": -1722.21,
+            "y": 41.96,
+            "z": 404.95
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_1",
+          "position": {
+            "x": -1722.69,
+            "y": 50.6,
+            "z": 363.96
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_2",
+          "position": {
+            "x": -1714.02,
+            "y": 54.94,
+            "z": 309.44
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_3",
+          "position": {
+            "x": -1649,
+            "y": 69.56,
+            "z": 349.09
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_4",
+          "position": {
+            "x": -1620.41,
+            "y": 81.68,
+            "z": 388.04
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_5",
+          "position": {
+            "x": -1576.19,
+            "y": 95.72,
+            "z": 388.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_6",
+          "position": {
+            "x": -1526.91,
+            "y": 97.02,
+            "z": 389.45
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_7",
+          "position": {
+            "x": -1462.99,
+            "y": 97.5,
+            "z": 354.81
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_8",
+          "position": {
+            "x": -1423.1,
+            "y": 102.85,
+            "z": 343.15
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_9",
+          "position": {
+            "x": -1393.65,
+            "y": 96.78,
+            "z": 379.18
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_10",
+          "position": {
+            "x": -1354.45,
+            "y": 105.96,
+            "z": 372.04
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_11",
+          "position": {
+            "x": -1339.46,
+            "y": 111.26,
+            "z": 395.98
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_12",
+          "position": {
+            "x": -1273.61,
+            "y": 124.82,
+            "z": 378.45
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_13",
+          "position": {
+            "x": -1251.05,
+            "y": 133.57,
+            "z": 413.86
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 13
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_14",
+          "position": {
+            "x": -1218.42,
+            "y": 139.74,
+            "z": 438.58
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 14
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_15",
+          "position": {
+            "x": -1172.01,
+            "y": 154.78,
+            "z": 424.89
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 15
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_16",
+          "position": {
+            "x": -1141.5,
+            "y": 149.34,
+            "z": 491.4
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 16
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_17",
+          "position": {
+            "x": -1084.76,
+            "y": 156.8,
+            "z": 492.86
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 17
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_18",
+          "position": {
+            "x": -1037.17,
+            "y": 159.4,
+            "z": 478.55
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 18
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_19",
+          "position": {
+            "x": -1014.84,
+            "y": 160.02,
+            "z": 438.77
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 19
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_20",
+          "position": {
+            "x": -1032.3,
+            "y": 175.59,
+            "z": 416.82
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 20
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_21",
+          "position": {
+            "x": -979.18,
+            "y": 186.96,
+            "z": 373.54
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 21
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_22",
+          "position": {
+            "x": -951.35,
+            "y": 195.71,
+            "z": 337.98
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 22
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_23",
+          "position": {
+            "x": -942.91,
+            "y": 199.16,
+            "z": 298.85
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 23
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_24",
+          "position": {
+            "x": -983.47,
+            "y": 204.85,
+            "z": 270.49
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 24
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_25",
+          "position": {
+            "x": -1043.05,
+            "y": 222.47,
+            "z": 200.26
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 25
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_26",
+          "position": {
+            "x": -1030.81,
+            "y": 234.95,
+            "z": 145.15
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 26
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_27",
+          "position": {
+            "x": -982.99,
+            "y": 246.19,
+            "z": 127.69
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 27
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_28",
+          "position": {
+            "x": -949.44,
+            "y": 253.71,
+            "z": 133.57
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 28
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2728409084_29",
+          "position": {
+            "x": -917.56,
+            "y": 254.64,
+            "z": 147.58
+          },
+          "ref": {
+            "id": "poi:mission_trail_2728409084",
+            "order": 29
+          }
+        },
+        {
+          "key": "2452553039",
+          "position": {
+            "x": 430.89,
+            "y": 23.29,
+            "z": -665.6
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_1",
+          "position": {
+            "x": 406.37,
+            "y": 30.21,
+            "z": -713.74
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_2",
+          "position": {
+            "x": 356.45,
+            "y": 46.44,
+            "z": -724.61
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_3",
+          "position": {
+            "x": 352.54,
+            "y": 56.07,
+            "z": -794.59
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_4",
+          "position": {
+            "x": 277.77,
+            "y": 66.08,
+            "z": -818.98
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_5",
+          "position": {
+            "x": 220.54,
+            "y": 82.68,
+            "z": -801.03
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_6",
+          "position": {
+            "x": 187.47,
+            "y": 83.32,
+            "z": -790.04
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_7",
+          "position": {
+            "x": 160.12,
+            "y": 76.17,
+            "z": -755.33
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_8",
+          "position": {
+            "x": 132.5,
+            "y": 75.27,
+            "z": -715.01
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_9",
+          "position": {
+            "x": 139.1,
+            "y": 83.95,
+            "z": -696.53
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_10",
+          "position": {
+            "x": 172.82,
+            "y": 92.33,
+            "z": -739.15
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_11",
+          "position": {
+            "x": 217.09,
+            "y": 90.99,
+            "z": -787.37
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_12",
+          "position": {
+            "x": 269.3,
+            "y": 102.01,
+            "z": -747.32
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_13",
+          "position": {
+            "x": 287.17,
+            "y": 119.54,
+            "z": -704.72
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 13
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_14",
+          "position": {
+            "x": 251,
+            "y": 127.25,
+            "z": -642.31
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 14
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_15",
+          "position": {
+            "x": 207.35,
+            "y": 144.53,
+            "z": -633.97
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 15
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_16",
+          "position": {
+            "x": 253.92,
+            "y": 153.21,
+            "z": -578.77
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 16
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_17",
+          "position": {
+            "x": 298.21,
+            "y": 152.68,
+            "z": -530.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 17
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_18",
+          "position": {
+            "x": 336.63,
+            "y": 153.07,
+            "z": -520.44
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 18
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_19",
+          "position": {
+            "x": 315.81,
+            "y": 152.74,
+            "z": -570.8
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 19
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_20",
+          "position": {
+            "x": 343.64,
+            "y": 154.47,
+            "z": -600.66
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 20
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_21",
+          "position": {
+            "x": 291.97,
+            "y": 158.82,
+            "z": -596.85
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 21
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_22",
+          "position": {
+            "x": 243.47,
+            "y": 166.08,
+            "z": -633.57
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 22
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_23",
+          "position": {
+            "x": 175.87,
+            "y": 170.62,
+            "z": -647.17
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 23
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_24",
+          "position": {
+            "x": 148.79,
+            "y": 169.67,
+            "z": -613.37
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 24
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_25",
+          "position": {
+            "x": 173.28,
+            "y": 176.06,
+            "z": -545.69
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 25
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_2452553039_26",
+          "position": {
+            "x": 228.65,
+            "y": 183.4,
+            "z": -529.57
+          },
+          "ref": {
+            "id": "poi:mission_trail_2452553039",
+            "order": 26
+          }
+        },
+        {
+          "key": "1984922832",
+          "position": {
+            "x": 690.18,
+            "y": 130.57,
+            "z": 661.24
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 0
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_1",
+          "position": {
+            "x": 669.97,
+            "y": 132.1,
+            "z": 624.27
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 1
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_2",
+          "position": {
+            "x": 647.01,
+            "y": 129.39,
+            "z": 574.16
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 2
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_3",
+          "position": {
+            "x": 616.86,
+            "y": 124.43,
+            "z": 539.39
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 3
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_4",
+          "position": {
+            "x": 569.71,
+            "y": 130.9,
+            "z": 534.67
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 4
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_5",
+          "position": {
+            "x": 535.19,
+            "y": 131.39,
+            "z": 549.05
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 5
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_6",
+          "position": {
+            "x": 531.34,
+            "y": 132.27,
+            "z": 610.08
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 6
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_7",
+          "position": {
+            "x": 574.82,
+            "y": 147.86,
+            "z": 667.99
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 7
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_8",
+          "position": {
+            "x": 590.08,
+            "y": 161.02,
+            "z": 711.33
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 8
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_9",
+          "position": {
+            "x": 561.03,
+            "y": 177.53,
+            "z": 751.49
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 9
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_10",
+          "position": {
+            "x": 514.36,
+            "y": 188.81,
+            "z": 730.61
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 10
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_11",
+          "position": {
+            "x": 479.14,
+            "y": 183.31,
+            "z": 790.5
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 11
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_12",
+          "position": {
+            "x": 415.42,
+            "y": 182.2,
+            "z": 777.63
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 12
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_13",
+          "position": {
+            "x": 328.16,
+            "y": 184.84,
+            "z": 741.84
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 13
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_14",
+          "position": {
+            "x": 287.75,
+            "y": 188.68,
+            "z": 720.01
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 14
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_15",
+          "position": {
+            "x": 250.7,
+            "y": 192.23,
+            "z": 722.87
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 15
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_16",
+          "position": {
+            "x": 218.48,
+            "y": 198.91,
+            "z": 728.4
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 16
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_17",
+          "position": {
+            "x": 150.95,
+            "y": 195.11,
+            "z": 721.7
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 17
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_18",
+          "position": {
+            "x": 154.58,
+            "y": 196.19,
+            "z": 694.25
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 18
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_19",
+          "position": {
+            "x": 183,
+            "y": 198.01,
+            "z": 642.27
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 19
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_20",
+          "position": {
+            "x": 162.46,
+            "y": 190.98,
+            "z": 606.38
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 20
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_21",
+          "position": {
+            "x": 185.69,
+            "y": 202.26,
+            "z": 594.65
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 21
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_22",
+          "position": {
+            "x": 207.41,
+            "y": 205.28,
+            "z": 575.61
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 22
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_23",
+          "position": {
+            "x": 182.76,
+            "y": 201.76,
+            "z": 514.22
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 23
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_24",
+          "position": {
+            "x": 245.97,
+            "y": 208.05,
+            "z": 480.31
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 24
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_25",
+          "position": {
+            "x": 232.06,
+            "y": 220.48,
+            "z": 530.86
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 25
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_26",
+          "position": {
+            "x": 261.69,
+            "y": 224.56,
+            "z": 513.36
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 26
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_27",
+          "position": {
+            "x": 277.06,
+            "y": 218.66,
+            "z": 439.44
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 27
+          }
+        },
+        {
+          "key": "checkpoint_R2A2_Canyon_1984922832_28",
+          "position": {
+            "x": 267.6,
+            "y": 219.12,
+            "z": 409.69
+          },
+          "ref": {
+            "id": "poi:mission_trail_1984922832",
+            "order": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "meteorite",
+      "label": "Meteorite",
+      "icon": "icons/meteor_white.webp",
+      "pin": "pins/meteor_white.webp",
+      "markers": [
+        {
+          "key": "meteorite_R2A2_Canyon_10",
+          "position": {
+            "x": 393.89,
+            "y": 8.65,
+            "z": -741.53
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_42",
+          "position": {
+            "x": -534.81,
+            "y": 52.87,
+            "z": 1254.98
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_45",
+          "position": {
+            "x": 1011.92,
+            "y": 6.27,
+            "z": 252.52
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_44",
+          "position": {
+            "x": 694.89,
+            "y": 197.23,
+            "z": 1016.7
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_4",
+          "position": {
+            "x": -1057.05,
+            "y": 363.21,
+            "z": -749.28
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_32",
+          "position": {
+            "x": -1499.4,
+            "y": 32.12,
+            "z": 1281.93
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_46",
+          "position": {
+            "x": 756.61,
+            "y": 79.12,
+            "z": 436.8
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_11",
+          "position": {
+            "x": -63.82,
+            "y": 171.23,
+            "z": -1630.42
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_19",
+          "position": {
+            "x": 330.15,
+            "y": 46.27,
+            "z": -398.41
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_25",
+          "position": {
+            "x": -1048.88,
+            "y": 248.28,
+            "z": 81.28
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_8",
+          "position": {
+            "x": -43.88,
+            "y": 59.79,
+            "z": -863.92
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_7",
+          "position": {
+            "x": -460.82,
+            "y": 99.42,
+            "z": -974.16
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_37",
+          "position": {
+            "x": -334.16,
+            "y": 84.44,
+            "z": 750.09
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_9",
+          "position": {
+            "x": 175.13,
+            "y": 8.43,
+            "z": -953.27
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_40",
+          "position": {
+            "x": -30.33,
+            "y": 133.64,
+            "z": 662.33
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_47",
+          "position": {
+            "x": 1682.9,
+            "y": 182.52,
+            "z": 224.58
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_48",
+          "position": {
+            "x": 1247.82,
+            "y": 132.93,
+            "z": 957.63
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_39",
+          "position": {
+            "x": 454.59,
+            "y": 190.02,
+            "z": 780.94
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_2",
+          "position": {
+            "x": -1030.53,
+            "y": 254.67,
+            "z": -1118.02
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_23",
+          "position": {
+            "x": -430.26,
+            "y": 174.86,
+            "z": -609.27
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_5",
+          "position": {
+            "x": -1552.27,
+            "y": 393.09,
+            "z": -1151.01
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_21",
+          "position": {
+            "x": -59.5,
+            "y": 47.79,
+            "z": 272.36
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_12",
+          "position": {
+            "x": -222.08,
+            "y": 267.42,
+            "z": -1305.63
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_15",
+          "position": {
+            "x": 1503.4,
+            "y": 144.17,
+            "z": -955.62
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_43",
+          "position": {
+            "x": 1089.89,
+            "y": 131.53,
+            "z": 1248.92
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_17",
+          "position": {
+            "x": 838.4,
+            "y": 31.09,
+            "z": 29.63
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_30",
+          "position": {
+            "x": -887,
+            "y": 255.09,
+            "z": -416
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_3",
+          "position": {
+            "x": -946.5,
+            "y": 270.93,
+            "z": -912.33
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_41",
+          "position": {
+            "x": -311.55,
+            "y": 7.17,
+            "z": 464.71
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_28",
+          "position": {
+            "x": -1706.78,
+            "y": 103.38,
+            "z": 151.9
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_6",
+          "position": {
+            "x": -985.79,
+            "y": 307.25,
+            "z": -1289.38
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_29",
+          "position": {
+            "x": -1037.61,
+            "y": 256.93,
+            "z": -230.09
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_24",
+          "position": {
+            "x": 456.87,
+            "y": 128.98,
+            "z": 201.44
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_1",
+          "position": {
+            "x": -725.33,
+            "y": 197.08,
+            "z": -1065.72
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_26",
+          "position": {
+            "x": -1332.39,
+            "y": 254.59,
+            "z": 194.61
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_34",
+          "position": {
+            "x": -724.85,
+            "y": 47.29,
+            "z": 1022.4
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_38",
+          "position": {
+            "x": 212.89,
+            "y": 143,
+            "z": 999.87
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_36",
+          "position": {
+            "x": -1236.58,
+            "y": 7.01,
+            "z": 614.19
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_14",
+          "position": {
+            "x": 640.32,
+            "y": 133.22,
+            "z": -1023.82
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_18",
+          "position": {
+            "x": 754.17,
+            "y": 16.12,
+            "z": -275.83
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_22",
+          "position": {
+            "x": -579.6,
+            "y": 195.22,
+            "z": -51.86
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_27",
+          "position": {
+            "x": -1347.73,
+            "y": 187.06,
+            "z": -181.85
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_13",
+          "position": {
+            "x": 969.11,
+            "y": 70.46,
+            "z": -963.54
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_33",
+          "position": {
+            "x": -1459.12,
+            "y": 102.46,
+            "z": 868.76
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_20",
+          "position": {
+            "x": 186.61,
+            "y": 6,
+            "z": -110.79
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_31",
+          "position": {
+            "x": -1110.38,
+            "y": 41.91,
+            "z": 963.75
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_35",
+          "position": {
+            "x": -966.76,
+            "y": 6.54,
+            "z": 686.28
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        },
+        {
+          "key": "meteorite_R2A2_Canyon_16",
+          "position": {
+            "x": 1149.71,
+            "y": 20.8,
+            "z": -164.09
+          },
+          "ref": {
+            "id": "meteorite"
+          }
+        }
+      ]
+    },
+    {
+      "id": "scenic",
+      "label": "Scenic Point",
+      "icon": "icons/scenic_point.webp",
+      "pin": "pins/scenic_point.webp",
+      "markers": [
+        {
+          "key": "2169936848",
+          "itemId": 2169936848,
+          "position": {
+            "x": -1623.7,
+            "y": 419.8,
+            "z": -1252
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 1"
+          }
+        },
+        {
+          "key": "1915263365",
+          "itemId": 1915263365,
+          "position": {
+            "x": -1155.41,
+            "y": 42.24,
+            "z": 928.22
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 2"
+          }
+        },
+        {
+          "key": "2409400752",
+          "itemId": 2409400752,
+          "position": {
+            "x": -59.83,
+            "y": 160.82,
+            "z": -463.66
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 3"
+          }
+        },
+        {
+          "key": "2047777189",
+          "itemId": 2047777189,
+          "position": {
+            "x": 1558.4,
+            "y": 223.2,
+            "z": 187.57
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 4"
+          }
+        },
+        {
+          "key": "1349678287",
+          "itemId": 1349678287,
+          "position": {
+            "x": 368.5,
+            "y": 127.7,
+            "z": 219.1
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 5"
+          }
+        },
+        {
+          "key": "1807855587",
+          "itemId": 1807855587,
+          "position": {
+            "x": -25.66,
+            "y": 131.94,
+            "z": 644.42
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 6"
+          }
+        },
+        {
+          "key": "2233101305",
+          "itemId": 2233101305,
+          "position": {
+            "x": -762.13,
+            "y": 262.64,
+            "z": -345.37
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 7"
+          }
+        },
+        {
+          "key": "1556559452",
+          "itemId": 1556559452,
+          "position": {
+            "x": 706.87,
+            "y": 238.14,
+            "z": 906.63
+          },
+          "ref": {
+            "id": "poi:mission_scenic_R2A2_Scenic 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "label": "Item Recovery",
+      "icon": "icons/item_recovery.webp",
+      "pin": "pins/item_recovery.webp",
+      "markers": [
+        {
+          "key": "2044125675",
+          "itemId": 2044125675,
+          "position": {
+            "x": 367.2,
+            "y": 51.5,
+            "z": -387.2
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A2_Recovery 1"
+          }
+        },
+        {
+          "key": "2184704383",
+          "itemId": 2184704383,
+          "position": {
+            "x": 1754.1,
+            "y": 191.6,
+            "z": 8.6
+          },
+          "ref": {
+            "id": "poi:mission_recovery_R2A2_Recovery 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "merchant",
+      "label": "Mechanic",
+      "icon": "icons/merchant.webp",
+      "pin": "pins/merchant.webp",
+      "markers": [
+        {
+          "key": "3475572580",
+          "itemId": 3475572580,
+          "position": {
+            "x": -457.41,
+            "y": 43.36,
+            "z": 452.5
+          },
+          "ref": {
+            "id": "poi:merchant_R2A2_Canyon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "portal",
+      "label": "Portal",
+      "icon": "icons/portal.webp",
+      "pin": "pins/portal.webp",
+      "markers": [
+        {
+          "key": "2127798943",
+          "itemId": 2127798943,
+          "position": {
+            "x": -1783.62,
+            "y": 87.82,
+            "z": 640.76
+          },
+          "ref": {
+            "id": "poi:portal_R2A2_EntryPortal"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+[
+  {
+    "title": "Das Lynx",
+    "url": "https://overthehilldb.com/icons/cars/Lynx.webp",
+    "path": "/images/vehicles/release/Lynx.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "27d3f8f466414a6c12bec82709929789b830509d346aafb19d9c5f8ccf2b6f9f"
+  },
+  {
+    "title": "Das Mammoth",
+    "url": "https://overthehilldb.com/icons/cars/Mammoth.webp",
+    "path": "/images/vehicles/release/Mammoth.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "a0b61582e8aa8a0fe5852ed5f16170ddec60d31300a7f4c06eef7a084b79c066"
+  },
+  {
+    "title": "Das Rust Ox",
+    "url": "https://overthehilldb.com/icons/cars/RustOx.webp",
+    "path": "/images/vehicles/release/RustOx.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "49402cae72bb4fd330e93fd4f39c2a5015db00769d6a263a587072e2397e21ae"
+  },
+  {
+    "title": "Das Wombat",
+    "url": "https://overthehilldb.com/icons/cars/Wombat.webp",
+    "path": "/images/vehicles/release/Wombat.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "b4b46662d8cc24e554403a16d7168ebc48b249b64c85ba998cc21496ed5f17a9"
+  },
+  {
+    "title": "Roamer",
+    "url": "https://overthehilldb.com/icons/cars/Roamer.webp",
+    "path": "/images/vehicles/release/Roamer.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "6cb8fb316a54d9d13df94492b239117f9df0593cfdc9227ec37f8a388fc05d50"
+  },
+  {
+    "title": "The Blast Wagon",
+    "url": "https://overthehilldb.com/icons/cars/BlastWagon.webp",
+    "path": "/images/vehicles/release/BlastWagon.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "f25550bad16a0d196479b714df8e4c5d9553c6cc32ad0d955e39511971533d16"
+  },
+  {
+    "title": "The Boar",
+    "url": "https://overthehilldb.com/icons/cars/Boar.webp",
+    "path": "/images/vehicles/release/Boar.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "fc55911f515d4854ee318d69406a7fb0904298bb7ec310674bfc3c24c877dbf0"
+  },
+  {
+    "title": "The Brick",
+    "url": "https://overthehilldb.com/icons/cars/Brick.webp",
+    "path": "/images/vehicles/release/Brick.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "8ef4a6f11e5b595f13a717edd4e2d0ef62d122b8108d47936d17df2c43bb74aa"
+  },
+  {
+    "title": "The Bull v1",
+    "url": "https://overthehilldb.com/icons/cars/Bull.webp",
+    "path": "/images/vehicles/release/Bull.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "1f39c7769fdb89539b8853487ee51c7a8d891004cc823b53bf5e05d02d7d03f5"
+  },
+  {
+    "title": "The Burro",
+    "url": "https://overthehilldb.com/icons/cars/Burro.webp",
+    "path": "/images/vehicles/release/Burro.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "12612631a7c6019b8fa9671656aba4cad017f5a0aa0a4980140a8f9fc133d4bf"
+  },
+  {
+    "title": "The Cumbre",
+    "url": "https://overthehilldb.com/icons/cars/Cumbre.webp",
+    "path": "/images/vehicles/release/Cumbre.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "4fba53bac145b0c25de635762c817fd54c56f35be7e92f037ece3cad3f45b75a"
+  },
+  {
+    "title": "The Ding",
+    "url": "https://overthehilldb.com/icons/cars/DingDing.webp",
+    "path": "/images/vehicles/release/DingDing.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "30d59ac7d7810355c649f55f40c831b6071894dd9f4fe3312e5f504f0c51b972"
+  },
+  {
+    "title": "The Grand Woodman",
+    "url": "https://overthehilldb.com/icons/cars/GrandWoodman.webp",
+    "path": "/images/vehicles/release/GrandWoodman.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "66435b633becab05070029d29bf1d06ebc9883929ec3336d42a80d0f218e9853"
+  },
+  {
+    "title": "The Marshal",
+    "url": "https://overthehilldb.com/icons/cars/Marshal.webp",
+    "path": "/images/vehicles/release/Marshal.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "6776a9f9388b0ed640dd2a34956faf1fffdb91f9173cfd2f6f56da1b1dd42772"
+  },
+  {
+    "title": "The Polyana",
+    "url": "https://overthehilldb.com/icons/cars/Polyana.webp",
+    "path": "/images/vehicles/release/Polyana.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "3bf876532379f220acc8242a2287db0e93a268537ab30ab201467c1d4878cc26"
+  },
+  {
+    "title": "The Protector",
+    "url": "https://overthehilldb.com/icons/cars/Protector.webp",
+    "path": "/images/vehicles/release/Protector.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "3e6184c1fd1a2ead2a8d80e10b07d8fcf6f729a7456f359a202445e7c0316b70"
+  },
+  {
+    "title": "The Timberbox",
+    "url": "https://overthehilldb.com/icons/cars/Timberbox.webp",
+    "path": "/images/vehicles/release/Timberbox.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "657ac87bf1eca8f0fcfc7f420107caad721f33207fdc7595dac8f1c812ac2831"
+  },
+  {
+    "title": "The Tinny",
+    "url": "https://overthehilldb.com/icons/cars/Tinny.webp",
+    "path": "/images/vehicles/release/Tinny.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "a8b010b05f59d24dee5dbfd77f123a570e7ceedad08af1bd4f23d8adf9ce58b1"
+  },
+  {
+    "title": "The Trail Burner",
+    "url": "https://overthehilldb.com/icons/cars/TrailBurner.webp",
+    "path": "/images/vehicles/release/TrailBurner.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "d7ecd039cae192c8db0296ddc35d447c272f9b37209501159cfd821333095371"
+  },
+  {
+    "title": "The Trailrat",
+    "url": "https://overthehilldb.com/icons/cars/Trailrat.webp",
+    "path": "/images/vehicles/release/Trailrat.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "65c3e5aa9a19c6b06e448cf9e540a87cfaf3f7423924cbc341ecbf5b9dfebdd9"
+  },
+  {
+    "title": "The Woodman",
+    "url": "https://overthehilldb.com/icons/cars/Woodman.webp",
+    "path": "/images/vehicles/release/Woodman.webp",
+    "kind": "cars",
+    "originPage": "https://overthehilldb.com/cars",
+    "sha256": "66774fb7d9dd86ec181991bd2bc344860e9c6c5e5ab63ff8f1b8287661955f48"
+  },
+  {
+    "title": "Engine Stage 2",
+    "url": "https://overthehilldb.com/icons/items/Engine-2.webp",
+    "path": "/images/wiki/release/Engine-2.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "98c1477cd47dce545cac09876195acacbf11ee685b52e4bdf9be9cd9aecc86fc"
+  },
+  {
+    "title": "Engine Stage 3",
+    "url": "https://overthehilldb.com/icons/items/Engine-3.webp",
+    "path": "/images/wiki/release/Engine-3.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "082fc2bdd2a82fa17ce72db90bfc51c7b642c82eca16b0bc938b17658cc43d8f"
+  },
+  {
+    "title": "Protection Stage 2",
+    "url": "https://overthehilldb.com/icons/items/Protection-2.webp",
+    "path": "/images/wiki/release/Protection-2.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "b34b549665aa5f562a122038b7d4eba6b787e7830da2252289db7bef7f27586e"
+  },
+  {
+    "title": "Protection Stage 3",
+    "url": "https://overthehilldb.com/icons/items/Protection-3.webp",
+    "path": "/images/wiki/release/Protection-3.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "fb5082d0404707d373525812982bfc3b8c9615a73db2dd97d1b9d877e5e7621b"
+  },
+  {
+    "title": "Suspension Level 2",
+    "url": "https://overthehilldb.com/icons/items/Suspension-2.webp",
+    "path": "/images/wiki/release/Suspension-2.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "f7f29c961347c2e58747f8fb3621529457b0339278fca0afbe2792ac44be55b5"
+  },
+  {
+    "title": "Suspension Level 3",
+    "url": "https://overthehilldb.com/icons/items/Suspension-3.webp",
+    "path": "/images/wiki/release/Suspension-3.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "41474232f7a6341adf63319922340492b010ee50b25c09a695f23a9b6a82ec74"
+  },
+  {
+    "title": "Tires Stage 2",
+    "url": "https://overthehilldb.com/icons/items/Tires-2.webp",
+    "path": "/images/wiki/release/Tires-2.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "ffd86a17c6a0e32360b213959b70c57ef6479ee505ebbd4c2ed433c306a38ba3"
+  },
+  {
+    "title": "Tires Stage 3",
+    "url": "https://overthehilldb.com/icons/items/Tires-3.webp",
+    "path": "/images/wiki/release/Tires-3.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "e3e07ef58b39940cdc57ada6b5f0b05338d636eba854be337713427e468519fe"
+  },
+  {
+    "title": "Tool slot",
+    "url": "https://overthehilldb.com/icons/items/inventory_02.webp",
+    "path": "/images/wiki/release/inventory_02.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "643dd34986cd9fca9758173f61c254bf613bb75d547de88d1667d461fc2cb23b"
+  },
+  {
+    "title": "Tool slot",
+    "url": "https://overthehilldb.com/icons/items/inventory_04.webp",
+    "path": "/images/wiki/release/inventory_04.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "d45e17719bbb0e10a1d950c9e705c669607f80def82c8cb5ea5cee0a32b0f707"
+  },
+  {
+    "title": "Tool slot",
+    "url": "https://overthehilldb.com/icons/items/inventory_03.webp",
+    "path": "/images/wiki/release/inventory_03.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "16d6e2b6ad1e69b720dbfacf8812aa73849827ccff6bc3445501d6ef084c886f"
+  },
+  {
+    "title": "Water Resistance 2",
+    "url": "https://overthehilldb.com/icons/items/Water-2.webp",
+    "path": "/images/wiki/release/Water-2.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "c3862158ff2d168bfff62404ce5876a0552ce7f3e8909df8713fba3d65f6e4a3"
+  },
+  {
+    "title": "Water Resistance 3",
+    "url": "https://overthehilldb.com/icons/items/Water-3.webp",
+    "path": "/images/wiki/release/Water-3.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "d16d097d330efd62ef594c2728ab4bd59d025d512041dc92b8f385d1ed4659f1"
+  },
+  {
+    "title": "Winch Stage 2",
+    "url": "https://overthehilldb.com/icons/items/Winch-1.webp",
+    "path": "/images/wiki/release/Winch-1.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "446067ddedc2374e86ca529a1809160f5ac3ead470bb6725d40137153fb2eff4"
+  },
+  {
+    "title": "Winch Stage 3",
+    "url": "https://overthehilldb.com/icons/items/Winch-2.webp",
+    "path": "/images/wiki/release/Winch-2.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "9155eb71855e3e0b3fe85e4b38e96e25ee9a8249d30e5bcab801ffb247d1f800"
+  },
+  {
+    "title": "Winch Stage 4",
+    "url": "https://overthehilldb.com/icons/items/Winch-3.webp",
+    "path": "/images/wiki/release/Winch-3.webp",
+    "kind": "upgrades",
+    "originPage": "https://overthehilldb.com/upgrades",
+    "sha256": "cacfb6a3cf3e1e9842dedf1de434f27c7d23ef41ea12b147f9c4197db193f1af"
+  },
+  {
+    "title": "Bald Eagle",
+    "url": "https://overthehilldb.com/icons/animals/BaldEagle.webp",
+    "path": "/images/wiki/release/BaldEagle.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "d24d66953ec5a530f0c1a16415984bbeeb9f52747e80c611aeec681348b95032"
+  },
+  {
+    "title": "Barbary Sheep (Aoudad)",
+    "url": "https://overthehilldb.com/icons/animals/BarbarySheep.webp",
+    "path": "/images/wiki/release/BarbarySheep.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "b9c133db9688bbb5bc100b68e1b97898247f33c430d3867a1dc745ffe1be772e"
+  },
+  {
+    "title": "Beaver",
+    "url": "https://overthehilldb.com/icons/animals/Beaver.webp",
+    "path": "/images/wiki/release/Beaver.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "6a7867bb35eea6e30439912a83eb0605efb4cc6683a412ceefbc6d5568b67de6"
+  },
+  {
+    "title": "Bighorn Sheep",
+    "url": "https://overthehilldb.com/icons/animals/BigHornSheep.webp",
+    "path": "/images/wiki/release/BigHornSheep.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "f7f0869f06d232e698a34a18e18e58535ed3ec0415c73ffc5d62df85b5ddd0d9"
+  },
+  {
+    "title": "Black Bear",
+    "url": "https://overthehilldb.com/icons/animals/BearBlack.webp",
+    "path": "/images/wiki/release/BearBlack.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "43a7204d7146796c8fd5ce0d2212ff1571cd01401b45c1f1e154441afd7a8c69"
+  },
+  {
+    "title": "Canada Goose",
+    "url": "https://overthehilldb.com/icons/animals/CanadaGoose.webp",
+    "path": "/images/wiki/release/CanadaGoose.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "f1240d76c2a63583c1b976216eefe7053cf2894cd81d085fef59f6c799af6ea8"
+  },
+  {
+    "title": "Common Raven",
+    "url": "https://overthehilldb.com/icons/animals/Raven.webp",
+    "path": "/images/wiki/release/Raven.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "ee4d7f7309b1704824fc5af866bd7cb4dd5498544f2ef4248fff1c326d3a4116"
+  },
+  {
+    "title": "Coyote",
+    "url": "https://overthehilldb.com/icons/animals/Coyote.webp",
+    "path": "/images/wiki/release/Coyote.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "5ca1cd36236e52746a60a32964a125b8f8f7285c7e56b75d9b2daf428e3136e7"
+  },
+  {
+    "title": "Desert Sparrow",
+    "url": "https://overthehilldb.com/icons/animals/DesertSparrow.webp",
+    "path": "/images/wiki/release/DesertSparrow.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "07fb69465ebc8fc1b9127afef803bcb9f2c625d7c6f541b07d44ca005dbef103"
+  },
+  {
+    "title": "Dorcas Gazelle",
+    "url": "https://overthehilldb.com/icons/animals/Gazelle.webp",
+    "path": "/images/wiki/release/Gazelle.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "8030064b86c08716f49dd8924b9f77e9b9700ab28b41dcc8d5ac7522bb387412"
+  },
+  {
+    "title": "Dromedary Camel",
+    "url": "https://overthehilldb.com/icons/animals/Camel.webp",
+    "path": "/images/wiki/release/Camel.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "3ca5d69f05c21b1ca91cc89cfb601720be7bffd488734f4d45e6dcc6f0dcab30"
+  },
+  {
+    "title": "Egyptian Vulture",
+    "url": "https://overthehilldb.com/icons/animals/EgyptianVulture.webp",
+    "path": "/images/wiki/release/EgyptianVulture.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "ba1960b60acd0ed4ad97b049bd3b611c204dbe75115e21ad42c3ec159bbebbb4"
+  },
+  {
+    "title": "Elk",
+    "url": "https://overthehilldb.com/icons/animals/Elk.webp",
+    "path": "/images/wiki/release/Elk.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "eb9ea3bfae0097a5dfb74cb4722c733eeebc8166dc6412c46100c85df245cc48"
+  },
+  {
+    "title": "Fennec Fox",
+    "url": "https://overthehilldb.com/icons/animals/FoxFennec.webp",
+    "path": "/images/wiki/release/FoxFennec.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "b9c055749da90fcdbeb5bc1551f6ee0dcb2a4beb0ef32247cff15e4ac98eb534"
+  },
+  {
+    "title": "Flamingo",
+    "url": "https://overthehilldb.com/icons/animals/Flamingo.webp",
+    "path": "/images/wiki/release/Flamingo.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "7875daa39fa3773adbebb194ef6fefebf052409c4c832da6f8c482b2667c013d"
+  },
+  {
+    "title": "Gray Wolf",
+    "url": "https://overthehilldb.com/icons/animals/Wolf.webp",
+    "path": "/images/wiki/release/Wolf.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "e9510985dae6049fc3d9ca2c5068b3c192eb73d4dae02bec4d70aa6be7c5792b"
+  },
+  {
+    "title": "Great Horned Owl",
+    "url": "https://overthehilldb.com/icons/animals/BarnOwl.webp",
+    "path": "/images/wiki/release/BarnOwl.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "da4e3647c98db2412c5c5d60b0af61d70158b6527816ba92f3fc3b6726c57ea9"
+  },
+  {
+    "title": "Grizzly Bear",
+    "url": "https://overthehilldb.com/icons/animals/BearGrizzly.webp",
+    "path": "/images/wiki/release/BearGrizzly.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "eac67c052bd4c1635df4fbf38c5bc347bba3286bc3fdf96329059ca81079773e"
+  },
+  {
+    "title": "Hoary Marmot",
+    "url": "https://overthehilldb.com/icons/animals/Marmot.webp",
+    "path": "/images/wiki/release/Marmot.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "f34694ffa2edd03a5d5fb66e2bf43f1f179c94c916917866a7391e8f5099d02d"
+  },
+  {
+    "title": "Jackal",
+    "url": "https://overthehilldb.com/icons/animals/Jackal.webp",
+    "path": "/images/wiki/release/Jackal.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "af89cff1111d72fe870657cdac825a31ffc893df1beddf5939c0c7f5687d2105"
+  },
+  {
+    "title": "Kokanee Salmon",
+    "url": "https://overthehilldb.com/icons/animals/Salmon.webp",
+    "path": "/images/wiki/release/Salmon.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "61989af36bba6776c47540cb5fc1b98104ec480bd5d021b02daaa5d3175a61a7"
+  },
+  {
+    "title": "Lanner Falcon",
+    "url": "https://overthehilldb.com/icons/animals/Falcon.webp",
+    "path": "/images/wiki/release/Falcon.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "f4c9fd39e9f13b87f07833faf57b27b7821ac9b8695736a6f209a770a894d973"
+  },
+  {
+    "title": "Moose",
+    "url": "https://overthehilldb.com/icons/animals/Moose.webp",
+    "path": "/images/wiki/release/Moose.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "5a1ad8fad062bf41222610711ecb2c1f347bf358fde82f56c02a5e5dee1d5d01"
+  },
+  {
+    "title": "Mountain Goat",
+    "url": "https://overthehilldb.com/icons/animals/MountainGoat.webp",
+    "path": "/images/wiki/release/MountainGoat.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "aaeea2021a786630fd3a13b4ab15d54cb9edffc0c0f7d493e42cbeefc2287c34"
+  },
+  {
+    "title": "Mule Deer",
+    "url": "https://overthehilldb.com/icons/animals/DeerMule.webp",
+    "path": "/images/wiki/release/DeerMule.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "99fd07bf4fe60456e9fcff3925eb621640a11c5a5d2abb6101ff10b0b74ea8b7"
+  },
+  {
+    "title": "Red Fox",
+    "url": "https://overthehilldb.com/icons/animals/Fox.webp",
+    "path": "/images/wiki/release/Fox.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "65f7e41791259d3308daa534657e8b05d35f7b469545c9ec756eefc53b0c2984"
+  },
+  {
+    "title": "Saharan Cheetah",
+    "url": "https://overthehilldb.com/icons/animals/Cheetah.webp",
+    "path": "/images/wiki/release/Cheetah.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "452dd8528e0e0074ce4e2efb9b05084feb6449cc7cf900c88a525976ac958570"
+  },
+  {
+    "title": "Sasquatch",
+    "url": "https://overthehilldb.com/icons/animals/Sasquatch.webp",
+    "path": "/images/wiki/release/Sasquatch.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "7d61722c9d49243572886c94d28a4f11ba75eb1ca61e5e77d258391f7763304f"
+  },
+  {
+    "title": "Striped Hyena",
+    "url": "https://overthehilldb.com/icons/animals/Hyena.webp",
+    "path": "/images/wiki/release/Hyena.webp",
+    "kind": "animals",
+    "originPage": "https://overthehilldb.com/animals",
+    "sha256": "6565a7842c6de4ac23bb5df189fb0f7e411c5e59750100497ca53e6c741789b8"
+  },
+  {
+    "title": "Emerald Lake",
+    "url": "https://overthehilldb.com/maps/emerald-lake__R1A1_MapTexture.webp",
+    "path": "/images/maps/release/emerald-lake__R1A1_MapTexture.webp",
+    "kind": "regions",
+    "originPage": "https://overthehilldb.com/regions",
+    "sha256": "d1ce35730139fa72741b892d1b15eeca919d5f9d711a5976210aaff707b569b2"
+  },
+  {
+    "title": "Gimli Ridge",
+    "url": "https://overthehilldb.com/maps/gimli-ridge__R1A2_MapTexture.webp",
+    "path": "/images/maps/release/gimli-ridge__R1A2_MapTexture.webp",
+    "kind": "regions",
+    "originPage": "https://overthehilldb.com/regions",
+    "sha256": "53b124e4935dce7bd8535c985e500a5e007a7acfc47f4c6ea46fa794f0f85245"
+  },
+  {
+    "title": "Asgard Mountain",
+    "url": "https://overthehilldb.com/maps/asgard-mountain__R1A3_MapTexture.webp",
+    "path": "/images/maps/release/asgard-mountain__R1A3_MapTexture.webp",
+    "kind": "regions",
+    "originPage": "https://overthehilldb.com/regions",
+    "sha256": "3f2b99e0f699c97a1e890fd4ac202e8a0b61f12a1c1e7696c3c739cf72d9e976"
+  },
+  {
+    "title": "Tassili n'Ajjer Desert",
+    "url": "https://overthehilldb.com/maps/tassili-n-ajjer-desert__R2A1_MapTexture.webp",
+    "path": "/images/maps/release/tassili-n-ajjer-desert__R2A1_MapTexture.webp",
+    "kind": "regions",
+    "originPage": "https://overthehilldb.com/regions",
+    "sha256": "5631087adf45733b57425fe8c53676dd2a31f034e07b5994dcfd3d87c63f0adb"
+  },
+  {
+    "title": "Aurès Mountains",
+    "url": "https://overthehilldb.com/maps/aurès-mountains__R2A2_MapTexture.webp",
+    "path": "/images/maps/release/aurès-mountains__R2A2_MapTexture.webp",
+    "kind": "regions",
+    "originPage": "https://overthehilldb.com/regions",
+    "sha256": "13ccc5d77c5bbe5c79bcb15f9278336a30cec95fc33ed6072f82e4d753493e2e"
+  }
+]

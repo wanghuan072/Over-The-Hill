@@ -1,0 +1,5199 @@
+[
+  {
+    "id": "winch",
+    "slug": "winch",
+    "title": "Winch",
+    "description": "Use the winch to pull a stuck vehicle toward a tree, another vehicle or a portable anchor.",
+    "category": "equipment",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://store.steampowered.com/app/2929250/over_the_hill/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release public information",
+    "lastVerifiedAt": "2026-10-12",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "Steam confirms winches as equipment used for recovering vehicles and navigating difficult terrain."
+        ]
+      },
+      {
+        "heading": "Limitations",
+        "paragraphs": [
+          "Attachment rules, cable range and specific vehicle compatibility are not yet published here."
+        ]
+      },
+      {
+        "heading": "Documented Demo recovery",
+        "paragraphs": [
+          "Developer replies identify trees, teammate vehicles and portable anchors as recovery options. A jack can reposition the vehicle, and map travel to a cabin or merchant is a fallback."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Documented menu access",
+        "paragraphs": [
+          "The July developer demonstration uses the radial menu to select the winch, then selects a vehicle anchor point and another attachment before pulling. Cable length and compatible targets still need build-specific data."
+        ],
+        "sourceIds": [
+          "video-winch"
+        ]
+      }
+    ],
+    "related": [
+      "/guides/emerald-lake-trail-guide",
+      "/wiki/equipment#winch-anchor"
+    ],
+    "seo": {
+      "title": "Winch | Over the Hill Wiki",
+      "description": "Your first recovery option when the tyres stop finding traction. Choose a vehicle attachment point, connect to a suitable target and pull."
+    },
+    "sourceIds": [
+      "steam",
+      "demo",
+      "ama",
+      "video-winch",
+      "release-tools-review"
+    ],
+    "facts": [
+      {
+        "label": "Access",
+        "value": "Radial menu → Winch",
+        "sourceId": "video-winch",
+        "timestampSeconds": 9
+      },
+      {
+        "label": "Sequence",
+        "value": "Choose vehicle anchor point, select a tree or another attachment, then pull",
+        "sourceId": "video-winch",
+        "timestampSeconds": 10
+      }
+    ],
+    "playerNotes": [
+      "In the Demo, open the winch from the radial menu, choose an attachment point on your vehicle, then select the target.",
+      "If a cable pull leaves you on your side, a jack provides another recovery option.",
+      "The winch remains available between recoveries. Portable anchors are equipped consumables; they do not replace the vehicle’s winch."
+    ],
+    "displayFacts": [
+      {
+        "label": "Access",
+        "value": "Radial menu → Winch"
+      },
+      {
+        "label": "Attachment",
+        "value": "Tree, another vehicle or portable anchor"
+      }
+    ],
+    "imageLabel": "",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "planks",
+    "slug": "planks",
+    "title": "Planks",
+    "description": "Planks bridge gaps in the terrain. Line up your vehicle before committing to the crossing.",
+    "category": "equipment",
+    "image": "/images/wiki/release/planks.webp",
+    "imageAlt": "Planks in-game icon",
+    "sourceUrl": "https://store.steampowered.com/app/2929250/over_the_hill/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The official Steam description identifies planks as a way to cross gaps along your journey."
+        ]
+      },
+      {
+        "heading": "How to use planks",
+        "paragraphs": [
+          "Placement controls, quantity limits and retrieval rules require in-game verification. Use the prompts in your current build."
+        ]
+      },
+      {
+        "heading": "Related equipment",
+        "paragraphs": [
+          "Winches serve recovery needs, while planks help bridge gaps. No numerical equipment effects have been confirmed here."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/equipment#winch"
+    ],
+    "seo": {
+      "title": "Planks | Over the Hill Wiki",
+      "description": "Bridge a gap when there is no clean line through it. Planks are equipment for the obstacle, not a reason to rush the crossing."
+    },
+    "sourceIds": [
+      "steam",
+      "faq",
+      "video-algeria",
+      "release-items",
+      "release-tools-index",
+      "release-tools-review"
+    ],
+    "facts": [
+      {
+        "label": "Purpose",
+        "value": "Support crossing gaps",
+        "sourceId": "steam"
+      },
+      {
+        "label": "Official footage",
+        "value": "Plank supports shown at a rock ledge",
+        "sourceId": "video-algeria",
+        "timestampSeconds": 38
+      }
+    ],
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Purpose",
+        "value": "Support crossing gaps"
+      },
+      {
+        "label": "Crossing",
+        "value": "Gaps and rock ledges"
+      }
+    ],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "repair-kit",
+    "slug": "repair-kit",
+    "title": "Repair Kit",
+    "description": "A repair kit restores vehicle health and can also be used on a friend’s vehicle.",
+    "category": "equipment",
+    "image": "/images/wiki/release/repair_kit.webp",
+    "imageAlt": "Repair Kit in-game icon",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/discussions/0/554627937323741779/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Overview",
+        "paragraphs": [
+          "The official FAQ describes repair kits as a limited supply for repairing your own vehicle or another player’s vehicle."
+        ]
+      },
+      {
+        "heading": "Vehicle health",
+        "paragraphs": [
+          "Damage is described as affecting vehicle appearance and performance. Repair amounts and supply replenishment need verification."
+        ]
+      },
+      {
+        "heading": "Availability",
+        "paragraphs": [
+          "Acquisition locations and prices have not been checked in-game and are not listed."
+        ]
+      },
+      {
+        "heading": "After recovery",
+        "paragraphs": [
+          "Editorial checklist: inspect the condition indicator, check your remaining repair supply, and decide whether to continue or return. Exact repair amounts and damage thresholds are not published in the checked material."
+        ]
+      }
+    ],
+    "related": [
+      "/guides/pebbles-upgrade-order",
+      "/guides/emerald-lake-trail-guide",
+      "/wiki/equipment#winch-anchor",
+      "/wiki/equipment#jack"
+    ],
+    "seo": {
+      "title": "Repair Kit | Over the Hill Wiki",
+      "description": "Bring a repair kit for outings where a rough landing or damaged vehicle could cut the trip short."
+    },
+    "sourceIds": [
+      "steam",
+      "faq",
+      "demo",
+      "release-items",
+      "release-tools-index",
+      "release-tools-review"
+    ],
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "facts": [
+      {
+        "label": "Purpose",
+        "value": "Repair vehicle health",
+        "sourceId": "faq"
+      },
+      {
+        "label": "Co-op use",
+        "value": "Repair your own or a friend’s vehicle using a limited supply",
+        "sourceId": "faq"
+      }
+    ],
+    "playerNotes": [
+      "Repair supplies are limited in the Demo. Keep track of what remains after helping another driver."
+    ],
+    "displayFacts": [
+      {
+        "label": "Purpose",
+        "value": "Repair vehicle health"
+      },
+      {
+        "label": "Co-op use",
+        "value": "Repair your own or a friend’s vehicle using a limited supply"
+      }
+    ],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "meteorites",
+    "slug": "meteorites",
+    "title": "Meteorites",
+    "description": "Find a meteorite, attach the winch and pull it free for Pebbles. The radar helps locate the target; reaching a useful attachment position is still part of the recovery.",
+    "category": "collectibles",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://store.steampowered.com/app/2929250/over_the_hill/",
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release; older Demo observations labelled separately",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "paragraphs": [
+          "Find a meteorite, attach the winch and pull it free for Pebbles. The radar helps locate the target; reaching a useful attachment position is still part of the recovery."
+        ],
+        "sourceIds": [
+          "demo",
+          "ama"
+        ]
+      },
+      {
+        "heading": "Extraction",
+        "paragraphs": [
+          "Attach the rear of your vehicle directly to the meteorite and use throttle while winching. In multiplayer, additional vehicles may be needed and each should attach directly to the meteorite."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      },
+      {
+        "heading": "Locations and size",
+        "paragraphs": [
+          "The AMA describes randomized sizes and extraction needs influenced by the number of players in the server. We do not label any unverified rock position as a permanent collectible or quote one bug report’s payout as the standard reward."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Developer extraction procedure",
+        "paragraphs": [
+          "The June 19 developer reply explains the attachment and pulling procedure below. These are Demo instructions; use the controls shown by your build."
+        ],
+        "steps": [
+          "Attach one end of the winch cable to the rear of your vehicle.",
+          "Attach the other end directly to the meteorite.",
+          "Apply throttle while operating the winch pull.",
+          "If playing together and the meteorite is large, have helpers attach their own cables directly to the meteorite."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      },
+      {
+        "heading": "Why one vehicle may not be enough",
+        "paragraphs": [
+          "In the developer AMA, meteorite size is described as randomized and extraction can require one to four players, limited by the number present on the server. In the follow-up Steam reply, helpers must attach directly rather than form a chain of vehicles."
+        ],
+        "sourceIds": [
+          "ama",
+          "meteor"
+        ]
+      },
+      {
+        "heading": "If the meteorite will not move",
+        "paragraphs": [
+          "First check each attachment target and whether enough players are helping. If the setup appears correct but extraction still fails, the developer requests the exact location and screenshots of both the area and map; the June reply also mentions the Demo’s Ctrl+F report shortcut."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles#pebbles",
+      "/wiki/equipment#meteorite-radar",
+      "/vehicles"
+    ],
+    "seo": {
+      "title": "Meteorites | Over the Hill Wiki",
+      "description": "Find a meteorite, plan a pulling line and put the winch to work. Recoveries are part of the Pebbles progression loop."
+    },
+    "sourceIds": [
+      "demo",
+      "meteor",
+      "ama",
+      "patch-2026-10-16"
+    ],
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "playerNotes": [
+      "Connect the rear of your vehicle directly to the meteorite, then drive away while pulling.",
+      "For a group recovery in the Demo, each helper should attach directly to the rock. Gather the players involved before starting.",
+      "The October 16 update moved meteorite spawn points in every area. Treat older map pins as historical; use the radar to check your current session."
+    ],
+    "displayFacts": [],
+    "imageLabel": "",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "winch-anchor",
+    "slug": "winch-anchor",
+    "title": "Portable Winch / Anchor",
+    "description": "A portable anchor gives the winch an attachment point where no tree or teammate is within reach.",
+    "category": "equipment",
+    "image": "/images/wiki/release/PortableWinchAnchorIcon.webp",
+    "imageAlt": "Portable Winch / Anchor in-game icon",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "faq",
+      "ign-demo",
+      "release-items",
+      "release-tools-index",
+      "release-tools-review"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "paragraphs": [
+          "The developer’s recovery reply identifies the winch anchor as a tool that can help pull a vehicle out when a natural target is unavailable. It is an alternative to relying on a nearby tree or another player."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Where to equip it",
+        "paragraphs": [
+          "The June reply says the anchor and jack are tools equipped at the merchant. Equip recovery gear before leaving if you want to avoid using map travel when stranded."
+        ]
+      },
+      {
+        "heading": "Choose between recovery tools",
+        "paragraphs": [
+          "Use the recovery guide to distinguish pulling from repositioning. The anchor provides a winch target; the jack addresses positioning. A repair kit belongs to the health system. Exact tool charges, costs and attachment controls need the description in your current build."
+        ]
+      },
+      {
+        "heading": "Choose the recovery method for your situation",
+        "paragraphs": [
+          "A developer reply to a flipped vehicle in water describes several recovery options. Use the nearby options first if you want to continue the route; map travel is the documented fallback when no usable anchor is available."
+        ],
+        "table": {
+          "headers": [
+            "Situation",
+            "Documented option"
+          ],
+          "rows": [
+            [
+              "A tree is nearby",
+              "Winch to the tree"
+            ],
+            [
+              "A teammate can help",
+              "Winch to a friend’s vehicle"
+            ],
+            [
+              "No natural anchor",
+              "Use the winch-anchor tool"
+            ],
+            [
+              "Vehicle needs repositioning",
+              "Use the jack"
+            ],
+            [
+              "No usable recovery option",
+              "Open the map and spawn at a cabin or merchant"
+            ]
+          ]
+        },
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Recover without leaving the outing",
+        "paragraphs": [
+          "Check your surroundings and equipped tools before repeatedly accelerating. The developer confirms anchor and jack tools can be equipped at a merchant. A tree, another vehicle and a portable anchor are alternative recovery targets; they are not a guarantee that any pull angle will succeed."
+        ]
+      },
+      {
+        "heading": "Menu terminology",
+        "paragraphs": [
+          "The June footage calls the hook-icon tool Portable Winch. The developer recovery reply uses the term winch anchor. This record preserves both pieces of terminology; it does not count them as two independently verified inventory items."
+        ],
+        "sourceIds": [
+          "ign-demo",
+          "demo"
+        ]
+      }
+    ],
+    "related": [
+      "/guides/emerald-lake-trail-guide",
+      "/wiki/equipment#jack",
+      "/wiki/equipment#repair-kit"
+    ],
+    "summary": "A portable recovery option from the June Demo: what the developer confirms, where to equip it and when to consider it.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Portable Winch & Anchor | Equipment",
+      "description": "The portable winch gives you a recovery option when there is no convenient tree or teammate to pull against."
+    },
+    "facts": [
+      {
+        "label": "Recorded menu label",
+        "value": "Portable Winch",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 310
+      },
+      {
+        "label": "Access",
+        "value": "Merchant tool menu",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 310
+      }
+    ],
+    "playerNotes": [
+      "Look for Portable Winch in the merchant’s Demo tool menu."
+    ],
+    "displayFacts": [
+      {
+        "label": "Access",
+        "value": "Merchant tool menu"
+      }
+    ],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "jack",
+    "slug": "jack",
+    "title": "Jack",
+    "description": "Use a jack to right an overturned vehicle and reposition it nearby.",
+    "category": "equipment",
+    "image": "/images/wiki/release/jack.webp",
+    "imageAlt": "Jack in-game icon",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "faq",
+      "camodo-roster",
+      "release-items",
+      "release-tools-index",
+      "release-tools-review"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "What the jack is for",
+        "paragraphs": [
+          "In the June recovery reply, the developer suggests a jack to reposition a vehicle. This is relevant when the vehicle’s orientation is the problem rather than simply the distance to a winch target."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Equip it at the merchant",
+        "paragraphs": [
+          "The same developer reply identifies the merchant as the place to equip this tool. It does not give a universal keybind, fixed capacity or full launch price table."
+        ]
+      },
+      {
+        "heading": "Repositioning versus restoring health",
+        "paragraphs": [
+          "The public damage FAQ separately identifies repair kits as the resource for restoring a damaged vehicle. A repositioning action is not evidence of a free repair. Inspect condition after recovery before continuing."
+        ],
+        "sourceIds": [
+          "faq"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/equipment#winch-anchor",
+      "/wiki/equipment#repair-kit"
+    ],
+    "summary": "Learn the documented role of the jack in vehicle repositioning and how it differs from a winch anchor or repair kit.",
+    "evidenceNote": "Checked against the linked developer statements. Demo instructions describe the June 2026 build; release behavior may differ. Editorial checklists are advice, not tested game features.",
+    "seo": {
+      "title": "Over the Hill Jack | Over the Hill Wiki",
+      "description": "The tool to reach for when a vehicle is on its side or needs repositioning before you can continue."
+    },
+    "facts": [
+      {
+        "label": "Menu name",
+        "value": "Jack",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 335
+      },
+      {
+        "label": "Stated action",
+        "value": "Right an overturned vehicle and reposition it nearby",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 335
+      }
+    ],
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Use",
+        "value": "Right an overturned vehicle and reposition it nearby"
+      }
+    ],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "camp",
+    "slug": "camp",
+    "title": "Camp Tool",
+    "description": "Set up camp to make time pass more quickly.",
+    "category": "equipment",
+    "image": "/images/wiki/release/camping.webp",
+    "imageAlt": "Camp Tool in-game icon",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/discussions/1/573794228177518436/",
+    "sourceIds": [
+      "camp",
+      "camp-cancel",
+      "ama",
+      "ign-demo",
+      "release-items",
+      "patch-2026-10-16",
+      "release-tools-index",
+      "release-tools-review"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Use and access",
+        "paragraphs": [
+          "The June developer reply says the camp tool advances time to pass night or bad weather, and can be equipped at a merchant. A later August reply confirms camping can be cancelled early."
+        ],
+        "sourceIds": [
+          "camp",
+          "camp-cancel"
+        ]
+      },
+      {
+        "heading": "A cabin is a travel destination",
+        "paragraphs": [
+          "The June reply describes map travel to a previously visited cabin. It does not describe sleeping inside one. The AMA offers a merchant camping trip followed by travel back to the cabin as an alternative."
+        ],
+        "sourceIds": [
+          "camp",
+          "ama"
+        ]
+      },
+      {
+        "heading": "Plan a trip around the capability",
+        "paragraphs": [
+          "If you want to continue an outing without map travel, consider carrying the camp tool. If you want to choose a precise hour or summon rain, the checked replies do not document those selectors. Use the current build’s description for charges and placement restrictions."
+        ]
+      },
+      {
+        "heading": "How to pass time",
+        "paragraphs": [
+          "Equip the camp tool at a merchant, then use it when you want time to pass faster. Follow the action prompts in your build. The checked source does not establish a fixed wake-up hour or a universal keyboard shortcut."
+        ],
+        "steps": [
+          "Equip the camp tool at the merchant.",
+          "Use the equipped tool to fast-forward time.",
+          "Stop camping when the conditions suit your outing; an August developer reply confirms it can be cancelled early."
+        ],
+        "sourceIds": [
+          "camp",
+          "camp-cancel"
+        ]
+      },
+      {
+        "heading": "How to travel to a cabin",
+        "paragraphs": [
+          "The developer’s Demo procedure is to open the map and select a cabin you have already visited. This immediately moves the vehicle there. Discover the cabin first; an unvisited building in scenery is not automatically a travel destination."
+        ],
+        "sourceIds": [
+          "camp"
+        ]
+      },
+      {
+        "heading": "If you did not bring a camp tool",
+        "paragraphs": [
+          "The developer AMA suggests returning to Gunther, camping there and travelling back to the cabin. This gives a documented alternative to carrying the tool. Finish or leave your current activity deliberately before travelling; preserving a particular active challenge was not tested here."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Can you select the weather?",
+        "paragraphs": [
+          "An August reply says weather changes over time and camping can be ended early. It does not announce a menu for selecting rain or a specific hour. Waiting for a change and choosing a weather state are different capabilities."
+        ],
+        "sourceIds": [
+          "camp-cancel"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/upgrades#tyres",
+      "/wiki/equipment#winch-anchor"
+    ],
+    "summary": "Advance time with the documented Demo camping tool, cancel camping early and distinguish it from cabin fast travel.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Camp Tool | Over the Hill Wiki",
+      "description": "Turn a stop into a campsite and let time pass more quickly. A good excuse to pause after a long trail."
+    },
+    "facts": [
+      {
+        "label": "Menu label",
+        "value": "Camp Tool",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 312
+      },
+      {
+        "label": "Co-op placement condition",
+        "value": "All players must be grouped together",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 312
+      },
+      {
+        "label": "Effect",
+        "value": "Time passes quickly while camping",
+        "sourceId": "ign-demo",
+        "timestampSeconds": 312
+      }
+    ],
+    "playerNotes": [
+      "In Demo co-op, gather all players before placing the campsite.",
+      "The October 16 update makes weather effects accelerate correctly while camping.",
+      "Cabins replenish equipped tools, making a stop useful before another recovery or photography trip."
+    ],
+    "displayFacts": [
+      {
+        "label": "Co-op camping",
+        "value": "All players must be grouped together"
+      },
+      {
+        "label": "Effect",
+        "value": "Time passes quickly while camping"
+      }
+    ],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "meteorite-radar",
+    "slug": "meteorite-radar",
+    "title": "Meteorite Radar",
+    "description": "The meteorite radar helps locate meteorites. Bring a winch as well if you intend to recover what you find.",
+    "category": "equipment",
+    "image": "/images/wiki/release/radar.webp",
+    "imageAlt": "Meteorite Radar in-game icon",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "meteor",
+      "camodo-roster",
+      "release-items",
+      "release-tools-index",
+      "release-tools-review"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Confirmed Demo equipment",
+        "paragraphs": [
+          "The June official checklist names meteorite radar as an available tool alongside camping, winch anchors and repair kits. This establishes its presence in the Demo; it does not establish the launch range, price or signal interface."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Discovery and extraction are separate",
+        "paragraphs": [
+          "After finding a meteorite, the developer’s extraction procedure uses a direct winch attachment to the vehicle rear and throttle while pulling. Larger multiplayer meteorites can need additional directly attached vehicles."
+        ],
+        "sourceIds": [
+          "meteor"
+        ]
+      },
+      {
+        "heading": "Read the current tool description",
+        "paragraphs": [
+          "Before spending currency, inspect the item description in your build for signal behavior and capacity. We do not infer a range in metres, guaranteed spawn timer or complete meteorite map from the tool’s name."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles#meteorites"
+    ],
+    "summary": "The radar is named in the official Demo tool checklist; learn its research scope and follow the verified extraction guide.",
+    "evidenceNote": "Checked against the linked developer statements. Demo instructions describe the June 2026 build; release behavior may differ. Editorial checklists are advice, not tested game features.",
+    "seo": {
+      "title": "Over the Hill Meteorite Radar | Over the Hill Wiki",
+      "description": "Bring the radar when meteorite hunting is the goal of the trip. It helps with finding the next discovery."
+    },
+    "facts": [
+      {
+        "label": "Menu name",
+        "value": "Meteorite Radar",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 334
+      },
+      {
+        "label": "Purpose",
+        "value": "Helps find meteorites",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 334
+      }
+    ],
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Purpose",
+        "value": "Helps find meteorites"
+      }
+    ],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "pebbles",
+    "slug": "pebbles",
+    "title": "Pebbles Currency",
+    "description": "Spend Pebbles on vehicle upgrades and extra tool slots. Exploration, photography, meteorite recovery and challenge objectives all contribute to your next garage visit.",
+    "category": "collectibles",
+    "image": "/images/wiki/release/Pebble.webp",
+    "imageAlt": "Pebbles Currency in-game icon",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "meteor",
+      "ama",
+      "release-items",
+      "patch-2026-10-16"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release; older Demo observations labelled separately",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "What Pebbles buy",
+        "paragraphs": [
+          "Spend Pebbles on vehicle upgrades and extra tool slots. Exploration, photography, meteorite recovery and challenge objectives all contribute to your next garage visit."
+        ],
+        "sourceIds": [
+          "demo"
+        ]
+      },
+      {
+        "heading": "Earn and spend with a purpose",
+        "paragraphs": [
+          "Use the meteorite guide for the documented recovery procedure. Editorial advice: check the next available upgrade and your current balance before heading out, so the activity serves a specific vehicle goal."
+        ]
+      },
+      {
+        "heading": "Reward values remain build-dependent",
+        "paragraphs": [
+          "A number mentioned in one player’s bug report is not a universal payout. Meteorite sizes and multiplayer requirements vary in the developer’s description. This page does not publish a fixed earnings-per-minute route or assign random spawns permanent coordinates."
+        ],
+        "sourceIds": [
+          "meteor",
+          "ama"
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/collectibles#meteorites",
+      "/wiki/upgrades#upgrade-system"
+    ],
+    "summary": "Understand the Demo’s upgrade currency and its link to meteorite recovery without assuming fixed payouts or farming routes.",
+    "evidenceNote": "Checked against the linked developer statements. Demo instructions describe the June 2026 build; release behavior may differ. Editorial checklists are advice, not tested game features.",
+    "seo": {
+      "title": "Over the Hill Pebbles Currency | Over the Hill Wiki",
+      "description": "Keep some Pebbles in reserve for the next garage visit. Upgrades and extra equipment capacity compete for the same budget."
+    },
+    "playerNotes": [
+      "Meteorite recovery is one way to earn them. Check the available parts at the merchant before spending.",
+      "The October 16 update fixed missing Pebble payouts when repeating recovery missions and challenge trails."
+    ],
+    "displayFacts": [],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "upgrade-system",
+    "slug": "upgrade-system",
+    "title": "Upgrade System",
+    "description": "Upgrade one vehicle at a time at the mechanic. Sixteen purchases across seven systems cost 675 Pebbles for a full set; that spending does not upgrade the rest of your garage.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "site",
+      "ama",
+      "ign-demo",
+      "overtake-demo",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Upgrade System",
+        "paragraphs": [
+          "Upgrade one vehicle at a time at the mechanic. Sixteen purchases across seven systems cost 675 Pebbles for a full set; that spending does not upgrade the rest of your garage."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/upgrades#tyres",
+      "/wiki/upgrades#liveries-and-cosmetics",
+      "/wiki/upgrades#upgrade-system",
+      "/wiki/collectibles#meteorites"
+    ],
+    "summary": "Explore objective rewards, Pebbles, removable upgrades and the distinction between mechanical changes and cosmetic attachments.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Upgrade System | Over the Hill Wiki",
+      "description": "Spend Pebbles on the parts that fit your next outing. Mechanical upgrades, equipment capacity and cosmetics are separate choices."
+    },
+    "playerNotes": [
+      "Engine, suspension, tyres, protection and water resistance each have two purchased tiers. Inventory and winch range each have three.",
+      "The complete budget is 75 Pebbles for each two-tier system and 150 for each three-tier system. Earlier purchases count toward the 675 total."
+    ],
+    "displayFacts": [
+      {
+        "label": "Systems",
+        "value": "7"
+      },
+      {
+        "label": "Purchases per vehicle",
+        "value": "16"
+      },
+      {
+        "label": "Full upgrade budget",
+        "value": "675 Pebbles"
+      }
+    ],
+    "imageLabel": "",
+    "listGroup": "Upgrade basics",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "tyres",
+    "slug": "tyres",
+    "title": "Tyres & Grip",
+    "description": "The two purchased tyre stages add 0.08 or 0.16 to stock grip. All 21 release vehicles have these upgrades; body size and engine class remain separate considerations.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://steamcommunity.com/app/2929250/discussions/0/554627937323741779/",
+    "sourceIds": [
+      "faq",
+      "ama",
+      "camp",
+      "camp-cancel"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Tyres & Grip",
+        "paragraphs": [
+          "The two purchased tyre stages add 0.08 or 0.16 to stock grip. All 21 release vehicles have these upgrades; body size and engine class remain separate considerations."
+        ]
+      }
+    ],
+    "related": [
+      "/vehicles",
+      "/wiki/equipment#winch",
+      "/wiki/upgrades#upgrade-system",
+      "/guides/emerald-lake-trail-guide",
+      "/wiki/equipment#camp"
+    ],
+    "summary": "See what the FAQ confirms about tyre upgrades, tyre condition, terrain and weather, with no invented grip coefficients.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Tyres & Grip | Over the Hill Wiki",
+      "description": "Grip matters when a climb gets slippery. Tyres belong on the mechanical side of your vehicle build."
+    },
+    "playerNotes": [],
+    "displayFacts": [],
+    "imageLabel": "",
+    "listGroup": "Upgrade basics"
+  },
+  {
+    "id": "liveries-and-cosmetics",
+    "slug": "liveries-and-cosmetics",
+    "title": "Liveries & Cosmetics",
+    "description": "Change colours, liveries and accessories at merchants and cabins.",
+    "category": "upgrades",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "site",
+      "ama",
+      "faq"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Pre-release & June Demo",
+    "lastVerifiedAt": "2026-10-10",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Personalize the vehicle",
+        "paragraphs": [
+          "The Demo checklist confirms unlockable liveries and cosmetics. The official overview also describes customization through merchants and cabins. A visual attachment should not be treated as proof of a mechanical bonus."
+        ],
+        "sourceIds": [
+          "demo",
+          "site"
+        ]
+      },
+      {
+        "heading": "Mechanical changes may be invisible",
+        "paragraphs": [
+          "The June AMA explains the team’s then-current approach of not displaying every mechanical upgrade on the vehicle. Visible cosmetics and installed mechanical parts are separate pieces of information."
+        ],
+        "sourceIds": [
+          "ama"
+        ]
+      },
+      {
+        "heading": "Custom liveries are a development goal",
+        "paragraphs": [
+          "The FAQ prioritizes livery mod support, while the AMA says it need not be through Workshop. Until released tooling is documented, there is no basis here for a guaranteed install folder or a custom-map workflow."
+        ],
+        "sourceIds": [
+          "faq",
+          "ama"
+        ]
+      },
+      {
+        "heading": "Custom livery support comes first",
+        "paragraphs": [
+          "The FAQ prioritizes livery mod support for the initial release. The June AMA discusses eventual mod support, starting with liveries, while explicitly saying it need not use Steam Workshop. Neither statement is an installation guide for a released mod system."
+        ],
+        "sourceIds": [
+          "faq",
+          "ama"
+        ]
+      },
+      {
+        "heading": "What has not been promised as a launch toolset",
+        "paragraphs": [
+          "A livery system does not by itself establish a custom-map editor, vehicle importer, Workshop integration or supported save editor. Wait for the released documentation before downloading a tool that claims official compatibility."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/upgrades#upgrade-system",
+      "/update#price-and-supporter-pack",
+      "/guides/pebbles-upgrade-order",
+      "/update"
+    ],
+    "summary": "Separate unlocked visual customization, mechanical upgrades and the developer’s plans for custom livery support.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Liveries & Cosmetics | Over the Hill Wiki",
+      "description": "Make the rig feel like yours with colours, liveries and accessories before heading back into the wilderness."
+    },
+    "playerNotes": [
+      "Cosmetic choices change the vehicle’s appearance; mechanical upgrades are listed separately."
+    ],
+    "displayFacts": [],
+    "imageLabel": "",
+    "listGroup": "Upgrade basics"
+  },
+  {
+    "id": "animal-compendium",
+    "slug": "animal-compendium",
+    "title": "Animal Compendium",
+    "description": "Photograph 27 confirmed animals across Canada and Algeria. Use the area, habitat, active time and weather fields to plan a search; rare and legendary entries need more than a casual drive past.",
+    "category": "wildlife",
+    "image": "",
+    "imageAlt": "",
+    "sourceUrl": "https://www.reddit.com/r/overthehillgame/comments/1u3v6qq/steam_next_fest_public_demo_out_now/",
+    "sourceIds": [
+      "demo",
+      "ama",
+      "video-wildlife",
+      "video-journal",
+      "maprunner-animals"
+    ],
+    "sourceType": "official",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-10",
+    "sections": [
+      {
+        "heading": "Animal Compendium",
+        "paragraphs": [
+          "Photograph 27 confirmed animals across Canada and Algeria. Use the area, habitat, active time and weather fields to plan a search; rare and legendary entries need more than a casual drive past."
+        ]
+      }
+    ],
+    "related": [
+      "/wiki/equipment#camp",
+      "/wiki/wildlife#bald-eagle",
+      "/wiki/wildlife#black-bear",
+      "/wiki/wildlife#moose",
+      "/wiki/wildlife#beaver",
+      "/wiki/wildlife#canada-goose",
+      "/wiki/wildlife#coyote"
+    ],
+    "summary": "Learn the confirmed wildlife Polaroid journal, how it differs from scenic photo mode and what is needed for a species record.",
+    "evidenceNote": "Reference data from official descriptions and dated developer replies. June Demo actions are not independent release-build tests.",
+    "seo": {
+      "title": "Over the Hill Animal Compendium | Over the Hill Wiki",
+      "description": "Keep the camera handy. Photograph wildlife as you explore to build up the animal compendium."
+    },
+    "playerNotes": [
+      "Use the Safari Camera to register an animal. Ordinary scenery photos and Compendium entries serve different purposes.",
+      "This list covers animals with confirmed release-area locations. Catalog-only creatures without a documented playable area are not added to the checklist."
+    ],
+    "displayFacts": [],
+    "imageLabel": "",
+    "listGroup": "Photography basics",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "cloud-clearing-bell",
+    "slug": "cloud-clearing-bell",
+    "title": "Cloud Clearing Bell",
+    "description": "The cloud clearing bell clears bad weather for a limited time.",
+    "category": "equipment",
+    "image": "/images/wiki/release/bell.webp",
+    "imageAlt": "Cloud Clearing Bell in-game icon",
+    "sourceUrl": "https://www.youtube.com/watch?v=Wu96DXibz4o",
+    "sourceIds": [
+      "camodo-roster",
+      "video-weather",
+      "release-items",
+      "release-tools-index",
+      "release-tools-review"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-12",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "paragraphs": [
+          "The June Demo menu names the item Cloud Clearing Bell and describes a temporary clearing of bad weather. The May developer demonstration shows the bell being selected during dusty conditions and the sky clearing."
+        ],
+        "sourceIds": [
+          "camodo-roster",
+          "video-weather"
+        ]
+      },
+      {
+        "heading": "Bell and camping are different",
+        "paragraphs": [
+          "The bell acts on weather. Camping advances time and lets conditions pass. The demonstrated bell is not evidence of an exact-hour selector or an on-demand rain setting."
+        ],
+        "sourceIds": [
+          "video-weather"
+        ]
+      },
+      {
+        "heading": "Duration",
+        "paragraphs": [
+          "The menu says the effect lasts for a set amount of time but does not show a numeric duration in the reviewed frame. No duration, cooldown or multiplayer voting rule is added here."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "facts": [
+      {
+        "label": "Menu name",
+        "value": "Cloud Clearing Bell",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 330
+      },
+      {
+        "label": "Effect",
+        "value": "Temporarily clears bad weather",
+        "sourceId": "camodo-roster",
+        "timestampSeconds": 330
+      },
+      {
+        "label": "Selection and result",
+        "value": "Bell selection followed by clearer skies",
+        "sourceId": "video-weather",
+        "timestampSeconds": 11
+      }
+    ],
+    "related": [
+      "/wiki/equipment#camp"
+    ],
+    "evidenceNote": "Values are supported by the linked footage within its recorded pre-release build. Timestamps identify the menu or developer explanation; they do not establish final release balance.",
+    "seo": {
+      "title": "Cloud Clearing Bell | Over the Hill Wiki",
+      "description": "Clear bad weather for a limited period when you want a break in the conditions."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Effect",
+        "value": "Temporarily clears bad weather"
+      }
+    ],
+    "imageLabel": "In-game item icon",
+    "imageKind": "game-icon",
+    "updatedAt": "2026-10-19"
+  },
+  {
+    "id": "engine-stage-2",
+    "slug": "engine-stage-2",
+    "title": "Engine Stage 2",
+    "description": "The first engine purchase improves torque and raises the speed limiter. The result depends on the vehicle class; Trail and Expedition engines do not gain the same numbers.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Engine-2.webp",
+    "imageAlt": "Engine Stage 2 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Engine Stage 2",
+        "paragraphs": [
+          "The first engine purchase improves torque and raises the speed limiter. The result depends on the vehicle class; Trail and Expedition engines do not gain the same numbers."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Engine Stage 2 | Over the Hill Field Guide",
+      "description": "The first engine purchase improves torque and raises the speed limiter. The result depends on the vehicle class; Trail and Expedition engines do not gain the same numbers."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Engine"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Trail torque",
+        "value": "100 → 106 N·m"
+      },
+      {
+        "label": "Wagon torque",
+        "value": "125 → 138 N·m"
+      },
+      {
+        "label": "Workhorse torque",
+        "value": "175 → 190 N·m"
+      },
+      {
+        "label": "Expedition torque",
+        "value": "200 → 227 N·m"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Engine",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Engine",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Trail torque",
+        "value": "100 → 106 N·m",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Wagon torque",
+        "value": "125 → 138 N·m",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Workhorse torque",
+        "value": "175 → 190 N·m",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Expedition torque",
+        "value": "200 → 227 N·m",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "engine-stage-3",
+    "slug": "engine-stage-3",
+    "title": "Engine Stage 3",
+    "description": "The upper engine tier takes each class to its strongest listed engine setting. Compare the Stage 3 torque in the vehicle list before choosing which rig to finish.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Engine-3.webp",
+    "imageAlt": "Engine Stage 3 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Engine Stage 3",
+        "paragraphs": [
+          "The upper engine tier takes each class to its strongest listed engine setting. Compare the Stage 3 torque in the vehicle list before choosing which rig to finish."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Engine Stage 3 | Over the Hill Field Guide",
+      "description": "The upper engine tier takes each class to its strongest listed engine setting. Compare the Stage 3 torque in the vehicle list before choosing which rig to finish."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Engine"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Trail torque",
+        "value": "106 → 112 N·m"
+      },
+      {
+        "label": "Wagon torque",
+        "value": "138 → 151 N·m"
+      },
+      {
+        "label": "Workhorse torque",
+        "value": "190 → 207 N·m"
+      },
+      {
+        "label": "Expedition torque",
+        "value": "227 → 256 N·m"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Engine",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Engine",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Trail torque",
+        "value": "106 → 112 N·m",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Wagon torque",
+        "value": "138 → 151 N·m",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Workhorse torque",
+        "value": "190 → 207 N·m",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Expedition torque",
+        "value": "227 → 256 N·m",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "protection-stage-2",
+    "slug": "protection-stage-2",
+    "title": "Protection Stage 2",
+    "description": "Reduce damage taken by 15% relative to the stock setup. Protection helps with impacts but does not remove the need to repair the vehicle.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Protection-2.webp",
+    "imageAlt": "Protection Stage 2 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Protection Stage 2",
+        "paragraphs": [
+          "Reduce damage taken by 15% relative to the stock setup. Protection helps with impacts but does not remove the need to repair the vehicle."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Protection Stage 2 | Over the Hill Field Guide",
+      "description": "Reduce damage taken by 15% relative to the stock setup. Protection helps with impacts but does not remove the need to repair the vehicle."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Protection"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Damage taken",
+        "value": "-15%"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Protection",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Protection",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Damage taken",
+        "value": "-15%",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "protection-stage-3",
+    "slug": "protection-stage-3",
+    "title": "Protection Stage 3",
+    "description": "The upper protection tier reduces listed damage taken by 30%. Its value is the final stock-relative modifier, not another 30% stacked onto Stage 2.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Protection-3.webp",
+    "imageAlt": "Protection Stage 3 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Protection Stage 3",
+        "paragraphs": [
+          "The upper protection tier reduces listed damage taken by 30%. Its value is the final stock-relative modifier, not another 30% stacked onto Stage 2."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Protection Stage 3 | Over the Hill Field Guide",
+      "description": "The upper protection tier reduces listed damage taken by 30%. Its value is the final stock-relative modifier, not another 30% stacked onto Stage 2."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Protection"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Damage taken",
+        "value": "-30%"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Protection",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Protection",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Damage taken",
+        "value": "-30%",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "suspension-level-2",
+    "slug": "suspension-level-2",
+    "title": "Suspension Level 2",
+    "description": "Add 8 cm to the stock suspension travel. The upgrade changes suspension travel rather than promising a fixed increase in clearance beneath every part of the body.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Suspension-2.webp",
+    "imageAlt": "Suspension Level 2 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Suspension Level 2",
+        "paragraphs": [
+          "Add 8 cm to the stock suspension travel. The upgrade changes suspension travel rather than promising a fixed increase in clearance beneath every part of the body."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Suspension Level 2 | Over the Hill Field Guide",
+      "description": "Add 8 cm to the stock suspension travel. The upgrade changes suspension travel rather than promising a fixed increase in clearance beneath every part of the body."
+    },
+    "playerNotes": [
+      "The June Demo menu showed 20 Pebbles for the Protector. The release-day menu shows 25; use the current garage price."
+    ],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Suspension"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "+8 cm"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Suspension",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Suspension",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "+8 cm",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "suspension-level-3",
+    "slug": "suspension-level-3",
+    "title": "Suspension Level 3",
+    "description": "The upper suspension tier adds 16 cm of travel relative to stock. Its listed effect replaces the earlier tier’s 8 cm value.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Suspension-3.webp",
+    "imageAlt": "Suspension Level 3 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Suspension Level 3",
+        "paragraphs": [
+          "The upper suspension tier adds 16 cm of travel relative to stock. Its listed effect replaces the earlier tier’s 8 cm value."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Suspension Level 3 | Over the Hill Field Guide",
+      "description": "The upper suspension tier adds 16 cm of travel relative to stock. Its listed effect replaces the earlier tier’s 8 cm value."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Suspension"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "+16 cm"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Suspension",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Suspension",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Suspension travel",
+        "value": "+16 cm",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "tyres-stage-2",
+    "slug": "tyres-stage-2",
+    "title": "Tires Stage 2",
+    "description": "Add 0.08 to the tyre grip coefficient. This value is a coefficient adjustment, not an 8% speed or climbing bonus.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Tires-2.webp",
+    "imageAlt": "Tires Stage 2 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Tires Stage 2",
+        "paragraphs": [
+          "Add 0.08 to the tyre grip coefficient. This value is a coefficient adjustment, not an 8% speed or climbing bonus."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Tires Stage 2 | Over the Hill Field Guide",
+      "description": "Add 0.08 to the tyre grip coefficient. This value is a coefficient adjustment, not an 8% speed or climbing bonus."
+    },
+    "playerNotes": [
+      "The June Demo menu showed 20 Pebbles for the Protector. The release-day menu shows 25; use the current garage price."
+    ],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Tires"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Grip coefficient",
+        "value": "+0.08"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Tires",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Tires",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Grip coefficient",
+        "value": "+0.08",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "tyres-stage-3",
+    "slug": "tyres-stage-3",
+    "title": "Tires Stage 3",
+    "description": "The upper tyre tier adds 0.16 to stock grip. Do not add the earlier tier’s 0.08 again when comparing the final setup.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Tires-3.webp",
+    "imageAlt": "Tires Stage 3 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Tires Stage 3",
+        "paragraphs": [
+          "The upper tyre tier adds 0.16 to stock grip. Do not add the earlier tier’s 0.08 again when comparing the final setup."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Tires Stage 3 | Over the Hill Field Guide",
+      "description": "The upper tyre tier adds 0.16 to stock grip. Do not add the earlier tier’s 0.08 again when comparing the final setup."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Tires"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Grip coefficient",
+        "value": "+0.16"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Tires",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Tires",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Grip coefficient",
+        "value": "+0.16",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "tool-slots",
+    "slug": "tool-slots",
+    "title": "Tool Slots — 2",
+    "description": "Carry two equipped tools instead of the stock capacity. This is the first inventory purchase, not two extra slots added to the vehicle.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/inventory_02.webp",
+    "imageAlt": "Tool Slots — 2 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Tool Slots — 2",
+        "paragraphs": [
+          "Carry two equipped tools instead of the stock capacity. This is the first inventory purchase, not two extra slots added to the vehicle."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Tool Slots — 2 | Over the Hill Field Guide",
+      "description": "Carry two equipped tools instead of the stock capacity. This is the first inventory purchase, not two extra slots added to the vehicle."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Inventory"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Total tool slots",
+        "value": "2"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Inventory",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Inventory",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Total tool slots",
+        "value": "2",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "tool-slots-3",
+    "slug": "tool-slots-3",
+    "title": "Tool Slots — 3",
+    "description": "The second inventory purchase raises total capacity to three tools. It gives a recovery loadout room for another piece of field gear.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/inventory_03.webp",
+    "imageAlt": "Tool Slots — 3 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Tool Slots — 3",
+        "paragraphs": [
+          "The second inventory purchase raises total capacity to three tools. It gives a recovery loadout room for another piece of field gear."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Tool Slots — 3 | Over the Hill Field Guide",
+      "description": "The second inventory purchase raises total capacity to three tools. It gives a recovery loadout room for another piece of field gear."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Inventory"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Total tool slots",
+        "value": "3"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Inventory",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Inventory",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Total tool slots",
+        "value": "3",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "tool-slots-4",
+    "slug": "tool-slots-4",
+    "title": "Tool Slots — 4",
+    "description": "Four tools is the highest listed inventory capacity. This final slot costs more than either of the earlier inventory purchases.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/inventory_04.webp",
+    "imageAlt": "Tool Slots — 4 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Tool Slots — 4",
+        "paragraphs": [
+          "Four tools is the highest listed inventory capacity. This final slot costs more than either of the earlier inventory purchases."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Tool Slots — 4 | Over the Hill Field Guide",
+      "description": "Four tools is the highest listed inventory capacity. This final slot costs more than either of the earlier inventory purchases."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Inventory"
+      },
+      {
+        "label": "Release menu price",
+        "value": "75 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Total tool slots",
+        "value": "4"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Inventory",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Inventory",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "75 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Total tool slots",
+        "value": "4",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "water-resistance-2",
+    "slug": "water-resistance-2",
+    "title": "Water Resistance 2",
+    "description": "Increase the listed time before engine flooding by 50% relative to stock. The vehicle can still flood; this is extra tolerance rather than waterproofing.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Water-2.webp",
+    "imageAlt": "Water Resistance 2 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Water Resistance 2",
+        "paragraphs": [
+          "Increase the listed time before engine flooding by 50% relative to stock. The vehicle can still flood; this is extra tolerance rather than waterproofing."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Water Resistance 2 | Over the Hill Field Guide",
+      "description": "Increase the listed time before engine flooding by 50% relative to stock. The vehicle can still flood; this is extra tolerance rather than waterproofing."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Water Resistance"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Time before flooding",
+        "value": "+50%"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Water Resistance",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Water Resistance",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Time before flooding",
+        "value": "+50%",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "water-resistance-3",
+    "slug": "water-resistance-3",
+    "title": "Water Resistance 3",
+    "description": "Double the listed stock flooding time. The final water-resistance tier gives more recovery time without making deep water harmless.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Water-3.webp",
+    "imageAlt": "Water Resistance 3 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Water Resistance 3",
+        "paragraphs": [
+          "Double the listed stock flooding time. The final water-resistance tier gives more recovery time without making deep water harmless."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Water Resistance 3 | Over the Hill Field Guide",
+      "description": "Double the listed stock flooding time. The final water-resistance tier gives more recovery time without making deep water harmless."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Water Resistance"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Time before flooding",
+        "value": "+100%"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Water Resistance",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Water Resistance",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Time before flooding",
+        "value": "+100%",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "winch-stage-2",
+    "slug": "winch-stage-2",
+    "title": "Winch Stage 2",
+    "description": "Reach attachment points 15% farther away than with the stock winch. Range changes do not establish a higher pulling force.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Winch-1.webp",
+    "imageAlt": "Winch Stage 2 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Winch Stage 2",
+        "paragraphs": [
+          "Reach attachment points 15% farther away than with the stock winch. Range changes do not establish a higher pulling force."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Winch Stage 2 | Over the Hill Field Guide",
+      "description": "Reach attachment points 15% farther away than with the stock winch. Range changes do not establish a higher pulling force."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Winch"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Winch range",
+        "value": "+15%"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Winch",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Winch",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "25 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Winch range",
+        "value": "+15%",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "winch-stage-3",
+    "slug": "winch-stage-3",
+    "title": "Winch Stage 3",
+    "description": "Extend winch reach by 30% relative to stock. This is the middle range upgrade, before the longer Stage 4 cable reach.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Winch-2.webp",
+    "imageAlt": "Winch Stage 3 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Winch Stage 3",
+        "paragraphs": [
+          "Extend winch reach by 30% relative to stock. This is the middle range upgrade, before the longer Stage 4 cable reach."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Winch Stage 3 | Over the Hill Field Guide",
+      "description": "Extend winch reach by 30% relative to stock. This is the middle range upgrade, before the longer Stage 4 cable reach."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Winch"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Winch range",
+        "value": "+30%"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Winch",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Winch",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Winch range",
+        "value": "+30%",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "winch-stage-4",
+    "slug": "winch-stage-4",
+    "title": "Winch Stage 4",
+    "description": "The final winch tier extends reach by 50% relative to stock. It is a range upgrade, not a stronger winch motor or a guaranteed recovery from every angle.",
+    "category": "upgrades",
+    "image": "/images/wiki/release/Winch-3.webp",
+    "imageAlt": "Winch Stage 4 in Over the Hill",
+    "sourceUrl": "https://www.youtube.com/watch?v=VCt6FlPnXrM",
+    "sourceIds": [
+      "release-raptor",
+      "release-upgrades",
+      "maprunner-upgrades"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Winch Stage 4",
+        "paragraphs": [
+          "The final winch tier extends reach by 50% relative to stock. It is a range upgrade, not a stronger winch motor or a guaranteed recovery from every angle."
+        ]
+      }
+    ],
+    "related": [],
+    "seo": {
+      "title": "Winch Stage 4 | Over the Hill Field Guide",
+      "description": "The final winch tier extends reach by 50% relative to stock. It is a range upgrade, not a stronger winch motor or a guaranteed recovery from every angle."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "System",
+        "value": "Winch"
+      },
+      {
+        "label": "Release menu price",
+        "value": "75 Pebbles"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles"
+      },
+      {
+        "label": "Winch range",
+        "value": "+50%"
+      }
+    ],
+    "imageKind": "game-icon",
+    "imageLabel": "In-game upgrade icon",
+    "listGroup": "Winch",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Winch",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Release menu price",
+        "value": "75 Pebbles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Applies to",
+        "value": "All 21 release vehicles",
+        "sourceId": "maprunner-upgrades"
+      },
+      {
+        "label": "Winch range",
+        "value": "+50%",
+        "sourceId": "maprunner-upgrades"
+      }
+    ]
+  },
+  {
+    "id": "bald-eagle",
+    "slug": "bald-eagle",
+    "title": "Bald Eagle",
+    "description": "Scan the lakes and cliffs of Gimli Ridge and Asgard Mountain for this large bird. Keep it in view as you line up the camera rather than driving straight toward it.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/BaldEagle.webp",
+    "imageAlt": "Bald Eagle game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Bald Eagle",
+        "paragraphs": [
+          "Scan the lakes and cliffs of Gimli Ridge and Asgard Mountain for this large bird. Keep it in view as you line up the camera rather than driving straight toward it."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Bald Eagle | Over the Hill Field Guide",
+      "description": "Scan the lakes and cliffs of Gimli Ridge and Asgard Mountain for this large bird. Keep it in view as you line up the camera rather than driving straight toward it."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Lake, Cliff"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Bird",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Lake, Cliff",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "black-bear",
+    "slug": "black-bear",
+    "title": "Black Bear",
+    "description": "Black bears can appear in the forests of Emerald Lake and Gimli Ridge. They are rare, with both daytime and night listed as active periods in dry weather.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/BlackBear.webp",
+    "imageAlt": "Black Bear game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "video-wildlife",
+      "release-wildlife",
+      "release-canada",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Black Bear",
+        "paragraphs": [
+          "Black bears can appear in the forests of Emerald Lake and Gimli Ridge. They are rare, with both daytime and night listed as active periods in dry weather."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Black Bear | Over the Hill Field Guide",
+      "description": "Black bears can appear in the forests of Emerald Lake and Gimli Ridge. They are rare, with both daytime and night listed as active periods in dry weather."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Rare",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "moose",
+    "slug": "moose",
+    "title": "Moose",
+    "description": "Moose appear in forest and wetland habitats in Emerald Lake and Gimli Ridge. Both day and night are listed, and either dry or wet weather can fit the search.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Moose.webp",
+    "imageAlt": "Moose game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Moose",
+        "paragraphs": [
+          "Moose appear in forest and wetland habitats in Emerald Lake and Gimli Ridge. Both day and night are listed, and either dry or wet weather can fit the search."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Moose | Over the Hill Field Guide",
+      "description": "Moose appear in forest and wetland habitats in Emerald Lake and Gimli Ridge. Both day and night are listed, and either dry or wet weather can fit the search."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Wetlands"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Wetlands",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "beaver",
+    "slug": "beaver",
+    "title": "Beaver",
+    "description": "Beavers are a night-time river search across all three Canadian areas. A daytime pass along the same water may leave this Compendium entry unfinished.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Beaver.webp",
+    "imageAlt": "Beaver game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Beaver",
+        "paragraphs": [
+          "Beavers are a night-time river search across all three Canadian areas. A daytime pass along the same water may leave this Compendium entry unfinished."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Beaver | Over the Hill Field Guide",
+      "description": "Beavers are a night-time river search across all three Canadian areas. A daytime pass along the same water may leave this Compendium entry unfinished."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "River"
+      },
+      {
+        "label": "Active time",
+        "value": "Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "River",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "canada-goose",
+    "slug": "canada-goose",
+    "title": "Canada Goose",
+    "description": "Check the wetlands and lakes of Emerald Lake and Gimli Ridge during the day. Dry weather is the listed condition for this water bird.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/CanadaGoose.webp",
+    "imageAlt": "Canada Goose game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Canada Goose",
+        "paragraphs": [
+          "Check the wetlands and lakes of Emerald Lake and Gimli Ridge during the day. Dry weather is the listed condition for this water bird."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Canada Goose | Over the Hill Field Guide",
+      "description": "Check the wetlands and lakes of Emerald Lake and Gimli Ridge during the day. Dry weather is the listed condition for this water bird."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge"
+      },
+      {
+        "label": "Habitat",
+        "value": "Wetlands, Lake"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Bird",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Wetlands, Lake",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "coyote",
+    "slug": "coyote",
+    "title": "Coyote",
+    "description": "Coyotes have locations in Emerald Lake and Gimli Ridge. Watch forest edges and clearings in dry weather, with both day and night listed as active periods.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Coyote.webp",
+    "imageAlt": "Coyote game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Coyote",
+        "paragraphs": [
+          "Coyotes have locations in Emerald Lake and Gimli Ridge. Watch forest edges and clearings in dry weather, with both day and night listed as active periods."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Coyote | Over the Hill Field Guide",
+      "description": "Coyotes have locations in Emerald Lake and Gimli Ridge. Watch forest edges and clearings in dry weather, with both day and night listed as active periods."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Clearing"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Clearing",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "bighorn-sheep",
+    "slug": "bighorn-sheep",
+    "title": "Bighorn Sheep",
+    "description": "Look on forested mountain terrain in Gimli Ridge and Asgard Mountain. This is a different Compendium entry from Algeria’s Barbary sheep.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/BighornSheepMale.webp",
+    "imageAlt": "Bighorn Sheep game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Bighorn Sheep",
+        "paragraphs": [
+          "Look on forested mountain terrain in Gimli Ridge and Asgard Mountain. This is a different Compendium entry from Algeria’s Barbary sheep."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Bighorn Sheep | Over the Hill Field Guide",
+      "description": "Look on forested mountain terrain in Gimli Ridge and Asgard Mountain. This is a different Compendium entry from Algeria’s Barbary sheep."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Mountain"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "common-raven",
+    "slug": "common-raven",
+    "title": "Common Raven",
+    "description": "Ravens are found across Canada’s three areas, in forests and mountain habitats. They offer a bird subject to watch for while working through the higher trails.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/CommonRaven.webp",
+    "imageAlt": "Common Raven game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Common Raven",
+        "paragraphs": [
+          "Ravens are found across Canada’s three areas, in forests and mountain habitats. They offer a bird subject to watch for while working through the higher trails."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Common Raven | Over the Hill Field Guide",
+      "description": "Ravens are found across Canada’s three areas, in forests and mountain habitats. They offer a bird subject to watch for while working through the higher trails."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Mountain"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Bird",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "elk",
+    "slug": "elk",
+    "title": "Elk",
+    "description": "Elk appear in Emerald Lake and Asgard Mountain. Search forest and mountain habitats; Gimli Ridge is not one of their listed areas.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Elk.webp",
+    "imageAlt": "Elk game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Elk",
+        "paragraphs": [
+          "Elk appear in Emerald Lake and Asgard Mountain. Search forest and mountain habitats; Gimli Ridge is not one of their listed areas."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Elk | Over the Hill Field Guide",
+      "description": "Elk appear in Emerald Lake and Asgard Mountain. Search forest and mountain habitats; Gimli Ridge is not one of their listed areas."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Mountain"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "grizzly-bear",
+    "slug": "grizzly-bear",
+    "title": "Grizzly Bear",
+    "description": "Grizzlies have locations in Gimli Ridge and Asgard Mountain. Search remote forest, river and lake habitats during the day in dry weather.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/GrizzlyBear.webp",
+    "imageAlt": "Grizzly Bear game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Grizzly Bear",
+        "paragraphs": [
+          "Grizzlies have locations in Gimli Ridge and Asgard Mountain. Search remote forest, river and lake habitats during the day in dry weather."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Grizzly Bear | Over the Hill Field Guide",
+      "description": "Grizzlies have locations in Gimli Ridge and Asgard Mountain. Search remote forest, river and lake habitats during the day in dry weather."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Remote Forest, River, Lake"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Rare",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Remote Forest, River, Lake",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "kokanee-salmon",
+    "slug": "kokanee-salmon",
+    "title": "Kokanee Salmon",
+    "description": "Look in the rivers and lakes of Emerald Lake and Asgard Mountain for Kokanee salmon. Dry weather is listed, with sightings possible in both daytime and night.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/KokaneeSalmon.webp",
+    "imageAlt": "Kokanee Salmon game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Kokanee Salmon",
+        "paragraphs": [
+          "Look in the rivers and lakes of Emerald Lake and Asgard Mountain for Kokanee salmon. Dry weather is listed, with sightings possible in both daytime and night."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Kokanee Salmon | Over the Hill Field Guide",
+      "description": "Look in the rivers and lakes of Emerald Lake and Asgard Mountain for Kokanee salmon. Dry weather is listed, with sightings possible in both daytime and night."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "River, Lake"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Fish",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "River, Lake",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "mountain-goat",
+    "slug": "mountain-goat",
+    "title": "Mountain Goat",
+    "description": "Mountain goats are found in Gimli Ridge and Asgard Mountain. Their mountain habitat puts this daytime photography target alongside the steeper Canadian routes.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/MountainGoat.webp",
+    "imageAlt": "Mountain Goat game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Mountain Goat",
+        "paragraphs": [
+          "Mountain goats are found in Gimli Ridge and Asgard Mountain. Their mountain habitat puts this daytime photography target alongside the steeper Canadian routes."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Mountain Goat | Over the Hill Field Guide",
+      "description": "Mountain goats are found in Gimli Ridge and Asgard Mountain. Their mountain habitat puts this daytime photography target alongside the steeper Canadian routes."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Mountain"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Gimli Ridge · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "mule-deer",
+    "slug": "mule-deer",
+    "title": "Mule Deer",
+    "description": "Mule deer occupy forest and clearing habitats in Emerald Lake and Gimli Ridge. They are one of the common mammals to watch for between cabin stops.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/MuleDeerMale.webp",
+    "imageAlt": "Mule Deer game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Mule Deer",
+        "paragraphs": [
+          "Mule deer occupy forest and clearing habitats in Emerald Lake and Gimli Ridge. They are one of the common mammals to watch for between cabin stops."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Mule Deer | Over the Hill Field Guide",
+      "description": "Mule deer occupy forest and clearing habitats in Emerald Lake and Gimli Ridge. They are one of the common mammals to watch for between cabin stops."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Clearing"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Gimli Ridge",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Clearing",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "red-fox",
+    "slug": "red-fox",
+    "title": "Red Fox",
+    "description": "Red foxes have locations in Emerald Lake and Asgard Mountain. Keep an eye on forest and clearing habitats as the route leaves open mountain ground.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/RedFoxInfo.webp",
+    "imageAlt": "Red Fox game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Red Fox",
+        "paragraphs": [
+          "Red foxes have locations in Emerald Lake and Asgard Mountain. Keep an eye on forest and clearing habitats as the route leaves open mountain ground."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Red Fox | Over the Hill Field Guide",
+      "description": "Red foxes have locations in Emerald Lake and Asgard Mountain. Keep an eye on forest and clearing habitats as the route leaves open mountain ground."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Clearing"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest, Clearing",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "barbary-sheep",
+    "slug": "barbary-sheep",
+    "title": "Barbary Sheep (Aoudad)",
+    "description": "The rocky slopes of both Algerian areas are home to the aoudad. Mountain and rock habitats are the places to check when the desert floor is quiet.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/BarbarySheepAoudad.webp",
+    "imageAlt": "Barbary Sheep (Aoudad) game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Barbary Sheep (Aoudad)",
+        "paragraphs": [
+          "The rocky slopes of both Algerian areas are home to the aoudad. Mountain and rock habitats are the places to check when the desert floor is quiet."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Barbary Sheep (Aoudad) | Over the Hill Field Guide",
+      "description": "The rocky slopes of both Algerian areas are home to the aoudad. Mountain and rock habitats are the places to check when the desert floor is quiet."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "Mountain, Rocks"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Mountain, Rocks",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "dorcas-gazelle",
+    "slug": "dorcas-gazelle",
+    "title": "Dorcas Gazelle",
+    "description": "The Aurès Mountains are the confirmed area for Dorcas gazelles. Search river, oasis and sand habitats in dry weather; both day and night are listed.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/DorcasGazelle.webp",
+    "imageAlt": "Dorcas Gazelle game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Dorcas Gazelle",
+        "paragraphs": [
+          "The Aurès Mountains are the confirmed area for Dorcas gazelles. Search river, oasis and sand habitats in dry weather; both day and night are listed."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Dorcas Gazelle | Over the Hill Field Guide",
+      "description": "The Aurès Mountains are the confirmed area for Dorcas gazelles. Search river, oasis and sand habitats in dry weather; both day and night are listed."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "River, Oasis, Sand"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "River, Oasis, Sand",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "dromedary-camel",
+    "slug": "dromedary-camel",
+    "title": "Dromedary Camel",
+    "description": "Dromedaries belong to the Tassili n’Ajjer Desert area. Check its sand and oasis habitats before heading into the Aurès Mountains for a different animal.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/DromedaryCamel.webp",
+    "imageAlt": "Dromedary Camel game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Dromedary Camel",
+        "paragraphs": [
+          "Dromedaries belong to the Tassili n’Ajjer Desert area. Check its sand and oasis habitats before heading into the Aurès Mountains for a different animal."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Dromedary Camel | Over the Hill Field Guide",
+      "description": "Dromedaries belong to the Tassili n’Ajjer Desert area. Check its sand and oasis habitats before heading into the Aurès Mountains for a different animal."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert"
+      },
+      {
+        "label": "Habitat",
+        "value": "Oasis, Sand"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Oasis, Sand",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "egyptian-vulture",
+    "slug": "egyptian-vulture",
+    "title": "Egyptian Vulture",
+    "description": "This rare bird has locations in both Algerian areas. Watch cliff and sand habitats during the day, with dry weather as its listed condition.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/EgyptianVulture.webp",
+    "imageAlt": "Egyptian Vulture game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Egyptian Vulture",
+        "paragraphs": [
+          "This rare bird has locations in both Algerian areas. Watch cliff and sand habitats during the day, with dry weather as its listed condition."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Egyptian Vulture | Over the Hill Field Guide",
+      "description": "This rare bird has locations in both Algerian areas. Watch cliff and sand habitats during the day, with dry weather as its listed condition."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "Cliff, Sand"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Bird",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Rare",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Cliff, Sand",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "fennec-fox",
+    "slug": "fennec-fox",
+    "title": "Fennec Fox",
+    "description": "The fennec fox has locations in Tassili n’Ajjer Desert. Check river and sand habitats in dry weather; its active period includes both daytime and night.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Fennec-FoxI.webp",
+    "imageAlt": "Fennec Fox game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Fennec Fox",
+        "paragraphs": [
+          "The fennec fox has locations in Tassili n’Ajjer Desert. Check river and sand habitats in dry weather; its active period includes both daytime and night."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Fennec Fox | Over the Hill Field Guide",
+      "description": "The fennec fox has locations in Tassili n’Ajjer Desert. Check river and sand habitats in dry weather; its active period includes both daytime and night."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert"
+      },
+      {
+        "label": "Habitat",
+        "value": "River, Sand"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "River, Sand",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "striped-hyena",
+    "slug": "striped-hyena",
+    "title": "Striped Hyena",
+    "description": "Striped hyenas can appear in both Algerian areas. Plan around their night-time activity and check the listed weather before starting the search.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/StripedHyenaInfo.webp",
+    "imageAlt": "Striped Hyena game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Striped Hyena",
+        "paragraphs": [
+          "Striped hyenas can appear in both Algerian areas. Plan around their night-time activity and check the listed weather before starting the search."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Striped Hyena | Over the Hill Field Guide",
+      "description": "Striped hyenas can appear in both Algerian areas. Plan around their night-time activity and check the listed weather before starting the search."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "Rocks, Grassland"
+      },
+      {
+        "label": "Active time",
+        "value": "Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Rare",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Rocks, Grassland",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "50 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "saharan-cheetah",
+    "slug": "saharan-cheetah",
+    "title": "Saharan Cheetah",
+    "description": "The Saharan cheetah is a legendary Tassili n’Ajjer Desert animal. Its area and conditions matter more than searching every Algerian landscape without a plan.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/SaharanCheetah.webp",
+    "imageAlt": "Saharan Cheetah game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Saharan Cheetah",
+        "paragraphs": [
+          "The Saharan cheetah is a legendary Tassili n’Ajjer Desert animal. Its area and conditions matter more than searching every Algerian landscape without a plan."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Saharan Cheetah | Over the Hill Field Guide",
+      "description": "The Saharan cheetah is a legendary Tassili n’Ajjer Desert animal. Its area and conditions matter more than searching every Algerian landscape without a plan."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert"
+      },
+      {
+        "label": "Habitat",
+        "value": "Sand"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "100 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Legendary",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Sand",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime, Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "100 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "desert-sparrow",
+    "slug": "desert-sparrow",
+    "title": "Desert Sparrow",
+    "description": "The desert sparrow is a small bird associated with oasis and sand habitats. Check both Algerian areas rather than mistaking this entry for a Canadian bird.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Desert-SparrowInfo.webp",
+    "imageAlt": "Desert Sparrow game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Desert Sparrow",
+        "paragraphs": [
+          "The desert sparrow is a small bird associated with oasis and sand habitats. Check both Algerian areas rather than mistaking this entry for a Canadian bird."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Desert Sparrow | Over the Hill Field Guide",
+      "description": "The desert sparrow is a small bird associated with oasis and sand habitats. Check both Algerian areas rather than mistaking this entry for a Canadian bird."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "Oasis, Sand"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Bird",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Oasis, Sand",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "lanner-falcon",
+    "slug": "lanner-falcon",
+    "title": "Lanner Falcon",
+    "description": "Lanner falcons have locations in both Algerian areas. Mountain and cliff habitats in dry daytime conditions are the places to watch for this uncommon bird.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/LannerFalcon.webp",
+    "imageAlt": "Lanner Falcon game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-16",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Lanner Falcon",
+        "paragraphs": [
+          "Lanner falcons have locations in both Algerian areas. Mountain and cliff habitats in dry daytime conditions are the places to watch for this uncommon bird."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Lanner Falcon | Over the Hill Field Guide",
+      "description": "Lanner falcons have locations in both Algerian areas. Mountain and cliff habitats in dry daytime conditions are the places to watch for this uncommon bird."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "Mountain, Cliff"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Bird",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Tassili n’Ajjer Desert · Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Mountain, Cliff",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "gray-wolf",
+    "slug": "gray-wolf",
+    "title": "Gray Wolf",
+    "description": "Gray wolves are a night-time forest subject in Emerald Lake and Asgard Mountain. Both dry and wet conditions are listed for this uncommon animal.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/GrayWolf.webp",
+    "imageAlt": "Gray Wolf game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "release-wildlife-index",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Gray Wolf",
+        "paragraphs": [
+          "Gray wolves are a night-time forest subject in Emerald Lake and Asgard Mountain. Both dry and wet conditions are listed for this uncommon animal."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Gray Wolf | Over the Hill Field Guide",
+      "description": "Gray wolves are a night-time forest subject in Emerald Lake and Asgard Mountain. Both dry and wet conditions are listed for this uncommon animal."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest"
+      },
+      {
+        "label": "Active time",
+        "value": "Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake · Asgard Mountain",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Forest",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry, Wet",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "sasquatch",
+    "slug": "sasquatch",
+    "title": "Sasquatch",
+    "description": "Sasquatch is a legendary, night-time Emerald Lake subject. Remote Forest is its habitat label; it does not define a guaranteed distance from a cabin or a reliable spawn trick.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Sasquatch.webp",
+    "imageAlt": "Sasquatch game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/the-valhallas-canada",
+    "sourceIds": [
+      "release-canada",
+      "release-wildlife",
+      "release-wildlife-index",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Sasquatch",
+        "paragraphs": [
+          "Sasquatch is a legendary, night-time Emerald Lake subject. Remote Forest is its habitat label; it does not define a guaranteed distance from a cabin or a reliable spawn trick."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Sasquatch | Over the Hill Field Guide",
+      "description": "Sasquatch is a legendary, night-time Emerald Lake subject. Remote Forest is its habitat label; it does not define a guaranteed distance from a cabin or a reliable spawn trick."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake"
+      },
+      {
+        "label": "Habitat",
+        "value": "Remote Forest"
+      },
+      {
+        "label": "Active time",
+        "value": "Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "100 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Legendary",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Emerald Lake",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Remote Forest",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "100 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "jackal",
+    "slug": "jackal",
+    "title": "Jackal",
+    "description": "Jackals are a night-time photography target in the Aurès Mountains. Keep that area requirement in mind when planning a trip for Algeria’s smaller mammals.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Jackal.webp",
+    "imageAlt": "Jackal game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "release-wildlife-index",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Jackal",
+        "paragraphs": [
+          "Jackals are a night-time photography target in the Aurès Mountains. Keep that area requirement in mind when planning a trip for Algeria’s smaller mammals."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Jackal | Over the Hill Field Guide",
+      "description": "Jackals are a night-time photography target in the Aurès Mountains. Keep that area requirement in mind when planning a trip for Algeria’s smaller mammals."
+    },
+    "playerNotes": [],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "Clearing, Sand"
+      },
+      {
+        "label": "Active time",
+        "value": "Night"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Mammal",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Uncommon",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Clearing, Sand",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Night",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "20 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  },
+  {
+    "id": "flamingo",
+    "slug": "flamingo",
+    "title": "Flamingo",
+    "description": "Head to the oases of the Aurès Mountains for flamingos. This daytime bird needs dry conditions and is a separate Compendium entry from Algeria’s sparrows, falcons and vultures.",
+    "category": "wildlife",
+    "image": "/images/wiki/wildlife-release/Flamingo.webp",
+    "imageAlt": "Flamingo game model in Over the Hill",
+    "sourceUrl": "https://www.gamerguides.com/over-the-hill/maps/algeria",
+    "sourceIds": [
+      "release-algeria",
+      "release-wildlife",
+      "release-wildlife-index",
+      "maprunner-animals"
+    ],
+    "sourceType": "in-game",
+    "verificationStatus": "confirmed",
+    "gameVersion": "Steam release — October 2026",
+    "lastVerifiedAt": "2026-10-19",
+    "publishedAt": "2026-10-19",
+    "updatedAt": "2026-10-19",
+    "sections": [
+      {
+        "heading": "Flamingo",
+        "paragraphs": [
+          "Head to the oases of the Aurès Mountains for flamingos. This daytime bird needs dry conditions and is a separate Compendium entry from Algeria’s sparrows, falcons and vultures."
+        ]
+      }
+    ],
+    "related": [
+      "/maps",
+      "/wiki/wildlife#animal-compendium"
+    ],
+    "seo": {
+      "title": "Flamingo | Over the Hill Field Guide",
+      "description": "Head to the oases of the Aurès Mountains for flamingos. This daytime bird needs dry conditions and is a separate Compendium entry from Algeria’s sparrows, falcons and vultures."
+    },
+    "playerNotes": [
+      "Birdwatcher credit for Flamingo is not confirmed; use the other listed birds when working on that goal."
+    ],
+    "displayFacts": [
+      {
+        "label": "Rarity",
+        "value": "Common"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Aurès Mountains"
+      },
+      {
+        "label": "Habitat",
+        "value": "Oasis"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles"
+      }
+    ],
+    "imageKind": "game-model",
+    "imageLabel": "Game model",
+    "listGroup": "Bird",
+    "facts": [
+      {
+        "label": "Rarity",
+        "value": "Common",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Documented areas",
+        "value": "Aurès Mountains",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Habitat",
+        "value": "Oasis",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Active time",
+        "value": "Daytime",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "Weather",
+        "value": "Dry",
+        "sourceId": "maprunner-animals"
+      },
+      {
+        "label": "First photo",
+        "value": "10 Pebbles",
+        "sourceId": "maprunner-animals"
+      }
+    ]
+  }
+]
