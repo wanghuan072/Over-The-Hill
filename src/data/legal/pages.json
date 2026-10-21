@@ -40,9 +40,9 @@
       },
       {
         "title": "6. Cookies, analytics and advertising",
-        "text": "The current application has no advertising network, analytics integration or account cookies. Its map storage serves the limited local functions described above. The application does not connect map discoveries or notes to an email address or game identity, sell those local records or use them to build advertising audiences.",
+        "text": "The website uses Google Analytics 4 through the Google tag to measure page views and understand how visitors use the site. The tag sends measurement data to Google and can use first-party cookies to distinguish visitors and sessions. The application does not send your private map notes or saved discovery checklist as custom analytics events.",
         "paragraphs": [
-          "Hosting infrastructure can still process technical requests for delivery, security and troubleshooting. No application analytics does not mean that network requests are anonymous or that infrastructure keeps no logs. New tracking or account features would require an updated explanation of the actual practices and any applicable choices or consent."
+          "You can manage cookies through your browser settings or use tools that block analytics requests. Google applies its own privacy practices to the data it receives. Hosting infrastructure also processes technical requests for delivery, security and troubleshooting. The application has no account cookies or advertising network integration; its map storage serves the local functions described above."
         ]
       },
       {

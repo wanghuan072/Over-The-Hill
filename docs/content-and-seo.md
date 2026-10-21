@@ -24,7 +24,7 @@ Organization and WebSite identity are emitted once per document. List pages use 
 
 The original mountain-and-road logo is `public/images/logo.svg`. Matching icons are in `src/app/icon.svg` and `src/app/apple-icon.png`. The shared Open Graph and Twitter image is `/images/og-image.png` at 1200×630. `scripts/design-brand.mjs` reproduces these assets from the original existing homepage illustration and vector logo. The sharing artwork is an illustration, not a game screenshot. Existing source and image evidence records remain in `docs/assets.md` and related JSON records.
 
-The operator email is `support@overthehillhub.org`, configurable with `CONTACT_EMAIL`. Legal pages describe the current application: no accounts, contact forms, application cookies, analytics integration or ad network. Revisit these policies before adding those capabilities. Hosting request logs and email handling are described without inventing a retention period or a legal entity.
+The operator email is `support@overthehillhub.org`, configurable with `CONTACT_EMAIL`. Legal pages describe the current application: Google Analytics 4 page measurement and its potential first-party cookies, local map storage, and no accounts, contact forms or ad network. The root layout head contains the direct Google tag scripts for G-0PGJG1RD64; no manual page-view event is added. Revisit these policies before changing those capabilities. Hosting request logs and email handling are described without inventing a retention period or a legal entity.
 
 ## Verification without starting a server
 
