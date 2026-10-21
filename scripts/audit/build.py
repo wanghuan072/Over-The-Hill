@@ -111,6 +111,14 @@ namespace = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
 urls = [node.text for node in tree.findall('s:url/s:loc', namespace)]
 expected = {'https://overthehillhub.org' + route for route in routes if route != '/search'} if INDEXABLE else set()
 assert set(urls) == expected and len(urls) == len(expected), 'Compiled sitemap URL mismatch'
+dates = json.loads((ROOT / 'src/seo/page-dates.json').read_text(encoding='utf-8'))
+for node in tree.findall('s:url', namespace):
+    fields = {child.tag.rsplit('}', 1)[-1]: child.text for child in node}
+    assert set(fields) == {'loc', 'lastmod', 'changefreq', 'priority'}, 'Sitemap must contain all four fields'
+    assert fields['changefreq'] in {'weekly', 'monthly', 'yearly'}, 'Invalid sitemap frequency'
+    assert 0 <= float(fields['priority']) <= 1, 'Invalid sitemap priority'
+    route = urlparse(fields['loc']).path or '/'
+    assert fields['lastmod'] == dates[route]['updatedAt'], 'Sitemap must preserve content dates'
 robot_text = (APP / 'robots.txt.body').read_text(encoding='utf-8')
 assert ('Disallow: /' not in robot_text) == INDEXABLE, 'Compiled robots mismatch'
 print(f'Prerender audit passed: {len(routes)} public pages; unique metadata, one H1, canonical, {"production" if INDEXABLE else "preview"} robots/sitemap, internal links, section anchors, Legal links and images.')

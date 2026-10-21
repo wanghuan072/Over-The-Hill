@@ -20,6 +20,14 @@ if (site.indexable) {
     assert.ok(item.url.startsWith("https://overthehillhub.org/"));
     assert.match(String(item.lastModified), /^\d{4}-\d{2}-\d{2}$/);
     assert.ok(!item.url.includes("#"));
+    assert.ok(
+      ["weekly", "monthly", "yearly"].includes(item.changeFrequency || ""),
+    );
+    assert.ok(
+      typeof item.priority === "number" &&
+        item.priority >= 0 &&
+        item.priority <= 1,
+    );
   }
   assert.equal(robots().sitemap, "https://overthehillhub.org/sitemap.xml");
 } else {
