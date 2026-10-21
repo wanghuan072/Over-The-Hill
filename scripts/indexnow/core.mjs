@@ -1,4 +1,60 @@
 import assert from "node:assert/strict";
+import { createHash } from "node:crypto";
+
+export function checkpointPrefix(projectId, origin) {
+  return `indexnow-${createHash("sha256")
+    .update(projectId + ":" + origin)
+    .digest("hex")
+    .slice(0, 16)}-production-`;
+}
+
+export async function readProductionHistory({
+  production,
+  bootstrap,
+  origin,
+  manifestPath,
+  projectId,
+  fetcher = fetch,
+  log = console.log,
+}) {
+  if (!production) return undefined;
+  if (bootstrap) {
+    log(
+      "IndexNow: explicit first-deployment bootstrap; preserving committed page dates without fetching history. Remove INDEXNOW_BOOTSTRAP after the first successful release.",
+    );
+    return undefined;
+  }
+  let response;
+  try {
+    response = await fetcher(origin + manifestPath, {
+      redirect: "error",
+      cache: "no-store",
+      signal: AbortSignal.timeout(15000),
+    });
+  } catch (cause) {
+    throw new Error(
+      `IndexNow could not read production history at ${origin + manifestPath}. If this is the FIRST deployment and no published history exists, set INDEXNOW_BOOTSTRAP=true in Vercel's Production environment and redeploy, then remove it after success. For an existing site, restore DNS/connectivity instead; do not discard its deletion history.`,
+      { cause },
+    );
+  }
+  if (response.status === 404) {
+    log(
+      "IndexNow: first manifest deployment; retaining the existing committed content dates.",
+    );
+    return undefined;
+  }
+  assert.ok(
+    response.ok,
+    `Cannot inherit production history: HTTP ${response.status}`,
+  );
+  const previous = validateManifest(await response.json(), origin);
+  assert.equal(
+    previous.deployment?.projectId,
+    projectId,
+    "Previous manifest belongs to another Vercel project",
+  );
+  return previous;
+}
 
 export function validateManifest(manifest, origin) {
   assert.equal(manifest.schemaVersion, 1, "Unsupported SEO manifest");

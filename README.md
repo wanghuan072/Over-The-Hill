@@ -1,32 +1,32 @@
 # Over the Hill Hub
 
-Find your next rig, pack for the trail and take the long way round. [Over the Hill Hub](https://overthehillhub.com) is an independent fan guide to the vehicles, landscapes, equipment and discoveries in **Over the Hill**.
+Find your next rig, pack for the trail and take the long way round. [Over the Hill Hub](https://overthehillhub.org) is an independent fan guide to the vehicles, landscapes, equipment and discoveries in **Over the Hill**.
 
 Over the Hill is an off-road exploration game from Funselektor, released on Steam on October 14, 2026. Explore on your own or with up to three friends. Classic vehicles, rough terrain and a camera full of wildlife photographs give each trip a different pace.
 
 ## Explore the field guide
 
-- [Home](https://overthehillhub.com/) brings together the garage, regions, Wiki categories, essential guides and recent announcements.
-- [Vehicles](https://overthehillhub.com/vehicles) covers 21 vehicles across four classes, with matched gameplay images, stock model views, stock mass and torque, three engine settings, factory colours and distance liveries. The list includes all 18 challenge rewards and the three starting vehicles.
-- [Maps](https://overthehillhub.com/maps) has five interactive game maps across Canada and Algeria. Find cabins, viewpoints, 86 reward crates, 14 recovery jobs and 23 challenge checkpoint sequences. Switch between satellite and topographic views, highlight ground conditions, measure straight-line distances and leave private map notes. Check rewards, share a location link and save discoveries in your browser.
-- [Wiki](https://overthehillhub.com/wiki) groups equipment, collectibles, upgrades, wildlife and achievements into five searchable lists.
-- [Guides](https://overthehillhub.com/guides) covers getting started, winch recovery and multiplayer in three practical articles.
-- [Update](https://overthehillhub.com/update) covers the October 16 release patch, including Pebble rewards, meteorite changes and co-op fixes, followed by dated announcements and broadcasts.
-- [Search](https://overthehillhub.com/search) helps you find a vehicle, tool, animal, guide or announcement by name or topic.
+- [Home](https://overthehillhub.org/) brings together the garage, regions, Wiki categories, essential guides and recent announcements.
+- [Vehicles](https://overthehillhub.org/vehicles) covers 21 vehicles across four classes, with matched gameplay images, stock model views, stock mass and torque, three engine settings, factory colours and distance liveries. The list includes all 18 challenge rewards and the three starting vehicles.
+- [Maps](https://overthehillhub.org/maps) has five interactive game maps across Canada and Algeria. Find cabins, viewpoints, 86 reward crates, 14 recovery jobs and 23 challenge checkpoint sequences. Switch between satellite and topographic views, highlight ground conditions, measure straight-line distances and leave private map notes. Check rewards, share a location link and save discoveries in your browser.
+- [Wiki](https://overthehillhub.org/wiki) groups equipment, collectibles, upgrades, wildlife and achievements into five searchable lists.
+- [Guides](https://overthehillhub.org/guides) covers getting started, winch recovery and multiplayer in three practical articles.
+- [Update](https://overthehillhub.org/update) covers the October 16 release patch, including Pebble rewards, meteorite changes and co-op fixes, followed by dated announcements and broadcasts.
+- [Search](https://overthehillhub.org/search) helps you find a vehicle, tool, animal, guide or announcement by name or topic.
 
 ## Gear, discoveries and upgrades
 
-[Equipment](https://overthehillhub.com/wiki/equipment) covers winches, portable anchors, planks, repair kits, jacks and camp tools. Recovery is part of the drive: choosing where to attach a cable can matter as much as the vehicle you bring.
+[Equipment](https://overthehillhub.org/wiki/equipment) covers winches, portable anchors, planks, repair kits, jacks and camp tools. Recovery is part of the drive: choosing where to attach a cable can matter as much as the vehicle you bring.
 
-[Collectibles](https://overthehillhub.com/wiki/collectibles) covers Pebbles and meteorites. [Upgrades](https://overthehillhub.com/wiki/upgrades) lists all 16 purchased tiers across seven systems, with prices and stock-relative effects. A complete set costs 675 Pebbles per vehicle; spending on one rig does not upgrade the others. Tyre grip values are coefficient changes, while winch upgrades extend range.
+[Collectibles](https://overthehillhub.org/wiki/collectibles) covers Pebbles and meteorites. [Upgrades](https://overthehillhub.org/wiki/upgrades) lists all 16 purchased tiers across seven systems, with prices and stock-relative effects. A complete set costs 675 Pebbles per vehicle; spending on one rig does not upgrade the others. Tyre grip values are coefficient changes, while winch upgrades extend range.
 
-[Wildlife](https://overthehillhub.com/wiki/wildlife) covers 27 animals with matching game models, rarity, areas, habitats, active times, weather and first-photo rewards. Conditions narrow the search without guaranteeing a sighting.
+[Wildlife](https://overthehillhub.org/wiki/wildlife) covers 27 animals with matching game models, rarity, areas, habitats, active times, weather and first-photo rewards. Conditions narrow the search without guaranteeing a sighting.
 
-[Achievements](https://overthehillhub.com/wiki/achievements) lists all 62 goals with their artwork and unlock requirements. Filter by activity or search a name; the six hidden achievements stay concealed until you choose to include them.
+[Achievements](https://overthehillhub.org/wiki/achievements) lists all 62 goals with their artwork and unlock requirements. Filter by activity or search a name; the six hidden achievements stay concealed until you choose to include them.
 
 ## Before your first trip
 
-Read [Pebbles & Upgrade Order](https://overthehillhub.com/guides/pebbles-upgrade-order) to plan a 75-Pebble first spend and understand first-clear rewards, repeat payouts and meteorite recovery. [Emerald Lake Trails](https://overthehillhub.com/guides/emerald-lake-trail-guide) includes checkpoint maps for the Trail Burner and Burro unlocks and the Kayaks challenge. [Sasquatch Location](https://overthehillhub.com/guides/sasquatch-location) narrows the search to two northern crate landmarks, explains the night/dry conditions and walks through the wildlife photo checks.
+Read [Pebbles & Upgrade Order](https://overthehillhub.org/guides/pebbles-upgrade-order) to plan a 75-Pebble first spend and understand first-clear rewards, repeat payouts and meteorite recovery. [Emerald Lake Trails](https://overthehillhub.org/guides/emerald-lake-trail-guide) includes checkpoint maps for the Trail Burner and Burro unlocks and the Kayaks challenge. [Sasquatch Location](https://overthehillhub.org/guides/sasquatch-location) narrows the search to two northern crate landmarks, explains the night/dry conditions and walks through the wildlife photo checks.
 
 ## Common questions
 
@@ -56,6 +56,6 @@ No. Over the Hill Hub is an independent fan site and is not affiliated with or e
 
 ## About and contact
 
-Read [About Us](https://overthehillhub.com/legal/about-us) for the site's coverage and editorial approach. For corrections, email **support@overthehillhub.com** and include the page URL and relevant game version.
+Read [About Us](https://overthehillhub.org/legal/about-us) for the site's coverage and editorial approach. For corrections, email **support@overthehillhub.org** and include the page URL and relevant game version.
 
-[Contact Us](https://overthehillhub.com/legal/contact-us) · [Privacy Policy](https://overthehillhub.com/legal/privacy-policy) · [Terms of Service](https://overthehillhub.com/legal/terms-of-service) · [Copyright](https://overthehillhub.com/legal/copyright)
+[Contact Us](https://overthehillhub.org/legal/contact-us) · [Privacy Policy](https://overthehillhub.org/legal/privacy-policy) · [Terms of Service](https://overthehillhub.org/legal/terms-of-service) · [Copyright](https://overthehillhub.org/legal/copyright)

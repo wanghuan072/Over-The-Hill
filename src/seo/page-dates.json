@@ -1,97 +1,97 @@
 {
   "/": {
     "fingerprint": "f0114a6aff6dcb77da23dceec59ac4b0c5db5e65fe3afa604a063d9c51ccd74a",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/guides": {
     "fingerprint": "4045d8dde99d96eaea1cfd898deb2c5d0427fa4041d9c10d33c778a63a577a78",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/wiki": {
     "fingerprint": "e45d054f0abe8cc0f235edc2f88e2037d399025095bdbe1b3b675d8fb6236de4",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-19"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/maps": {
     "fingerprint": "a232818b590b6ef47073162b7e02043a696951241da34a433b7ad85296746e91",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-19"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/vehicles": {
     "fingerprint": "52d71c081a46356f5fc15e5e0e78dab7fb73ce6df16eb0535e7c2ddac68bc229",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/update": {
     "fingerprint": "3496c5b3234aaa8d2f1e9b3ad288ebb7ccfe678a9c7a25626eef5a28e66c0359",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/wiki/equipment": {
     "fingerprint": "356288a85d73e7fabc5386271ae4dccc2cb1aa8e7635dc4e0fcb5a6cac3b0c55",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/wiki/collectibles": {
     "fingerprint": "abc3031c6993b6fa484aa82f2dab49c670dabcd4cb465ec34c7267e9a35e5275",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-19"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/wiki/upgrades": {
     "fingerprint": "751e163029121b2bb51dc91a2fabb531405d2443ffa314486a273faf6f2c42cc",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/wiki/wildlife": {
     "fingerprint": "b46decfa2b4965c27f39d9887ed42017e846e72723d4f7afd02f94f57a069e00",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-19"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/wiki/achievements": {
     "fingerprint": "0388f5d05bf8586b4c3337abc7b8690d2558a793d97bd64323106035874cf350",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-19"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/guides/pebbles-upgrade-order": {
     "fingerprint": "8017595fec92dab779f20b05847ac10e2bde6672d6b7737e97cc96c7f19a7af6",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/guides/emerald-lake-trail-guide": {
     "fingerprint": "acfe2e31315e278aa2da8706c01acde5af8e03ce48f02f6f0dc052d92bf5e20b",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/guides/sasquatch-location": {
     "fingerprint": "8b930ccd112ef83fb1aea3eb6486f12d9fd6c6dd6fe7bfe05ea1323b8c020be1",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/legal/privacy-policy": {
-    "fingerprint": "c79e520577c75c6f25cfdb628e39707927dc02b17a78b33fc29585ff15375325",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "fingerprint": "47faf2a9285ce702bd47a17b9278d86d2f740a1042695d29f7daa1e48b81bca7",
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/legal/terms-of-service": {
-    "fingerprint": "fa44113afacdf21c70999d74bb1d00ffb0b58b9805c1c8a746257f173ecca1b3",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "fingerprint": "0e8e839348361ff9c5295306b2df5df884582156aa7f860cb7266b04c63bb3e6",
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/legal/copyright": {
-    "fingerprint": "5ca3b8a9ec768a59e931344a447abcba84707b401f78407be05dfd22a0d91391",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "fingerprint": "f10ff700880ef07eaf7f2f34c8c1d9b7b82460977842b0d3dc92d6d96dda32a9",
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/legal/about-us": {
-    "fingerprint": "3d8c887545158022944cd1feac1c0296fb56995491cd873386c8665262e0142a",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "fingerprint": "d3aeb528fa5aaf37524428d2aeb04bbd61a4ecdeb90531c3ff8024daf6ad9ca6",
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   },
   "/legal/contact-us": {
-    "fingerprint": "a8b44a83dc33b5780b6a56cf65034941adeaed5c3485ab210a69b424412c63b8",
-    "sharedFingerprint": "3210d73298327ed2af83db820d7a65694fda1d5515ecdbaca892d9f9a5b1adba",
-    "updatedAt": "2026-10-20"
+    "fingerprint": "bd5a487514c6b6ca7a19f856808791405212b37f5a8ef60355b604320a484147",
+    "sharedFingerprint": "2b9b3f5f3a6dc97fb137c9d8d61194ce192e5d9882b3b3ff56af36400db0149e",
+    "updatedAt": "2026-10-21"
   }
 }

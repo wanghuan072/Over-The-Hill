@@ -132,7 +132,7 @@ export const tdk = {
   "/legal/contact-us": {
     title: "Contact Us - Over The Hill Hub Fan Website",
     description:
-      "Contact Over the Hill Hub at support@overthehillhub.com for content corrections, image rights, privacy questions or problems browsing this independent fan site.",
+      "Contact Over the Hill Hub at support@overthehillhub.org for content corrections, image rights, privacy questions or problems browsing this independent fan site.",
     h1: "Contact Us",
     intro:
       "Contact Over the Hill Hub about corrections, image rights, privacy or a problem using the site.",

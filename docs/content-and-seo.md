@@ -1,6 +1,6 @@
 # Content and SEO maintenance
 
-The canonical production origin is `https://overthehillhub.com`. Static page titles, descriptions and Hero introductions live in `src/seo/tdk.js`; guide detail metadata stays with each JSON record. Titles target 40–60 characters and descriptions 140–160 characters as editorial checks, not promises about Google display or rankings. No meta-keywords field is emitted.
+The canonical production origin is `https://overthehillhub.org`. Static page titles, descriptions and Hero introductions live in `src/seo/tdk.js`; guide detail metadata stays with each JSON record. Titles target 40–60 characters and descriptions 140–160 characters as editorial checks, not promises about Google display or rankings. No meta-keywords field is emitted.
 
 Keep Demo values labelled. A release date does not establish that an old upgrade price, unlock condition or multiplayer procedure is unchanged. Preserve evidence fields internally; write public descriptions around the player's question. Do not claim firsthand testing unless there is an actual testing record. The site has no fictional authors, review scores or official affiliation.
 
@@ -24,7 +24,7 @@ Organization and WebSite identity are emitted once per document. List pages use 
 
 The original mountain-and-road logo is `public/images/logo.svg`. Matching icons are in `src/app/icon.svg` and `src/app/apple-icon.png`. The shared Open Graph and Twitter image is `/images/og-image.png` at 1200×630. `scripts/design-brand.mjs` reproduces these assets from the original existing homepage illustration and vector logo. The sharing artwork is an illustration, not a game screenshot. Existing source and image evidence records remain in `docs/assets.md` and related JSON records.
 
-The operator email is `support@overthehillhub.com`, configurable with `CONTACT_EMAIL`. Legal pages describe the current application: no accounts, contact forms, application cookies, analytics integration or ad network. Revisit these policies before adding those capabilities. Hosting request logs and email handling are described without inventing a retention period or a legal entity.
+The operator email is `support@overthehillhub.org`, configurable with `CONTACT_EMAIL`. Legal pages describe the current application: no accounts, contact forms, application cookies, analytics integration or ad network. Revisit these policies before adding those capabilities. Hosting request logs and email handling are described without inventing a retention period or a legal entity.
 
 ## Verification without starting a server
 

@@ -74,7 +74,7 @@ test("published pages have unique SEO, valid images and reachable internal links
     descriptions.add(description!);
     await expect(page.locator('link[rel="canonical"]')).toHaveAttribute(
       "href",
-      `https://overthehillhub.com${path === "/" ? "" : path}`,
+      `https://overthehillhub.org${path === "/" ? "" : path}`,
     );
     expect(
       await page.locator('meta[name="robots"]').getAttribute("content"),

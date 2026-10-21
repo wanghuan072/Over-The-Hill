@@ -8,9 +8,20 @@ import {
   eligibleEvent,
   matchesDeployment,
   sendChanges,
+  readProductionHistory,
+  checkpointPrefix,
 } from "./core.mjs";
 
-const origin = "https://overthehillhub.com";
+const origin = "https://overthehillhub.org";
+test("notification checkpoints are isolated by both Vercel project and canonical origin", () => {
+  const prefix = checkpointPrefix("prj_test", origin);
+  assert.equal(checkpointPrefix("prj_test", origin), prefix);
+  assert.notEqual(
+    checkpointPrefix("prj_test", "https://other.example"),
+    prefix,
+  );
+  assert.notEqual(checkpointPrefix("prj_other", origin), prefix);
+});
 const deployment = {
   provider: "vercel",
   environment: "production",
@@ -56,6 +67,90 @@ const event = () => ({
     git: { sha: "abc" },
     url: "https://untrusted.invalid",
   },
+});
+
+test("first-deployment bootstrap and Preview builds skip the history request and preserve dates", async () => {
+  const log = [];
+  const options = {
+    production: true,
+    bootstrap: true,
+    origin,
+    manifestPath: "/seo-manifest.json",
+    projectId: deployment.projectId,
+    fetcher: async () =>
+      assert.fail("Bootstrap must not make a network request"),
+    log: (message) => log.push(message),
+  };
+  const previous = await readProductionHistory(options);
+  assert.equal(previous, undefined);
+  assert.match(log[0], /Remove INDEXNOW_BOOTSTRAP/);
+  assert.equal(
+    build([entry("/", "unchanged", 1)], previous).entries[0].lastModified,
+    time(1),
+  );
+  assert.equal(
+    await readProductionHistory({
+      ...options,
+      production: false,
+      bootstrap: false,
+    }),
+    undefined,
+  );
+});
+
+test("production DNS failures explain initialization without silently losing history", async () => {
+  const cause = new TypeError("fetch failed", {
+    cause: Object.assign(new Error("getaddrinfo ENOTFOUND"), {
+      code: "ENOTFOUND",
+    }),
+  });
+  const options = {
+    production: true,
+    bootstrap: false,
+    origin,
+    manifestPath: "/seo-manifest.json",
+    projectId: deployment.projectId,
+    fetcher: async () => {
+      throw cause;
+    },
+    log: () => {},
+  };
+  await assert.rejects(readProductionHistory(options), (error) => {
+    assert.match(error.message, /INDEXNOW_BOOTSTRAP=true/);
+    assert.match(error.message, /existing site, restore DNS/);
+    assert.equal(error.cause, cause);
+    return true;
+  });
+  assert.equal(
+    await readProductionHistory({
+      ...options,
+      fetcher: async () => new Response(null, { status: 404 }),
+    }),
+    undefined,
+  );
+  await assert.rejects(
+    readProductionHistory({
+      ...options,
+      fetcher: async () => new Response(null, { status: 503 }),
+    }),
+    /HTTP 503/,
+  );
+  const previous = build([entry("/")]);
+  assert.deepEqual(
+    await readProductionHistory({
+      ...options,
+      fetcher: async () => Response.json(previous),
+    }),
+    previous,
+  );
+  await assert.rejects(
+    readProductionHistory({
+      ...options,
+      projectId: "prj_foreign",
+      fetcher: async () => Response.json(previous),
+    }),
+    /another Vercel project/,
+  );
 });
 
 test("first publication, unchanged dates, independent edit, rename and noindex", () => {

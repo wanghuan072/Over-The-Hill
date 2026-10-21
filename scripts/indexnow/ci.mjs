@@ -1,5 +1,4 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
-import { createHash } from "node:crypto";
 import assert from "node:assert/strict";
 import {
   eligibleEvent,
@@ -7,6 +6,7 @@ import {
   validateManifest,
   sendChanges,
   diffManifest,
+  checkpointPrefix,
 } from "./core.mjs";
 
 const config = JSON.parse(
@@ -119,7 +119,7 @@ async function prepare() {
     );
     return;
   }
-  const prefix = `indexnow-${createHash("sha256").update(manifest.deployment.projectId).digest("hex").slice(0, 16)}-production-`;
+  const prefix = checkpointPrefix(manifest.deployment.projectId, origin);
   const checkpoint = await latestCheckpoint(
     prefix,
     event.repository.default_branch,

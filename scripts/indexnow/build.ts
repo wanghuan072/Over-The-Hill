@@ -4,7 +4,7 @@ import config from "../../src/config/indexnow.json";
 import dates from "../../src/seo/page-dates.json";
 import { indexablePaths } from "../../src/seo/sitemap";
 import { site } from "../../src/config/site";
-import { makeManifest, validateManifest } from "./core.mjs";
+import { makeManifest, readProductionHistory } from "./core.mjs";
 import type { DateManifest } from "../content-dates";
 
 async function main() {
@@ -17,32 +17,15 @@ async function main() {
     throw new Error(
       "IndexNow verification file does not match the configured key",
     );
-  const production = process.env.VERCEL === "1" && process.env.VERCEL_ENV === "production";
-  let previous;
-  if (production && process.env.INDEXNOW_BOOTSTRAP !== "true") {
-    // A fixed origin, no credentials and no redirects: never fetch an event-supplied URL.
-    const response = await fetch(origin + config.manifestPath, {
-      redirect: "error",
-      cache: "no-store",
-      signal: AbortSignal.timeout(15000),
-    });
-    if (response.status === 404)
-      console.log(
-        "IndexNow: first manifest deployment; retaining the existing committed content dates.",
-      );
-    else {
-      if (!response.ok)
-        throw new Error(
-          `Cannot inherit production history: HTTP ${response.status}`,
-        );
-      previous = validateManifest(await response.json(), origin);
-      if (previous.deployment?.projectId !== process.env.VERCEL_PROJECT_ID)
-        throw new Error("Previous manifest belongs to another Vercel project");
-    }
-  } else if (production)
-    console.warn(
-      "IndexNow: explicit first-deployment bootstrap; remove INDEXNOW_BOOTSTRAP after the first successful release.",
-    );
+  const production =
+    process.env.VERCEL === "1" && process.env.VERCEL_ENV === "production";
+  const previous = await readProductionHistory({
+    production,
+    bootstrap: process.env.INDEXNOW_BOOTSTRAP === "true",
+    origin,
+    manifestPath: config.manifestPath,
+    projectId: process.env.VERCEL_PROJECT_ID,
+  });
   const manifest = makeManifest({
     origin,
     fingerprintVersion: config.fingerprintVersion,

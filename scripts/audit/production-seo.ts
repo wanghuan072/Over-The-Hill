@@ -17,11 +17,11 @@ if (site.indexable) {
       guides.length,
   );
   for (const item of map) {
-    assert.ok(item.url.startsWith("https://overthehillhub.com/"));
+    assert.ok(item.url.startsWith("https://overthehillhub.org/"));
     assert.match(String(item.lastModified), /^\d{4}-\d{2}-\d{2}$/);
     assert.ok(!item.url.includes("#"));
   }
-  assert.equal(robots().sitemap, "https://overthehillhub.com/sitemap.xml");
+  assert.equal(robots().sitemap, "https://overthehillhub.org/sitemap.xml");
 } else {
   assert.equal(map.length, 0);
   assert.deepEqual(robots().rules, { userAgent: "*", disallow: "/" });
@@ -36,12 +36,12 @@ for (const path of [
   "/updates/t-shirts-and-vinyl",
   "/update/t-shirts-and-vinyl",
 ]) {
-  const response = proxy(new NextRequest("https://overthehillhub.com" + path));
+  const response = proxy(new NextRequest("https://overthehillhub.org" + path));
   assert.equal(response.status, 404);
 }
 for (const path of indexablePaths)
   assert.notEqual(
-    proxy(new NextRequest("https://overthehillhub.com" + path)).status,
+    proxy(new NextRequest("https://overthehillhub.org" + path)).status,
     404,
   );
 console.log(

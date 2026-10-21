@@ -54,8 +54,8 @@ export default async function AppFooter() {
       </div>
       <div className={`container ${s.bottom}`}>
         <p>
-          Copyright © {new Date().getFullYear()} overthehillhub.com. All rights
-          reserved.
+          Copyright © {new Date().getFullYear()} {new URL(site.url).hostname}.
+          All rights reserved.
         </p>
         <p>
           An independent fan website. Not affiliated with or endorsed by

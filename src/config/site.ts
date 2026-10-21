@@ -11,8 +11,8 @@ if (
   throw new Error("SITE_URL must be an absolute origin without a path");
 export const site = {
   name: "Over the Hill Hub",
-  url: configuredUrl || "https://overthehillhub.com",
-  email: process.env.CONTACT_EMAIL || "support@overthehillhub.com",
+  url: configuredUrl || "https://overthehillhub.org",
+  email: process.env.CONTACT_EMAIL || "support@overthehillhub.org",
   indexable: Boolean(
     configuredUrl &&
     !/localhost|127\.0\.0\.1/.test(configuredUrl) &&

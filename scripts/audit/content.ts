@@ -127,7 +127,7 @@ for (const record of records) {
     for (const link of section.links || []) {
       assert.ok(link.href.startsWith("/"), "Guide links stay on site");
       assert.ok(
-        routes.has(new URL(link.href, "https://overthehillhub.com").pathname),
+        routes.has(new URL(link.href, "https://overthehillhub.org").pathname),
         `Broken section link ${link.href}`,
       );
     }

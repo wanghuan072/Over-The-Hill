@@ -75,7 +75,7 @@ for route in routes:
     assert page.h1 == 1, f'{route}: {page.h1} H1 elements'
     assert page.title and page.title not in titles, f'Duplicate/missing title: {route}'
     assert len(page.description) > 20 and page.description not in descriptions, f'Duplicate/missing description: {route}'
-    assert page.canonical == 'https://overthehillhub.com' + (route if route != '/' else ''), f'Canonical: {route}'
+    assert page.canonical == 'https://overthehillhub.org' + (route if route != '/' else ''), f'Canonical: {route}'
     should_index = INDEXABLE and route != '/search'
     assert ('noindex' not in page.robots) == should_index, f'Incorrect index directive: {route}'
     assert 'Copyright ©' in ''.join(page.footer_text), f'Copyright text: {route}'
@@ -109,7 +109,7 @@ for collection, route in [('vehicles/vehicles','/vehicles'), ('wiki/entries','/w
 tree = ET.fromstring((APP / 'sitemap.xml.body').read_text(encoding='utf-8'))
 namespace = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
 urls = [node.text for node in tree.findall('s:url/s:loc', namespace)]
-expected = {'https://overthehillhub.com' + route for route in routes if route != '/search'} if INDEXABLE else set()
+expected = {'https://overthehillhub.org' + route for route in routes if route != '/search'} if INDEXABLE else set()
 assert set(urls) == expected and len(urls) == len(expected), 'Compiled sitemap URL mismatch'
 robot_text = (APP / 'robots.txt.body').read_text(encoding='utf-8')
 assert ('Disallow: /' not in robot_text) == INDEXABLE, 'Compiled robots mismatch'

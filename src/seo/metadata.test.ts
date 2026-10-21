@@ -28,12 +28,23 @@ function readSite(env: Record<string, string>) {
     { encoding: "utf8", env: { ...process.env, ...env } },
   );
   assert.equal(result.status, 0, result.stderr);
-  return JSON.parse(result.stdout) as { url: string; indexable: boolean };
+  return JSON.parse(result.stdout) as {
+    url: string;
+    email: string;
+    indexable: boolean;
+  };
 }
+test("the default canonical origin, support email and IndexNow origin use the corrected domain", async () => {
+  const config = readSite({ SITE_URL: "", CONTACT_EMAIL: "" });
+  const indexnow = await import("../config/indexnow.json");
+  assert.equal(config.url, "https://overthehillhub.org");
+  assert.equal(config.email, "support@overthehillhub.org");
+  assert.equal(indexnow.default.siteUrl, config.url);
+});
 test("indexing requires production origin and explicit opt-in; preview is always blocked", () => {
   assert.equal(
     readSite({
-      SITE_URL: "https://overthehillhub.com",
+      SITE_URL: "https://overthehillhub.org",
       SITE_INDEXABLE: "true",
       VERCEL_ENV: "",
       NODE_ENV: "development",

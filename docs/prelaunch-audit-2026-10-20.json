@@ -1,6 +1,6 @@
 {
   "checkedOn": "2026-10-20",
-  "domain": "https://overthehillhub.com",
+  "domain": "https://overthehillhub.org",
   "technicalStatus": "passed",
   "publicLaunchStatus": "pending-production-configuration-and-asset-rights",
   "scope": {
@@ -49,8 +49,8 @@
     "persistentDates": "unchanged repeated run reports 0 changed fingerprints"
   },
   "releaseConfiguration": {
-    "SITE_URL": "https://overthehillhub.com",
-    "CONTACT_EMAIL": "support@overthehillhub.com",
+    "SITE_URL": "https://overthehillhub.org",
+    "CONTACT_EMAIL": "support@overthehillhub.org",
     "SITE_INDEXABLE": "true in production only; rebuild after setting"
   },
   "remaining": [
@@ -78,5 +78,7 @@
     "Started a project server",
     "Deployed or modified remote repositories",
     "Contacted external people or support"
-  ]
+  ],
+  "configurationUpdatedOn": "2026-10-21",
+  "configurationChangeNote": "Domain and email configuration were corrected to .org on this date. The original browser verification results remain historical; the domain migration was separately checked by tests and compiled HTML audits."
 }
